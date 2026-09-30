@@ -1,0 +1,47 @@
+{
+  "driveFolder": {
+    "id": "1VZzbK7d3YdpSUJz1_ZJTQsXE6oMJUJm9",
+    "name": "Коды моих сайтов"
+  },
+  "archive": {
+    "id": "1uPBiMWaj9EbnWm3OtWgGwfAk7tqZwS_4",
+    "name": "velora.zip",
+    "bytes": 2633459,
+    "md5": "3d8be0a9bb0f1a49f480482e2512caab",
+    "sha256": "0c2246cf972111e77423800609a29d067e7e6536f0d9015c14c5036f4df69dbf",
+    "url": "https://drive.google.com/file/d/1uPBiMWaj9EbnWm3OtWgGwfAk7tqZwS_4/view"
+  },
+  "sourceFiles": [
+    {
+      "path": "src/components/Hero.tsx",
+      "bytes": 5916,
+      "sha256": "be9739319c13d2832f3fab9f5ce1bb6729f005f9e8b341fd7f0b6541f3858416"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 2132,
+      "sha256": "e4d7f4cc83d7ffa11d07ceb421e4308ae8c60a2ad0b8cc29e013495ea4c6164b"
+    },
+    {
+      "path": "index.html",
+      "bytes": 931,
+      "sha256": "7309c7d9935ca86c544d1a1301827ee193a4a7f0d25478f81c9dcd251a2f3d43"
+    }
+  ],
+  "selectedHeading": [
+    "RETURN",
+    "WILD"
+  ],
+  "sourceTypography": {
+    "family": "Inter",
+    "weight": 700,
+    "tracking": "-0.04em",
+    "lineHeight": 0.82,
+    "gradient": [
+      "#FFFFFF",
+      "#FCFCFC",
+      "#D8D8D8"
+    ]
+  },
+  "motion": "Three new authored effects; source archive supplies the heading and typography, not these animations."
+}
