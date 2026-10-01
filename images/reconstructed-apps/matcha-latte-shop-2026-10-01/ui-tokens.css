@@ -1,0 +1,32 @@
+:root {
+  --matcha-ink: #0B2D20;
+  --matcha-green-900: #243927;
+  --matcha-green-800: #2B4C30;
+  --matcha-cream-50: #FDFBF5;
+  --matcha-cream-100: #F8F5EA;
+  --matcha-sage-100: #E8EAD8;
+  --matcha-sage-200: #DDE4CB;
+  --matcha-peach: #FECD90;
+  --matcha-ticket: #F3A45B;
+  --matcha-divider: rgba(255,255,255,.18);
+  --matcha-screen-shadow: 0 18px 45px rgba(34,58,37,.14);
+  --matcha-card-shadow: 0 8px 22px rgba(31,55,36,.09);
+}
+
+/* presentation background outside the three phones; CSS, not a raster asset */
+.repixel-stage {
+  background:
+    radial-gradient(circle at 6% 9%, rgba(255,255,255,.68) 0 22px, transparent 23px),
+    radial-gradient(circle at 26% 5%, rgba(126,150,95,.20) 0 14px, transparent 15px),
+    radial-gradient(circle at 69% 4%, rgba(255,255,255,.52) 0 5px, transparent 6px),
+    linear-gradient(135deg, #EEF1E0 0%, #CDD7B9 53%, #EEF0DF 100%);
+}
+
+/* phone shell and generic pale cards */
+.phone-shell {
+  background: var(--matcha-cream-50);
+  border: 7px solid rgba(247,247,238,.95);
+  border-radius: 54px;
+  box-shadow: var(--matcha-screen-shadow);
+  overflow: hidden;
+}
