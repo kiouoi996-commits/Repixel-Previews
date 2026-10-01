@@ -450,7 +450,25 @@
       ],
       "location": "left screen search field x≈99 y≈186",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/search.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/search.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            100,
+            179,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            6.91,
+            16.48,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "filter.svg": {
       "display_px": [
@@ -459,7 +477,25 @@
       ],
       "location": "left screen search field right x≈418 y≈186",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/filter.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/filter.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            408,
+            179,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            28.18,
+            16.48,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "bell.svg": {
       "display_px": [
@@ -468,7 +504,25 @@
       ],
       "location": "left header x≈365 y≈132",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/bell.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/bell.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            355,
+            122,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            24.52,
+            11.23,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "bag.svg": {
       "display_px": [
@@ -477,7 +531,25 @@
       ],
       "location": "left header x≈416 y≈132; reusable for delivery/bag semantics if desired",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/bag.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/bag.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            407,
+            122,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            28.11,
+            11.23,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "chair.svg": {
       "display_px": [
@@ -486,7 +558,25 @@
       ],
       "location": "left category tab Chairs x≈128 y≈476; active color white",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/chair.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/chair.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            116,
+            464,
+            24,
+            24
+          ],
+          "bbox_pct": [
+            8.01,
+            42.73,
+            1.66,
+            2.21
+          ]
+        }
+      ]
     },
     "lamp.svg": {
       "display_px": [
@@ -495,7 +585,25 @@
       ],
       "location": "left category tab Lamps x≈220 y≈476",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/lamp.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/lamp.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            208,
+            464,
+            24,
+            24
+          ],
+          "bbox_pct": [
+            14.36,
+            42.73,
+            1.66,
+            2.21
+          ]
+        }
+      ]
     },
     "vase.svg": {
       "display_px": [
@@ -504,7 +612,25 @@
       ],
       "location": "left category tab Decor x≈309 y≈476",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/vase.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/vase.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            297,
+            464,
+            24,
+            24
+          ],
+          "bbox_pct": [
+            20.51,
+            42.73,
+            1.66,
+            2.21
+          ]
+        }
+      ]
     },
     "storage.svg": {
       "display_px": [
@@ -513,7 +639,25 @@
       ],
       "location": "left category tab Storage x≈401 y≈476",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/storage.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/storage.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            389,
+            464,
+            24,
+            24
+          ],
+          "bbox_pct": [
+            26.86,
+            42.73,
+            1.66,
+            2.21
+          ]
+        }
+      ]
     },
     "plus.svg": {
       "display_px": [
@@ -522,7 +666,67 @@
       ],
       "location": "product cards and quantity steppers",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/plus.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/plus.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            219,
+            702,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            15.12,
+            64.64,
+            1.24,
+            1.66
+          ]
+        },
+        {
+          "bbox_px": [
+            402,
+            702,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            27.76,
+            64.64,
+            1.24,
+            1.66
+          ]
+        },
+        {
+          "bbox_px": [
+            850,
+            875,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            58.7,
+            80.57,
+            1.24,
+            1.66
+          ]
+        },
+        {
+          "bbox_px": [
+            1287,
+            264,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            88.88,
+            24.31,
+            1.24,
+            1.66
+          ]
+        }
+      ]
     },
     "minus.svg": {
       "display_px": [
@@ -531,7 +735,39 @@
       ],
       "location": "quantity steppers on detail/cart screens",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/minus.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/minus.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            772,
+            875,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            53.31,
+            80.57,
+            1.24,
+            1.66
+          ]
+        },
+        {
+          "bbox_px": [
+            1210,
+            264,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            83.56,
+            24.31,
+            1.24,
+            1.66
+          ]
+        }
+      ]
     },
     "back.svg": {
       "display_px": [
@@ -540,7 +776,39 @@
       ],
       "location": "detail top-left and cart top-left",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/back.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/back.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            542,
+            124,
+            22,
+            22
+          ],
+          "bbox_pct": [
+            37.43,
+            11.42,
+            1.52,
+            2.03
+          ]
+        },
+        {
+          "bbox_px": [
+            985,
+            124,
+            22,
+            22
+          ],
+          "bbox_pct": [
+            68.02,
+            11.42,
+            1.52,
+            2.03
+          ]
+        }
+      ]
     },
     "heart.svg": {
       "display_px": [
@@ -549,7 +817,25 @@
       ],
       "location": "detail top-right",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/heart.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/heart.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            843,
+            123,
+            24,
+            24
+          ],
+          "bbox_pct": [
+            58.22,
+            11.33,
+            1.66,
+            2.21
+          ]
+        }
+      ]
     },
     "layers.svg": {
       "display_px": [
@@ -558,7 +844,25 @@
       ],
       "location": "Solid oak frame feature chip",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/layers.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/layers.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            538,
+            797,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            37.15,
+            73.39,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "fabric.svg": {
       "display_px": [
@@ -567,7 +871,25 @@
       ],
       "location": "Premium fabric feature chip",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/fabric.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/fabric.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            635,
+            797,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            43.85,
+            73.39,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "check-circle.svg": {
       "display_px": [
@@ -576,7 +898,25 @@
       ],
       "location": "In stock feature chip",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/check-circle.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/check-circle.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            731,
+            797,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            50.48,
+            73.39,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "delivery.svg": {
       "display_px": [
@@ -585,7 +925,25 @@
       ],
       "location": "2–4 days feature chip",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/delivery.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/delivery.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            823,
+            797,
+            20,
+            20
+          ],
+          "bbox_pct": [
+            56.84,
+            73.39,
+            1.38,
+            1.84
+          ]
+        }
+      ]
     },
     "trash.svg": {
       "display_px": [
@@ -594,7 +952,53 @@
       ],
       "location": "cart item rows right edge",
       "stroke": "#9B8F89 approx., 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/trash.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/trash.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            1289,
+            211,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            89.02,
+            19.43,
+            1.24,
+            1.66
+          ]
+        },
+        {
+          "bbox_px": [
+            1289,
+            349,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            89.02,
+            32.14,
+            1.24,
+            1.66
+          ]
+        },
+        {
+          "bbox_px": [
+            1289,
+            490,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            89.02,
+            45.12,
+            1.24,
+            1.66
+          ]
+        }
+      ]
     },
     "promo-tag.svg": {
       "display_px": [
@@ -603,7 +1007,25 @@
       ],
       "location": "promo-code row left",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/promo-tag.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/promo-tag.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            983,
+            634,
+            22,
+            22
+          ],
+          "bbox_pct": [
+            67.89,
+            58.38,
+            1.52,
+            2.03
+          ]
+        }
+      ]
     },
     "chevron-right.svg": {
       "display_px": [
@@ -612,7 +1034,39 @@
       ],
       "location": "home cart summary row and promo row",
       "stroke": "currentColor, 1.7px",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/chevron-right.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/chevron-right.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            399,
+            948,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            27.56,
+            87.29,
+            1.24,
+            1.66
+          ]
+        },
+        {
+          "bbox_px": [
+            1295,
+            637,
+            18,
+            18
+          ],
+          "bbox_pct": [
+            89.43,
+            58.66,
+            1.24,
+            1.66
+          ]
+        }
+      ]
     },
     "more.svg": {
       "display_px": [
@@ -621,7 +1075,25 @@
       ],
       "location": "cart header top-right",
       "stroke": "currentColor; filled dots",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/more.svg"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0ac838cf882878f2495e3db515fb30af7750c7f6/images/nora-harmony-furniture-ui/icons/more.svg",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "visible_bbox_examples": [
+        {
+          "bbox_px": [
+            1293,
+            124,
+            22,
+            22
+          ],
+          "bbox_pct": [
+            89.3,
+            11.42,
+            1.52,
+            2.03
+          ]
+        }
+      ]
     }
   },
   "ui_effects": {
