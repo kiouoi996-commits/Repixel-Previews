@@ -1,0 +1,645 @@
+{
+  "project": "nora-harmony-furniture-ui",
+  "source_screenshot_px": [
+    1448,
+    1086
+  ],
+  "measurement_disclaimer": "All screenshot coordinates, percentages, object occupancy, colors, radii and effects are estimates/reconstructions from the supplied raster screenshot, not known original design-system values.",
+  "raster_assets": [
+    {
+      "file": "home-hero.webp",
+      "role": "Home screen editorial hero photo",
+      "visible": {
+        "bbox_px": [
+          86,
+          226,
+          356,
+          211
+        ],
+        "bbox_pct": [
+          5.94,
+          20.81,
+          24.59,
+          19.43
+        ]
+      },
+      "visible_aspect": "356:211 (1.687:1)",
+      "export_px": [
+        1068,
+        633
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [
+        "A more beautiful home",
+        "Timeless pieces for everyday living.",
+        "Shop now button"
+      ],
+      "background": "warm beige room, cream rug; photo-contained shadows",
+      "main_object": {
+        "subject": "cream boucle lounge chair",
+        "width_pct_est": 44,
+        "height_pct_est": 72,
+        "offsets_pct_est": {
+          "top": 19,
+          "right": 9,
+          "bottom": 9,
+          "left": 47
+        },
+        "cropped": false
+      },
+      "display": "object-fit: cover; object-position: 52% 50%",
+      "source_note": "AI reconstruction from screenshot reference; not an original source image."
+    },
+    {
+      "file": "chair-sage.webp",
+      "role": "Curated picks / sage Luna lounge chair",
+      "visible": {
+        "bbox_px": [
+          87,
+          595,
+          172,
+          110
+        ],
+        "bbox_pct": [
+          6.01,
+          54.79,
+          11.88,
+          10.13
+        ]
+      },
+      "visible_aspect": "172:110 (1.564:1)",
+      "export_px": [
+        516,
+        330
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [
+        "product name",
+        "price",
+        "+ button"
+      ],
+      "background": "warm off-white/beige studio backdrop with contact shadow",
+      "main_object": {
+        "subject": "sage upholstered armchair",
+        "width_pct_est": 74,
+        "height_pct_est": 82,
+        "offsets_pct_est": {
+          "top": 12,
+          "right": 13,
+          "bottom": 6,
+          "left": 13
+        },
+        "cropped": false
+      },
+      "display": "object-fit: cover; object-position: 50% 53%",
+      "source_note": "Screenshot-derived reconstruction/upscale; not an original source image."
+    },
+    {
+      "file": "chair-oak.webp",
+      "role": "Curated picks / oak accent chair",
+      "visible": {
+        "bbox_px": [
+          270,
+          595,
+          171,
+          110
+        ],
+        "bbox_pct": [
+          18.65,
+          54.79,
+          11.81,
+          10.13
+        ]
+      },
+      "visible_aspect": "171:110 (1.555:1)",
+      "export_px": [
+        513,
+        330
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [
+        "product name",
+        "price",
+        "+ button"
+      ],
+      "background": "warm off-white/beige studio backdrop with contact shadow",
+      "main_object": {
+        "subject": "cream upholstered wooden-arm accent chair",
+        "width_pct_est": 68,
+        "height_pct_est": 86,
+        "offsets_pct_est": {
+          "top": 9,
+          "right": 14,
+          "bottom": 5,
+          "left": 18
+        },
+        "cropped": false
+      },
+      "display": "object-fit: cover; object-position: 50% 52%",
+      "source_note": "Screenshot-derived reconstruction/upscale; not an original source image."
+    },
+    {
+      "file": "rye-side-table.webp",
+      "role": "Product tile and cart thumbnail / Rye side table",
+      "visible": {
+        "bbox_px": [
+          87,
+          788,
+          172,
+          111
+        ],
+        "bbox_pct": [
+          6.01,
+          72.56,
+          11.88,
+          10.22
+        ]
+      },
+      "visible_aspect": "172:111 (1.550:1)",
+      "export_px": [
+        516,
+        333
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [
+        "product name",
+        "price",
+        "+ button"
+      ],
+      "background": "warm beige studio sweep with floor shadow",
+      "main_object": {
+        "subject": "cylindrical fluted oak side table",
+        "width_pct_est": 48,
+        "height_pct_est": 83,
+        "offsets_pct_est": {
+          "top": 8,
+          "right": 26,
+          "bottom": 9,
+          "left": 26
+        },
+        "cropped": false
+      },
+      "display": "tile: cover 50% 52%; cart square: cover 50% 50%",
+      "source_note": "Screenshot-derived reconstruction/upscale; not an original source image."
+    },
+    {
+      "file": "arc-table-lamp.webp",
+      "role": "Product tile and cart thumbnail / Arc table lamp",
+      "visible": {
+        "bbox_px": [
+          270,
+          788,
+          171,
+          111
+        ],
+        "bbox_pct": [
+          18.65,
+          72.56,
+          11.81,
+          10.22
+        ]
+      },
+      "visible_aspect": "171:111 (1.541:1)",
+      "export_px": [
+        513,
+        333
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [
+        "product name",
+        "price",
+        "+ button"
+      ],
+      "background": "warm beige studio sweep with soft contact shadow",
+      "main_object": {
+        "subject": "pink-beige dome table lamp",
+        "width_pct_est": 49,
+        "height_pct_est": 87,
+        "offsets_pct_est": {
+          "top": 5,
+          "right": 25,
+          "bottom": 8,
+          "left": 26
+        },
+        "cropped": false
+      },
+      "display": "tile: cover 50% 48%; cart square: cover 50% 50%",
+      "source_note": "Screenshot-derived reconstruction/upscale; not an original source image."
+    },
+    {
+      "file": "chair-pink.webp",
+      "role": "Cart thumbnail / pink Luna lounge chair",
+      "visible": {
+        "bbox_px": [
+          973,
+          198,
+          98,
+          98
+        ],
+        "bbox_pct": [
+          67.2,
+          18.23,
+          6.77,
+          9.02
+        ]
+      },
+      "visible_aspect": "1:1",
+      "export_px": [
+        600,
+        600
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [],
+      "background": "warm neutral studio backdrop with contact shadow",
+      "main_object": {
+        "subject": "pink boucle asymmetric lounge chair",
+        "width_pct_est": 74,
+        "height_pct_est": 77,
+        "offsets_pct_est": {
+          "top": 11,
+          "right": 13,
+          "bottom": 12,
+          "left": 13
+        },
+        "cropped": false
+      },
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "source_note": "AI reconstruction from screenshot reference; not an original source image."
+    },
+    {
+      "file": "harmony-main.webp",
+      "role": "Product-detail primary lifestyle photo",
+      "visible": {
+        "bbox_px": [
+          510,
+          79,
+          383,
+          502
+        ],
+        "bbox_pct": [
+          35.22,
+          7.27,
+          26.45,
+          46.22
+        ]
+      },
+      "visible_aspect": "383:502 (0.763:1)",
+      "export_px": [
+        1149,
+        1506
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [
+        "back button",
+        "favorite button",
+        "1/4 badge",
+        "THE HARMONY Collection overlay"
+      ],
+      "background": "sunlit warm beige living room, cream carpet; intrinsic photographic shadows",
+      "main_object": {
+        "subject": "pink boucle lounge chair",
+        "width_pct_est": 67,
+        "height_pct_est": 51,
+        "offsets_pct_est": {
+          "top": 35,
+          "right": 22,
+          "bottom": 14,
+          "left": 11
+        },
+        "cropped": false
+      },
+      "display": "object-fit: cover; object-position: 50% 49%",
+      "source_note": "AI reconstruction from screenshot reference; not an original source image."
+    },
+    {
+      "file": "gallery-neutral-interior.webp",
+      "role": "Product-detail gallery thumbnail 2",
+      "visible": {
+        "bbox_px": [
+          621,
+          593,
+          78,
+          78
+        ],
+        "bbox_pct": [
+          42.89,
+          54.6,
+          5.39,
+          7.18
+        ]
+      },
+      "visible_aspect": "1:1",
+      "export_px": [
+        600,
+        600
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [],
+      "background": "warm neutral living-room vignette",
+      "main_object": {
+        "subject": "cream chair + side table + decor",
+        "width_pct_est": 82,
+        "height_pct_est": 80,
+        "offsets_pct_est": {
+          "top": 10,
+          "right": 9,
+          "bottom": 10,
+          "left": 9
+        },
+        "cropped": true
+      },
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "source_note": "AI reconstruction from screenshot reference; not an original source image."
+    },
+    {
+      "file": "gallery-fabric-closeup.webp",
+      "role": "Product-detail gallery thumbnail 3 / upholstery detail",
+      "visible": {
+        "bbox_px": [
+          712,
+          593,
+          79,
+          78
+        ],
+        "bbox_pct": [
+          49.17,
+          54.6,
+          5.46,
+          7.18
+        ]
+      },
+      "visible_aspect": "~1:1",
+      "export_px": [
+        600,
+        600
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [],
+      "background": "none; macro upholstery fills frame",
+      "main_object": {
+        "subject": "pink boucle upholstery close-up",
+        "width_pct_est": 100,
+        "height_pct_est": 100,
+        "offsets_pct_est": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        },
+        "cropped": true
+      },
+      "display": "object-fit: cover; object-position: 48% 50%",
+      "source_note": "AI reconstruction from screenshot reference; not an original source image."
+    },
+    {
+      "file": "gallery-plant-vase.webp",
+      "role": "Product-detail gallery thumbnail 4 / plant detail",
+      "visible": {
+        "bbox_px": [
+          804,
+          593,
+          78,
+          78
+        ],
+        "bbox_pct": [
+          55.52,
+          54.6,
+          5.39,
+          7.18
+        ]
+      },
+      "visible_aspect": "1:1",
+      "export_px": [
+        600,
+        600
+      ],
+      "alpha": false,
+      "ui_overlay_excluded": [],
+      "background": "warm beige wall with curtain edge and soft daylight",
+      "main_object": {
+        "subject": "olive-like green branch in beige ceramic vase",
+        "width_pct_est": 58,
+        "height_pct_est": 84,
+        "offsets_pct_est": {
+          "top": 7,
+          "right": 19,
+          "bottom": 9,
+          "left": 23
+        },
+        "cropped": true
+      },
+      "display": "object-fit: cover; object-position: 50% 52%",
+      "source_note": "AI reconstruction from screenshot reference; not an original source image."
+    }
+  ],
+  "icons": {
+    "search.svg": {
+      "display_px": [
+        22,
+        22
+      ],
+      "location": "left screen search field x≈99 y≈186",
+      "stroke": "currentColor, 1.7px"
+    },
+    "filter.svg": {
+      "display_px": [
+        20,
+        20
+      ],
+      "location": "left screen search field right x≈418 y≈186",
+      "stroke": "currentColor, 1.7px"
+    },
+    "bell.svg": {
+      "display_px": [
+        22,
+        22
+      ],
+      "location": "left header x≈365 y≈132",
+      "stroke": "currentColor, 1.7px"
+    },
+    "bag.svg": {
+      "display_px": [
+        22,
+        22
+      ],
+      "location": "left header x≈416 y≈132; reusable for delivery/bag semantics if desired",
+      "stroke": "currentColor, 1.7px"
+    },
+    "chair.svg": {
+      "display_px": [
+        24,
+        24
+      ],
+      "location": "left category tab Chairs x≈128 y≈476; active color white",
+      "stroke": "currentColor, 1.7px"
+    },
+    "lamp.svg": {
+      "display_px": [
+        24,
+        24
+      ],
+      "location": "left category tab Lamps x≈220 y≈476",
+      "stroke": "currentColor, 1.7px"
+    },
+    "vase.svg": {
+      "display_px": [
+        24,
+        24
+      ],
+      "location": "left category tab Decor x≈309 y≈476",
+      "stroke": "currentColor, 1.7px"
+    },
+    "storage.svg": {
+      "display_px": [
+        24,
+        24
+      ],
+      "location": "left category tab Storage x≈401 y≈476",
+      "stroke": "currentColor, 1.7px"
+    },
+    "plus.svg": {
+      "display_px": [
+        18,
+        18
+      ],
+      "location": "product cards and quantity steppers",
+      "stroke": "currentColor, 1.7px"
+    },
+    "minus.svg": {
+      "display_px": [
+        18,
+        18
+      ],
+      "location": "quantity steppers on detail/cart screens",
+      "stroke": "currentColor, 1.7px"
+    },
+    "back.svg": {
+      "display_px": [
+        22,
+        22
+      ],
+      "location": "detail top-left and cart top-left",
+      "stroke": "currentColor, 1.7px"
+    },
+    "heart.svg": {
+      "display_px": [
+        24,
+        24
+      ],
+      "location": "detail top-right",
+      "stroke": "currentColor, 1.7px"
+    },
+    "layers.svg": {
+      "display_px": [
+        20,
+        20
+      ],
+      "location": "Solid oak frame feature chip",
+      "stroke": "currentColor, 1.7px"
+    },
+    "fabric.svg": {
+      "display_px": [
+        20,
+        20
+      ],
+      "location": "Premium fabric feature chip",
+      "stroke": "currentColor, 1.7px"
+    },
+    "check-circle.svg": {
+      "display_px": [
+        20,
+        20
+      ],
+      "location": "In stock feature chip",
+      "stroke": "currentColor, 1.7px"
+    },
+    "delivery.svg": {
+      "display_px": [
+        20,
+        20
+      ],
+      "location": "2–4 days feature chip",
+      "stroke": "currentColor, 1.7px"
+    },
+    "trash.svg": {
+      "display_px": [
+        18,
+        18
+      ],
+      "location": "cart item rows right edge",
+      "stroke": "#9B8F89 approx., 1.7px"
+    },
+    "promo-tag.svg": {
+      "display_px": [
+        22,
+        22
+      ],
+      "location": "promo-code row left",
+      "stroke": "currentColor, 1.7px"
+    },
+    "chevron-right.svg": {
+      "display_px": [
+        18,
+        18
+      ],
+      "location": "home cart summary row and promo row",
+      "stroke": "currentColor, 1.7px"
+    },
+    "more.svg": {
+      "display_px": [
+        22,
+        22
+      ],
+      "location": "cart header top-right",
+      "stroke": "currentColor; filled dots"
+    }
+  },
+  "ui_effects": {
+    "colors_estimated_from_screenshot": {
+      "app_background": "#FAF9F8",
+      "surface": "#FFFFFF",
+      "soft_surface": "#F1EFEF",
+      "image_backdrop": "#EAE4DE",
+      "text_primary": "#19181D",
+      "text_secondary": "#6C6873",
+      "border": "rgba(40,35,32,0.06)",
+      "primary_button_start": "#5A576B",
+      "primary_button_end": "#343242",
+      "icon_muted": "#9B8F89"
+    },
+    "gradients": [
+      {
+        "name": "primary_cta",
+        "css": "linear-gradient(135deg, #5A576B 0%, #343242 100%)"
+      },
+      {
+        "name": "page_ambient",
+        "css": "radial-gradient(circle at 50% 20%, rgba(255,255,255,.75) 0%, rgba(250,249,248,0) 58%)"
+      }
+    ],
+    "radii_estimated_px": {
+      "phone_shell": 38,
+      "hero": 18,
+      "product_card": 16,
+      "image": 14,
+      "pill": 999,
+      "primary_button": 16
+    },
+    "shadows_estimated": [
+      "phone/card: 0 10px 30px rgba(55,45,38,0.06)",
+      "floating circular controls: 0 4px 14px rgba(55,45,38,0.08)"
+    ],
+    "notes": [
+      "Button circles, badges, card borders, selection outlines and shadows are interface effects and are not baked into assets.",
+      "The active Chairs tab should use a dark UI pill with chair.svg colored white; do not create a separate active icon file.",
+      "System status-bar icons are intentionally omitted."
+    ]
+  },
+  "github": {
+    "status": "not_uploaded",
+    "repository": null,
+    "project_folder": null,
+    "commit": null,
+    "urls": {}
+  }
+}
