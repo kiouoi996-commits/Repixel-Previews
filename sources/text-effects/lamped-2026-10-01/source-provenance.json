@@ -1,0 +1,131 @@
+{
+  "driveFolder": {
+    "id": "1VZzbK7d3YdpSUJz1_ZJTQsXE6oMJUJm9",
+    "name": "Коды моих сайтов"
+  },
+  "archive": {
+    "id": "1L5VSeNOCi0zDKqx5nZA90RgpV6z6bdTO",
+    "name": "шрифты-анимации.zip",
+    "bytes": 101263,
+    "sha256": "0738f098f23b7fcebe0267e4b3311708699a577d86d2dc63adfd32036d309832",
+    "md5": "6a07e4f62dd53f496696bcd1bcf4dc70",
+    "url": "https://drive.google.com/file/d/1L5VSeNOCi0zDKqx5nZA90RgpV6z6bdTO/view"
+  },
+  "sourceFiles": [
+    {
+      "path": "src/App.tsx",
+      "bytes": 15667,
+      "sha256": "66545d2467f8142c04ed5dfe14938224ada4ecdcd5a062f212e60bdf51c908f0"
+    },
+    {
+      "path": "src/index.css",
+      "bytes": 857,
+      "sha256": "528179597df1e99602a25b182b5a8a37701504ff77d4b811c927a00409c753bf"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1046,
+      "sha256": "692063e8773285f7eca6262879f9eeb9bbad92429e14d9965e43dbadc8edd464"
+    }
+  ],
+  "selectedHeadings": [
+    [
+      "Lighting Up",
+      "Creative Minds"
+    ],
+    [
+      "SPACE",
+      "OF QUALITY",
+      "INTERIOR"
+    ],
+    [
+      "THE",
+      "INSIDE",
+      "LOOK®"
+    ]
+  ],
+  "sourceTypography": {
+    "lighting": {
+      "family": "Manrope",
+      "weight": 650,
+      "trackingEm": -0.045,
+      "lineHeight": 0.99
+    },
+    "space": {
+      "family": "Cormorant Garamond",
+      "weight": 400,
+      "italicLine": "OF QUALITY",
+      "trackingEm": -0.035,
+      "lineHeight": 0.85
+    },
+    "inside": {
+      "families": [
+        "Manrope",
+        "Bodoni Moda",
+        "Manrope"
+      ],
+      "weights": [
+        350,
+        400,
+        350
+      ],
+      "trackingEm": [
+        -0.04,
+        -0.045,
+        -0.05
+      ]
+    }
+  },
+  "previewChoices": "Isolated 1080×608 composition; fonts frozen at exact weights, Bodoni optical size 96; trademark is raised by 58px in the new preview.",
+  "motion": "Six new authored effects. The archive supplies text, fonts and palette; these motions are not claimed to be original archive behavior.",
+  "fontUpstream": [
+    {
+      "family": "manrope",
+      "file": "manrope-Manrope[wght].ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/Manrope%5Bwght%5D.ttf",
+      "gitBlobSha": "75274da58537d6123b14f2cd0c355ad4681fc2b3"
+    },
+    {
+      "family": "manrope",
+      "file": "manrope-OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/manrope/OFL.txt",
+      "gitBlobSha": "e271172a9ed0cddc895aabb6509f1c7d880b492d"
+    },
+    {
+      "family": "cormorantgaramond",
+      "file": "cormorantgaramond-CormorantGaramond-Italic[wght].ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/CormorantGaramond-Italic%5Bwght%5D.ttf",
+      "gitBlobSha": "0d914e7663b7a1429d06ec60a5c5bb026031a2ef"
+    },
+    {
+      "family": "cormorantgaramond",
+      "file": "cormorantgaramond-CormorantGaramond[wght].ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/CormorantGaramond%5Bwght%5D.ttf",
+      "gitBlobSha": "d992a83ce525c330fad3a19087746bcb2dc038ee"
+    },
+    {
+      "family": "cormorantgaramond",
+      "file": "cormorantgaramond-OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/cormorantgaramond/OFL.txt",
+      "gitBlobSha": "507d70f4565352dbfcf2dfc9b42eb092b57c0be8"
+    },
+    {
+      "family": "bodonimoda",
+      "file": "bodonimoda-BodoniModa-Italic[opsz,wght].ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/BodoniModa-Italic%5Bopsz%2Cwght%5D.ttf",
+      "gitBlobSha": "174375b9265ac430071f6f1f20de8dbe088c61c1"
+    },
+    {
+      "family": "bodonimoda",
+      "file": "bodonimoda-BodoniModa[opsz,wght].ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/BodoniModa%5Bopsz%2Cwght%5D.ttf",
+      "gitBlobSha": "c5d582f8003ae692761dd8e9ce69de23cb9fea53"
+    },
+    {
+      "family": "bodonimoda",
+      "file": "bodonimoda-OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
+      "gitBlobSha": "973cec73f0874f3b7821a44ff43e4a4c88e44844"
+    }
+  ]
+}
