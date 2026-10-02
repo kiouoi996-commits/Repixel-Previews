@@ -9,12 +9,16 @@
   "generation_note": "The image-generation tool repeatedly returned an asset-board composition rather than one standalone file per requested raster. Clean standalone exports were therefore prepared from that reconstruction, with unobstructed screenshot crops used where they were cleaner. This is disclosed because it differs from the requested one-generation-per-raster workflow.",
   "repository_target": {
     "repository": "kiouoi996-commits/Repixel-Previews",
-    "intended_folder": "images/lumiere-warm-lighting-shop",
-    "structure_basis": "Repository README describes images/<category>/ as the public-media structure."
+    "folder": "images/lumiere-warm-lighting-shop",
+    "branch": "main",
+    "asset_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop",
+    "structure_basis": "Repository README specifies media under images/<category>/; this project is stored in its own image folder."
   },
   "upload_status": {
-    "status": "blocked",
-    "reason": "GitHub connector returned HTTP 403 'Resource not accessible by integration' for both Git data create_blob and Contents API create_file. Read access works, write access does not."
+    "status": "uploaded",
+    "asset_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca",
+    "verification": "pending raw-link verification"
   },
   "raster_assets": [
     {
@@ -52,7 +56,11 @@
         "object_position": "61% 51%"
       },
       "reconstruction_prompt": "Warm minimalist interior photo, cream mushroom table lamp on a medium-warm wooden console, lamp slightly right of center with large empty beige wall on the left for UI copy, small round beige vase with leafy branch at far right, partial light wood picture frame top-right, soft warm light from left, realistic ceramic/wood textures, shallow soft contrast, no text, no UI, landscape 1.565:1.",
-      "sha256": "6d740dfee17b4989f174a232680cd0241d1afc13f9c4af92412603b3163e7c39"
+      "sha256": "6d740dfee17b4989f174a232680cd0241d1afc13f9c4af92412603b3163e7c39",
+      "repo_path": "images/lumiere-warm-lighting-shop/hero-mushroom-room.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/hero-mushroom-room.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/hero-mushroom-room.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "mushroom-table-lamp-main.webp",
@@ -103,7 +111,11 @@
         "object_position": "49% 50% main; 45% 52% cart"
       },
       "reconstruction_prompt": "Product-detail lifestyle photo of a cream dome mushroom table lamp with a cylindrical off-white ceramic base covered in irregular dark speckles, on a pale stone slab; warm beige wall, narrow wood frame and leafy plant to the right, short stack of neutral books and small wooden bowl; frontal camera, soft warm side light, no UI, near-square portrait crop.",
-      "sha256": "37326f8e338659013d22a2fe03d3ce4c431190bbc5b001a3a5f19de34677544d"
+      "sha256": "37326f8e338659013d22a2fe03d3ce4c431190bbc5b001a3a5f19de34677544d",
+      "repo_path": "images/lumiere-warm-lighting-shop/mushroom-table-lamp-main.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-table-lamp-main.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-table-lamp-main.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "mushroom-gallery-01.webp",
@@ -140,7 +152,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Close product thumbnail of the same cream mushroom lamp with speckled cylindrical ceramic base, warm beige room and books/branch background, frontal view, no UI, near-square crop.",
-      "sha256": "7422402cc358adf894df8d58097e45a9b279074d58fc79c810a673ad5d8994dc"
+      "sha256": "7422402cc358adf894df8d58097e45a9b279074d58fc79c810a673ad5d8994dc",
+      "repo_path": "images/lumiere-warm-lighting-shop/mushroom-gallery-01.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-01.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-01.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "mushroom-gallery-02.webp",
@@ -177,7 +193,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Alternate thumbnail of a cream dome mushroom lamp with a dark charcoal/brown cylindrical base, warm taupe room background, centered product, soft warm light, no UI, near-square crop.",
-      "sha256": "77aa3cda268d605235cb053c3712c9b1792aed9dab097b34aaf2ff98296f5446"
+      "sha256": "77aa3cda268d605235cb053c3712c9b1792aed9dab097b34aaf2ff98296f5446",
+      "repo_path": "images/lumiere-warm-lighting-shop/mushroom-gallery-02.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-02.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-02.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "mushroom-gallery-03.webp",
@@ -214,7 +234,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Alternate thumbnail of a mushroom table lamp with cream dome shade and small rounded matte beige base, warm neutral wall, soft shallow-depth interior lighting, no UI, near-square crop.",
-      "sha256": "2bfc937b8fb4264b08b615d97604c8b511f609f040165d022153846071ce6a25"
+      "sha256": "2bfc937b8fb4264b08b615d97604c8b511f609f040165d022153846071ce6a25",
+      "repo_path": "images/lumiere-warm-lighting-shop/mushroom-gallery-03.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-03.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-03.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "mushroom-gallery-04.webp",
@@ -251,7 +275,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Alternate warm interior vignette: small rounded beige vase with sparse olive/eucalyptus stems on pale sculptural side surface, softly lit cream curtains/wall, neutral decor shapes, no UI, near-square crop.",
-      "sha256": "4b5b9d45a7c3e1801d33d199a48c63a6722dd82632bdae6880975e7a0f4605bb"
+      "sha256": "4b5b9d45a7c3e1801d33d199a48c63a6722dd82632bdae6880975e7a0f4605bb",
+      "repo_path": "images/lumiere-warm-lighting-shop/mushroom-gallery-04.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-04.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/mushroom-gallery-04.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "featured-mushroom-lamp.webp",
@@ -288,7 +316,11 @@
         "object_position": "47% 52%"
       },
       "reconstruction_prompt": "Home product-card photo of cream mushroom lamp with speckled ceramic cylinder base on pale stone tabletop, neutral books at right, warm beige wall, soft bright warm lighting, no heart button or UI, landscape card crop.",
-      "sha256": "ebd2452a2199c06ed1598182de30b83d63a651b32e881d323a0f7789850c014f"
+      "sha256": "ebd2452a2199c06ed1598182de30b83d63a651b32e881d323a0f7789850c014f",
+      "repo_path": "images/lumiere-warm-lighting-shop/featured-mushroom-lamp.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/featured-mushroom-lamp.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/featured-mushroom-lamp.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "pleated-bedside-lamp.webp",
@@ -325,7 +357,11 @@
         "object_position": "50% 51%"
       },
       "reconstruction_prompt": "Home product-card photo of bedside lamp with warm cream pleated conical shade and glossy dark espresso/black rounded ceramic base, on warm wood tabletop, neutral sofa/cushion blurred left, warm beige wall, no UI, landscape card crop.",
-      "sha256": "3473b9fc5b8cc031a466b48f5c3d042cb33f57184b383b1d5a78c46583e47e51"
+      "sha256": "3473b9fc5b8cc031a466b48f5c3d042cb33f57184b383b1d5a78c46583e47e51",
+      "repo_path": "images/lumiere-warm-lighting-shop/pleated-bedside-lamp.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/pleated-bedside-lamp.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/pleated-bedside-lamp.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "stone-vase-branches.webp",
@@ -362,7 +398,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Small cart thumbnail photo of matte sand/stone rounded vase with thin green leafy branch, warm light gray-beige wall and pale tabletop, centered, no UI, portrait-ish thumbnail.",
-      "sha256": "b2ec9a3c3a85c38c1fe532ce8fd4a2400cd5bc9a767d44b1d543503942db5403"
+      "sha256": "b2ec9a3c3a85c38c1fe532ce8fd4a2400cd5bc9a767d44b1d543503942db5403",
+      "repo_path": "images/lumiere-warm-lighting-shop/stone-vase-branches.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/stone-vase-branches.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/stone-vase-branches.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "ribbed-pendant-light.webp",
@@ -399,7 +439,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Small cart thumbnail photo of natural-oak ribbed/pleated pendant light, narrow brass/wood neck and dark hanging cord, warm neutral background, frontal view, no UI, portrait-ish thumbnail.",
-      "sha256": "4faf1b36e44ceff6ca62316fed6e49f61024218366982788bde7ab3c247a7015"
+      "sha256": "4faf1b36e44ceff6ca62316fed6e49f61024218366982788bde7ab3c247a7015",
+      "repo_path": "images/lumiere-warm-lighting-shop/ribbed-pendant-light.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/ribbed-pendant-light.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/ribbed-pendant-light.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "related-pleated-lamp.webp",
@@ -436,7 +480,11 @@
         "object_position": "50% 43%"
       },
       "reconstruction_prompt": "Related-product card photo of low pleated cream cone lamp shade with small dark top cap and warm brass stem/base, minimalist pale table and books, warm light gray wall, no favorite button/UI, landscape crop.",
-      "sha256": "6ad4aea0deab2cbbcfb53efe297f7595853d1d21cedcc2cfc3d61806a5a20da3"
+      "sha256": "6ad4aea0deab2cbbcfb53efe297f7595853d1d21cedcc2cfc3d61806a5a20da3",
+      "repo_path": "images/lumiere-warm-lighting-shop/related-pleated-lamp.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/related-pleated-lamp.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/related-pleated-lamp.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "related-branch-vase.webp",
@@ -473,7 +521,11 @@
         "object_position": "50% 46%"
       },
       "reconstruction_prompt": "Related-product card photo of small rounded off-white vase with airy green branch arrangement on pale stacked books/table, warm neutral wall, soft daylight, no favorite button/UI, landscape crop.",
-      "sha256": "be97e661aa6af33d3a68875f798f52cd596805b01e8dc5c46f1c15eda6103912"
+      "sha256": "be97e661aa6af33d3a68875f798f52cd596805b01e8dc5c46f1c15eda6103912",
+      "repo_path": "images/lumiere-warm-lighting-shop/related-branch-vase.webp",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/related-branch-vase.webp",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/related-branch-vase.webp",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "category-mushroom-lamp.png",
@@ -510,7 +562,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Isolated cream mushroom table lamp cutout with cylindrical speckled stone/ceramic base, frontal view, true transparent background, preserve small natural contact shadow only, no tile/card background.",
-      "sha256": "476350a08d2e82a8dc64c709b7000a933900b6c38a55d8f2b56a6f2ebdb7ba67"
+      "sha256": "476350a08d2e82a8dc64c709b7000a933900b6c38a55d8f2b56a6f2ebdb7ba67",
+      "repo_path": "images/lumiere-warm-lighting-shop/category-mushroom-lamp.png",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-mushroom-lamp.png",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-mushroom-lamp.png",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "category-floor-lamp.png",
@@ -547,7 +603,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Isolated slender floor lamp cutout: thin dark brass/bronze pole, small cream half-dome shade, small round dark base, frontal view, true transparent background, no tile/card background.",
-      "sha256": "9d82ccd5d416ec3acc7b06a497f7513199a716f94f0ea2c7aa10907fc4d9992e"
+      "sha256": "9d82ccd5d416ec3acc7b06a497f7513199a716f94f0ea2c7aa10907fc4d9992e",
+      "repo_path": "images/lumiere-warm-lighting-shop/category-floor-lamp.png",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-floor-lamp.png",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-floor-lamp.png",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "category-wall-sconce.png",
@@ -584,7 +644,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Isolated wall sconce cutout viewed front/three-quarter: round cream glowing globe/disc and short dark brass wall mount on right, true transparent background, no tile/card background.",
-      "sha256": "dad1a268021707644d9053ea7fca09f6528b6296f7038ce25c13036f64d9e13a"
+      "sha256": "dad1a268021707644d9053ea7fca09f6528b6296f7038ce25c13036f64d9e13a",
+      "repo_path": "images/lumiere-warm-lighting-shop/category-wall-sconce.png",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-wall-sconce.png",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-wall-sconce.png",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "category-vase.png",
@@ -621,7 +685,11 @@
         "object_position": "50% 50%"
       },
       "reconstruction_prompt": "Isolated small matte beige rounded vase with sparse leafy green branch, frontal view, true transparent background, preserve subtle object shadow, no tile/card background.",
-      "sha256": "25d35f627c10c71eba6c0387294f7cfa7d7d7b06788c8f319fcd32c6745c468d"
+      "sha256": "25d35f627c10c71eba6c0387294f7cfa7d7d7b06788c8f319fcd32c6745c468d",
+      "repo_path": "images/lumiere-warm-lighting-shop/category-vase.png",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-vase.png",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/category-vase.png",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     }
   ],
   "icons": [
@@ -630,119 +698,187 @@
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "c1c03e1d4f2b1696d81f20a1b44154cabaaa54d250aa162dd9babbe8b2af1f59"
+      "sha256": "c1c03e1d4f2b1696d81f20a1b44154cabaaa54d250aa162dd9babbe8b2af1f59",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/arrow-right.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/arrow-right.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/arrow-right.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/back.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "f27ed090de83bed1c272fa91cd77692f4510597bd426fd6daa69cf7c87fa347f"
+      "sha256": "f27ed090de83bed1c272fa91cd77692f4510597bd426fd6daa69cf7c87fa347f",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/back.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/back.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/back.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/bell.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "fc3c873faebd7467d9ef1beb7dc36fa327a17db29eb633c913d3e4a937b6c830"
+      "sha256": "fc3c873faebd7467d9ef1beb7dc36fa327a17db29eb633c913d3e4a937b6c830",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/bell.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/bell.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/bell.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/bolt.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "7ce82f2cc83a83b1f870b7863c58daaf68f77b1611e6bceb00e8e6253a0b37df"
+      "sha256": "7ce82f2cc83a83b1f870b7863c58daaf68f77b1611e6bceb00e8e6253a0b37df",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/bolt.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/bolt.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/bolt.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/chevron-right.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "973b3474512167adf5e3b8cabc062e50b98f54d1d622a19ae4d7268e54392f59"
+      "sha256": "973b3474512167adf5e3b8cabc062e50b98f54d1d622a19ae4d7268e54392f59",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/chevron-right.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/chevron-right.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/chevron-right.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/filter.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "85bd2a041418ac602da85a31e434ac3b2b80b521be7965025471d17aed611c6b"
+      "sha256": "85bd2a041418ac602da85a31e434ac3b2b80b521be7965025471d17aed611c6b",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/filter.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/filter.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/filter.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/heart-filled.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "b98aabbbb9469bda2485b7af1a1dae4c20a17913df45a24cb63d876a295f8fdc"
+      "sha256": "b98aabbbb9469bda2485b7af1a1dae4c20a17913df45a24cb63d876a295f8fdc",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/heart-filled.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/heart-filled.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/heart-filled.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/heart-outline.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "05131226caa01aa943f63c93fbff84a25fc46b3907c48dc1b17898965775d99a"
+      "sha256": "05131226caa01aa943f63c93fbff84a25fc46b3907c48dc1b17898965775d99a",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/heart-outline.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/heart-outline.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/heart-outline.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/height.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "6aa986683677e49d0685244a8f96e6bcb23ee5ee794ca83e1b6b7bd4c8b0fd31"
+      "sha256": "6aa986683677e49d0685244a8f96e6bcb23ee5ee794ca83e1b6b7bd4c8b0fd31",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/height.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/height.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/height.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/layers.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "0c6cc632bf851095883a7f63eb694727ade2f97722724e8033a0486d688b0cc9"
+      "sha256": "0c6cc632bf851095883a7f63eb694727ade2f97722724e8033a0486d688b0cc9",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/layers.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/layers.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/layers.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/minus.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "1a64f51eb0a39156d9e302337eb031576df12d78fa6c046ad65df66c834820ce"
+      "sha256": "1a64f51eb0a39156d9e302337eb031576df12d78fa6c046ad65df66c834820ce",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/minus.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/minus.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/minus.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/plus.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "3088d539327f68178a2e03c23bed5c4fab7873a1fef1c786bde926749b44509c"
+      "sha256": "3088d539327f68178a2e03c23bed5c4fab7873a1fef1c786bde926749b44509c",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/plus.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/plus.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/plus.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/search.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "a3399f34d5d2b4a3b1c884478538e62c94ff450375189ac9ba70360fd364e662"
+      "sha256": "a3399f34d5d2b4a3b1c884478538e62c94ff450375189ac9ba70360fd364e662",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/search.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/search.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/search.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/shopping-bag.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "bdcc050bdc2a91d4300c10eaf40717613ba3c26fa41c85095335a3787f94bac7"
+      "sha256": "bdcc050bdc2a91d4300c10eaf40717613ba3c26fa41c85095335a3787f94bac7",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/shopping-bag.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/shopping-bag.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/shopping-bag.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/sun.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "784834b4617f3d6962dbd959613a622593fad2a9a9844b63dbe6f6c527cfcaf1"
+      "sha256": "784834b4617f3d6962dbd959613a622593fad2a9a9844b63dbe6f6c527cfcaf1",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/sun.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/sun.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/sun.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/tag.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "58658b7f0392bbb3a0b3f9969368915adfdc8bf51b88a5ae14ef4517b9c5d0f0"
+      "sha256": "58658b7f0392bbb3a0b3f9969368915adfdc8bf51b88a5ae14ef4517b9c5d0f0",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/tag.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/tag.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/tag.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     },
     {
       "file": "icons/trash.svg",
       "viewBox": "0 0 24 24",
       "transparent": true,
       "stroke_or_fill": "#1F2038; heart-filled uses #3B3654",
-      "sha256": "6bd9bfdc2b174aa475cf442ff14d8a6d0cbc62b037d705fcc08287c819915234"
+      "sha256": "6bd9bfdc2b174aa475cf442ff14d8a6d0cbc62b037d705fcc08287c819915234",
+      "repo_path": "images/lumiere-warm-lighting-shop/icons/trash.svg",
+      "published_raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/trash.svg",
+      "published_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/15c986adbc3ddb19d582893526a1bedafdba7cca/images/lumiere-warm-lighting-shop/icons/trash.svg",
+      "published_commit": "15c986adbc3ddb19d582893526a1bedafdba7cca"
     }
   ],
   "interface": {
