@@ -1,0 +1,10 @@
+{
+  "name": "repixel-desktop-menu-hover-studies",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "demo": "node build-demo.mjs",
+    "render": "node render.mjs",
+    "stills": "node render.mjs --stills"
+  }
+}

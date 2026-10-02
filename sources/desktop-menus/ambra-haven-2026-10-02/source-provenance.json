@@ -1,0 +1,115 @@
+{
+  "driveFolder": {
+    "id": "1VZzbK7d3YdpSUJz1_ZJTQsXE6oMJUJm9",
+    "name": "Коды моих сайтов"
+  },
+  "sources": {
+    "ambra": {
+      "archive": {
+        "id": "1yZIk2gpg5X1cFv8r3rYKeK4zTgOCwQbg",
+        "name": "ambra-interior.zip",
+        "bytes": 25198931,
+        "md5": "de29e1db98e714556cf9e5d82f049f98",
+        "sha256": "8c51276257b1bc6d1f046735ed42878f7c568eee4c2215f52ca13645d53b295a",
+        "url": "https://drive.google.com/file/d/1yZIk2gpg5X1cFv8r3rYKeK4zTgOCwQbg/view"
+      },
+      "sourceFiles": [
+        {
+          "path": "src/components/Header.tsx",
+          "bytes": 6217,
+          "sha256": "36a891b4900ce2bb44b0dbe3ba3e712b6911605c9df88bb3bdca68c01f656985"
+        },
+        {
+          "path": "src/index.css",
+          "bytes": 1653,
+          "sha256": "957a4434d7fd5eb6f36ea21706beb8d9fa02bd2017cf6b48ce6d7b75de059de9"
+        },
+        {
+          "path": "index.html",
+          "bytes": 1450,
+          "sha256": "0caa7db73549e0dc9e70754ee72dbd188b61864d5ca4aeea1694e152c15ddb03"
+        },
+        {
+          "path": "src/App.tsx",
+          "bytes": 4566,
+          "sha256": "30c74b00c194e566c3e51a64885532c18c158ad192e6b8ef72386b7e288e0780"
+        }
+      ],
+      "selectedItems": [
+        "INTERIORS",
+        "PROJECTS",
+        "ABOUT",
+        "CONTACT"
+      ]
+    },
+    "haven": {
+      "archive": {
+        "id": "1VzYf3PUesTkCHi19aN-3_QVjdHnt-YNT",
+        "name": "haven (1).zip",
+        "bytes": 21945495,
+        "md5": "91556793cf8fbe9f78849ea7e9de7804",
+        "sha256": "78e66a318f05fbe9c8f3d28e9dd75b3650027e1cb956a80280c7dc64bd743759",
+        "url": "https://drive.google.com/file/d/1VzYf3PUesTkCHi19aN-3_QVjdHnt-YNT/view"
+      },
+      "sourceFiles": [
+        {
+          "path": "src/components/FloatingNavbar.tsx",
+          "bytes": 8432,
+          "sha256": "b0589ca06339eeb2950517930b0c7d99b293fd55dabd9c79d2dbbdff840aad47"
+        },
+        {
+          "path": "src/index.css",
+          "bytes": 1085,
+          "sha256": "40432526580939500e44ba3f69b2ba4d9ac54602190eb516ed0ff62328061aea"
+        },
+        {
+          "path": "index.html",
+          "bytes": 311,
+          "sha256": "b5a1b4bb457eded1c68ffa133748651b475b26f62f55a4e4b8b9495e18e045d7"
+        },
+        {
+          "path": "src/App.tsx",
+          "bytes": 2080,
+          "sha256": "78135948c592905175a84764bebcae704cb0607759ad7ea80e549907717a6029"
+        }
+      ],
+      "selectedItems": [
+        "Destinations",
+        "Experiences",
+        "Philosophy",
+        "Journal"
+      ]
+    }
+  },
+  "fontUpstream": [
+    {
+      "path": "ofl/plusjakartasans/OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/plusjakartasans/OFL.txt",
+      "sha": "ea69b0ca12a02556c436680ea0a159efb7a748fa",
+      "bytes": 4402,
+      "sha256": "995c7199cab65954f545996326755daee7b63cc6b42b06c13da1f9502ab08a99"
+    },
+    {
+      "path": "ofl/plusjakartasans/PlusJakartaSans[wght].ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/plusjakartasans/PlusJakartaSans%5Bwght%5D.ttf",
+      "sha": "0cb13a998ed525ba226d911b10d6c4c4f923a961",
+      "bytes": 176288,
+      "sha256": "89b3fb38aa0d275d7a731d0d817a4f1622b316b4d7fbdedcf02ee9099ff68bc8"
+    },
+    {
+      "path": "ofl/cinzel/Cinzel[wght].ttf",
+      "url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/cinzel/Cinzel%5Bwght%5D.ttf",
+      "sha": "d218a0b9c8879fd5a708872cc0ef357e507b35ca",
+      "bytes": 125468,
+      "sha256": "f4d83d34d1f6c741193e4acf4b3dff9531e5a67b6aa65228d00a7db72a4e0f34"
+    },
+    {
+      "path": "ofl/cinzel/OFL.txt",
+      "url": "https://raw.githubusercontent.com/google/fonts/9710da1eacb3be272583c3224dcb70f9da6eadbb/ofl/cinzel/OFL.txt",
+      "sha": "afdfd1412be934fe7cc40a5a2c5e06e354c44dcf",
+      "bytes": 4383,
+      "sha256": "f2b3029aba64c378bf0963b62945eee15e564fe4330b934c8f2eb058282b5e83"
+    }
+  ],
+  "previewChoices": "Isolated 1080×608 desktop menus centered on solid #11121B. Menu typography is enlarged 1.25×; geometry is explicitly recomposed for the preview. No rooms, ocean footage, scenery, captions or mobile drawer. Source menus and click actions are preserved; six hover motions are newly authored."
+}
