@@ -1,0 +1,44 @@
+[
+  {
+    "role": "interior",
+    "filename": "156-spaces-diagonal-project-reveal-2026-10-03-a1-interior.webp",
+    "bounds": [
+      514,
+      164,
+      855,
+      623
+    ],
+    "width": 341,
+    "height": 459,
+    "bytes": 171934,
+    "sha256": "0452918d82b69dbf7f5f0c92581f0904716552c007bb997faec6cc268ec1c79d"
+  },
+  {
+    "role": "architecture",
+    "filename": "156-spaces-diagonal-project-reveal-2026-10-03-a1-architecture.webp",
+    "bounds": [
+      882,
+      164,
+      1224,
+      623
+    ],
+    "width": 342,
+    "height": 459,
+    "bytes": 191318,
+    "sha256": "83341a3a9b434cb7a63d6732a83600735e426d1fd86b17a64120ab323238daee"
+  },
+  {
+    "role": "workspace",
+    "filename": "156-spaces-diagonal-project-reveal-2026-10-03-a1-workspace.webp",
+    "bounds": [
+      1249,
+      164,
+      1589,
+      623
+    ],
+    "width": 340,
+    "height": 459,
+    "bytes": 140940,
+    "sha256": "dcb1ac8fe0e6064d11d078273d075ae82b87764b0a025cc670287d08ccec3119"
+  }
+]
