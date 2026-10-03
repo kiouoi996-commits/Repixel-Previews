@@ -1,7 +1,7 @@
 {
   "project_name": "Stellar Screen Cinema",
   "project_slug": "stellar-screen-cinema",
-  "status": "local_assets_complete_github_upload_blocked",
+  "status": "published_to_repixel_previews",
   "source_screenshot": {
     "pixel_size": [
       1536,
@@ -10,13 +10,23 @@
     "note": "All measurements are estimates from the raster screenshot, not authoritative source-layout values."
   },
   "repository_request": {
-    "repository_display_name": "Repixel prewiews",
-    "project_folder": "stellar-screen-cinema",
-    "upload_status": "blocked",
-    "reason": "GitHub plugin is enabled, but the current account has zero GitHub App installations/accounts and exposes zero repositories.",
-    "repository_url": null,
-    "manifest_url": null,
-    "commit_sha": null
+    "repository_display_name": "Repixel-Previews",
+    "repository_full_name": "kiouoi996-commits/Repixel-Previews",
+    "project_folder": "images/reconstructed-apps/stellar-screen-cinema",
+    "upload_status": "complete",
+    "repository_url": "https://github.com/kiouoi996-commits/Repixel-Previews",
+    "asset_commit_sha": "828379c772db327380d0cc768467d207774bbb3b",
+    "asset_commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/828379c772db327380d0cc768467d207774bbb3b",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema",
+    "manifest_branch_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/stellar-screen-cinema/manifest.json",
+    "verification": {
+      "archive_sha256": "aaaac7749e64e90a1c5a53201cac41c6dcb2f41028195c13a774406e7b05bea6",
+      "workflow_run_id": 37149152009,
+      "workflow_conclusion": "success",
+      "project_root_entries": 20,
+      "icons_entries": 13,
+      "files_total": 32
+    }
   },
   "ui_tokens_estimated_from_screenshot": {
     "page_background": "#F7F7FB",
@@ -93,7 +103,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "605ff4fede9a588e54b7d98f6c7b936df359fa3766ac2a51f0ce06b9ba3a111f",
       "bytes": 283972,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/last-horizon-feature.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/last-horizon-feature.webp"
     },
     {
       "file": "last-horizon-detail.webp",
@@ -153,7 +164,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "685e895bd69ad65a0bb0eb45f520cf0662abe011c2050901bba44febe9935aec",
       "bytes": 339628,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/last-horizon-detail.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/last-horizon-detail.webp"
     },
     {
       "file": "dune-part-two.webp",
@@ -173,7 +185,7 @@
       },
       "source_visible_box_pct": {
         "x": 7.88,
-        "y": 71.0,
+        "y": 71,
         "w": 8.2,
         "h": 18.75
       },
@@ -184,7 +196,7 @@
           "w": 126,
           "h": 192,
           "x_pct": 7.88,
-          "y_pct": 71.0,
+          "y_pct": 71,
           "w_pct": 8.2,
           "h_pct": 18.75
         }
@@ -213,7 +225,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "5bd4dac6859cab2e3b772b03f1967b65c628f36d12a048299e11459e08851b1a",
       "bytes": 29810,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/dune-part-two.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/dune-part-two.webp"
     },
     {
       "file": "fallout.webp",
@@ -273,7 +286,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "191a41fa8f44cc5f8fd34d2e42bdd0f771969cbefe5f886ab2d5e2a8da46cc9f",
       "bytes": 39348,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/fallout.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/fallout.webp"
     },
     {
       "file": "our-planet.webp",
@@ -333,7 +347,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "058a711dd2599afcaea63bb94176727a9d1a536df78b5f52dc0de282db06d811",
       "bytes": 40838,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/our-planet.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/our-planet.webp"
     },
     {
       "file": "horizon-still-01.webp",
@@ -393,7 +408,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "1adf51b8265e5eef87b0ac347f897a8eaee87c0dc0ccaf1c6d9870893017e042",
       "bytes": 11626,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/horizon-still-01.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/horizon-still-01.webp"
     },
     {
       "file": "horizon-still-02.webp",
@@ -453,7 +469,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "3bae09fd035482098cf94d27c6646d1f374a3af0b5d058d04f534074e577d7bc",
       "bytes": 18260,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/horizon-still-02.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/horizon-still-02.webp"
     },
     {
       "file": "horizon-still-03.webp",
@@ -513,7 +530,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "11fff94bd682d0414cb9accdfdf468998568fd6703c1f9d93c18436ae1b78f50",
       "bytes": 12520,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/horizon-still-03.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/horizon-still-03.webp"
     },
     {
       "file": "interstellar.webp",
@@ -583,7 +601,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "a4ae08c5b57227b7bd6247aa5eaf3eb8b6464f66ea3f614ae94501044cedb990",
       "bytes": 37206,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/interstellar.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/interstellar.webp"
     },
     {
       "file": "the-expanse.webp",
@@ -643,7 +662,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "f72672ec9f5b4a5fc61c393b01612b516fa6c687c69224be3283251e63f54961",
       "bytes": 34024,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/the-expanse.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/the-expanse.webp"
     },
     {
       "file": "foundation.webp",
@@ -703,7 +723,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "5e7ed955576f2823054f99f4ea5e5c132d278e1ec845b22406cea30ab6b407a9",
       "bytes": 34500,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/foundation.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/foundation.webp"
     },
     {
       "file": "blade-runner-2049.webp",
@@ -763,7 +784,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "a158557024f76c5a5e6954a680fef6b2219f0db07a0efd08146e0d291ca3a326",
       "bytes": 13226,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/blade-runner-2049.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/blade-runner-2049.webp"
     },
     {
       "file": "the-last-of-us.webp",
@@ -823,7 +845,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "a9a959609f298f8640813809f0ba89ceaf791395da51b53396e4409e38c6d1f3",
       "bytes": 12364,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/the-last-of-us.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/the-last-of-us.webp"
     },
     {
       "file": "spirited-away.webp",
@@ -883,7 +906,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "32f84fbe4401f5651ab30f07c05eb7bfd507281431c5320f5bd916f3cb83b15d",
       "bytes": 17766,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/spirited-away.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/spirited-away.webp"
     },
     {
       "file": "planet-earth-iii.webp",
@@ -943,7 +967,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "39f560b5024df729260b34fadec1a785fcf08faad9771c671245467766aadcdf",
       "bytes": 12912,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/planet-earth-iii.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/planet-earth-iii.webp"
     },
     {
       "file": "dune-part-two-watchlist.webp",
@@ -1003,7 +1028,8 @@
       "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
       "sha256": "d4aeb9e325486328acc4c9a45fea00305a0e125d0bdd5325202e45f57946a71c",
       "bytes": 8642,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/dune-part-two-watchlist.webp",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/dune-part-two-watchlist.webp"
     },
     {
       "file": "icons/grid.svg",
@@ -1022,7 +1048,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "0042d8d6cdc64ca82193d9deafe28b7eafd63ab4d19a72571b3368ebc19a6c7c",
       "bytes": 471,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/grid.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/grid.svg"
     },
     {
       "file": "icons/bell.svg",
@@ -1041,7 +1068,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "6cbf70283b6b4f2a51561fe7cebe2aeec5a856145449089155351e20a722bbea",
       "bytes": 391,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/bell.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/bell.svg"
     },
     {
       "file": "icons/back.svg",
@@ -1060,7 +1088,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "d1a1acf4cbeaa0f48dbebc7441a1f1627a65fef222e26ecd5254045e53d0dc6d",
       "bytes": 200,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/back.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/back.svg"
     },
     {
       "file": "icons/heart.svg",
@@ -1079,7 +1108,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "ebcaa3d93f93157a8f9f0338b5bcc2eccdb103f05ac72438d8fe8c69f8b3ae36",
       "bytes": 273,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/heart.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/heart.svg"
     },
     {
       "file": "icons/share.svg",
@@ -1098,7 +1128,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "362608040b3ad56c3148d9b0dc51def070c116c70cf12cab7932cd947ee5466b",
       "bytes": 404,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/share.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/share.svg"
     },
     {
       "file": "icons/more-vertical.svg",
@@ -1117,7 +1148,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "962a215cbdd84a4253551bf0e5f2b9395785cb741fd939494b4b5bc723f6db8c",
       "bytes": 234,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/more-vertical.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/more-vertical.svg"
     },
     {
       "file": "icons/play.svg",
@@ -1136,7 +1168,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "2b02904aecb605cc8bb828f5f9dd82b801186a3c4b2b72e153528de8c65cda7d",
       "bytes": 212,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/play.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/play.svg"
     },
     {
       "file": "icons/bookmark.svg",
@@ -1155,7 +1188,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "8d1feb8216ba899d1003503319c36bf2c506744b54c051ce5f2e1f33730c4501",
       "bytes": 241,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/bookmark.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/bookmark.svg"
     },
     {
       "file": "icons/arrow-right.svg",
@@ -1174,7 +1208,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "7b05f1a9eb5504275504cbcbd29f87b8aa76af95633a15e204e6bf62b38dd1e4",
       "bytes": 201,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/arrow-right.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/arrow-right.svg"
     },
     {
       "file": "icons/home-active.svg",
@@ -1193,7 +1228,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "9649439f68223191201c9f9ee92d3bdc4e263d90ffb12078b04f5214862c6b9b",
       "bytes": 197,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/home-active.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/home-active.svg"
     },
     {
       "file": "icons/search.svg",
@@ -1212,7 +1248,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "196a30652af82f748b8e1aed8d3c4b297a09c7c4f7ccc518e3c097ab57827a74",
       "bytes": 257,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/search.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/search.svg"
     },
     {
       "file": "icons/profile.svg",
@@ -1231,7 +1268,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "62b835e1e4a636c346a5005f169fd41092b68ca5984c6ebada91b8b135a7473d",
       "bytes": 284,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/profile.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/profile.svg"
     },
     {
       "file": "icons/plus.svg",
@@ -1250,7 +1288,8 @@
       "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
       "sha256": "5fe31272eab9fe42d7ff83ce7c53a885f47e504d86fc841013448affaafba57b",
       "bytes": 174,
-      "github_url": null
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/plus.svg",
+      "github_html_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema/icons/plus.svg"
     }
   ]
 }

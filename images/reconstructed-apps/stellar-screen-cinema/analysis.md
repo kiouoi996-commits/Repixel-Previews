@@ -70,6 +70,8 @@
 
 ## 6. GitHub / Repixel Media
 
-- Запрошенный проект: `stellar-screen-cinema` в репозитории **Repixel prewiews**.
-- На момент выполнения GitHub-плагин включён, но у текущего подключения **0 GitHub App installations / 0 installed accounts / 0 доступных repositories**. Поэтому невозможно безопасно определить `owner/repo`, записать файлы, получить commit SHA и проверить raw/permalink URL.
-- Локальный набор полностью подготовлен; поля `github_url`, `repository_url`, `manifest_url`, `commit_sha` в manifest намеренно оставлены пустыми/blocked вместо выдуманных ссылок.
+- Проект опубликован в публичном репозитории **kiouoi996-commits/Repixel-Previews** в папке `images/reconstructed-apps/stellar-screen-cinema`.
+- Коммит с бинарными ассетами: `828379c772db327380d0cc768467d207774bbb3b`. Архив перед распаковкой проверен по SHA-256: `aaaac7749e64e90a1c5a53201cac41c6dcb2f41028195c13a774406e7b05bea6`.
+- GitHub Actions run `37149152009` завершился со статусом **success**; workflow проверил SHA-256 архива, распаковал 32 файла и удалил временные transfer-chunks/workflow.
+- Постоянные URL каждого ассета в manifest и CSV закреплены за коммитом `828379c772db327380d0cc768467d207774bbb3b`.
+- Папка проекта: https://github.com/kiouoi996-commits/Repixel-Previews/tree/828379c772db327380d0cc768467d207774bbb3b/images/reconstructed-apps/stellar-screen-cinema
