@@ -1,0 +1,1256 @@
+{
+  "project_name": "Stellar Screen Cinema",
+  "project_slug": "stellar-screen-cinema",
+  "status": "local_assets_complete_github_upload_blocked",
+  "source_screenshot": {
+    "pixel_size": [
+      1536,
+      1024
+    ],
+    "note": "All measurements are estimates from the raster screenshot, not authoritative source-layout values."
+  },
+  "repository_request": {
+    "repository_display_name": "Repixel prewiews",
+    "project_folder": "stellar-screen-cinema",
+    "upload_status": "blocked",
+    "reason": "GitHub plugin is enabled, but the current account has zero GitHub App installations/accounts and exposes zero repositories.",
+    "repository_url": null,
+    "manifest_url": null,
+    "commit_sha": null
+  },
+  "ui_tokens_estimated_from_screenshot": {
+    "page_background": "#F7F7FB",
+    "sheet_background": "#F9F9FD",
+    "inactive_chip_background": "#F1F1FB",
+    "active_accent": "#6F71F6",
+    "primary_text": "#0B0911",
+    "secondary_text": "#7C7E95",
+    "icon_dark": "#24213F",
+    "notification_dot": "#FF2D46",
+    "button_accent": "#6F71F4",
+    "shadow": "0 8px 24px rgba(45, 43, 89, 0.06)",
+    "small_control_background": "rgba(245,245,252,0.90)",
+    "small_control_backdrop_blur": "8px",
+    "card_radius": "~22–26px on large art; ~16–20px on poster cards; ~17–20px on watchlist thumbnails",
+    "note": "HEX/RGBA values are raster-screenshot estimates and may include antialiasing/compression/light blending."
+  },
+  "assets": [
+    {
+      "file": "last-horizon-feature.webp",
+      "type": "raster",
+      "role": "Discover: featured card background for “The Last Horizon”",
+      "pixel_size": [
+        1572,
+        872
+      ],
+      "aspect_ratio": 1.8028,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 118,
+        "y": 430,
+        "w": 393,
+        "h": 218
+      },
+      "source_visible_box_pct": {
+        "x": 7.68,
+        "y": 41.99,
+        "w": 25.59,
+        "h": 21.29
+      },
+      "placements": [
+        {
+          "x": 118,
+          "y": 430,
+          "w": 393,
+          "h": 218,
+          "x_pct": 7.68,
+          "y_pct": 41.99,
+          "w_pct": 25.59,
+          "h_pct": 21.29
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center 50%",
+        "intended_visible_size": "393×218"
+      },
+      "subject_estimate": {
+        "main_subject": "standing astronaut",
+        "width_pct": 3,
+        "height_pct": 13,
+        "margins_pct": {
+          "top": 43,
+          "right": 18,
+          "bottom": 44,
+          "left": 79
+        },
+        "secondary": "planet ≈50% W × 55% H; cliff ≈42% W × 42% H"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "605ff4fede9a588e54b7d98f6c7b936df359fa3766ac2a51f0ce06b9ba3a111f",
+      "bytes": 283972,
+      "github_url": null
+    },
+    {
+      "file": "last-horizon-detail.webp",
+      "type": "raster",
+      "role": "Detail screen: top hero/background for “The Last Horizon”",
+      "pixel_size": [
+        1684,
+        1968
+      ],
+      "aspect_ratio": 0.8557,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 557,
+        "y": 76,
+        "w": 421,
+        "h": 492
+      },
+      "source_visible_box_pct": {
+        "x": 36.26,
+        "y": 7.42,
+        "w": 27.41,
+        "h": 48.05
+      },
+      "placements": [
+        {
+          "x": 557,
+          "y": 76,
+          "w": 421,
+          "h": 492,
+          "x_pct": 36.26,
+          "y_pct": 7.42,
+          "w_pct": 27.41,
+          "h_pct": 48.05
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center top",
+        "intended_visible_size": "421×492"
+      },
+      "subject_estimate": {
+        "main_subject": "standing astronaut",
+        "width_pct": 4,
+        "height_pct": 12,
+        "margins_pct": {
+          "top": 56,
+          "right": 13,
+          "bottom": 32,
+          "left": 83
+        },
+        "secondary": "planet ≈72% W × 40% H"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "685e895bd69ad65a0bb0eb45f520cf0662abe011c2050901bba44febe9935aec",
+      "bytes": 339628,
+      "github_url": null
+    },
+    {
+      "file": "dune-part-two.webp",
+      "type": "raster",
+      "role": "Discover: first Trending now poster",
+      "pixel_size": [
+        504,
+        768
+      ],
+      "aspect_ratio": 0.6562,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 121,
+        "y": 727,
+        "w": 126,
+        "h": 192
+      },
+      "source_visible_box_pct": {
+        "x": 7.88,
+        "y": 71.0,
+        "w": 8.2,
+        "h": 18.75
+      },
+      "placements": [
+        {
+          "x": 121,
+          "y": 727,
+          "w": 126,
+          "h": 192,
+          "x_pct": 7.88,
+          "y_pct": 71.0,
+          "w_pct": 8.2,
+          "h_pct": 18.75
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "126×192"
+      },
+      "subject_estimate": {
+        "main_subject": "standing figure",
+        "width_pct": 12,
+        "height_pct": 18,
+        "margins_pct": {
+          "top": 49,
+          "right": 42,
+          "bottom": 33,
+          "left": 46
+        },
+        "secondary": "orange planet ≈86% W × 48% H"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "5bd4dac6859cab2e3b772b03f1967b65c628f36d12a048299e11459e08851b1a",
+      "bytes": 29810,
+      "github_url": null
+    },
+    {
+      "file": "fallout.webp",
+      "type": "raster",
+      "role": "Discover: second Trending now poster",
+      "pixel_size": [
+        500,
+        764
+      ],
+      "aspect_ratio": 0.6545,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 254,
+        "y": 728,
+        "w": 125,
+        "h": 191
+      },
+      "source_visible_box_pct": {
+        "x": 16.54,
+        "y": 71.09,
+        "w": 8.14,
+        "h": 18.65
+      },
+      "placements": [
+        {
+          "x": 254,
+          "y": 728,
+          "w": 125,
+          "h": 191,
+          "x_pct": 16.54,
+          "y_pct": 71.09,
+          "w_pct": 8.14,
+          "h_pct": 18.65
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "125×191"
+      },
+      "subject_estimate": {
+        "main_subject": "industrial tower complex",
+        "width_pct": 44,
+        "height_pct": 50,
+        "margins_pct": {
+          "top": 34,
+          "right": 31,
+          "bottom": 16,
+          "left": 25
+        },
+        "secondary": "settlement fills lower ≈55% H"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "191a41fa8f44cc5f8fd34d2e42bdd0f771969cbefe5f886ab2d5e2a8da46cc9f",
+      "bytes": 39348,
+      "github_url": null
+    },
+    {
+      "file": "our-planet.webp",
+      "type": "raster",
+      "role": "Discover: third Trending now poster",
+      "pixel_size": [
+        500,
+        764
+      ],
+      "aspect_ratio": 0.6545,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 388,
+        "y": 728,
+        "w": 125,
+        "h": 191
+      },
+      "source_visible_box_pct": {
+        "x": 25.26,
+        "y": 71.09,
+        "w": 8.14,
+        "h": 18.65
+      },
+      "placements": [
+        {
+          "x": 388,
+          "y": 728,
+          "w": 125,
+          "h": 191,
+          "x_pct": 25.26,
+          "y_pct": 71.09,
+          "w_pct": 8.14,
+          "h_pct": 18.65
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "125×191"
+      },
+      "subject_estimate": {
+        "main_subject": "glacier/ice mass",
+        "width_pct": 92,
+        "height_pct": 58,
+        "margins_pct": {
+          "top": 29,
+          "right": 4,
+          "bottom": 13,
+          "left": 4
+        },
+        "secondary": "mountain range spans upper middle"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "058a711dd2599afcaea63bb94176727a9d1a536df78b5f52dc0de282db06d811",
+      "bytes": 40838,
+      "github_url": null
+    },
+    {
+      "file": "horizon-still-01.webp",
+      "type": "raster",
+      "role": "Detail: Overview media still #1",
+      "pixel_size": [
+        540,
+        268
+      ],
+      "aspect_ratio": 2.0149,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 579,
+        "y": 709,
+        "w": 135,
+        "h": 67
+      },
+      "source_visible_box_pct": {
+        "x": 37.7,
+        "y": 69.24,
+        "w": 8.79,
+        "h": 6.54
+      },
+      "placements": [
+        {
+          "x": 579,
+          "y": 709,
+          "w": 135,
+          "h": 67,
+          "x_pct": 37.7,
+          "y_pct": 69.24,
+          "w_pct": 8.79,
+          "h_pct": 6.54
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "135×67"
+      },
+      "subject_estimate": {
+        "main_subject": "dark alpine/space landscape",
+        "width_pct": 100,
+        "height_pct": 78,
+        "margins_pct": {
+          "top": 10,
+          "right": 0,
+          "bottom": 12,
+          "left": 0
+        },
+        "secondary": "play control is UI and excluded"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "1adf51b8265e5eef87b0ac347f897a8eaee87c0dc0ccaf1c6d9870893017e042",
+      "bytes": 11626,
+      "github_url": null
+    },
+    {
+      "file": "horizon-still-02.webp",
+      "type": "raster",
+      "role": "Detail: Overview media still #2",
+      "pixel_size": [
+        424,
+        268
+      ],
+      "aspect_ratio": 1.5821,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 721,
+        "y": 709,
+        "w": 106,
+        "h": 67
+      },
+      "source_visible_box_pct": {
+        "x": 46.94,
+        "y": 69.24,
+        "w": 6.9,
+        "h": 6.54
+      },
+      "placements": [
+        {
+          "x": 721,
+          "y": 709,
+          "w": 106,
+          "h": 67,
+          "x_pct": 46.94,
+          "y_pct": 69.24,
+          "w_pct": 6.9,
+          "h_pct": 6.54
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "106×67"
+      },
+      "subject_estimate": {
+        "main_subject": "central snowy peak",
+        "width_pct": 58,
+        "height_pct": 82,
+        "margins_pct": {
+          "top": 7,
+          "right": 19,
+          "bottom": 11,
+          "left": 23
+        },
+        "secondary": "snow field fills frame"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "3bae09fd035482098cf94d27c6646d1f374a3af0b5d058d04f534074e577d7bc",
+      "bytes": 18260,
+      "github_url": null
+    },
+    {
+      "file": "horizon-still-03.webp",
+      "type": "raster",
+      "role": "Detail: Overview media still #3",
+      "pixel_size": [
+        480,
+        268
+      ],
+      "aspect_ratio": 1.791,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 835,
+        "y": 709,
+        "w": 120,
+        "h": 67
+      },
+      "source_visible_box_pct": {
+        "x": 54.36,
+        "y": 69.24,
+        "w": 7.81,
+        "h": 6.54
+      },
+      "placements": [
+        {
+          "x": 835,
+          "y": 709,
+          "w": 120,
+          "h": 67,
+          "x_pct": 54.36,
+          "y_pct": 69.24,
+          "w_pct": 7.81,
+          "h_pct": 6.54
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "120×67"
+      },
+      "subject_estimate": {
+        "main_subject": "planet limb",
+        "width_pct": 94,
+        "height_pct": 68,
+        "margins_pct": {
+          "top": 20,
+          "right": 0,
+          "bottom": 12,
+          "left": 6
+        },
+        "secondary": "small celestial body at top right"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "11fff94bd682d0414cb9accdfdf468998568fd6703c1f9d93c18436ae1b78f50",
+      "bytes": 12520,
+      "github_url": null
+    },
+    {
+      "file": "interstellar.webp",
+      "type": "raster",
+      "role": "Detail: “You might also like” poster; also reusable for Watchlist Interstellar thumbnail via cover crop",
+      "pixel_size": [
+        484,
+        708
+      ],
+      "aspect_ratio": 0.6836,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 579,
+        "y": 838,
+        "w": 121,
+        "h": 177
+      },
+      "source_visible_box_pct": {
+        "x": 37.7,
+        "y": 81.84,
+        "w": 7.88,
+        "h": 17.29
+      },
+      "placements": [
+        {
+          "x": 579,
+          "y": 838,
+          "w": 121,
+          "h": 177,
+          "x_pct": 37.7,
+          "y_pct": 81.84,
+          "w_pct": 7.88,
+          "h_pct": 17.29
+        },
+        {
+          "x": 1041,
+          "y": 325,
+          "w": 75,
+          "h": 75,
+          "x_pct": 67.77,
+          "y_pct": 31.74,
+          "w_pct": 4.88,
+          "h_pct": 7.32
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "121×177; Watchlist 75×75 with object-position:center"
+      },
+      "subject_estimate": {
+        "main_subject": "black snow peak",
+        "width_pct": 56,
+        "height_pct": 47,
+        "margins_pct": {
+          "top": 45,
+          "right": 19,
+          "bottom": 8,
+          "left": 25
+        },
+        "secondary": "white/gray planetary cloud arc fills upper background"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "a4ae08c5b57227b7bd6247aa5eaf3eb8b6464f66ea3f614ae94501044cedb990",
+      "bytes": 37206,
+      "github_url": null
+    },
+    {
+      "file": "the-expanse.webp",
+      "type": "raster",
+      "role": "Detail: “You might also like” poster",
+      "pixel_size": [
+        480,
+        708
+      ],
+      "aspect_ratio": 0.678,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 708,
+        "y": 838,
+        "w": 120,
+        "h": 177
+      },
+      "source_visible_box_pct": {
+        "x": 46.09,
+        "y": 81.84,
+        "w": 7.81,
+        "h": 17.29
+      },
+      "placements": [
+        {
+          "x": 708,
+          "y": 838,
+          "w": 120,
+          "h": 177,
+          "x_pct": 46.09,
+          "y_pct": 81.84,
+          "w_pct": 7.81,
+          "h_pct": 17.29
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "120×177"
+      },
+      "subject_estimate": {
+        "main_subject": "spacecraft",
+        "width_pct": 58,
+        "height_pct": 32,
+        "margins_pct": {
+          "top": 39,
+          "right": 14,
+          "bottom": 29,
+          "left": 28
+        },
+        "secondary": "curving orange planet limb upper left"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "f72672ec9f5b4a5fc61c393b01612b516fa6c687c69224be3283251e63f54961",
+      "bytes": 34024,
+      "github_url": null
+    },
+    {
+      "file": "foundation.webp",
+      "type": "raster",
+      "role": "Detail: “You might also like” poster",
+      "pixel_size": [
+        492,
+        708
+      ],
+      "aspect_ratio": 0.6949,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 835,
+        "y": 838,
+        "w": 123,
+        "h": 177
+      },
+      "source_visible_box_pct": {
+        "x": 54.36,
+        "y": 81.84,
+        "w": 8.01,
+        "h": 17.29
+      },
+      "placements": [
+        {
+          "x": 835,
+          "y": 838,
+          "w": 123,
+          "h": 177,
+          "x_pct": 54.36,
+          "y_pct": 81.84,
+          "w_pct": 8.01,
+          "h_pct": 17.29
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "123×177"
+      },
+      "subject_estimate": {
+        "main_subject": "planet horizon + flare",
+        "width_pct": 100,
+        "height_pct": 58,
+        "margins_pct": {
+          "top": 27,
+          "right": 0,
+          "bottom": 15,
+          "left": 0
+        },
+        "secondary": "tiny figure/structure near upper-right quadrant"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "5e7ed955576f2823054f99f4ea5e5c132d278e1ec845b22406cea30ab6b407a9",
+      "bytes": 34500,
+      "github_url": null
+    },
+    {
+      "file": "blade-runner-2049.webp",
+      "type": "raster",
+      "role": "Watchlist: Blade Runner 2049 square thumbnail",
+      "pixel_size": [
+        300,
+        292
+      ],
+      "aspect_ratio": 1.0274,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 1041,
+        "y": 416,
+        "w": 75,
+        "h": 73
+      },
+      "source_visible_box_pct": {
+        "x": 67.77,
+        "y": 40.62,
+        "w": 4.88,
+        "h": 7.13
+      },
+      "placements": [
+        {
+          "x": 1041,
+          "y": 416,
+          "w": 75,
+          "h": 73,
+          "x_pct": 67.77,
+          "y_pct": 40.62,
+          "w_pct": 4.88,
+          "h_pct": 7.13
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "75×73"
+      },
+      "subject_estimate": {
+        "main_subject": "standing cloaked figure",
+        "width_pct": 43,
+        "height_pct": 78,
+        "margins_pct": {
+          "top": 8,
+          "right": 26,
+          "bottom": 14,
+          "left": 31
+        },
+        "secondary": "orange-left / cyan-right city background"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "a158557024f76c5a5e6954a680fef6b2219f0db07a0efd08146e0d291ca3a326",
+      "bytes": 13226,
+      "github_url": null
+    },
+    {
+      "file": "the-last-of-us.webp",
+      "type": "raster",
+      "role": "Watchlist: The Last of Us square thumbnail",
+      "pixel_size": [
+        300,
+        292
+      ],
+      "aspect_ratio": 1.0274,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 1041,
+        "y": 507,
+        "w": 75,
+        "h": 73
+      },
+      "source_visible_box_pct": {
+        "x": 67.77,
+        "y": 49.51,
+        "w": 4.88,
+        "h": 7.13
+      },
+      "placements": [
+        {
+          "x": 1041,
+          "y": 507,
+          "w": 75,
+          "h": 73,
+          "x_pct": 67.77,
+          "y_pct": 49.51,
+          "w_pct": 4.88,
+          "h_pct": 7.13
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "75×73"
+      },
+      "subject_estimate": {
+        "main_subject": "two seated figures",
+        "width_pct": 45,
+        "height_pct": 48,
+        "margins_pct": {
+          "top": 38,
+          "right": 23,
+          "bottom": 14,
+          "left": 32
+        },
+        "secondary": "dark ruined interior/forest-like environment"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "a9a959609f298f8640813809f0ba89ceaf791395da51b53396e4409e38c6d1f3",
+      "bytes": 12364,
+      "github_url": null
+    },
+    {
+      "file": "spirited-away.webp",
+      "type": "raster",
+      "role": "Watchlist: Spirited Away square thumbnail",
+      "pixel_size": [
+        300,
+        296
+      ],
+      "aspect_ratio": 1.0135,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 1041,
+        "y": 597,
+        "w": 75,
+        "h": 74
+      },
+      "source_visible_box_pct": {
+        "x": 67.77,
+        "y": 58.3,
+        "w": 4.88,
+        "h": 7.23
+      },
+      "placements": [
+        {
+          "x": 1041,
+          "y": 597,
+          "w": 75,
+          "h": 74,
+          "x_pct": 67.77,
+          "y_pct": 58.3,
+          "w_pct": 4.88,
+          "h_pct": 7.23
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "75×74"
+      },
+      "subject_estimate": {
+        "main_subject": "fantastical tower/structure",
+        "width_pct": 53,
+        "height_pct": 73,
+        "margins_pct": {
+          "top": 14,
+          "right": 19,
+          "bottom": 13,
+          "left": 28
+        },
+        "secondary": "bright cyan sky and golden circular motif"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "32f84fbe4401f5651ab30f07c05eb7bfd507281431c5320f5bd916f3cb83b15d",
+      "bytes": 17766,
+      "github_url": null
+    },
+    {
+      "file": "planet-earth-iii.webp",
+      "type": "raster",
+      "role": "Watchlist: Planet Earth III square thumbnail",
+      "pixel_size": [
+        300,
+        292
+      ],
+      "aspect_ratio": 1.0274,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 1041,
+        "y": 689,
+        "w": 75,
+        "h": 73
+      },
+      "source_visible_box_pct": {
+        "x": 67.77,
+        "y": 67.29,
+        "w": 4.88,
+        "h": 7.13
+      },
+      "placements": [
+        {
+          "x": 1041,
+          "y": 689,
+          "w": 75,
+          "h": 73,
+          "x_pct": 67.77,
+          "y_pct": 67.29,
+          "w_pct": 4.88,
+          "h_pct": 7.13
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "75×73"
+      },
+      "subject_estimate": {
+        "main_subject": "mountain valley / small person",
+        "width_pct": 100,
+        "height_pct": 65,
+        "margins_pct": {
+          "top": 29,
+          "right": 0,
+          "bottom": 6,
+          "left": 0
+        },
+        "secondary": "green foreground and blue mountains"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "39f560b5024df729260b34fadec1a785fcf08faad9771c671245467766aadcdf",
+      "bytes": 12912,
+      "github_url": null
+    },
+    {
+      "file": "dune-part-two-watchlist.webp",
+      "type": "raster",
+      "role": "Watchlist: Dune: Part Two square thumbnail (different artwork from Trending poster)",
+      "pixel_size": [
+        300,
+        292
+      ],
+      "aspect_ratio": 1.0274,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 1041,
+        "y": 782,
+        "w": 75,
+        "h": 73
+      },
+      "source_visible_box_pct": {
+        "x": 67.77,
+        "y": 76.37,
+        "w": 4.88,
+        "h": 7.13
+      },
+      "placements": [
+        {
+          "x": 1041,
+          "y": 782,
+          "w": 75,
+          "h": 73,
+          "x_pct": 67.77,
+          "y_pct": 76.37,
+          "w_pct": 4.88,
+          "h_pct": 7.13
+        }
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "center",
+        "intended_visible_size": "75×73"
+      },
+      "subject_estimate": {
+        "main_subject": "standing figure",
+        "width_pct": 8,
+        "height_pct": 29,
+        "margins_pct": {
+          "top": 41,
+          "right": 45,
+          "bottom": 30,
+          "left": 47
+        },
+        "secondary": "pink-orange desert gradient"
+      },
+      "ui_removed": true,
+      "background": "embedded photographic/illustrative background; no alpha",
+      "shadow": "only scene-internal tonal shading; container shadow must be UI/CSS",
+      "crop_note": "rectangular export; UI corner radius must be applied by container",
+      "reconstruction_note": "Reconstruction from screenshot. Areas hidden by UI are synthesized/retouched and are not claimed to be the original source artwork.",
+      "sha256": "d4aeb9e325486328acc4c9a45fea00305a0e125d0bdd5325202e45f57946a71c",
+      "bytes": 8642,
+      "github_url": null
+    },
+    {
+      "file": "icons/grid.svg",
+      "type": "svg",
+      "role": "Discover top-left apps/grid icon",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "0042d8d6cdc64ca82193d9deafe28b7eafd63ab4d19a72571b3368ebc19a6c7c",
+      "bytes": 471,
+      "github_url": null
+    },
+    {
+      "file": "icons/bell.svg",
+      "type": "svg",
+      "role": "Discover notification bell; red unread dot is separate UI",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "6cbf70283b6b4f2a51561fe7cebe2aeec5a856145449089155351e20a722bbea",
+      "bytes": 391,
+      "github_url": null
+    },
+    {
+      "file": "icons/back.svg",
+      "type": "svg",
+      "role": "Detail and Watchlist back icon",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "d1a1acf4cbeaa0f48dbebc7441a1f1627a65fef222e26ecd5254045e53d0dc6d",
+      "bytes": 200,
+      "github_url": null
+    },
+    {
+      "file": "icons/heart.svg",
+      "type": "svg",
+      "role": "Favorite/like outline used on detail and poster cards",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "ebcaa3d93f93157a8f9f0338b5bcc2eccdb103f05ac72438d8fe8c69f8b3ae36",
+      "bytes": 273,
+      "github_url": null
+    },
+    {
+      "file": "icons/share.svg",
+      "type": "svg",
+      "role": "Detail share/export icon",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "362608040b3ad56c3148d9b0dc51def070c116c70cf12cab7932cd947ee5466b",
+      "bytes": 404,
+      "github_url": null
+    },
+    {
+      "file": "icons/more-vertical.svg",
+      "type": "svg",
+      "role": "Watchlist overflow menu",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "962a215cbdd84a4253551bf0e5f2b9395785cb741fd939494b4b5bc723f6db8c",
+      "bytes": 234,
+      "github_url": null
+    },
+    {
+      "file": "icons/play.svg",
+      "type": "svg",
+      "role": "Trailer and watchlist play glyph",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "2b02904aecb605cc8bb828f5f9dd82b801186a3c4b2b72e153528de8c65cda7d",
+      "bytes": 212,
+      "github_url": null
+    },
+    {
+      "file": "icons/bookmark.svg",
+      "type": "svg",
+      "role": "Save/bookmark icon; reused in detail and bottom nav",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "8d1feb8216ba899d1003503319c36bf2c506744b54c051ce5f2e1f33730c4501",
+      "bytes": 241,
+      "github_url": null
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "type": "svg",
+      "role": "Discover featured-card forward arrow",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "7b05f1a9eb5504275504cbcbd29f87b8aa76af95633a15e204e6bf62b38dd1e4",
+      "bytes": 201,
+      "github_url": null
+    },
+    {
+      "file": "icons/home-active.svg",
+      "type": "svg",
+      "role": "Bottom navigation active Home icon",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "9649439f68223191201c9f9ee92d3bdc4e263d90ffb12078b04f5214862c6b9b",
+      "bytes": 197,
+      "github_url": null
+    },
+    {
+      "file": "icons/search.svg",
+      "type": "svg",
+      "role": "Search field / bottom navigation search icon",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "196a30652af82f748b8e1aed8d3c4b297a09c7c4f7ccc518e3c097ab57827a74",
+      "bytes": 257,
+      "github_url": null
+    },
+    {
+      "file": "icons/profile.svg",
+      "type": "svg",
+      "role": "Bottom navigation profile icon",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "62b835e1e4a636c346a5005f169fd41092b68ca5984c6ebada91b8b135a7473d",
+      "bytes": 284,
+      "github_url": null
+    },
+    {
+      "file": "icons/plus.svg",
+      "type": "svg",
+      "role": "Add More button plus glyph",
+      "pixel_size": "24×24 logical viewBox",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": {
+        "fit": "none",
+        "recommended_css_size": "24px",
+        "color": "currentColor"
+      },
+      "background": "transparent",
+      "shadow": "none; any circular/pill background is UI",
+      "stroke_note": "≈1.9–2.1 viewBox units with rounded caps/joins where applicable",
+      "sha256": "5fe31272eab9fe42d7ff83ce7c53a885f47e504d86fc841013448affaafba57b",
+      "bytes": 174,
+      "github_url": null
+    }
+  ]
+}
