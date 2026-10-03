@@ -1,0 +1,892 @@
+{
+  "project": {
+    "name": "Hidden Coasts Travel Discovery",
+    "slug": "hidden-coasts-travel-discovery",
+    "status": "reconstruction-from-screenshot",
+    "source_screenshot": {
+      "width": 1448,
+      "height": 1086,
+      "note": "Measurements are estimates from the supplied raster screenshot, not source-layout values."
+    },
+    "target_repository_display_name": "Repixel-Previews (Repixel media repository)",
+    "github_upload_status": "published",
+    "github_repo": "kiouoi996-commits/Repixel-Previews",
+    "github_folder": "images/hidden-coasts-travel-discovery",
+    "github_commit": "a1c879fe2ceadfdfd51006a88cdff119f31e7e62",
+    "github_folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery",
+    "github_commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/a1c879fe2ceadfdfd51006a88cdff119f31e7e62",
+    "url_policy": "Asset URLs are pinned to the asset snapshot commit; metadata is published in a later commit."
+  },
+  "reuse": {
+    "images/hero-santorini-coast.webp": [
+      "screen1 main photo",
+      "screen2 header avatar crop",
+      "screen3 profile avatar crop",
+      "screen3 Saved row1 col1 crop"
+    ],
+    "images/palm-peach-wall.webp": [
+      "screen1 palm tile",
+      "screen3 Saved row1 col2 crop"
+    ]
+  },
+  "rasters": [
+    {
+      "file": "images/hero-santorini-coast.webp",
+      "name": "hero-santorini-coast",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 1: крупное верхнее фото; повторно используется как аватар и Saved r1c1",
+      "role": "Средиземноморское побережье с белой деревней, синим морем и розовыми бугенвиллеями",
+      "visible_box_px": {
+        "x": 164,
+        "y": 94,
+        "width": 283,
+        "height": 290
+      },
+      "visible_box_percent": {
+        "x": 11.33,
+        "y": 8.66,
+        "width": 19.54,
+        "height": 26.7
+      },
+      "visible_aspect": 0.9759,
+      "export_px": {
+        "width": 849,
+        "height": 870
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "Фокальная деревня+цветы ≈58% ширины × 65% высоты; море/небо заполняют фон",
+      "object_offsets": "фокус справа/снизу; ≈42% свободнее слева, ≈10% сверху до горизонта/ландшафта",
+      "crop": "заполняет контейнер; здания справа и цветы снизу частично обрезаны",
+      "ui_separation": "нет наложенного UI в видимой центральной зоне; скруглённые/перекрытые края исключены реконструкционным crop",
+      "display": "object-fit: cover; object-position: 52% 52%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/hero-santorini-coast.webp",
+      "bytes": 121222,
+      "sha256": "40698d742d03161e7d3b40f83fba6a86872f4a1432a49547534e491bc0975b01",
+      "reconstruction_prompt": "Фотореалистичная средиземноморская бухта: глубокое синее море слева, далёкие острова на горизонте, плотная белая кикладская деревня на крутом правом склоне, ярко-розовая бугенвиллея в нижнем переднем плане; дневной мягкий солнечный свет, высокий обзор, широкоугольный туристический кадр, насыщенные но естественные цвета, без текста и UI, композиция почти квадратная, фокус справа и снизу.",
+      "repository_path": "images/hidden-coasts-travel-discovery/hero-santorini-coast.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/hero-santorini-coast.webp"
+    },
+    {
+      "file": "images/palm-peach-wall.webp",
+      "name": "palm-peach-wall",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 1: левая малая карточка; Saved r1c2",
+      "role": "Персиковая архитектурная стена и две пальмы",
+      "visible_box_px": {
+        "x": 88,
+        "y": 376,
+        "width": 164,
+        "height": 155
+      },
+      "visible_box_percent": {
+        "x": 6.08,
+        "y": 34.62,
+        "width": 11.33,
+        "height": 14.27
+      },
+      "visible_aspect": 1.0581,
+      "export_px": {
+        "width": 492,
+        "height": 465
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "пальмы ≈65% ширины × 95% высоты; фасад ≈100% ширины × 48% высоты",
+      "object_offsets": "стволы в левой четверти и около 65% ширины; кроны заходят к верхнему краю",
+      "crop": "кроны и стволы частично обрезаны краями",
+      "ui_separation": "нет UI; верхняя зона, перекрытая соседним фото в макете, исключена",
+      "display": "object-fit: cover; object-position: 50% 52%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/palm-peach-wall.webp",
+      "bytes": 33018,
+      "sha256": "6292864e6ac05421bfb4d27ace193571248c972ae4e6a50050b1bc0741ea363b",
+      "reconstruction_prompt": "Фотореалистичный минималистичный фасад тёплого персикового цвета под ясным голубым небом, две пальмы: высокий тонкий ствол слева и более крупная пальма ближе к центру/правой половине; солнечный дневной свет, чистые геометрические линии, без людей, текста и UI, почти квадратная/слегка широкая композиция.",
+      "repository_path": "images/hidden-coasts-travel-discovery/palm-peach-wall.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/palm-peach-wall.webp"
+    },
+    {
+      "file": "images/turquoise-cliff-bay.webp",
+      "name": "turquoise-cliff-bay",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 1: правая средняя карточка",
+      "role": "Бирюзовая бухта, скалистый белый берег, маленькие лодки",
+      "visible_box_px": {
+        "x": 261,
+        "y": 395,
+        "width": 186,
+        "height": 192
+      },
+      "visible_box_percent": {
+        "x": 18.02,
+        "y": 36.37,
+        "width": 12.85,
+        "height": 17.68
+      },
+      "visible_aspect": 0.9688,
+      "export_px": {
+        "width": 558,
+        "height": 576
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "скалы ≈52% ширины × 55% высоты справа; вода ≈70% площади",
+      "object_offsets": "скалы справа/сверху, лодки нижняя центральная зона",
+      "crop": "берег справа обрезан контейнером; лодки целиком",
+      "ui_separation": "нет UI; края восстановлены через внутренний crop",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/turquoise-cliff-bay.webp",
+      "bytes": 39740,
+      "sha256": "e03dca1844f67cabf45e4cab0e25786ebda491575ef5909849cc506029c97dfd",
+      "reconstruction_prompt": "Фотореалистичная бирюзовая морская бухта на закате: бело-серые скалы и здания справа, несколько маленьких лодок на спокойной воде, тёмно-зелёная хвоя в нижнем левом переднем плане, персиково-голубое небо, вид с возвышенности, без текста/UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/turquoise-cliff-bay.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/turquoise-cliff-bay.webp"
+    },
+    {
+      "file": "images/alpine-mountain-lake-sunset.webp",
+      "name": "alpine-mountain-lake-sunset",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 1: нижняя левая карточка",
+      "role": "Альпийские пики на закате, озеро и каменный передний план",
+      "visible_box_px": {
+        "x": 94,
+        "y": 543,
+        "width": 195,
+        "height": 151
+      },
+      "visible_box_percent": {
+        "x": 6.49,
+        "y": 50.0,
+        "width": 13.47,
+        "height": 13.9
+      },
+      "visible_aspect": 1.2914,
+      "export_px": {
+        "width": 585,
+        "height": 453
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "горный массив+озеро ≈92% ширины × 82% высоты",
+      "object_offsets": "главная вершина около 42% ширины, верхняя треть",
+      "crop": "крайние пики и передний план частично обрезаны",
+      "ui_separation": "нет UI; верхняя зона, перекрытая мозаикой, исключена",
+      "display": "object-fit: cover; object-position: 50% 54%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/alpine-mountain-lake-sunset.webp",
+      "bytes": 42264,
+      "sha256": "69a0b33486f988a716b097f487125c9b4b10f7a13d3af19544f0efb1ac814fe1",
+      "reconstruction_prompt": "Фотореалистичная альпийская панорама на золотом закате: острые горные вершины, глубокое синее озеро в долине, тёплые оранжево-розовые блики на скалах, каменный передний план внизу, высокий обзор, без текста/UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/alpine-mountain-lake-sunset.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/alpine-mountain-lake-sunset.webp"
+    },
+    {
+      "file": "images/hidden-coasts-banner.webp",
+      "name": "hidden-coasts-banner",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 2: featured hero/banner",
+      "role": "Морской берег с дальними островами и высоким скальным мысом с белыми домами справа",
+      "visible_box_px": {
+        "x": 519,
+        "y": 194,
+        "width": 371,
+        "height": 204
+      },
+      "visible_box_percent": {
+        "x": 35.84,
+        "y": 17.86,
+        "width": 25.62,
+        "height": 18.78
+      },
+      "visible_aspect": 1.8186,
+      "export_px": {
+        "width": 1113,
+        "height": 612
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "скальный мыс ≈42% ширины × 90% высоты справа; море/небо ≈60% ширины",
+      "object_offsets": "главный массив прижат к правому краю, горизонт около 38% высоты",
+      "crop": "скала справа обрезана; фон заполняет всю область",
+      "ui_separation": "удалены Featured, заголовок, описание и круглая стрелка; скрытые ими пиксели реконструированы по соседним областям",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/hidden-coasts-banner.webp",
+      "bytes": 95696,
+      "sha256": "cc04a86d97bddb095b9bde94171d63abe447db1d15ac732d3d046081052545f6",
+      "reconstruction_prompt": "Фотореалистичный морской баннер: насыщенно-синее море в левой и центральной части, дальние светлые скалистые острова на горизонте, высокий бело-серый скальный мыс справа с зеленью и белыми домами наверху, яркая бирюза у подножия, ясный голубой свет, широкоформатная композиция 1.82:1, без текста, бейджей, кнопок и UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/hidden-coasts-banner.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/hidden-coasts-banner.webp"
+    },
+    {
+      "file": "images/lake-bled-card.webp",
+      "name": "lake-bled-card",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 2: карточка Lake Bled",
+      "role": "Заснеженные Альпы, озеро и остров с церковью",
+      "visible_box_px": {
+        "x": 522,
+        "y": 610,
+        "width": 183,
+        "height": 220
+      },
+      "visible_box_percent": {
+        "x": 36.05,
+        "y": 56.17,
+        "width": 12.64,
+        "height": 20.26
+      },
+      "visible_aspect": 0.8318,
+      "export_px": {
+        "width": 549,
+        "height": 660
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "горный фон ≈100% ширины × 48% высоты; остров/церковь ≈45% × 35%",
+      "object_offsets": "церковь немного правее центра, горизонт воды около 60% высоты",
+      "crop": "верхние пики и нижняя вода частично обрезаны",
+      "ui_separation": "иконка избранного удалена/исключена; участок не является оригиналом",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/lake-bled-card.webp",
+      "bytes": 71750,
+      "sha256": "94c472ff718cbee480df74e6a9827b3df5f9025fae0faf9ff01d5af41cccb055",
+      "reconstruction_prompt": "Фотореалистичный вертикальный вид на озеро Блед: бирюзово-синяя вода, маленький зелёный остров с белой церковью и красной крышей чуть правее центра, хвойный лес, массив заснеженных Альп на заднем плане, ясное голубое небо, яркий дневной свет, без иконок/UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/lake-bled-card.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/lake-bled-card.webp"
+    },
+    {
+      "file": "images/santorini-blue-dome-card.webp",
+      "name": "santorini-blue-dome-card",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 2: карточка Santorini",
+      "role": "Белая церковь с синим куполом на фоне розово-персикового закатного неба",
+      "visible_box_px": {
+        "x": 716,
+        "y": 610,
+        "width": 171,
+        "height": 220
+      },
+      "visible_box_percent": {
+        "x": 49.45,
+        "y": 56.17,
+        "width": 11.81,
+        "height": 20.26
+      },
+      "visible_aspect": 0.7773,
+      "export_px": {
+        "width": 513,
+        "height": 660
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "архитектура ≈62% ширины × 52% высоты; небо ≈48% высоты",
+      "object_offsets": "синий купол справа от центра, линия острова около 54% высоты",
+      "crop": "архитектура снизу/справа обрезана",
+      "ui_separation": "иконка избранного удалена/исключена; участок не является оригиналом",
+      "display": "object-fit: cover; object-position: 52% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/santorini-blue-dome-card.webp",
+      "bytes": 36518,
+      "sha256": "26ae5ec35fe9ca2714715eb743021ccfb759dd913804816b5f488ca2fb3cb8fb",
+      "reconstruction_prompt": "Фотореалистичный вертикальный кадр Санторини на закате: белая кикладская церковь и здания внизу, крупный насыщенно-синий купол справа от центра, тёмный остров на горизонте, мягкое розово-персиковое небо, без текста/иконок/UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/santorini-blue-dome-card.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/santorini-blue-dome-card.webp"
+    },
+    {
+      "file": "images/turquoise-boat-reef.webp",
+      "name": "turquoise-boat-reef",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 3: Saved r1c3",
+      "role": "Белая моторная лодка над прозрачной бирюзовой водой и камнями",
+      "visible_box_px": {
+        "x": 1207,
+        "y": 552,
+        "width": 116,
+        "height": 135
+      },
+      "visible_box_percent": {
+        "x": 83.36,
+        "y": 50.83,
+        "width": 8.01,
+        "height": 12.43
+      },
+      "visible_aspect": 0.8593,
+      "export_px": {
+        "width": 348,
+        "height": 405
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "лодка ≈30% ширины × 20% высоты; вода ≈75% площади",
+      "object_offsets": "лодка около 58% ширины и 25% высоты",
+      "crop": "берег снизу частично обрезан; лодка целиком",
+      "ui_separation": "нет UI; взят чистый внутренний фрагмент",
+      "display": "object-fit: cover; object-position: 55% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/turquoise-boat-reef.webp",
+      "bytes": 25980,
+      "sha256": "fccacbf9161e7f9ca61cc59bcd2b5b56c4b36659d386bdfca9e145e169eead27",
+      "reconstruction_prompt": "Фотореалистичный вид сверху на прозрачную бирюзовую воду, белая небольшая моторная лодка в верхней центрально-правой части, видимые камни/рифы под водой, светлая каменная береговая кромка внизу, яркий солнечный свет, без UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/turquoise-boat-reef.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/turquoise-boat-reef.webp"
+    },
+    {
+      "file": "images/greek-alley.webp",
+      "name": "greek-alley",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 3: Saved r2c1",
+      "role": "Белая средиземноморская улочка, двери/окна, горшечные растения и бугенвиллея",
+      "visible_box_px": {
+        "x": 961,
+        "y": 694,
+        "width": 112,
+        "height": 132
+      },
+      "visible_box_percent": {
+        "x": 66.37,
+        "y": 63.9,
+        "width": 7.73,
+        "height": 12.15
+      },
+      "visible_aspect": 0.8485,
+      "export_px": {
+        "width": 336,
+        "height": 396
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "архитектура/проход ≈95% ширины × 100% высоты",
+      "object_offsets": "точка схода около 55% ширины и 24% высоты",
+      "crop": "фасады по краям обрезаны",
+      "ui_separation": "нет UI; использован чистый внутренний фрагмент",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/greek-alley.webp",
+      "bytes": 26768,
+      "sha256": "45254014accdaaa92f45cc1c3e67d69f969daca7e1db7c943ee6a44043eb545f",
+      "reconstruction_prompt": "Фотореалистичная узкая белая греческая улочка: белые стены и ступени, бежевые двери/окна, терракотовые горшки, зелёные растения и розовые цветы, яркий дневной свет, центральная перспектива вглубь улицы, без текста/UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/greek-alley.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/greek-alley.webp"
+    },
+    {
+      "file": "images/cappadocia-balloons.webp",
+      "name": "cappadocia-balloons",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 3: Saved r2c2",
+      "role": "Три воздушных шара над скальными формами Каппадокии на пастельном закате",
+      "visible_box_px": {
+        "x": 1083,
+        "y": 694,
+        "width": 115,
+        "height": 132
+      },
+      "visible_box_percent": {
+        "x": 74.79,
+        "y": 63.9,
+        "width": 7.94,
+        "height": 12.15
+      },
+      "visible_aspect": 0.8712,
+      "export_px": {
+        "width": 345,
+        "height": 396
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "центральный шар ≈16% ширины × 14% высоты; три шара занимают ≈65% ширины",
+      "object_offsets": "центральный шар около 50% ширины и 28% высоты",
+      "crop": "нижние скалы частично обрезаны; шары целиком",
+      "ui_separation": "нет UI; использован чистый внутренний фрагмент",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/cappadocia-balloons.webp",
+      "bytes": 9590,
+      "sha256": "e3bfac5ce989a06a474b8577697a7776f37d5fbcd76641822e6c7fb6958f6799",
+      "reconstruction_prompt": "Фотореалистичный вертикальный пейзаж Каппадокии на мягком закате: три воздушных шара разного размера на пастельно-розовом небе, центральный крупнее, тёмные скальные образования внизу, спокойное атмосферное освещение, без UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/cappadocia-balloons.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/cappadocia-balloons.webp"
+    },
+    {
+      "file": "images/alpine-lake-valley.webp",
+      "name": "alpine-lake-valley",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 3: Saved r2c3",
+      "role": "Зелёная альпийская долина, бирюзовое озеро и остроконечные горы",
+      "visible_box_px": {
+        "x": 1207,
+        "y": 694,
+        "width": 116,
+        "height": 132
+      },
+      "visible_box_percent": {
+        "x": 83.36,
+        "y": 63.9,
+        "width": 8.01,
+        "height": 12.15
+      },
+      "visible_aspect": 0.8788,
+      "export_px": {
+        "width": 348,
+        "height": 396
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "горы ≈100% ширины × 62% высоты; озеро ≈70% ширины × 20% высоты",
+      "object_offsets": "озеро нижняя четверть, пики верхняя центральная зона",
+      "crop": "крайние пики и берег обрезаны",
+      "ui_separation": "нет UI; использован чистый внутренний фрагмент",
+      "display": "object-fit: cover; object-position: 52% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/alpine-lake-valley.webp",
+      "bytes": 22642,
+      "sha256": "51c245ae77449aea4c04ad22e706a6d79379a10f726f779cdf080e9a83406186",
+      "reconstruction_prompt": "Фотореалистичная зелёная альпийская долина с бирюзовым озером в нижней четверти, острые серые пики в верхней половине, пышные травяные склоны, голубое небо с облаками, яркий дневной свет, без UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/alpine-lake-valley.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/alpine-lake-valley.webp"
+    },
+    {
+      "file": "images/green-viaduct.webp",
+      "name": "green-viaduct",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 3: Saved r3c1",
+      "role": "Каменный/кирпичный железнодорожный виадук в зелёных холмах",
+      "visible_box_px": {
+        "x": 961,
+        "y": 834,
+        "width": 112,
+        "height": 135
+      },
+      "visible_box_percent": {
+        "x": 66.37,
+        "y": 76.8,
+        "width": 7.73,
+        "height": 12.43
+      },
+      "visible_aspect": 0.8296,
+      "export_px": {
+        "width": 336,
+        "height": 405
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "виадук ≈90% ширины × 34% высоты в нижней половине",
+      "object_offsets": "диагональ моста идёт слева снизу вправо",
+      "crop": "оба конца моста обрезаны краями",
+      "ui_separation": "нет UI; использован чистый внутренний фрагмент",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/green-viaduct.webp",
+      "bytes": 24146,
+      "sha256": "fd4d0bdbefd56a4694035ce44e7ac16785f9ff91a2431299e6a518c809e0f940",
+      "reconstruction_prompt": "Фотореалистичный каменный железнодорожный виадук с арками, идущий диагонально через густые зелёные холмы, лёгкий туман/облака над горами, насыщенная растительность, мягкий дневной свет, без поездов, текста и UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/green-viaduct.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/green-viaduct.webp"
+    },
+    {
+      "file": "images/blue-door-bougainvillea.webp",
+      "name": "blue-door-bougainvillea",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 3: Saved r3c2",
+      "role": "Ярко-синяя дверь в белой стене под насыщенно-розовой бугенвиллеей",
+      "visible_box_px": {
+        "x": 1082,
+        "y": 834,
+        "width": 116,
+        "height": 135
+      },
+      "visible_box_percent": {
+        "x": 74.72,
+        "y": 76.8,
+        "width": 8.01,
+        "height": 12.43
+      },
+      "visible_aspect": 0.8593,
+      "export_px": {
+        "width": 348,
+        "height": 405
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "дверь ≈30% ширины × 52% высоты; цветы ≈75% ширины × 38% высоты",
+      "object_offsets": "дверь около центра, цветы вдоль верхнего края",
+      "crop": "ветви/цветы обрезаны сверху/по бокам",
+      "ui_separation": "нет UI; использован чистый внутренний фрагмент",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/blue-door-bougainvillea.webp",
+      "bytes": 24396,
+      "sha256": "c3ed4640179ca6e276bba5fde47f13708ec0214c47849ada65fb929d123054fb",
+      "reconstruction_prompt": "Фотореалистичный белый средиземноморский фасад с ярко-синей дверью по центру, густая розовая бугенвиллея свисает сверху, несколько простых горшков у входа, солнечный свет и чистые белые стены, без текста/UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/blue-door-bougainvillea.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/blue-door-bougainvillea.webp"
+    },
+    {
+      "file": "images/aerial-beach-harbor.webp",
+      "name": "aerial-beach-harbor",
+      "type": "raster",
+      "source_kind": "screenshot-derived reconstruction",
+      "purpose": "Экран 3: Saved r3c3",
+      "role": "Аэровид пляжа/марины с бирюзовой водой, белыми лодками и береговой инфраструктурой",
+      "visible_box_px": {
+        "x": 1207,
+        "y": 834,
+        "width": 116,
+        "height": 135
+      },
+      "visible_box_percent": {
+        "x": 83.36,
+        "y": 76.8,
+        "width": 8.01,
+        "height": 12.43
+      },
+      "visible_aspect": 0.8593,
+      "export_px": {
+        "width": 348,
+        "height": 405
+      },
+      "alpha": false,
+      "background": "photographic",
+      "object_estimate": "вода ≈55% площади; берег/марина ≈45%",
+      "object_offsets": "берег по верхней/правой части, лодки в нижней половине",
+      "crop": "берег и бухта обрезаны краями",
+      "ui_separation": "нет UI; использован чистый внутренний фрагмент",
+      "display": "object-fit: cover; object-position: 50% 50%",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/aerial-beach-harbor.webp",
+      "bytes": 31794,
+      "sha256": "1640108e9c0b62345b31b3fd987d1bf33d46d693e998f1245c19fa881ff8b7bc",
+      "reconstruction_prompt": "Фотореалистичный аэровид маленькой пляжной марины: яркая бирюзовая вода с белыми лодками, светлый песчаный/каменный берег, компактная береговая инфраструктура и зелёные склоны сверху, солнечный полдень, без текста/UI.",
+      "repository_path": "images/hidden-coasts-travel-discovery/aerial-beach-harbor.webp",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/aerial-beach-harbor.webp"
+    }
+  ],
+  "icons": [
+    {
+      "file": "icons/search.svg",
+      "type": "svg",
+      "purpose": "Экран 2, верхняя круглая кнопка поиска",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24×24 glyph; ≈1.9 px stroke",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/search.svg",
+      "bytes": 267,
+      "sha256": "1b46b55eafa4661c162c3110f1c5846858df66379847bf2bbb2654a489cd3eff",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/search.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/search.svg"
+    },
+    {
+      "file": "icons/bell.svg",
+      "type": "svg",
+      "purpose": "Экран 2, уведомления",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24×24 glyph; ≈1.8 px stroke",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/bell.svg",
+      "bytes": 368,
+      "sha256": "5e10eba7be21656ff5ef4372c3596125b86552e517765228ea8c8583f6d647f5",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/bell.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/bell.svg"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "type": "svg",
+      "purpose": "Экран 1 CTA и экран 2 hero CTA",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24–28 px glyph",
+      "color": "black/white via currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/arrow-right.svg",
+      "bytes": 314,
+      "sha256": "f959097bc15d0a1c8923c180a7d593720c518457b8e271895846544231e3a823",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/arrow-right.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/arrow-right.svg"
+    },
+    {
+      "file": "icons/arrow-left.svg",
+      "type": "svg",
+      "purpose": "Экран 3, back",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24 px glyph",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/arrow-left.svg",
+      "bytes": 314,
+      "sha256": "66f67d63d79e331766b7ae73cbe98e9a591399978141a151bd601c0a06deb63b",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/arrow-left.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/arrow-left.svg"
+    },
+    {
+      "file": "icons/more-vertical.svg",
+      "type": "svg",
+      "purpose": "Экран 3, overflow menu",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24 px glyph, 3 dots",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/more-vertical.svg",
+      "bytes": 269,
+      "sha256": "9fce9e2712c333ed695b787be3afd73ac83c7b8dd8c971d95451e132e0ec4d5d",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/more-vertical.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/more-vertical.svg"
+    },
+    {
+      "file": "icons/mountains.svg",
+      "type": "svg",
+      "purpose": "Экран 2, категория Mountains",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈30 px glyph in 62 px circle",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/mountains.svg",
+      "bytes": 346,
+      "sha256": "8e32556a9559f44ad6855048520176d0eb5b7572bf6f928cceca3faa79108749",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/mountains.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/mountains.svg"
+    },
+    {
+      "file": "icons/beaches-palm.svg",
+      "type": "svg",
+      "purpose": "Экран 2, категория Beaches",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈30 px glyph in 62 px circle",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/beaches-palm.svg",
+      "bytes": 764,
+      "sha256": "c2f3343d16bc8433bce0825e2f79e8b0f6374c62e294caf7052fe2c881e0c86f",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/beaches-palm.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/beaches-palm.svg"
+    },
+    {
+      "file": "icons/cities.svg",
+      "type": "svg",
+      "purpose": "Экран 2, категория Cities",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈30 px glyph in 62 px circle",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/cities.svg",
+      "bytes": 482,
+      "sha256": "2857022949aed7d5a5b6579ee3bec1db6a8f76113050f506e955f9dc4bd6db6e",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/cities.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/cities.svg"
+    },
+    {
+      "file": "icons/nature-leaf.svg",
+      "type": "svg",
+      "purpose": "Экран 2, категория Nature",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈30 px glyph in 62 px circle",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/nature-leaf.svg",
+      "bytes": 362,
+      "sha256": "511f1248b555316bf8107a86272aeb89a2092936438b507ac0ea0941be10d2a5",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/nature-leaf.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/nature-leaf.svg"
+    },
+    {
+      "file": "icons/culture-pin.svg",
+      "type": "svg",
+      "purpose": "Экран 2, категория Culture",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈30 px glyph in 62 px circle",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/culture-pin.svg",
+      "bytes": 326,
+      "sha256": "2cc48da93f362a69e6c083f90127a02e4f1e732c879e843ccf5f87b21a13edea",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/culture-pin.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/culture-pin.svg"
+    },
+    {
+      "file": "icons/heart-outline.svg",
+      "type": "svg",
+      "purpose": "Экран 2, favorite overlay на карточках",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈24 px outline",
+      "color": "white/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/heart-outline.svg",
+      "bytes": 289,
+      "sha256": "172b7de6fa2b4c36b1ada5fd39f2fda852e1903bd15e78f32e5e95cb447c8e4a",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/heart-outline.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/heart-outline.svg"
+    },
+    {
+      "file": "icons/home-filled.svg",
+      "type": "svg",
+      "purpose": "Экран 2, bottom nav Home active",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24 px filled",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/home-filled.svg",
+      "bytes": 226,
+      "sha256": "bee1e1f62cf06a2f1dca478c0c7c85d5887e714cbb31edc0d448300703b8586d",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/home-filled.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/home-filled.svg"
+    },
+    {
+      "file": "icons/explore-compass.svg",
+      "type": "svg",
+      "purpose": "Экран 2, bottom nav Explore",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24 px outline",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/explore-compass.svg",
+      "bytes": 353,
+      "sha256": "183ffee687083cafe7b911aeb09c67dfd3d4bf5a7a63a9f7f9fba3ec9c14522b",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/explore-compass.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/explore-compass.svg"
+    },
+    {
+      "file": "icons/trips-bag.svg",
+      "type": "svg",
+      "purpose": "Экран 2, bottom nav Trips",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24 px outline",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/trips-bag.svg",
+      "bytes": 407,
+      "sha256": "59fd7d444ef7d2b6d90aa51268a67daec74460e2858554be771a819301d88eb1",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/trips-bag.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/trips-bag.svg"
+    },
+    {
+      "file": "icons/profile.svg",
+      "type": "svg",
+      "purpose": "Экран 2, bottom nav Profile",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "24 px outline",
+      "color": "black/currentColor",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/profile.svg",
+      "bytes": 306,
+      "sha256": "f315af39e7cea2b9ef6debf20b6b40e663681ba439a100c02583fad8d36d10ed",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/profile.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/profile.svg"
+    },
+    {
+      "file": "icons/star-filled.svg",
+      "type": "svg",
+      "purpose": "Экран 2, rating star",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈16 px filled",
+      "color": "recommended #FFA800",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/star-filled.svg",
+      "bytes": 232,
+      "sha256": "0a7da16227ad43f23e174e6306aa76a96d18dcaef1d268f15a502fe682690c7e",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/star-filled.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/star-filled.svg"
+    },
+    {
+      "file": "icons/location-pin-filled.svg",
+      "type": "svg",
+      "purpose": "Экран 2, country/location marker",
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "transparent",
+      "geometry": "≈12–14 px filled",
+      "color": "recommended #8E9098",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/location-pin-filled.svg",
+      "bytes": 232,
+      "sha256": "165b9e8821699a80153c739f99eb449cedb40d7c7f9d8521629b98e879ce8a6a",
+      "repository_path": "images/hidden-coasts-travel-discovery/icons/location-pin-filled.svg",
+      "github_browser_url": "https://github.com/kiouoi996-commits/Repixel-Previews/blob/a1c879fe2ceadfdfd51006a88cdff119f31e7e62/images/hidden-coasts-travel-discovery/icons/location-pin-filled.svg"
+    }
+  ],
+  "ui_primitives": {
+    "app_surface": {
+      "color": "#FEFDFE",
+      "note": "approx. sampled from screenshot; not authoritative source token"
+    },
+    "mockup_background": {
+      "color": "#EEEDED",
+      "note": "surrounding presentation background, not app"
+    },
+    "text_primary": {
+      "color": "#0B0B0B"
+    },
+    "text_secondary": {
+      "color": "#8D8F99",
+      "note": "approx."
+    },
+    "control_border": {
+      "color": "#E9E9E9",
+      "width_px_est": 1
+    },
+    "category_backgrounds": {
+      "mountains": "#E9FBC8",
+      "beaches": "#E4F4FE",
+      "cities": "#FEE0D6",
+      "nature": "#F8F5F2",
+      "culture": "#FAEDFD"
+    },
+    "active_home_background": "#E8FAC1",
+    "selected_tab_background": "#080807",
+    "unselected_tab_background": "#F3F3F3",
+    "notification_dot": {
+      "color": "#FF2333",
+      "shape": "circle, ~9–10 px visible diameter"
+    },
+    "online_dot": {
+      "color": "#62D34E",
+      "shape": "circle, ~18 px including white keyline; approx."
+    },
+    "carousel_dots": {
+      "active": "#111111",
+      "inactive": "#D8D8D8",
+      "diameter_px_est": 8,
+      "gap_px_est": 10
+    },
+    "button_shapes": {
+      "onboarding_cta": "~72×68 px rounded rectangle; black; radius ~22 px; arrow is separate SVG",
+      "hero_cta": "~52 px white circle; arrow is separate SVG",
+      "top_icon_button": "~52 px white circle with ~1 px #E9E9E9 border; icon separate SVG",
+      "category_chip": "~62 px circle; fill by category; glyph separate SVG",
+      "profile_tabs": "~112×42 px pill; selected black / unselected #F3F3F3"
+    },
+    "shadows": {
+      "phone_mockup": "presentation-only; approx 0 20px 50px rgba(0,0,0,0.08)",
+      "in_app_cards": "no strong drop shadow visible; rely on clipping/white surface"
+    },
+    "gradients": [
+      {
+        "where": "none required as standalone UI primitive",
+        "note": "visible sky/lighting gradients are photographic and remain inside raster assets"
+      }
+    ]
+  },
+  "notes": [
+    "All raster files are screenshot-derived reconstructions, not original source photography.",
+    "Photo corners/overlapped edge pixels not visible in the screenshot were not claimed as original; clean interior regions were used and scaled to the measured display aspect.",
+    "For hidden-coasts-banner and favorite-icon zones, pixels hidden by UI were reconstructed heuristically.",
+    "System status-bar decorations are intentionally omitted.",
+    "SVG button backgrounds are intentionally omitted; build them as UI geometry."
+  ]
+}
