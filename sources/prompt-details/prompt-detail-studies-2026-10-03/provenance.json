@@ -1,0 +1,68 @@
+{
+  "studyBatch": "prompt-detail-studies-2026-10-03",
+  "motionAuthorship": "authored",
+  "sourceRepositoryCommit": "40de80725997fd8db7b61c3e146d0beefc9fc6cc",
+  "sources": [
+    {
+      "number": 158,
+      "cardId": "verdant-plant-care-ui",
+      "prompt": "content/recreate-specs/verdant-plant-care-ui.md",
+      "bytes": 59736,
+      "sha256": "d7b8e0bb5c427067b2442c34ef5a2040e2a6e65b2b747e463380ff1424e75453",
+      "element": "Water your plants callout: droplet only, with companion arrow response",
+      "nativeCallout": {
+        "width": 365,
+        "height": 81,
+        "radius": 27
+      },
+      "motion": "Clipped liquid wave and two bubbles; fixed typography/surface; arrow shift and brief press",
+      "fixture": true
+    },
+    {
+      "number": 159,
+      "cardId": "alpine-explorer-mobile",
+      "prompt": "content/recreate-specs/alpine-explorer-mobile.md",
+      "bytes": 47741,
+      "sha256": "8d7d0a4f7cb9ebb5dd3936cca59207f06e7237ee70403a936c0bbef2cf0677a7",
+      "element": "Hiking Route elevation-profile polyline",
+      "nativePlot": {
+        "width": 312,
+        "height": 78,
+        "lineEndX": 308
+      },
+      "presentationWrapper": {
+        "width": 416,
+        "height": 200,
+        "authored": true
+      },
+      "motion": "Measured curve reveal, crosshair and point following the curve, distance inspection",
+      "dataNote": "Pixel trace is reference geometry, not a GPS track or calibrated altitude model; 0–8.4 km is an illustrative distance axis."
+    }
+  ],
+  "rendering": {
+    "canvas": {
+      "width": 1080,
+      "height": 608
+    },
+    "frames": 180,
+    "fps": 30,
+    "durationSeconds": 6,
+    "audio": false,
+    "codec": "H.264",
+    "pixelFormat": "yuv420p",
+    "faststart": true,
+    "loopEndpointPixelsEqual": true
+  },
+  "font": {
+    "family": "Inter",
+    "opticalSize": 14,
+    "woffBytes": 65484,
+    "woffSha256": "4554a7b83628b1e6629b0726dad143539b117033cd0c059abef351051da499b8"
+  },
+  "implementations": {
+    "158-water-drop-wave.html": "A semantic button, hover/focus/touch response and custom host action event; no fabricated watering success.",
+    "159-elevation-trail.html": "Pointer/touch inspection plus native keyboard distance range; no fabricated altitude tooltip."
+  },
+  "reducedMotion": "Static icons/fully visible curve; explicit user selection remains available; running requestAnimationFrame loops are cancelled on preference change.",
+  "exportSource": "render.py uses Pillow, NumPy, fontTools and ffmpeg to render the same geometry and deliberate demo timeline. Source resources are fetched from immutable public media commits."
+}
