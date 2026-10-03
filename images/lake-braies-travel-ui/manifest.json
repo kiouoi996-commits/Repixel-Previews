@@ -1,0 +1,305 @@
+{
+  "project": "lake-braies-travel-ui",
+  "title": "Lake Braies Travel UI",
+  "repository": "kiouoi996-commits/Repixel-Previews",
+  "folder": "images/lake-braies-travel-ui",
+  "media_commit": "048a60571bec027f6732fee7fe31c5b878e04324",
+  "reconstruction": true,
+  "note": "Assets are reconstructions based on the supplied 1448×1086 raster screenshot; measurements are estimates from the screenshot, not authoritative source-design values.",
+  "source_screenshot": {
+    "width": 1448,
+    "height": 1086
+  },
+  "rasters": [
+    {
+      "file": "alpine-lake.webp",
+      "purpose": "Shared alpine lake photography used for the Dolomites card and Lake Braies hero",
+      "size_px": [
+        1200,
+        1597
+      ],
+      "aspect_ratio": 0.7514,
+      "alpha": false,
+      "display": "object-fit: cover",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/alpine-lake.webp"
+    },
+    {
+      "file": "amalfi-coast.webp",
+      "purpose": "Explore / Top destinations / Amalfi Coast",
+      "size_px": [
+        504,
+        762
+      ],
+      "aspect_ratio": 0.6614,
+      "alpha": false,
+      "display": "object-fit: cover",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/amalfi-coast.webp"
+    },
+    {
+      "file": "swiss-alps.webp",
+      "purpose": "Explore / Recommended / Swiss Alps",
+      "size_px": [
+        537,
+        435
+      ],
+      "aspect_ratio": 1.2345,
+      "alpha": false,
+      "display": "object-fit: cover",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/swiss-alps.webp"
+    },
+    {
+      "file": "bali-temple.webp",
+      "purpose": "Explore / Recommended / Bali",
+      "size_px": [
+        531,
+        435
+      ],
+      "aspect_ratio": 1.2207,
+      "alpha": false,
+      "display": "object-fit: cover",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/bali-temple.webp"
+    },
+    {
+      "file": "lake-braies-map.webp",
+      "purpose": "Hiking route screen map background",
+      "size_px": [
+        1209,
+        1743
+      ],
+      "aspect_ratio": 0.6936,
+      "alpha": false,
+      "display": "object-fit: cover",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/lake-braies-map.webp"
+    },
+    {
+      "file": "marker-north.webp",
+      "purpose": "Route map top/north photo marker",
+      "size_px": [
+        192,
+        192
+      ],
+      "aspect_ratio": 1,
+      "alpha": false,
+      "display": "object-fit: cover; clip-path: circle(50%)",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/marker-north.webp"
+    },
+    {
+      "file": "marker-cabin.webp",
+      "purpose": "Route map cabin/chalet photo marker",
+      "size_px": [
+        192,
+        192
+      ],
+      "aspect_ratio": 1,
+      "alpha": false,
+      "display": "object-fit: cover; clip-path: circle(50%)",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/marker-cabin.webp"
+    },
+    {
+      "file": "marker-southwest.webp",
+      "purpose": "Route map southwest photo marker",
+      "size_px": [
+        192,
+        192
+      ],
+      "aspect_ratio": 1,
+      "alpha": false,
+      "display": "object-fit: cover; clip-path: circle(50%)",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/marker-southwest.webp"
+    },
+    {
+      "file": "marker-east.webp",
+      "purpose": "Route map east photo marker",
+      "size_px": [
+        192,
+        192
+      ],
+      "aspect_ratio": 1,
+      "alpha": false,
+      "display": "object-fit: cover; clip-path: circle(50%)",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/marker-east.webp"
+    }
+  ],
+  "icons": [
+    {
+      "file": "icons/back.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/back.svg"
+    },
+    {
+      "file": "icons/bookmark.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/bookmark.svg"
+    },
+    {
+      "file": "icons/category-all.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/category-all.svg"
+    },
+    {
+      "file": "icons/category-beaches.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/category-beaches.svg"
+    },
+    {
+      "file": "icons/category-cities.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/category-cities.svg"
+    },
+    {
+      "file": "icons/category-lakes.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/category-lakes.svg"
+    },
+    {
+      "file": "icons/category-mountains.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/category-mountains.svg"
+    },
+    {
+      "file": "icons/clock.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/clock.svg"
+    },
+    {
+      "file": "icons/compass.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/compass.svg"
+    },
+    {
+      "file": "icons/difficulty.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/difficulty.svg"
+    },
+    {
+      "file": "icons/filters.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/filters.svg"
+    },
+    {
+      "file": "icons/heart.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/heart.svg"
+    },
+    {
+      "file": "icons/home.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/home.svg"
+    },
+    {
+      "file": "icons/location-pin.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/location-pin.svg"
+    },
+    {
+      "file": "icons/map.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/map.svg"
+    },
+    {
+      "file": "icons/more.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/more.svg"
+    },
+    {
+      "file": "icons/navigation.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/navigation.svg"
+    },
+    {
+      "file": "icons/profile.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/profile.svg"
+    },
+    {
+      "file": "icons/search.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/search.svg"
+    },
+    {
+      "file": "icons/star-half.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/star-half.svg"
+    },
+    {
+      "file": "icons/star.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/star.svg"
+    },
+    {
+      "file": "icons/trail.svg",
+      "type": "svg",
+      "alpha": true,
+      "display": "inline SVG; transparent background; UI controls provide their own button backgrounds",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/icons/trail.svg"
+    }
+  ],
+  "vectors": [
+    {
+      "file": "vectors/elevation-profile.svg",
+      "purpose": "Elevation line/area only; axis labels remain live UI text",
+      "alpha": true,
+      "display": "responsive SVG",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/vectors/elevation-profile.svg"
+    },
+    {
+      "file": "vectors/map-route-overlay.svg",
+      "purpose": "Dashed hiking route and waypoint overlay; rendered separately over the map",
+      "alpha": true,
+      "display": "absolute SVG overlay",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/048a60571bec027f6732fee7fe31c5b878e04324/images/lake-braies-travel-ui/vectors/map-route-overlay.svg"
+    }
+  ],
+  "ui_effects_not_baked_into_media": {
+    "active_blue": "#2F80ED",
+    "primary_text": "#111827",
+    "secondary_text": "#6B7280",
+    "rating_orange": "#F97316",
+    "floating_control_fill": "rgba(255,255,255,0.88)",
+    "floating_control_shadow": "0 8px 24px rgba(15,23,42,0.10)",
+    "chips_and_sheet": "#F8FAFC / #FFFFFF",
+    "note": "Rounded corners, card masks, button circles, marker white borders/shadows, live text, system status bar, and bottom-sheet geometry are UI/CSS responsibilities."
+  }
+}
