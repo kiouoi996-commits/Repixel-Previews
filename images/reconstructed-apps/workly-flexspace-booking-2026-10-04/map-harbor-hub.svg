@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 255" fill="none">
+  <rect width="360" height="255" fill="#F0F1F3"/>
+  <!-- water, lower-right -->
+  <path d="M286 255H360V160l-39-28-24 33-11 90Z" fill="#79D1EF"/>
+  <!-- park areas -->
+  <path d="M25 4 81 0l18 28-61 23L25 4Z" fill="#B7E7A2"/>
+  <path d="M143 91 210 69l73 47-48 85-76-22-16-88Z" fill="#B2E49C"/>
+  <path d="M114 180l75 20-15 55H93l21-75Z" fill="#A9E493"/>
+  <path d="M250 146l35 13-18 41-35-12 18-42Z" fill="#BEE8A8"/>
+  <!-- minor roads -->
+  <g stroke="#D7DADF" stroke-width="3" stroke-linecap="round">
+    <path d="M0 37 344 216"/><path d="M0 108 360 90"/>
+    <path d="M48 0 329 255"/><path d="M142 0 303 255"/>
+    <path d="M0 204 360 19"/><path d="M91 255 267 0"/>
+  </g>
+  <!-- primary roads -->
+  <g stroke="#FFFFFF" stroke-width="10" stroke-linecap="round">
+    <path d="M-14 224 370 35"/><path d="M-20 83 345 252"/>
+    <path d="M35 -15 267 270"/><path d="M106 -12 337 224"/>
+    <path d="M-8 149 224 8"/><path d="M177 -14 38 268"/>
+  </g>
+  <!-- blocks -->
+  <g stroke="#FFFFFF" stroke-width="4">
+    <path d="M119 77h67v46h-67zM66 140h43v39H66zM212 21h52v41h-52zM218 136h46v42h-46z"/>
+  </g>
+</svg>

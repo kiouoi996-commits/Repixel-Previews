@@ -1,0 +1,65 @@
+/* Screenshot reconstruction tokens. All values are estimates from a 1448×1086 raster reference. */
+:root {
+  --workly-blue: #2F64F1;
+  --workly-blue-dark: #235DEA;
+  --workly-blue-light: #3B82F6;
+  --workly-green-a: #B6F33B;
+  --workly-green-b: #C7F33E;
+  --workly-star: #FFAB0A;
+  --workly-error: #FF3B30;
+  --text-primary: #111318;
+  --text-secondary: #6F7480;
+  --surface: #FFFFFF;
+  --surface-soft: #F6F6F7;
+  --surface-chip: #F3F3F5;
+  --border: rgba(17,19,24,.08);
+  --screen-shadow: 0 18px 48px rgba(17,24,39,.08);
+}
+
+/* Hero photo overlay is UI, not baked into hero-workspace.webp. */
+.workly-hero::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  background:
+    linear-gradient(90deg,
+      rgba(0,0,0,.52) 0%,
+      rgba(0,0,0,.34) 26%,
+      rgba(0,0,0,.12) 48%,
+      rgba(0,0,0,0) 72%);
+}
+
+.workly-primary-cta {
+  background: linear-gradient(90deg, #235DEC 0%, #2B65EC 55%, #2F68EC 100%);
+}
+.workly-confirm-cta {
+  background: linear-gradient(90deg, #B6F33B 0%, #C7F33E 100%);
+}
+.workly-selected {
+  background: linear-gradient(180deg, #3268F5 0%, #2A5FE9 100%);
+  color: #fff;
+}
+.workly-icon-circle {
+  background: rgba(255,255,255,.95);
+  box-shadow: 0 5px 16px rgba(17,24,39,.08);
+}
+.workly-favorite-circle {
+  background: rgba(80,76,69,.38);
+  backdrop-filter: blur(4px);
+}
+.workly-card {
+  background: #fff;
+  border: 1px solid rgba(17,19,24,.08);
+}
+.workly-chip { background: #F3F3F5; }
+.workly-notification-dot {
+  width: 5px;
+  height: 5px;
+  border-radius: 999px;
+  background: #FF3B30;
+}
+.workly-screen {
+  background: #fff;
+  box-shadow: var(--screen-shadow);
+}

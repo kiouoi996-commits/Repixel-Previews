@@ -1,0 +1,601 @@
+{
+  "project": "workly-flexspace-booking-2026-10-04",
+  "repository_path": "images/reconstructed-apps/workly-flexspace-booking-2026-10-04",
+  "source": {
+    "type": "single raster screenshot",
+    "size_px": [
+      1448,
+      1086
+    ],
+    "filename": "a83250ba-d10a-4b15-8458-a3dcfc520a35.png"
+  },
+  "disclaimer": "Original design source and original photographs are unavailable. Measurements are screenshot estimates and delivered media is a reconstruction, not source-original artwork.",
+  "screen_estimates": [
+    {
+      "screen": "left/home",
+      "box": {
+        "x_px": 50,
+        "y_px": 55,
+        "w_px": 412,
+        "h_px": 948,
+        "x_pct": 3.45,
+        "y_pct": 5.06,
+        "w_pct": 28.45,
+        "h_pct": 87.29
+      }
+    },
+    {
+      "screen": "middle/detail",
+      "box": {
+        "x_px": 505,
+        "y_px": 80,
+        "w_px": 405,
+        "h_px": 937,
+        "x_pct": 34.88,
+        "y_pct": 7.37,
+        "w_pct": 27.97,
+        "h_pct": 86.28
+      }
+    },
+    {
+      "screen": "right/booking",
+      "box": {
+        "x_px": 952,
+        "y_px": 56,
+        "w_px": 409,
+        "h_px": 931,
+        "x_pct": 65.75,
+        "y_pct": 5.16,
+        "w_pct": 28.25,
+        "h_pct": 85.73
+      }
+    }
+  ],
+  "assets": [
+    {
+      "file": "hero-workspace.webp",
+      "role": "Hero workspace photo",
+      "screen": "left/home",
+      "visible_box": {
+        "x_px": 67,
+        "y_px": 247,
+        "w_px": 379,
+        "h_px": 223,
+        "x_pct": 4.63,
+        "y_pct": 22.74,
+        "w_pct": 26.17,
+        "h_pct": 20.53
+      },
+      "source_method": "full screenshot-guided reconstruction because large text/overlay/button obscure the source photo",
+      "ui_overlays": "headline, subtitle, dark UI readability gradient, circular arrow button and carousel dots are excluded from the image",
+      "subject_coverage": "environment fills 100%; principal communal-table/furniture cluster ≈78% W × 52% H",
+      "subject_offsets": "principal cluster ≈15% from top, ≈4% bottom, ≈12% left, ≈2% right; several plants/chairs are naturally cropped by frame",
+      "background": "photographic office interior; opaque; daylight through windows; no asset-level shadow",
+      "display": "object-fit: cover; object-position: 52% 50%; clip with ~18–20 px radius at screenshot scale",
+      "prompt": "Reconstruct the exact hero interior from the screenshot: bright modern coworking office, floor-to-ceiling windows along the right side with city skyline, long pale-wood communal tables, mixed black/taupe chairs, dense green potted plants at left/center/right, pale tiled floor and white ceiling with recessed lights; eye-level wide-angle view, soft daylight from right, warm-neutral color grade, no people, no text, no UI, no arrows or dots; composition prepared for 379:223 cover crop.",
+      "notes": "Hidden pixels under the large hero text/overlay are inferential reconstruction.",
+      "file_size_px": [
+        1137,
+        669
+      ],
+      "aspect_ratio": 1.6996,
+      "alpha": false,
+      "bytes": 119136,
+      "sha256": "8041ed329d6490c158d9c0ecb926b4b1525720d228a4fec139cc4cf26a8f6f05",
+      "published_url": null
+    },
+    {
+      "file": "card-harbor-hub.webp",
+      "role": "Popular-space thumbnail: Harbor Hub",
+      "screen": "left/home",
+      "visible_box": {
+        "x_px": 70,
+        "y_px": 535,
+        "w_px": 187,
+        "h_px": 117,
+        "x_pct": 4.83,
+        "y_pct": 49.26,
+        "w_pct": 12.91,
+        "h_pct": 10.77
+      },
+      "source_method": "visible screenshot pixels retained; favorite-button/corner-hidden areas reconstructed",
+      "ui_overlays": "favorite circular control excluded",
+      "subject_coverage": "room fills frame; front table/chair cluster ≈70% W × 54% H",
+      "subject_offsets": "main furniture ≈25% top, ≈2% bottom, ≈6% left, ≈2% right; edge plants/tables cropped",
+      "background": "photographic office interior, opaque",
+      "display": "object-fit: cover; object-position: 50% 50%; clip with ~14–15 px radius",
+      "prompt": "Reconstruct the Harbor Hub thumbnail: bright airy coworking room with tall windows on the left, multiple pale-wood shared tables, light neutral chairs, many potted tropical plants throughout, larger rectangular table in the near-right foreground, white ceiling and light floor, daytime natural light; no people, no heart button or UI; 187:117 composition.",
+      "notes": "Only the area hidden by the favorite control and clipped corners is reconstructed.",
+      "file_size_px": [
+        561,
+        351
+      ],
+      "aspect_ratio": 1.5983,
+      "alpha": false,
+      "bytes": 32466,
+      "sha256": "bd1e6fbf05c4abcb973b47062678ab1f9b728d33302dc3d331f1f57983abed95",
+      "published_url": null
+    },
+    {
+      "file": "card-summit-rooms.webp",
+      "role": "Popular-space thumbnail: Summit Rooms",
+      "screen": "left/home",
+      "visible_box": {
+        "x_px": 272,
+        "y_px": 535,
+        "w_px": 174,
+        "h_px": 117,
+        "x_pct": 18.78,
+        "y_pct": 49.26,
+        "w_pct": 12.02,
+        "h_pct": 10.77
+      },
+      "source_method": "visible screenshot pixels retained; favorite-button/corner-hidden areas reconstructed",
+      "ui_overlays": "favorite circular control excluded",
+      "subject_coverage": "TV wall/table/blue-chair assembly ≈88% W × 74% H",
+      "subject_offsets": "TV wall starts at left edge; table begins ≈52% H; chairs touch lower edge",
+      "background": "photographic meeting-room interior, opaque",
+      "display": "object-fit: cover; object-position: 52% 50%; clip with ~14–15 px radius",
+      "prompt": "Reconstruct the Summit Rooms thumbnail: modern meeting room, dark charcoal wall with large black wall-mounted TV on the left half, pale-wood rectangular conference table across the lower half, blue upholstered meeting chairs, bright white/glazed area on the right, warm ceiling light; no people, no heart button or UI; 174:117 composition.",
+      "notes": "Only the area hidden by the favorite control and clipped corners is reconstructed.",
+      "file_size_px": [
+        522,
+        351
+      ],
+      "aspect_ratio": 1.4872,
+      "alpha": false,
+      "bytes": 16348,
+      "sha256": "f77143ce39ce8f8017730f477a9cafa8bbbed7e4a28c2327d25812520a8b5467",
+      "published_url": null
+    },
+    {
+      "file": "card-the-commons.webp",
+      "role": "Popular-space thumbnail: The Commons",
+      "screen": "left/home",
+      "visible_box": {
+        "x_px": 70,
+        "y_px": 744,
+        "w_px": 187,
+        "h_px": 117,
+        "x_pct": 4.83,
+        "y_pct": 68.51,
+        "w_pct": 12.91,
+        "h_pct": 10.77
+      },
+      "source_method": "visible screenshot pixels retained; favorite-button/corner-hidden areas reconstructed",
+      "ui_overlays": "favorite circular control excluded",
+      "subject_coverage": "blue modular lounge sofa ≈82% W × 48% H",
+      "subject_offsets": "sofa begins ≈46% H and reaches bottom edge; background work area fills upper half",
+      "background": "photographic lounge/coworking interior, opaque",
+      "display": "object-fit: cover; object-position: 50% 50%; clip with ~14–15 px radius",
+      "prompt": "Reconstruct The Commons thumbnail: vivid deep-blue modular sectional lounge sofa and ottoman in the foreground, small round dark coffee table, warm neutral open coworking area behind, many tall indoor plants, white ceiling and pale floor, no people, no heart button or UI; 187:117 composition.",
+      "notes": "Only the area hidden by the favorite control and clipped corners is reconstructed.",
+      "file_size_px": [
+        561,
+        351
+      ],
+      "aspect_ratio": 1.5983,
+      "alpha": false,
+      "bytes": 28316,
+      "sha256": "f8c21740d472b2ef80755e4c6a515246379a31d1777c034f6e3dc77b5adc6e29",
+      "published_url": null
+    },
+    {
+      "file": "card-riverside-work.webp",
+      "role": "Popular-space thumbnail: Riverside Work",
+      "screen": "left/home",
+      "visible_box": {
+        "x_px": 272,
+        "y_px": 744,
+        "w_px": 174,
+        "h_px": 117,
+        "x_pct": 18.78,
+        "y_pct": 68.51,
+        "w_pct": 12.02,
+        "h_pct": 10.77
+      },
+      "source_method": "visible screenshot pixels retained; favorite-button/corner-hidden areas reconstructed",
+      "ui_overlays": "favorite circular control excluded",
+      "subject_coverage": "foreground worktable/chairs ≈76% W × 56% H",
+      "subject_offsets": "windows occupy left ≈45% W; long table begins ≈48% H; chairs clip at lower/right edge",
+      "background": "photographic office interior, opaque",
+      "display": "object-fit: cover; object-position: 50% 50%; clip with ~14–15 px radius",
+      "prompt": "Reconstruct the Riverside Work thumbnail: long pale-wood worktable in the foreground, dark navy/charcoal office chairs along the right side, floor-to-ceiling windows across the left with city view, green potted plants by glass and far wall, bright minimal office, daylight, no people, no heart button or UI; 174:117 composition.",
+      "notes": "Only the area hidden by the favorite control and clipped corners is reconstructed.",
+      "file_size_px": [
+        522,
+        351
+      ],
+      "aspect_ratio": 1.4872,
+      "alpha": false,
+      "bytes": 23554,
+      "sha256": "69cdd46ebc29e430c41a88e036d71841d0e97a31a9f95f22a9c22b295267008e",
+      "published_url": null
+    },
+    {
+      "file": "detail-meeting-room-a.webp",
+      "role": "Harbor Hub / Meeting Room A main photo",
+      "screen": "middle/detail + right/booking summary",
+      "visible_box": {
+        "x_px": 506,
+        "y_px": 80,
+        "w_px": 403,
+        "h_px": 384,
+        "x_pct": 34.94,
+        "y_pct": 7.37,
+        "w_pct": 27.83,
+        "h_pct": 35.36
+      },
+      "source_method": "full screenshot-guided reconstruction because circular controls and carousel UI cover photo regions",
+      "ui_overlays": "back, favorite, share, carousel dots and 1/8 badge excluded",
+      "subject_coverage": "conference table/chairs ≈90% W × 50% H; windows/TV wall fill upper background",
+      "subject_offsets": "table begins ≈56% H and reaches lower edge; TV occupies upper-right; city windows fill left ≈50% W",
+      "background": "photographic meeting-room interior, opaque",
+      "display": "detail: object-fit: cover; object-position: 57% 50%; booking thumbnail: cover; object-position: 58% 52%",
+      "prompt": "Reconstruct Meeting Room A exactly from the screenshot: modern glass-walled city meeting room, pale light-oak rectangular conference table occupying the lower half, slate-blue upholstered armchairs around it, floor-to-ceiling windows on the left with tall city towers, large black TV mounted on dark charcoal wall at right, tall leafy indoor plant near center-right and small tabletop plants, white ceiling with thin linear light, eye-level wide-angle view, soft daylight, no people, no buttons, no carousel UI; near-square 403:384 composition.",
+      "notes": "Regions hidden by the photo controls are reconstructed. The same asset is reused in the booking-summary thumbnail at approximately x≈974–1075, y≈255–351.",
+      "file_size_px": [
+        1209,
+        1152
+      ],
+      "aspect_ratio": 1.0495,
+      "alpha": false,
+      "bytes": 94496,
+      "sha256": "6e7af134a162df2b7f9db8becd803a310a9d9f0f9653ef51a4579bbe68e3a24b",
+      "published_url": null
+    },
+    {
+      "file": "map-harbor-hub.svg",
+      "role": "stylized booking-location map background",
+      "screen": "right/booking",
+      "visible_box": {
+        "x_px": 974,
+        "y_px": 712,
+        "w_px": 122,
+        "h_px": 87,
+        "x_pct": 67.27,
+        "y_pct": 65.56,
+        "w_pct": 8.43,
+        "h_pct": 8.01
+      },
+      "source_method": "vector redraw from screenshot",
+      "ui_overlays": "blue pin is separate icons/map-pin-filled.svg",
+      "subject_coverage": "street/park/water geometry fills 100%",
+      "subject_offsets": "not applicable; geometric background",
+      "background": "opaque #F0F1F3; green parks; white roads; blue water",
+      "display": "object-fit: cover; object-position: 50% 50%; clip with ~11–12 px radius; overlay pin at ≈50% W / 45% H",
+      "file_size_px": "360×255 viewBox",
+      "aspect_ratio": 1.4118,
+      "alpha": false,
+      "bytes": 1184,
+      "sha256": "cde0f282bdab724c11f25b8660c035adf830ac646929cdab0ca6934763ea35e7",
+      "published_url": null
+    },
+    {
+      "file": "icons/logo-workly.svg",
+      "role": "Workly logo mark + wordmark",
+      "screen": "reused where shown",
+      "file_size_px": "112×28",
+      "aspect_ratio": "4:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 723,
+      "sha256": "e289f3e8bd33ee848a0bcfc04b0faa16b5c35652a1c3358e1e26ea9fee75817f",
+      "published_url": null
+    },
+    {
+      "file": "icons/bell.svg",
+      "role": "notification bell; red dot is CSS/UI",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 392,
+      "sha256": "b91ba7fc2985a98fe9a12847299b600947a7b85ca5ad3a2dd976790e4970c4de",
+      "published_url": null
+    },
+    {
+      "file": "icons/search.svg",
+      "role": "search and Explore navigation",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 322,
+      "sha256": "2c5f4e30e1571047b96fc4f3d3bd7e47812099e2c5537150fb5bdd853dfbfa18",
+      "published_url": null
+    },
+    {
+      "file": "icons/filter.svg",
+      "role": "filter/sliders",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 587,
+      "sha256": "eaafc2f24b4ecef47c96e21de9a516a88024945b0835206748ed37222bf9f0a1",
+      "published_url": null
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "role": "hero/CTA arrow",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 205,
+      "sha256": "14f65b09846bf53f1bcc120d0158f4ebf0665e1f35d48c03107a514e530b2c08",
+      "published_url": null
+    },
+    {
+      "file": "icons/arrow-left.svg",
+      "role": "back navigation",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 206,
+      "sha256": "bacba1eb761b3723799d208a852086ac7168abb5e2e5a6721ae6e3fcc446e4f0",
+      "published_url": null
+    },
+    {
+      "file": "icons/chevron-right.svg",
+      "role": "small row chevron",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 196,
+      "sha256": "dc53f7a3ce26a166ea79be22de750075f71824d6e16503029f1c3cda53847e34",
+      "published_url": null
+    },
+    {
+      "file": "icons/chevron-down.svg",
+      "role": "details dropdown chevron",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 196,
+      "sha256": "1ca382bc4d0acae69c103b0c37b98b850bcb6857ccfcc97f971b6083dc2bd8a9",
+      "published_url": null
+    },
+    {
+      "file": "icons/heart.svg",
+      "role": "favorite outline",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 288,
+      "sha256": "f495a260c7c263da4cdde82d2788e706e4b89a6207b1273fd2f3516daacf7a1e",
+      "published_url": null
+    },
+    {
+      "file": "icons/pin.svg",
+      "role": "outline location pin",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 357,
+      "sha256": "3cce888c60bb029a35a19bee5b4dba25e1cba06ca892d00dcac1f212440ab664",
+      "published_url": null
+    },
+    {
+      "file": "icons/map-pin-filled.svg",
+      "role": "blue map pin overlay",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 208,
+      "sha256": "b5f90bb7aa41bfdfa540db88d40b24b41d8c49d77ce7f6ee34042a05750aedfc",
+      "published_url": null
+    },
+    {
+      "file": "icons/star.svg",
+      "role": "filled rating star",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 209,
+      "sha256": "7cd63d627e45e078949314bf141256f55bc23fe3af9bcd7130ac28af7046b17f",
+      "published_url": null
+    },
+    {
+      "file": "icons/home-filled.svg",
+      "role": "active Home navigation",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 196,
+      "sha256": "76c6315fa44f4b67dec63bbe4a8a194b1e5327c5e1543c3b0623b2790822bb6d",
+      "published_url": null
+    },
+    {
+      "file": "icons/calendar.svg",
+      "role": "Bookings navigation",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 378,
+      "sha256": "40378512d430e310193a4152114af01fe91342d777ac1f6780c802d004c8a459",
+      "published_url": null
+    },
+    {
+      "file": "icons/profile.svg",
+      "role": "Profile navigation",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 337,
+      "sha256": "b3cb0888fc25d8c3f8bd8e192453704ec31424317857315fb2109d05574e476f",
+      "published_url": null
+    },
+    {
+      "file": "icons/share.svg",
+      "role": "share/export",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 430,
+      "sha256": "87e2e2d89fadcdd42375554e3b21b576526afdf6b4fb15f3d889a012047b9224",
+      "published_url": null
+    },
+    {
+      "file": "icons/wifi.svg",
+      "role": "Wi‑Fi amenity",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 307,
+      "sha256": "26bf01c4e3717ad2166a5eee33fdf91b1e2b7fb9a603708ecbdfe30090110bd0",
+      "published_url": null
+    },
+    {
+      "file": "icons/projector.svg",
+      "role": "projector amenity",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 493,
+      "sha256": "cb7426e5d5155eae7b2681a242cdb66d8cd1e6541780998eb60bce41a87fb44f",
+      "published_url": null
+    },
+    {
+      "file": "icons/coffee.svg",
+      "role": "coffee amenity",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 402,
+      "sha256": "d4d4e95bfe74c8c270abef2577409e21ab68c8fa0f7997c4521234ec94100e72",
+      "published_url": null
+    },
+    {
+      "file": "icons/users.svg",
+      "role": "people/capacity",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 522,
+      "sha256": "d2ab98b5e13c74f71fbc208e7ce3d556ea87dff854f8cf020646f78a1efbef18",
+      "published_url": null
+    },
+    {
+      "file": "icons/tv.svg",
+      "role": "TV display amenity",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 348,
+      "sha256": "314b3c8c5550158d91e8a830dc4f139452fdb6d96538263af7d7e3b41f1c9ab1",
+      "published_url": null
+    },
+    {
+      "file": "icons/whiteboard.svg",
+      "role": "whiteboard amenity",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 354,
+      "sha256": "2de21b0416b08f8127411ff2c59b4760fad95f19a05b9649e49ca918c76b2e7f",
+      "published_url": null
+    },
+    {
+      "file": "icons/minus.svg",
+      "role": "duration decrement",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 192,
+      "sha256": "29f75a2387df5a3ce6a1231dc80d81c19785d991a154975eba525a81e5145424",
+      "published_url": null
+    },
+    {
+      "file": "icons/plus.svg",
+      "role": "duration increment",
+      "screen": "reused where shown",
+      "file_size_px": "24×24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "style": "transparent SVG; mostly currentColor; ~1.8 px rounded stroke in 24×24 viewBox unless filled state",
+      "bytes": 200,
+      "sha256": "3a17de88cda527d60e38bcf37bc9692abbd228fdc4d4c0d950e7a8118bee16eb",
+      "published_url": null
+    },
+    {
+      "file": "preview.webp",
+      "role": "Repository project preview only; not a runtime UI asset",
+      "screen": "all three screens overview",
+      "file_size_px": [
+        1024,
+        768
+      ],
+      "aspect_ratio": 1.3333,
+      "alpha": false,
+      "source_method": "downscaled copy of supplied reference screenshot for Repixel repository preview only",
+      "display": "repository preview only; do not use inside the reconstructed application",
+      "bytes": 76344,
+      "sha256": "101dfa0cffe4402b179e586dcbcf4e0093a26d799cb899845f727d91d617513c",
+      "published_url": null
+    }
+  ],
+  "ui_geometry": {
+    "hero_overlay": "linear-gradient(90deg, rgba(0,0,0,.52) 0%, rgba(0,0,0,.34) 26%, rgba(0,0,0,.12) 48%, rgba(0,0,0,0) 72%)",
+    "primary_cta": "linear-gradient(90deg,#235DEC 0%,#2B65EC 55%,#2F68EC 100%)",
+    "confirm_cta": "linear-gradient(90deg,#B6F33B 0%,#C7F33E 100%)",
+    "selected_blue": "linear-gradient(180deg,#3268F5 0%,#2A5FE9 100%)",
+    "surface": "#FFFFFF",
+    "surface_soft": "#F6F6F7",
+    "chip": "#F3F3F5",
+    "border": "rgba(17,19,24,.08)",
+    "icon_circle": "rgba(255,255,255,.95), shadow 0 5px 16px rgba(17,24,39,.08)",
+    "favorite_circle": "rgba(80,76,69,.38) with ~4px backdrop blur",
+    "notification_dot": "#FF3B30"
+  },
+  "publication": {
+    "repository": "kiouoi996-commits/Repixel-Previews",
+    "branch": "main",
+    "project_folder": "images/reconstructed-apps/workly-flexspace-booking-2026-10-04",
+    "status": "publishing",
+    "published_folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/main/images/reconstructed-apps/workly-flexspace-booking-2026-10-04",
+    "manifest_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/workly-flexspace-booking-2026-10-04/manifest.json",
+    "commit_sha": null
+  }
+}
