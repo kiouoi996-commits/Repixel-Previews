@@ -1,0 +1,194 @@
+{
+  "studyBatch": "prompt-detail-studies-2026-10-04",
+  "authorship": "New motion authored from selected details of existing Repixel prompts; original source motion, code and font identity are not claimed.",
+  "sources": [
+    {
+      "cardId": "alpine-explorer-mobile",
+      "contentFile": "content/recreate-specs/alpine-explorer-mobile.md",
+      "publicPrompt": "/prompts/alpine-explorer-mobile.md",
+      "bytes": 47741,
+      "sha256": "8d7d0a4f7cb9ebb5dd3936cca59207f06e7237ee70403a936c0bbef2cf0677a7",
+      "repositoryCommit": "cbcb6cbabce6ded2d7b0209fcccdabe0dd5fadca",
+      "selectedElement": "Circular photo markers and their separate anchor dots on the Hiking Route map; selection rings and captions are newly authored."
+    },
+    {
+      "cardId": "motion-123-more-than-places-arch-aperture",
+      "contentFile": "content/animation-prompts/123-more-than-places-arch-aperture-insert.txt",
+      "publicPrompt": "/prompts/motion-123-more-than-places-arch-aperture-insert.md",
+      "bytes": 5596,
+      "sha256": "b01f86abc3e57099f6a593d2aad7c3b776463d81cfd936a15db89110d6431c1b",
+      "repositoryCommit": "cbcb6cbabce6ded2d7b0209fcccdabe0dd5fadca",
+      "selectedElement": "The full moon disc in the upper-right coast photograph, cropped at x1247/y94/w70/h70; the phase mask and its control are newly authored."
+    },
+    {
+      "cardId": "motion-116-audio-player-controls",
+      "contentFile": "content/animation-prompts/116-audio-player-controls-insert.txt",
+      "publicPrompt": "/prompts/motion-116-audio-player-controls-insert.md",
+      "bytes": 6012,
+      "sha256": "5e968df1a4df28ff6fe3c4de7e90a2e46e49feb1eada46655f509630e2db9dc8",
+      "repositoryCommit": "cbcb6cbabce6ded2d7b0209fcccdabe0dd5fadca",
+      "selectedElement": "The central blue circular audio play control and white triangle in the transport strip; the articulated two-part morph is newly authored."
+    }
+  ],
+  "assets": [
+    {
+      "path": "map.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/54e0866647b4160dcaac6d0eb57e7c99e7aa74e3/images/lake-braies-travel-ui/lake-braies-map.webp",
+      "bytes": 644202,
+      "sha256": "e2170a7da6b65f014c5d99f82308ed5e9b738559fdb282e9c38206612cc5e894"
+    },
+    {
+      "path": "route.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6610f39226bc8819144aa38cfb84007b70270b13/images/apps/alpine-explorer-mobile-2026-10-03/map-route-measured.svg",
+      "bytes": 961,
+      "sha256": "613181f378cced1b3738344c9962ff9bcb1bab3ff4a2e7e5a391685ff500fd81"
+    },
+    {
+      "path": "moon-reference.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b1259331a9c7fbd5124ee72dd479406a9a71102/images/editorial/references/123-more-than-places-arch-aperture-2026-09-30-a1-reference.webp",
+      "bytes": 271264,
+      "sha256": "6791094b236e05d840e4b077e9fe086f701949e941cd2d257f2d3b5c99738759"
+    },
+    {
+      "path": "audio-reference.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/199cb68ab8b01733f4001ebaa65bf72991e1e1c0/images/widgets/references/116-audio-player-controls-2026-09-30-a1-reference.webp",
+      "bytes": 67818,
+      "sha256": "ab3c858aa50597ae459bd6cf56e25ab6ca379105084013bc62fb488bf5e2e03f"
+    },
+    {
+      "path": "marker-north.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6610f39226bc8819144aa38cfb84007b70270b13/images/apps/alpine-explorer-mobile-2026-10-03/marker-north-visible.webp",
+      "bytes": 5304,
+      "sha256": "e61986af8876cdf9048d0593b7a5bcf7e2a52332798fc7dbea2711bc3659765e"
+    },
+    {
+      "path": "marker-cabin.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6610f39226bc8819144aa38cfb84007b70270b13/images/apps/alpine-explorer-mobile-2026-10-03/marker-cabin-visible.webp",
+      "bytes": 4920,
+      "sha256": "eaecbad4b7ca716b9db1fc6ea960c366ae1fca71e990d539d76fe82b6c67792d"
+    },
+    {
+      "path": "marker-southwest.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6610f39226bc8819144aa38cfb84007b70270b13/images/apps/alpine-explorer-mobile-2026-10-03/marker-southwest-visible.webp",
+      "bytes": 5450,
+      "sha256": "aee36e5e23a0dd4e2cb3408bb3fd471abd93e59c72d5896837d9d500764ee04f"
+    },
+    {
+      "path": "marker-east.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6610f39226bc8819144aa38cfb84007b70270b13/images/apps/alpine-explorer-mobile-2026-10-03/marker-east-visible.webp",
+      "bytes": 5454,
+      "sha256": "019686f670ebb8669f02a674d822280afab84739608a17974d938bedf6eb7207"
+    }
+  ],
+  "derivedWindows": [
+    {
+      "source": "moon-reference.webp",
+      "crop": [
+        1247,
+        94,
+        70,
+        70
+      ],
+      "mask": "Circle; no hidden moon pixels reconstructed."
+    },
+    {
+      "source": "map.webp",
+      "fit": [
+        832,
+        1200
+      ],
+      "crop": [
+        50,
+        460,
+        780,
+        530
+      ],
+      "nativeViewport": [
+        25,
+        230,
+        390,
+        265
+      ]
+    }
+  ],
+  "typography": "Inter is a visually matched reference font, not a recovered source font.",
+  "renderDependencies": [
+    "Python",
+    "Pillow",
+    "NumPy",
+    "fontTools",
+    "ffmpeg"
+  ],
+  "previews": [
+    {
+      "number": 160,
+      "slug": "alpine-route-marker-pulse",
+      "width": 1080,
+      "height": 608,
+      "fps": 30,
+      "frames": 180,
+      "durationSeconds": 6,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 85,
+      "video": {
+        "path": "160-alpine-route-marker-pulse-2026-10-04-a1.mp4",
+        "bytes": 254281,
+        "sha256": "7f59c7c00d77ccef01c8afa742fcbf92ebe681b246c81a6d70417ba7b8a6a290"
+      },
+      "poster": {
+        "path": "160-alpine-route-marker-pulse-2026-10-04-a1.webp",
+        "bytes": 181664,
+        "sha256": "37761c6a76847a984d82027ff751855796d750ef89a411564ab5e3ddeab5ecc2"
+      }
+    },
+    {
+      "number": 161,
+      "slug": "more-than-places-moon-phase",
+      "width": 1080,
+      "height": 608,
+      "fps": 30,
+      "frames": 180,
+      "durationSeconds": 6,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 123,
+      "video": {
+        "path": "161-more-than-places-moon-phase-2026-10-04-a1.mp4",
+        "bytes": 72684,
+        "sha256": "25b228c77197c9a72b3dc1dac0978a99c29771785d65cbd21c271d2cd5eba2e6"
+      },
+      "poster": {
+        "path": "161-more-than-places-moon-phase-2026-10-04-a1.webp",
+        "bytes": 8962,
+        "sha256": "9f1ae17ccc8d3c2537235eaaf1ec99d5d78a31b896dad4a0da59e91dee14e96a"
+      }
+    },
+    {
+      "number": 162,
+      "slug": "calm-player-play-pause-fold",
+      "width": 1080,
+      "height": 608,
+      "fps": 30,
+      "frames": 180,
+      "durationSeconds": 6,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 42,
+      "video": {
+        "path": "162-calm-player-play-pause-fold-2026-10-04-a1.mp4",
+        "bytes": 36959,
+        "sha256": "243acbb3ad644d00bd8c86ae8581b24c8501fe9ea7f7ab195d17943d19f0b5fd"
+      },
+      "poster": {
+        "path": "162-calm-player-play-pause-fold-2026-10-04-a1.webp",
+        "bytes": 8730,
+        "sha256": "cb09b8ff6cbe5fcffdb213804ae823e39553cb74e6720d7b56d7a713c4db7bc0"
+      }
+    }
+  ],
+  "interaction": "Normal mode uses genuine click, pointer/range, or HTMLAudioElement events. ?demo=1 is an explicitly separate gallery fixture. The audio sample is an authored PCM tone generated by the standalone HTML, never a claim to the original song."
+}
