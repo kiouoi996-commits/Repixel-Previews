@@ -1,0 +1,136 @@
+{
+  "nativeStage": [
+    1254,
+    1254
+  ],
+  "preview": {
+    "width": 900,
+    "height": 900,
+    "fps": 30,
+    "frames": 240,
+    "durationSeconds": 8,
+    "audio": false,
+    "faststart": true,
+    "closedSampling": "t=8*frameIndex/239; component uses actual elapsed seconds"
+  },
+  "labelBounds": [
+    470,
+    757,
+    778,
+    845
+  ],
+  "stationaryLabel": true,
+  "motionAuthorship": "authored from a supplied still",
+  "moonDiscs": [
+    [
+      292,
+      594.5,
+      54
+    ],
+    [
+      452,
+      595,
+      54
+    ],
+    [
+      624,
+      594,
+      55
+    ],
+    [
+      801.5,
+      594.5,
+      54
+    ],
+    [
+      961.5,
+      594.5,
+      54.5
+    ]
+  ],
+  "phaseOffsetsRadians": [
+    2.55,
+    1.35,
+    0,
+    -1.35,
+    -2.55
+  ],
+  "phasePeriodSeconds": 8,
+  "textureSourceCrop": [
+    569,
+    539,
+    679,
+    649
+  ],
+  "textureMapping": "same visible central full-moon texture mapped without rotation to each local disc; hidden original outer-moon pixels are not recovered",
+  "sphere": "u=(pixel-center)/radius, v=(pixel-center)/radius, z=sqrt(max(0,1-u*u-v*v))",
+  "light": "L=(sin(theta),0,cos(theta)); theta=offset-2*pi*t/8",
+  "terminator": "d=u*sin(theta)+z*cos(theta); q=clamp((d+0.018)/0.036,0,1); illuminated=q*q*(3-2*q)",
+  "luminance": "sourceTexture*(0.075+0.925*illuminated); outside u*u+v*v<=1 is black",
+  "centralRayOpacity": "((1+cos(2*pi*t/8))/2)^6",
+  "stationaryDots": [
+    [
+      159,
+      590,
+      216,
+      601
+    ],
+    [
+      1038,
+      590,
+      1095,
+      601
+    ]
+  ],
+  "rayBoxes": [
+    [
+      622,
+      478,
+      627,
+      514
+    ],
+    [
+      563,
+      498,
+      584,
+      527
+    ],
+    [
+      665,
+      498,
+      686,
+      527
+    ],
+    [
+      519,
+      592,
+      546,
+      597
+    ],
+    [
+      702,
+      592,
+      731,
+      597
+    ],
+    [
+      565,
+      661,
+      585,
+      689
+    ],
+    [
+      666,
+      661,
+      686,
+      689
+    ],
+    [
+      623,
+      672,
+      628,
+      706
+    ]
+  ],
+  "astronomicalData": false
+}

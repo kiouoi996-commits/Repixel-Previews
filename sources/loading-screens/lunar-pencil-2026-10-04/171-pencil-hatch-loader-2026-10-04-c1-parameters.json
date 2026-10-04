@@ -1,0 +1,147 @@
+{
+  "nativeStage": [
+    1254,
+    1254
+  ],
+  "preview": {
+    "width": 900,
+    "height": 900,
+    "fps": 30,
+    "frames": 240,
+    "durationSeconds": 8,
+    "audio": false,
+    "faststart": true,
+    "closedSampling": "t=8*frameIndex/239; component uses actual elapsed seconds"
+  },
+  "labelBounds": [
+    448,
+    842,
+    778,
+    938
+  ],
+  "stationaryLabel": true,
+  "motionAuthorship": "authored from a supplied still",
+  "pencilSourcePivot": [
+    812,
+    666
+  ],
+  "pencilMaskPolygon": [
+    [
+      807,
+      670
+    ],
+    [
+      839,
+      576
+    ],
+    [
+      960,
+      408
+    ],
+    [
+      978,
+      405
+    ],
+    [
+      1011,
+      429
+    ],
+    [
+      1011,
+      446
+    ],
+    [
+      889,
+      618
+    ]
+  ],
+  "barPolyline": [
+    [
+      254,
+      666
+    ],
+    [
+      605,
+      667
+    ],
+    [
+      809,
+      667
+    ],
+    [
+      850,
+      661
+    ],
+    [
+      975,
+      661
+    ],
+    [
+      979,
+      671
+    ],
+    [
+      979,
+      750
+    ],
+    [
+      974,
+      757
+    ],
+    [
+      258,
+      756
+    ],
+    [
+      253,
+      753
+    ],
+    [
+      253,
+      667
+    ],
+    [
+      254,
+      666
+    ]
+  ],
+  "barStroke": 6.5,
+  "inkClip": [
+    264,
+    677,
+    967,
+    746
+  ],
+  "inkStroke": 5.1,
+  "inkLinecap": "round",
+  "inkPath": "x=270+686*p+18*sin(52*pi*p); y=711-29*sin(52*pi*p), 0<=p<=1",
+  "inkLookupSamples": 3201,
+  "strokePrefix": "ink lookup only up to p; include interpolated head as final point",
+  "draw": {
+    "startSeconds": 0.35,
+    "durationSeconds": 5.6,
+    "p": "smoothstep((t-.35)/5.6)",
+    "tip": "exact interpolated ink prefix head, with no offset during contact",
+    "wristDegrees": "3*sin(52*pi*p)",
+    "approachLift": "18*(1-smoothstep((t-.1)/.25))",
+    "finalLift": "22*smoothstep((t-5.95)/.25)",
+    "finalTiltDegrees": "-5*smoothstep((t-5.95)/.25)",
+    "pencilFadeIn": [
+      0.05,
+      0.25
+    ],
+    "endHold": [
+      6.2,
+      6.6
+    ],
+    "inkAndPencilFadeOut": [
+      6.6,
+      7.4
+    ],
+    "invisibleReset": [
+      7.4,
+      8
+    ]
+  },
+  "progressSemantics": "indeterminate decorative hatch, not a measured task percentage; optional real progress may replace p only when host reports genuine progress"
+}
