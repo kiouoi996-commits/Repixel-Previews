@@ -44,13 +44,18 @@
 
 ## Проверка
 
-- Растры экспортированы в WebP, прозрачные ингредиенты — PNG RGBA.
+- Растры экспортированы в WebP, прозрачные ингредиенты — WebP с альфа-каналом.
 - Прозрачные ингредиенты проверены композитом на светлом и тёмном фоне: альфа-канал присутствует, непрозрачной подложки нет.
 - SVG парсятся как корректный XML и рендерятся с прозрачным фоном.
 - Фотографии сравнивались с видимой композицией на скриншоте; это реконструкции, поэтому мелкие различия фактуры и формы фруктов возможны.
 
 ## Публикация Repixel Media
 
-Подключённый публичный медиа-репозиторий: `kiouoi996-commits/Repixel-Previews`. README репозитория описывает его как отдельный публичный media repository Repixel. Проект размещён в `images/apps/berry-balance-smoothie-ui-2026-10-04/`.
+Подключённый публичный медиа-репозиторий — `kiouoi996-commits/Repixel-Previews`; его README описывает репозиторий как отдельное публичное хранилище медиа Repixel. Проект опубликован в `images/apps/berry-balance-smoothie-ui-2026-10-04/`.
 
-Растры и SVG-иконки опубликованы в неизменяемом asset-коммите `59b10d45814e9073e5b02521bb8964d0d329f61e`. В `manifest.json` для каждого ассета записан прямой `raw.githubusercontent.com` URL, закреплённый за этим коммитом.
+- **Immutable asset commit:** `59b10d45814e9073e5b02521bb8964d0d329f61e`
+- **Commit:** https://github.com/kiouoi996-commits/Repixel-Previews/commit/59b10d45814e9073e5b02521bb8964d0d329f61e
+- **Immutable project folder:** https://github.com/kiouoi996-commits/Repixel-Previews/tree/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04
+- **Branch project folder:** https://github.com/kiouoi996-commits/Repixel-Previews/tree/main/images/apps/berry-balance-smoothie-ui-2026-10-04
+- Все 9 растровых ассетов и 17 SVG-иконок проверены через GitHub Contents API на указанном immutable commit; GitHub вернул прямые `download_url` на `raw.githubusercontent.com`.
+- `manifest.json`, `analysis.md` и `asset-map.csv` опубликованы рядом с ассетами на ветке `main`; финальная неизменяемая ссылка на manifest фиксируется коммитом метаданных и приводится в итоговом отчёте.

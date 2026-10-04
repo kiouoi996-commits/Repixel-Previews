@@ -18,14 +18,17 @@
     "resolved_repository": "kiouoi996-commits/Repixel-Previews",
     "resolution_basis": "README identifies Repixel-Previews as the public media repository for repixel.pro.",
     "target_folder": "images/apps/berry-balance-smoothie-ui-2026-10-04",
-    "status": "assets_uploaded",
+    "status": "published",
     "write_error": null,
     "repo_url": "https://github.com/kiouoi996-commits/Repixel-Previews",
     "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/main/images/apps/berry-balance-smoothie-ui-2026-10-04",
-    "manifest_url": null,
+    "manifest_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/apps/berry-balance-smoothie-ui-2026-10-04/manifest.json",
     "commit_sha": null,
     "asset_commit_sha": "59b10d45814e9073e5b02521bb8964d0d329f61e",
-    "asset_commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/59b10d45814e9073e5b02521bb8964d0d329f61e"
+    "asset_commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/59b10d45814e9073e5b02521bb8964d0d329f61e",
+    "immutable_asset_folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04",
+    "manifest_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<metadata-commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/manifest.json",
+    "verification": "GitHub Contents API confirmed all 9 raster assets and all 17 SVG icons exist at asset_commit_sha; GitHub returned direct raw.githubusercontent.com download URLs for those paths."
   },
   "rasters": {
     "hero-strawberry-smoothie.webp": {
@@ -119,7 +122,7 @@
       "screenshot_box_pct": [
         35.7,
         38.4,
-        26.0,
+        26,
         21.5
       ],
       "relative_path": "card-green-energizer.webp",
@@ -169,7 +172,7 @@
       "screenshot_box_pct": [
         35.7,
         60.7,
-        26.0,
+        26,
         21.5
       ],
       "relative_path": "card-berry-balance.webp",
@@ -263,11 +266,11 @@
         384,
         384
       ],
-      "aspect_ratio": 1.0,
+      "aspect_ratio": 1,
       "file_bytes": 27080,
       "sha256": "ab30a60793719a9a504ebeb023eb59c77af6398ccc06dc08b53fb7caf734940f",
       "screenshot_box_pct": [
-        58.0,
+        58,
         12.8,
         3.3,
         4.4
@@ -313,7 +316,7 @@
         512,
         512
       ],
-      "aspect_ratio": 1.0,
+      "aspect_ratio": 1,
       "file_bytes": 89512,
       "sha256": "7ac0fe049e1b832779b471adae94be4513f74b041f75648fa594795195aae131",
       "screenshot_box_pct": [
@@ -363,7 +366,7 @@
         512,
         512
       ],
-      "aspect_ratio": 1.0,
+      "aspect_ratio": 1,
       "file_bytes": 58160,
       "sha256": "fce26680763435cfb64b5ab62bae064bffd7664ec1a9d076b8020d729f74df64",
       "screenshot_box_pct": [
@@ -413,7 +416,7 @@
         512,
         512
       ],
-      "aspect_ratio": 1.0,
+      "aspect_ratio": 1,
       "file_bytes": 89088,
       "sha256": "7b790cf26226032aa057f134af518264931ca5a46750eeb1dbb3d18dea6217b6",
       "screenshot_box_pct": [
@@ -463,7 +466,7 @@
         512,
         512
       ],
-      "aspect_ratio": 1.0,
+      "aspect_ratio": 1,
       "file_bytes": 53030,
       "sha256": "6c49df396ec67d2bf2ac384a1a4f5acdd065549c9e19fd164e0f7af358a4e990",
       "screenshot_box_pct": [
