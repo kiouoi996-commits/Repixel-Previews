@@ -494,7 +494,31 @@
       "sha256": "ddb9b4d693e938c3dd667cbe0ab55ec2338904e952130963f5c8e209e1f1a230",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-left.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-left.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 64,
+        "height": 72
+      },
+      "occurrences": [
+        {
+          "where": "right/detail: top back button",
+          "screenshot_box_px": [
+            976,
+            148,
+            22,
+            20
+          ],
+          "screenshot_box_pct": [
+            67.4,
+            13.6,
+            1.5,
+            1.8
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/arrow-right.svg",
@@ -507,7 +531,31 @@
       "sha256": "e991209444f766362597ded66460c50281c022a9c320fb2ead3037c80b8bf6a9",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-right.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-right.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 72,
+        "height": 62
+      },
+      "occurrences": [
+        {
+          "where": "left/onboarding: glass-card CTA",
+          "screenshot_box_px": [
+            394,
+            833,
+            23,
+            21
+          ],
+          "screenshot_box_pct": [
+            27.2,
+            76.7,
+            1.6,
+            1.9
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/bowl.svg",
@@ -520,7 +568,31 @@
       "sha256": "77099ff11c97f98e542bbba7bf6814154216986aaa197875e89038327b203501",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/bowl.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/bowl.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 80,
+        "height": 58
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: Bowls chip",
+          "screenshot_box_px": [
+            808,
+            359,
+            23,
+            18
+          ],
+          "screenshot_box_pct": [
+            55.8,
+            33.1,
+            1.6,
+            1.7
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/calendar.svg",
@@ -533,7 +605,31 @@
       "sha256": "4df2e40e8e073bfc44b0e1f8c5dc0d9b22661fbb1a5af66749e4daf05e932443",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/calendar.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/calendar.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 67,
+        "height": 79
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: bottom navigation",
+          "screenshot_box_px": [
+            740,
+            916,
+            21,
+            26
+          ],
+          "screenshot_box_pct": [
+            51.1,
+            84.3,
+            1.5,
+            2.4
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/chevron-right.svg",
@@ -546,7 +642,63 @@
       "sha256": "9ea5ac0a1582b504408aa1a187b3946f7ad8502b170c6ce682c91bec65413ee2",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/chevron-right.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/chevron-right.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 48,
+        "height": 72
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: Green Energizer card",
+          "screenshot_box_px": [
+            843,
+            591,
+            16,
+            22
+          ],
+          "screenshot_box_pct": [
+            58.2,
+            54.4,
+            1.1,
+            2
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        },
+        {
+          "where": "middle/home: Berry Balance card",
+          "screenshot_box_px": [
+            843,
+            829,
+            16,
+            22
+          ],
+          "screenshot_box_pct": [
+            58.2,
+            76.3,
+            1.1,
+            2
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        },
+        {
+          "where": "right/detail: Start recipe CTA",
+          "screenshot_box_px": [
+            1270,
+            879,
+            17,
+            23
+          ],
+          "screenshot_box_pct": [
+            87.7,
+            80.9,
+            1.2,
+            2.1
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/clock.svg",
@@ -559,7 +711,31 @@
       "sha256": "65569bdb0fc1a83ccf3a1e5b1c0921e9a60e85f614d614698063be136e5bce1d",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/clock.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/clock.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 70,
+        "height": 70
+      },
+      "occurrences": [
+        {
+          "where": "right/detail: 5 min metric",
+          "screenshot_box_px": [
+            971,
+            682,
+            18,
+            18
+          ],
+          "screenshot_box_pct": [
+            67.1,
+            62.8,
+            1.2,
+            1.7
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/filter.svg",
@@ -572,7 +748,31 @@
       "sha256": "93490f3c187816dafb8b4ed1ed1310588db19cf876ebe408c936a035bafb76c5",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/filter.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/filter.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 72,
+        "height": 67
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: search filter",
+          "screenshot_box_px": [
+            840,
+            274,
+            22,
+            22
+          ],
+          "screenshot_box_pct": [
+            58,
+            25.2,
+            1.5,
+            2
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/flame.svg",
@@ -585,7 +785,31 @@
       "sha256": "48c46b017ab2e08cb4640e303ae14f6c2cd84f5aeb7d30d812f53f86350ca4bc",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/flame.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/flame.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 55,
+        "height": 72
+      },
+      "occurrences": [
+        {
+          "where": "right/detail: kcal metric",
+          "screenshot_box_px": [
+            1078,
+            681,
+            16,
+            20
+          ],
+          "screenshot_box_pct": [
+            74.4,
+            62.7,
+            1.1,
+            1.8
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/heart-filled.svg",
@@ -598,7 +822,31 @@
       "sha256": "045bb46d132cbd33c9f7bf53ee48e82a2cd5a3d2b2e38171fdcc6e054ca8cc33",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-filled.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-filled.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 79,
+        "height": 68
+      },
+      "occurrences": [
+        {
+          "where": "right/detail: favorite top button",
+          "screenshot_box_px": [
+            1275,
+            144,
+            24,
+            22
+          ],
+          "screenshot_box_pct": [
+            88.1,
+            13.3,
+            1.7,
+            2
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/heart-outline.svg",
@@ -611,7 +859,47 @@
       "sha256": "d289b36d3d4c74fd2cda63817fb43147f0629ec982d8edc1971bc51664e6e38f",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-outline.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-outline.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 80,
+        "height": 72
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: Green Energizer favorite",
+          "screenshot_box_px": [
+            844,
+            445,
+            20,
+            20
+          ],
+          "screenshot_box_pct": [
+            58.3,
+            41,
+            1.4,
+            1.8
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        },
+        {
+          "where": "middle/home: Berry Balance favorite",
+          "screenshot_box_px": [
+            844,
+            687,
+            20,
+            20
+          ],
+          "screenshot_box_pct": [
+            58.3,
+            63.3,
+            1.4,
+            1.8
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/home.svg",
@@ -624,7 +912,31 @@
       "sha256": "0ea6bb88657df103d4913cba34512ad2369963bccf7a13d10604abdf490c62e8",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/home.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/home.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 78,
+        "height": 80
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: active bottom navigation",
+          "screenshot_box_px": [
+            562,
+            917,
+            24,
+            25
+          ],
+          "screenshot_box_pct": [
+            38.8,
+            84.4,
+            1.7,
+            2.3
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/immunity-bars.svg",
@@ -637,7 +949,31 @@
       "sha256": "cd90be75d242aa5828139f418cd43741304aca6b4bedb54677805280b2be0449",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/immunity-bars.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/immunity-bars.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 76,
+        "height": 70
+      },
+      "occurrences": [
+        {
+          "where": "right/detail: Immunity metric",
+          "screenshot_box_px": [
+            1198,
+            682,
+            22,
+            19
+          ],
+          "screenshot_box_pct": [
+            82.7,
+            62.8,
+            1.5,
+            1.7
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/leaf-filled.svg",
@@ -650,7 +986,47 @@
       "sha256": "ca12eb9def17907e9ef5c300f6786eb2efa88f2e8280e0f0a0adb947742b3070",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-filled.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-filled.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 74,
+        "height": 78
+      },
+      "occurrences": [
+        {
+          "where": "left/onboarding: brand mark",
+          "screenshot_box_px": [
+            114,
+            143,
+            26,
+            28
+          ],
+          "screenshot_box_pct": [
+            7.9,
+            13.2,
+            1.8,
+            2.6
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        },
+        {
+          "where": "middle/home: All chip",
+          "screenshot_box_px": [
+            552,
+            359,
+            18,
+            19
+          ],
+          "screenshot_box_pct": [
+            38.1,
+            33.1,
+            1.2,
+            1.7
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/leaf-outline.svg",
@@ -663,7 +1039,31 @@
       "sha256": "48338434320b8cdfee0a1281d8263eba108a72ac672e8883fb224db0a1cf1e34",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-outline.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-outline.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 72,
+        "height": 72
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: bottom navigation",
+          "screenshot_box_px": [
+            650,
+            919,
+            21,
+            22
+          ],
+          "screenshot_box_pct": [
+            44.9,
+            84.6,
+            1.5,
+            2
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/search.svg",
@@ -676,7 +1076,31 @@
       "sha256": "5b4d4bd5c4c79b6119dc61fcb38674fc57528a1559e4d7d39e6825d697a8d331",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/search.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/search.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 74,
+        "height": 74
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: search field",
+          "screenshot_box_px": [
+            551,
+            275,
+            21,
+            21
+          ],
+          "screenshot_box_pct": [
+            38.1,
+            25.3,
+            1.5,
+            1.9
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/smoothie.svg",
@@ -689,7 +1113,31 @@
       "sha256": "2dddfb86c25631d5700526d01f0efc7b5e68b58972131d1f78dc297d9bb8cb85",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/smoothie.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/smoothie.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 56,
+        "height": 82
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: Smoothies chip",
+          "screenshot_box_px": [
+            654,
+            356,
+            18,
+            26
+          ],
+          "screenshot_box_pct": [
+            45.2,
+            32.8,
+            1.2,
+            2.4
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     },
     {
       "file": "icons/user.svg",
@@ -702,7 +1150,31 @@
       "sha256": "02e615a57f630e6866ecc98b640408899cc9b93ddaf8509919f095f5b4175441",
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/user.svg",
       "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/user.svg",
-      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "glyph_occupancy_pct_of_viewbox": {
+        "width": 72,
+        "height": 78
+      },
+      "occurrences": [
+        {
+          "where": "middle/home: bottom navigation",
+          "screenshot_box_px": [
+            824,
+            916,
+            22,
+            25
+          ],
+          "screenshot_box_pct": [
+            56.9,
+            84.3,
+            1.5,
+            2.3
+          ],
+          "note": "estimated from raster screenshot; button/chip background is separate UI"
+        }
+      ],
+      "crop": "glyph fully visible within UI container",
+      "shadow": "none in SVG; any button/container shadow belongs to UI"
     }
   ],
   "ui_primitives": {
