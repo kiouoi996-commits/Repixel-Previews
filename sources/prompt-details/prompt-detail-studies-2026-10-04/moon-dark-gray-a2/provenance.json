@@ -1,0 +1,77 @@
+{
+  "studyBatch": "prompt-detail-studies-2026-10-04",
+  "authorship": "New motion authored from selected details of existing Repixel prompts; original source motion, code and font identity are not claimed.",
+  "sources": [
+    {
+      "cardId": "motion-123-more-than-places-arch-aperture",
+      "contentFile": "content/animation-prompts/123-more-than-places-arch-aperture-insert.txt",
+      "publicPrompt": "/prompts/motion-123-more-than-places-arch-aperture-insert.md",
+      "bytes": 5596,
+      "sha256": "b01f86abc3e57099f6a593d2aad7c3b776463d81cfd936a15db89110d6431c1b",
+      "repositoryCommit": "cbcb6cbabce6ded2d7b0209fcccdabe0dd5fadca",
+      "selectedElement": "The full moon disc in the upper-right coast photograph, cropped at x1247/y94/w70/h70; the phase mask and its control are newly authored."
+    }
+  ],
+  "assets": [
+    {
+      "path": "moon-reference.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b1259331a9c7fbd5124ee72dd479406a9a71102/images/editorial/references/123-more-than-places-arch-aperture-2026-09-30-a1-reference.webp",
+      "bytes": 271264,
+      "sha256": "6791094b236e05d840e4b077e9fe086f701949e941cd2d257f2d3b5c99738759"
+    }
+  ],
+  "derivedWindows": [
+    {
+      "source": "moon-reference.webp",
+      "crop": [
+        1247,
+        94,
+        70,
+        70
+      ],
+      "mask": "Circle; no hidden moon pixels reconstructed."
+    }
+  ],
+  "typography": "Inter is a visually matched reference font, not a recovered source font.",
+  "renderDependencies": [
+    "Python",
+    "Pillow",
+    "NumPy",
+    "fontTools",
+    "ffmpeg"
+  ],
+  "previews": [
+    {
+      "number": 161,
+      "slug": "more-than-places-moon-phase",
+      "width": 1080,
+      "height": 608,
+      "fps": 30,
+      "frames": 180,
+      "durationSeconds": 6,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 123,
+      "video": {
+        "path": "161-more-than-places-moon-phase-2026-10-04-a2.mp4",
+        "bytes": 73367,
+        "sha256": "1fe0f977e918fe47b6b4edc3fdf0aaf0d60b3ee9ab698957346c903859099522"
+      },
+      "poster": {
+        "path": "161-more-than-places-moon-phase-2026-10-04-a2.webp",
+        "bytes": 9252,
+        "sha256": "676f7395379a492c8e8461d9b3cc19e36c86ecfa8dcd03d0e60f564d50d55532"
+      }
+    }
+  ],
+  "interaction": "Normal mode uses genuine pointer/range input. ?demo=1 is a separate gallery fixture.",
+  "revision": "moon-dark-gray-a2",
+  "change": {
+    "field": "presentationBackground",
+    "previous": "#191D13",
+    "current": "#252525",
+    "requestedBy": "user"
+  },
+  "previousMediaCommit": "e4532122077a66dac22347f3332c3a72885ffa37"
+}
