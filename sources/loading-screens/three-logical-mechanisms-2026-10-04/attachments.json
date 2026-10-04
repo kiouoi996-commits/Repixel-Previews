@@ -1,0 +1,29 @@
+[
+  {
+    "number": 167,
+    "fileId": "file_00000000a07c8243ab1317b65acf81d5",
+    "bytes": 279863,
+    "sha256": "55e5e9d2dd69a2dd13ec026038d7267a977b82721c327023d0f22f6c85fbf5cb",
+    "width": 1254,
+    "height": 1254,
+    "basis": "user-supplied still; animation authored for this task"
+  },
+  {
+    "number": 168,
+    "fileId": "file_000000007d9881f4bc50a7e4013c4af4",
+    "bytes": 308519,
+    "sha256": "8c4f0f78926f9a9d33910ae8205770e04f8ebb35eef47b4ff76df7b8ee9e7203",
+    "width": 1254,
+    "height": 1254,
+    "basis": "user-supplied still; animation authored for this task"
+  },
+  {
+    "number": 169,
+    "fileId": "file_00000000716c82108201831f0b96aa71",
+    "bytes": 331874,
+    "sha256": "fe9f6b708d36657cba4a16b75e5c00b05e142dd832a7c9618143c79a89a37cd3",
+    "width": 1254,
+    "height": 1254,
+    "basis": "user-supplied still; animation authored for this task"
+  }
+]

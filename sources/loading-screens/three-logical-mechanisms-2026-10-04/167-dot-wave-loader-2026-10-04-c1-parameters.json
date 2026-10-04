@@ -1,0 +1,88 @@
+{
+  "nativeStage": [
+    1254,
+    1254
+  ],
+  "preview": {
+    "width": 900,
+    "height": 900,
+    "fps": 30,
+    "frames": 240,
+    "durationSeconds": 8,
+    "audio": false,
+    "faststart": true,
+    "closedSampling": "t=8*frameIndex/239; app uses elapsed seconds"
+  },
+  "labelBounds": [
+    506,
+    786,
+    750,
+    890
+  ],
+  "stationaryLabel": true,
+  "motionAuthorship": "authored from a supplied still",
+  "centersAndReferenceRadii": [
+    [
+      636,
+      439,
+      11.1
+    ],
+    [
+      707.5,
+      459,
+      9.2
+    ],
+    [
+      755,
+      510,
+      8.2
+    ],
+    [
+      772.5,
+      581.5,
+      6.7
+    ],
+    [
+      746.5,
+      657.5,
+      7.3
+    ],
+    [
+      676.5,
+      707,
+      13.7
+    ],
+    [
+      600,
+      709.5,
+      16.9
+    ],
+    [
+      533,
+      671.5,
+      19.7
+    ],
+    [
+      498.5,
+      603.5,
+      20.25
+    ],
+    [
+      505.5,
+      528.5,
+      20.5
+    ],
+    [
+      549,
+      468.5,
+      20.65
+    ]
+  ],
+  "radiusWave": {
+    "periodSeconds": 2,
+    "coordinate": "(i-11*t/2) modulo 11",
+    "interpolation": "periodic cubic spline through native radius table; clamp to [6.7,20.65]",
+    "color": "#ffffff",
+    "centerMovement": false
+  }
+}

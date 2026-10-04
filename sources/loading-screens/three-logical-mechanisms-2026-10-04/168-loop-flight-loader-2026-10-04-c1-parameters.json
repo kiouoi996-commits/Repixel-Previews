@@ -1,0 +1,169 @@
+{
+  "nativeStage": [
+    1254,
+    1254
+  ],
+  "preview": {
+    "width": 900,
+    "height": 900,
+    "fps": 30,
+    "frames": 240,
+    "durationSeconds": 8,
+    "audio": false,
+    "faststart": true,
+    "closedSampling": "t=8*frameIndex/239; app uses elapsed seconds"
+  },
+  "labelBounds": [
+    487,
+    826,
+    775,
+    943
+  ],
+  "stationaryLabel": true,
+  "motionAuthorship": "authored from a supplied still",
+  "planeBounds": [
+    824,
+    423,
+    996,
+    565
+  ],
+  "planePivot": [
+    906,
+    493
+  ],
+  "sourceForwardAngleDegrees": -37.43160297841057,
+  "cubicBezierSegments": [
+    [
+      [
+        305,
+        744.5
+      ],
+      [
+        386,
+        803
+      ],
+      [
+        514,
+        812
+      ],
+      [
+        601,
+        720
+      ]
+    ],
+    [
+      [
+        601,
+        720
+      ],
+      [
+        648.85,
+        669.4
+      ],
+      [
+        643,
+        618
+      ],
+      [
+        607,
+        604
+      ]
+    ],
+    [
+      [
+        607,
+        604
+      ],
+      [
+        546,
+        580.277778
+      ],
+      [
+        506,
+        634
+      ],
+      [
+        531,
+        685
+      ]
+    ],
+    [
+      [
+        531,
+        685
+      ],
+      [
+        559,
+        742.12
+      ],
+      [
+        635,
+        756
+      ],
+      [
+        710,
+        713
+      ]
+    ],
+    [
+      [
+        710,
+        713
+      ],
+      [
+        809,
+        656.24
+      ],
+      [
+        844,
+        541
+      ],
+      [
+        906,
+        493
+      ]
+    ]
+  ],
+  "pathLength": 1112.240275744777,
+  "flight": {
+    "startSeconds": 0.3,
+    "travelSeconds": 5.4,
+    "arcLengthFraction": "smoothstep((t-.30)/5.4)",
+    "scale": "0.65+0.35*smoothstep((arcFraction-.45)/.45)",
+    "orientation": "continuous atan2(path tangent); do not independently spin",
+    "outlineFadeInSeconds": [
+      0.1,
+      0.4
+    ],
+    "endHoldSeconds": [
+      5.7,
+      6.6
+    ],
+    "fadeOutSeconds": [
+      6.6,
+      7.4
+    ],
+    "hiddenResetSeconds": [
+      7.4,
+      8
+    ]
+  },
+  "trail": {
+    "dash": 17,
+    "gap": 27,
+    "stroke": 5.2,
+    "linecap": "round",
+    "revealUpTo": "max(0,headArcLength-80)",
+    "stationaryOrigin": [
+      305,
+      744.5,
+      20.5
+    ]
+  },
+  "velocityLines": {
+    "distanceBehind": 94,
+    "length": 22,
+    "separation": 13,
+    "opacityEnvelope": "sin(pi*arcFraction)"
+  }
+}

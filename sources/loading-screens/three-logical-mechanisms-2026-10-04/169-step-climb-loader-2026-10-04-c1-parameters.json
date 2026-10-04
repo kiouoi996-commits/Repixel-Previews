@@ -1,0 +1,140 @@
+{
+  "nativeStage": [
+    1254,
+    1254
+  ],
+  "preview": {
+    "width": 900,
+    "height": 900,
+    "fps": 30,
+    "frames": 240,
+    "durationSeconds": 8,
+    "audio": false,
+    "faststart": true,
+    "closedSampling": "t=8*frameIndex/239; app uses elapsed seconds"
+  },
+  "labelBounds": [
+    482,
+    814,
+    770,
+    936
+  ],
+  "stationaryLabel": true,
+  "motionAuthorship": "authored from a supplied still",
+  "stepContacts": [
+    [
+      399,
+      723
+    ],
+    [
+      484.5,
+      695
+    ],
+    [
+      567.5,
+      660
+    ],
+    [
+      651.5,
+      622
+    ],
+    [
+      742.5,
+      567
+    ],
+    [
+      849.5,
+      492
+    ]
+  ],
+  "stepArtworkBoxes": [
+    [
+      339,
+      720,
+      915,
+      772
+    ],
+    [
+      456,
+      692,
+      513,
+      757
+    ],
+    [
+      538,
+      657,
+      597,
+      757
+    ],
+    [
+      622,
+      618,
+      681,
+      757
+    ],
+    [
+      708,
+      563,
+      777,
+      757
+    ],
+    [
+      814,
+      489,
+      885,
+      757
+    ]
+  ],
+  "cycle": {
+    "settleSeconds": [
+      0,
+      0.3
+    ],
+    "climbSeconds": [
+      0.3,
+      5.7
+    ],
+    "hopCount": 5,
+    "hopSeconds": 1.08,
+    "lastTreadHoldSeconds": [
+      5.7,
+      6.6
+    ],
+    "fadeOutSeconds": [
+      6.6,
+      7.4
+    ],
+    "hiddenResetSeconds": [
+      7.4,
+      8
+    ],
+    "fadeInSeconds": [
+      0.05,
+      0.25
+    ]
+  },
+  "pose": {
+    "hipHeightAboveSupport": 53,
+    "flightHipLift": 26,
+    "upperLeg": 40,
+    "lowerLeg": 39,
+    "upperArm": 25,
+    "lowerArm": 24,
+    "headRadius": 18,
+    "legStroke": 7.5,
+    "torsoStroke": 10,
+    "armStroke": 6.5,
+    "hipPosition": "mix(previousContact,nextContact,smoothstep(u))+(0,-53-26*sin(pi*smoothstep((u-.16)/.69))+7*exp(-((u-.86)/.075)^2))",
+    "leadFoot": "plant through u=.10; move with smoothstep((u-.10)/.72), add y=-24*sin(pi*q); plant at target from u=.82",
+    "rearFoot": "plant through u=.20; move with smoothstep((u-.20)/.80), add y=-32*sin(pi*q); reach target at u=1",
+    "leadLeg": "alternate each hop",
+    "joints": "two-bone inverse kinematics; knees bend forward; preserve limb lengths",
+    "arms": "opposite leading leg, shoulder follows torso; hands use same two-bone IK",
+    "shoulderOffset": "(12+6*sin(pi*u),-41)",
+    "headOffsetFromShoulder": [
+      4,
+      -28
+    ]
+  },
+  "contactRule": "feet hit measured tread coordinates, never float, slide or penetrate bars; reset only while invisible"
+}
