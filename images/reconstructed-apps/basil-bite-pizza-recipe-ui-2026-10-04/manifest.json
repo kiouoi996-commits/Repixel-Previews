@@ -1,0 +1,1770 @@
+{
+  "project": "basil-bite-pizza-recipe-ui-2026-10-04",
+  "status": "published to Repixel Previews via Composio GitHub connection",
+  "source_screenshot": {
+    "width": 1448,
+    "height": 1086,
+    "file": "5842813a-ad94-45f5-8c54-19928baf8107.png"
+  },
+  "reconstruction_notice": "Оригинальные исходники недоступны. Все растровые файлы являются реконструкциями/извлечениями по скриншоту, а не оригинальными файлами макета.",
+  "measurement_notice": "Все координаты и размеры — измерения/оценки по растровому скриншоту 1448×1086; не выдаются за исходные параметры дизайна.",
+  "repository": {
+    "name": "Repixel Previews",
+    "full_name": "kiouoi996-commits/Repixel-Previews",
+    "target_folder": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04",
+    "upload_error": null,
+    "asset_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16",
+    "asset_commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/582696acce80241ed9be741f40d09b81a1919b16",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04"
+  },
+  "screens": {
+    "home": {
+      "rect_px": [
+        68,
+        89,
+        401,
+        899
+      ],
+      "note": "Левый экран: каталог/рекомендации/тренды и нижняя навигация.",
+      "rect_percent_of_screenshot": [
+        4.7,
+        8.2,
+        27.69,
+        82.78
+      ]
+    },
+    "recipe": {
+      "rect_px": [
+        500,
+        89,
+        404,
+        900
+      ],
+      "note": "Центральный экран: Margherita, ингредиенты и шаги приготовления.",
+      "rect_percent_of_screenshot": [
+        34.53,
+        8.2,
+        27.9,
+        82.87
+      ]
+    },
+    "order": {
+      "rect_px": [
+        936,
+        102,
+        406,
+        889
+      ],
+      "note": "Правый экран: корзина/заказ.",
+      "rect_percent_of_screenshot": [
+        64.64,
+        9.39,
+        28.04,
+        81.86
+      ]
+    }
+  },
+  "ui_fills_effects": {
+    "outer_canvas": {
+      "approx_background": "linear-gradient(115deg, #EBF3ED 0%, #F7F0EA 53%, #F6F5E9 100%)",
+      "note": "Оценка по скриншоту; добавить очень мягкие радиальные пятна mint/peach/yellow с opacity ~0.18."
+    },
+    "screen_surface": {
+      "fill": "#FFFEFD",
+      "radius_estimate_px": "34–38 at screenshot scale",
+      "shadow": "0 22px 48px rgba(34,70,53,0.08)"
+    },
+    "primary_green": {
+      "approx": "#2F7051",
+      "buttons": "#2C6C4F…#337A57 subtle vertical gradient",
+      "nav": "#35765A approx"
+    },
+    "accent_yellow": {
+      "approx": "#FFE06A",
+      "promo_square": "#FFD958 approx"
+    },
+    "ingredient_backplate": {
+      "fill": "#F2F1EB",
+      "shape": "circle; ~68–72 px diameter on screenshot"
+    },
+    "light_cards": {
+      "fill": "#FFFEFD",
+      "border": "1px rgba(30,50,40,0.04)",
+      "shadow": "0 5px 16px rgba(33,70,53,0.045)"
+    },
+    "text": {
+      "primary": "#111118",
+      "muted": "#7A7B84"
+    },
+    "important": "Круглые/скруглённые подложки, зелёная FAB-кнопка, жёлтый promo-квадрат и нижняя навигация не включены в графические ассеты."
+  },
+  "assets": [
+    {
+      "file": "avatar-user.webp",
+      "kind": "raster",
+      "role": "Аватар пользователя",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        405,
+        128,
+        39,
+        39
+      ],
+      "visible_rect_percent_of_screenshot": [
+        27.97,
+        11.79,
+        2.69,
+        3.59
+      ],
+      "export_px": [
+        192,
+        192
+      ],
+      "aspect_ratio": "192:192",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        100,
+        100
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "screenshot crop/upscale",
+      "note": "Круглый портрет; UI маскирует в круг. Без текста.",
+      "sha256": "62e1f8cb18a90842fa52166d92a3717b4cbc23fc357595a6122fe08886c372e5",
+      "bytes": 1962,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/avatar-user.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/avatar-user.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "category-pizza.webp",
+      "kind": "raster",
+      "role": "Мини-иллюстрация категории Pizza",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        108,
+        292,
+        34,
+        30
+      ],
+      "visible_rect_percent_of_screenshot": [
+        7.46,
+        26.89,
+        2.35,
+        2.76
+      ],
+      "export_px": [
+        256,
+        256
+      ],
+      "aspect_ratio": "256:256",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        78.9,
+        67.2
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        10.5,
+        16.4,
+        10.5,
+        16.4
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Кусок пиццы; зелёная карточка и подпись — UI.",
+      "sha256": "aa552760b7e24a397a0f54202fdea1dfde169eb2b97076ea57f4c19c7f40dd19",
+      "bytes": 8392,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-pizza.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-pizza.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "category-pasta.webp",
+      "kind": "raster",
+      "role": "Мини-иллюстрация категории Pasta",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        184,
+        297,
+        34,
+        24
+      ],
+      "visible_rect_percent_of_screenshot": [
+        12.71,
+        27.35,
+        2.35,
+        2.21
+      ],
+      "export_px": [
+        256,
+        256
+      ],
+      "aspect_ratio": "256:256",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        89.8,
+        64.8
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        5.1,
+        17.6,
+        5.1,
+        17.6
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Тарелка пасты; белая карточка — UI.",
+      "sha256": "18495011e2a0fee6b1be1b308ff424fcc4169d5edd41f20b4607953119fe262d",
+      "bytes": 13690,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-pasta.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-pasta.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "category-salad.webp",
+      "kind": "raster",
+      "role": "Мини-иллюстрация категории Salad",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        258,
+        296,
+        34,
+        25
+      ],
+      "visible_rect_percent_of_screenshot": [
+        17.82,
+        27.26,
+        2.35,
+        2.3
+      ],
+      "export_px": [
+        256,
+        256
+      ],
+      "aspect_ratio": "256:256",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        89.8,
+        59.4
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        5.1,
+        20.3,
+        5.1,
+        20.3
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Миска салата; белая карточка — UI.",
+      "sha256": "220890c45999e8fe9febec51f2b8326ade4ff4094b16bfe40e418357ec11d88e",
+      "bytes": 12754,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-salad.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-salad.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "category-soup.webp",
+      "kind": "raster",
+      "role": "Мини-иллюстрация категории Soup",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        333,
+        296,
+        36,
+        24
+      ],
+      "visible_rect_percent_of_screenshot": [
+        23.0,
+        27.26,
+        2.49,
+        2.21
+      ],
+      "export_px": [
+        256,
+        256
+      ],
+      "aspect_ratio": "256:256",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        87.1,
+        55.9
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        6.2,
+        21.9,
+        6.6,
+        22.3
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Миска томатного супа; белая карточка — UI.",
+      "sha256": "4c67e03d2bb6d5a655c22151ecd87d4981e08d01cc0fccae80ed767fd3ee72fc",
+      "bytes": 10204,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-soup.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-soup.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "category-dessert.webp",
+      "kind": "raster",
+      "role": "Мини-иллюстрация категории Dessert",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        404,
+        297,
+        36,
+        24
+      ],
+      "visible_rect_percent_of_screenshot": [
+        27.9,
+        27.35,
+        2.49,
+        2.21
+      ],
+      "export_px": [
+        256,
+        256
+      ],
+      "aspect_ratio": "256:256",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        76.6,
+        69.9
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        11.7,
+        14.8,
+        11.7,
+        15.2
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Десерт; белая карточка — UI.",
+      "sha256": "36dbf4047efe6782942eb2bc012b5e9e5b6af0f58cb971ba88298cf9a0808146",
+      "bytes": 8454,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-dessert.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/category-dessert.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-margherita-card.webp",
+      "kind": "raster",
+      "role": "Фото Margherita в Recommended",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        100,
+        445,
+        172,
+        161
+      ],
+      "visible_rect_percent_of_screenshot": [
+        6.91,
+        40.98,
+        11.88,
+        14.83
+      ],
+      "export_px": [
+        516,
+        486
+      ],
+      "aspect_ratio": "516:486",
+      "alpha_channel": false,
+      "main_object_occupancy_percent_estimate": [
+        88,
+        91
+      ],
+      "transparent_asset_content_margins_percent_ltrb": null,
+      "object_fit": "cover",
+      "object_position": "50% 50%",
+      "source_method": "screenshot crop/upscale",
+      "note": "Фото без названия/ккал/закладки/кнопки. Скругление контейнера делает UI.",
+      "sha256": "265a93dcacabdf07c066c11699569d291e897eb2a991ffe4ac09adcf32344014",
+      "bytes": 30064,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-margherita-card.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-margherita-card.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-capricciosa-card.webp",
+      "kind": "raster",
+      "role": "Фото Capricciosa в Recommended",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        304,
+        445,
+        165,
+        161
+      ],
+      "visible_rect_percent_of_screenshot": [
+        20.99,
+        40.98,
+        11.4,
+        14.83
+      ],
+      "export_px": [
+        495,
+        486
+      ],
+      "aspect_ratio": "495:486",
+      "alpha_channel": false,
+      "main_object_occupancy_percent_estimate": [
+        91,
+        92
+      ],
+      "transparent_asset_content_margins_percent_ltrb": null,
+      "object_fit": "cover",
+      "object_position": "50% 50%",
+      "source_method": "screenshot crop/upscale",
+      "note": "Фото без названия/ккал/закладки/кнопки. Скругление контейнера делает UI.",
+      "sha256": "24256b81039d641c5e811c82088214d01e83800451d05704765464c5acd8a96d",
+      "bytes": 31822,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-capricciosa-card.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-capricciosa-card.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-diavola.webp",
+      "kind": "raster",
+      "role": "Круглая пицца Diavola в Trending",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        92,
+        775,
+        82,
+        80
+      ],
+      "visible_rect_percent_of_screenshot": [
+        6.35,
+        71.36,
+        5.66,
+        7.37
+      ],
+      "export_px": [
+        320,
+        320
+      ],
+      "aspect_ratio": "320:320",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        84.1,
+        88.1
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        7.8,
+        5.9,
+        8.1,
+        5.9
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только пицца; белый фон экрана и подпись — UI.",
+      "sha256": "b10b6d9cd8cbfe2f8587c599de865f96ba08f60f7c278c86b0998e41d33f9c2d",
+      "bytes": 22628,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-diavola.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-diavola.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-quattro-formaggi.webp",
+      "kind": "raster",
+      "role": "Круглая пицца Quattro Formaggi в Trending",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        193,
+        775,
+        80,
+        80
+      ],
+      "visible_rect_percent_of_screenshot": [
+        13.33,
+        71.36,
+        5.52,
+        7.37
+      ],
+      "export_px": [
+        320,
+        320
+      ],
+      "aspect_ratio": "320:320",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        88.1,
+        81.6
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        5.9,
+        9.1,
+        5.9,
+        9.4
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только пицца; фон/подпись — UI.",
+      "sha256": "a37efdd1df05a9e914531bf42326eb6cca8193b5db7f4c09bddc3f2e38655a7e",
+      "bytes": 21252,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-quattro-formaggi.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-quattro-formaggi.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-vegetariana.webp",
+      "kind": "raster",
+      "role": "Круглая пицца Vegetariana в Trending",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        291,
+        775,
+        80,
+        80
+      ],
+      "visible_rect_percent_of_screenshot": [
+        20.1,
+        71.36,
+        5.52,
+        7.37
+      ],
+      "export_px": [
+        320,
+        320
+      ],
+      "aspect_ratio": "320:320",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        88.1,
+        85.3
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        5.9,
+        7.2,
+        5.9,
+        7.5
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только пицца; фон/подпись — UI.",
+      "sha256": "bf612e36e4ebaad433c79c7c4c9571d14d7635c2d83f42a0611f4c239cca0fc9",
+      "bytes": 23724,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-vegetariana.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-vegetariana.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-tonno.webp",
+      "kind": "raster",
+      "role": "Круглая пицца Tonno в Trending",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        392,
+        775,
+        77,
+        80
+      ],
+      "visible_rect_percent_of_screenshot": [
+        27.07,
+        71.36,
+        5.32,
+        7.37
+      ],
+      "export_px": [
+        320,
+        320
+      ],
+      "aspect_ratio": "320:320",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        86.2,
+        88.1
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        6.9,
+        5.9,
+        6.9,
+        5.9
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только пицца; у правого края экрана видимая область тесная.",
+      "sha256": "718c60e4bee774a1be4db4daa7a07d642336cbf8a04c202fe69d04a459eb31b8",
+      "bytes": 24010,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-tonno.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-tonno.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-margherita-hero.webp",
+      "kind": "raster",
+      "role": "Главный hero-кадр Margherita",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        527,
+        145,
+        355,
+        326
+      ],
+      "visible_rect_percent_of_screenshot": [
+        36.4,
+        13.35,
+        24.52,
+        30.02
+      ],
+      "export_px": [
+        1080,
+        1020
+      ],
+      "aspect_ratio": "1080:1020",
+      "alpha_channel": false,
+      "main_object_occupancy_percent_estimate": [
+        79,
+        84
+      ],
+      "transparent_asset_content_margins_percent_ltrb": null,
+      "object_fit": "cover",
+      "object_position": "50% 49%",
+      "source_method": "screenshot-guided generated reconstruction",
+      "note": "Пицца сверху, базилик, черри и крошки на молочно-белом фоне. Стрелка и меню не включены.",
+      "sha256": "a25e74d7890ff3001be51871063c4f722be3e5838b2e22f8886f5cd6fa3f401f",
+      "bytes": 79842,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-margherita-hero.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-margherita-hero.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "ingredient-tomato.webp",
+      "kind": "raster",
+      "role": "Ингредиент Tomato",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        543,
+        627,
+        48,
+        46
+      ],
+      "visible_rect_percent_of_screenshot": [
+        37.5,
+        57.73,
+        3.31,
+        4.24
+      ],
+      "export_px": [
+        384,
+        384
+      ],
+      "aspect_ratio": "384:384",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        90.1,
+        89.1
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        4.9,
+        5.5,
+        4.9,
+        5.5
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только томат с мягкой собственной тенью; светлый круг — UI.",
+      "sha256": "94cc3e805c91ea9fad504d306c798a95fb84870742b54c9f28ca0dddcd8650f5",
+      "bytes": 18176,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-tomato.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-tomato.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "ingredient-mozzarella.webp",
+      "kind": "raster",
+      "role": "Ингредиент Mozzarella",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        633,
+        627,
+        50,
+        45
+      ],
+      "visible_rect_percent_of_screenshot": [
+        43.72,
+        57.73,
+        3.45,
+        4.14
+      ],
+      "export_px": [
+        384,
+        384
+      ],
+      "aspect_ratio": "384:384",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        90.1,
+        81.2
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        4.9,
+        9.4,
+        4.9,
+        9.4
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только шар моцареллы; светлый круг — UI.",
+      "sha256": "5649bfb90b3ba9cd126d0a20eafaed3976abd9a1b0cd318fd30977b76c5a2da4",
+      "bytes": 14430,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-mozzarella.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-mozzarella.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "ingredient-basil.webp",
+      "kind": "raster",
+      "role": "Ингредиент Basil",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        722,
+        626,
+        55,
+        47
+      ],
+      "visible_rect_percent_of_screenshot": [
+        49.86,
+        57.64,
+        3.8,
+        4.33
+      ],
+      "export_px": [
+        384,
+        384
+      ],
+      "aspect_ratio": "384:384",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        90.1,
+        76.3
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        4.9,
+        11.7,
+        4.9,
+        12.0
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только веточка базилика; светлый круг — UI.",
+      "sha256": "178fa8fad0b374d315b94e054c87fb87abed79c441ec64af5ddd6da553b38e4b",
+      "bytes": 23418,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-basil.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-basil.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "ingredient-dough.webp",
+      "kind": "raster",
+      "role": "Ингредиент Dough",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        813,
+        628,
+        49,
+        44
+      ],
+      "visible_rect_percent_of_screenshot": [
+        56.15,
+        57.83,
+        3.38,
+        4.05
+      ],
+      "export_px": [
+        384,
+        384
+      ],
+      "aspect_ratio": "384:384",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        90.1,
+        84.1
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        4.9,
+        7.8,
+        4.9,
+        8.1
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только шар теста; светлый круг — UI.",
+      "sha256": "d48362b6735e077406ae13c2a56f5183842bf2b6c05967d0f12c66f79261d2d8",
+      "bytes": 16496,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-dough.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/ingredient-dough.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "step-dough.webp",
+      "kind": "raster",
+      "role": "Превью шага Prepare the dough",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        800,
+        771,
+        80,
+        40
+      ],
+      "visible_rect_percent_of_screenshot": [
+        55.25,
+        70.99,
+        5.52,
+        3.68
+      ],
+      "export_px": [
+        480,
+        288
+      ],
+      "aspect_ratio": "480:288",
+      "alpha_channel": false,
+      "main_object_occupancy_percent_estimate": [
+        100,
+        100
+      ],
+      "transparent_asset_content_margins_percent_ltrb": null,
+      "object_fit": "cover",
+      "object_position": "50% 50%",
+      "source_method": "generated reconstruction",
+      "note": "Фото теста; радиус превью — UI.",
+      "sha256": "8baf1d4b6a83bb27656aaa29b90fde6685acc4c152a5a956ca2317cb032552f4",
+      "bytes": 11566,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-dough.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-dough.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "step-sauce.webp",
+      "kind": "raster",
+      "role": "Превью шага Add tomato sauce",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        800,
+        820,
+        80,
+        40
+      ],
+      "visible_rect_percent_of_screenshot": [
+        55.25,
+        75.51,
+        5.52,
+        3.68
+      ],
+      "export_px": [
+        480,
+        288
+      ],
+      "aspect_ratio": "480:288",
+      "alpha_channel": false,
+      "main_object_occupancy_percent_estimate": [
+        100,
+        100
+      ],
+      "transparent_asset_content_margins_percent_ltrb": null,
+      "object_fit": "cover",
+      "object_position": "50% 50%",
+      "source_method": "generated reconstruction",
+      "note": "Крупный план томатного соуса; радиус — UI.",
+      "sha256": "a37d48a11ba922a280a0b35ddc60866e7786ff766a4605511e7e80966efa51d2",
+      "bytes": 14018,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-sauce.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-sauce.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "step-toppings.webp",
+      "kind": "raster",
+      "role": "Превью шага Add toppings",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        800,
+        869,
+        80,
+        40
+      ],
+      "visible_rect_percent_of_screenshot": [
+        55.25,
+        80.02,
+        5.52,
+        3.68
+      ],
+      "export_px": [
+        480,
+        288
+      ],
+      "aspect_ratio": "480:288",
+      "alpha_channel": false,
+      "main_object_occupancy_percent_estimate": [
+        100,
+        100
+      ],
+      "transparent_asset_content_margins_percent_ltrb": null,
+      "object_fit": "cover",
+      "object_position": "50% 50%",
+      "source_method": "generated reconstruction",
+      "note": "Кусочки моцареллы/топпингов; радиус — UI.",
+      "sha256": "929ed06dcdef367821e8a997cc27083a9199c080aac9a2e36704db81c1df7e89",
+      "bytes": 10656,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-toppings.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-toppings.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "step-bake.webp",
+      "kind": "raster",
+      "role": "Превью шага Bake for 10 minutes",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        800,
+        918,
+        80,
+        40
+      ],
+      "visible_rect_percent_of_screenshot": [
+        55.25,
+        84.53,
+        5.52,
+        3.68
+      ],
+      "export_px": [
+        480,
+        288
+      ],
+      "aspect_ratio": "480:288",
+      "alpha_channel": false,
+      "main_object_occupancy_percent_estimate": [
+        100,
+        100
+      ],
+      "transparent_asset_content_margins_percent_ltrb": null,
+      "object_fit": "cover",
+      "object_position": "50% 50%",
+      "source_method": "generated reconstruction",
+      "note": "Крупный план запечённой пиццы; радиус — UI.",
+      "sha256": "795a0e3dfcad8d5e2067b01ac9753e679656ede0add2910eb7b87769908234a9",
+      "bytes": 20436,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-bake.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/step-bake.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-margherita-thumb.webp",
+      "kind": "raster",
+      "role": "Миниатюра Margherita в заказе",
+      "screen": "order",
+      "visible_rect_px_estimate": [
+        972,
+        235,
+        87,
+        86
+      ],
+      "visible_rect_percent_of_screenshot": [
+        67.13,
+        21.64,
+        6.01,
+        7.92
+      ],
+      "export_px": [
+        384,
+        384
+      ],
+      "aspect_ratio": "384:384",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        88.0,
+        87.5
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        6.0,
+        6.2,
+        6.0,
+        6.2
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только круглая пицца; светлая подложка строки заказа — UI.",
+      "sha256": "362f3991d02a743c614d0c565be28c330d67f37c58a68c4beae5aa96a0be0eb7",
+      "bytes": 29298,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-margherita-thumb.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-margherita-thumb.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "pizza-capricciosa-thumb.webp",
+      "kind": "raster",
+      "role": "Миниатюра Capricciosa в заказе",
+      "screen": "order",
+      "visible_rect_px_estimate": [
+        972,
+        366,
+        88,
+        86
+      ],
+      "visible_rect_percent_of_screenshot": [
+        67.13,
+        33.7,
+        6.08,
+        7.92
+      ],
+      "export_px": [
+        384,
+        384
+      ],
+      "aspect_ratio": "384:384",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        88.0,
+        86.2
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        6.0,
+        6.8,
+        6.0,
+        7.0
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Только круглая пицца; светлая подложка строки заказа — UI.",
+      "sha256": "722fabd794ebbfadcfd6fa4c169b1c6c342366344b97743d41b1be135e80d233",
+      "bytes": 31616,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-capricciosa-thumb.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/pizza-capricciosa-thumb.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "drink-lemonade.webp",
+      "kind": "raster",
+      "role": "Стакан лимонада в заказе",
+      "screen": "order",
+      "visible_rect_px_estimate": [
+        978,
+        499,
+        78,
+        88
+      ],
+      "visible_rect_percent_of_screenshot": [
+        67.54,
+        45.95,
+        5.39,
+        8.1
+      ],
+      "export_px": [
+        432,
+        540
+      ],
+      "aspect_ratio": "432:540",
+      "alpha_channel": true,
+      "main_object_occupancy_percent_estimate": [
+        84.0,
+        85.9
+      ],
+      "transparent_asset_content_margins_percent_ltrb": [
+        7.9,
+        7.0,
+        8.1,
+        7.0
+      ],
+      "object_fit": "contain",
+      "object_position": "center",
+      "source_method": "generated reconstruction isolated to alpha",
+      "note": "Стакан с лимоном, льдом и мятой; светлый квадрат — UI.",
+      "sha256": "394a5b0bd22015288dd727fcf1faaf9615f71d6109eed8ba4ff1e7057cd18a89",
+      "bytes": 29924,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/drink-lemonade.webp",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/drink-lemonade.webp",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/search.svg",
+      "kind": "svg-icon",
+      "role": "Поиск",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        113,
+        217,
+        22,
+        22
+      ],
+      "visible_rect_percent_of_screenshot": [
+        7.8,
+        19.98,
+        1.52,
+        2.03
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.9 px, round",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "e2d1e43e7334659524f78f68f4a5e1a18fc85e41be3f104c0a5be00bcc3e4895",
+      "bytes": 248,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/search.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/search.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/filter.svg",
+      "kind": "svg-icon",
+      "role": "Фильтр/слайдеры",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        407,
+        215,
+        25,
+        25
+      ],
+      "visible_rect_percent_of_screenshot": [
+        28.11,
+        19.8,
+        1.73,
+        2.3
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.8 px, round",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "1db1380b18b8deed19a0059b6ec418c70c72f1cd255fa1f3e03e09bc20b17781",
+      "bytes": 413,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/filter.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/filter.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/back.svg",
+      "kind": "svg-icon",
+      "role": "Назад",
+      "screen": "recipe/order",
+      "visible_rect_px_estimate": [
+        535,
+        134,
+        23,
+        23
+      ],
+      "visible_rect_percent_of_screenshot": [
+        36.95,
+        12.34,
+        1.59,
+        2.12
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.9 px, round",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "46d74f007ef6038c1964b03bf0b5bfa28389395f0b87497a2af6f0f1af58066d",
+      "bytes": 201,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/back.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/back.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/more-vertical.svg",
+      "kind": "svg-icon",
+      "role": "Меню ⋮",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        856,
+        132,
+        13,
+        28
+      ],
+      "visible_rect_percent_of_screenshot": [
+        59.12,
+        12.15,
+        0.9,
+        2.58
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "3 filled dots",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "0a49f4771e468c1c3a39a0bb76d9def329de2e89a91f6e3f0c2d734935ceb6ac",
+      "bytes": 224,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/more-vertical.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/more-vertical.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/bookmark.svg",
+      "kind": "svg-icon",
+      "role": "Закладка",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        247,
+        618,
+        16,
+        20
+      ],
+      "visible_rect_percent_of_screenshot": [
+        17.06,
+        56.91,
+        1.1,
+        1.84
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.7 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "ea9307f614f83849727981d6d2a6a6cef646b89bc7d977d58bec4bc6edf37d20",
+      "bytes": 228,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/bookmark.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/bookmark.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/flame.svg",
+      "kind": "svg-icon",
+      "role": "Калорийность",
+      "screen": "home/recipe",
+      "visible_rect_px_estimate": [
+        108,
+        646,
+        14,
+        17
+      ],
+      "visible_rect_percent_of_screenshot": [
+        7.46,
+        59.48,
+        0.97,
+        1.57
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "filled silhouette",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "a2fe2feb004fdbd8a55953ed446c3b80847d9a9168df109aee1f7b34f669eed1",
+      "bytes": 375,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/flame.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/flame.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/clock.svg",
+      "kind": "svg-icon",
+      "role": "Время",
+      "screen": "home/recipe",
+      "visible_rect_px_estimate": [
+        108,
+        674,
+        17,
+        17
+      ],
+      "visible_rect_percent_of_screenshot": [
+        7.46,
+        62.06,
+        1.17,
+        1.57
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.7 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "7a40455c5759f618b91aa407bfd3ef35a700de3ad496b0c20be53f3ac4093aea",
+      "bytes": 268,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/clock.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/clock.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/chef-hat.svg",
+      "kind": "svg-icon",
+      "role": "Сложность",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        742,
+        529,
+        18,
+        18
+      ],
+      "visible_rect_percent_of_screenshot": [
+        51.24,
+        48.71,
+        1.24,
+        1.66
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "filled silhouette",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "aa196b20504465540cec94ee806e8da6a32df38d95369932fa1c2a7638af4dcc",
+      "bytes": 284,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/chef-hat.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/chef-hat.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/plus.svg",
+      "kind": "svg-icon",
+      "role": "Плюс/увеличить количество",
+      "screen": "home/order",
+      "visible_rect_px_estimate": [
+        237,
+        660,
+        17,
+        17
+      ],
+      "visible_rect_percent_of_screenshot": [
+        16.37,
+        60.77,
+        1.17,
+        1.57
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.9 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "7518ad4fae6a088e125045000ae4a5e6d7ec57d195267a3327b38a3868af2a47",
+      "bytes": 170,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/plus.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/plus.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/minus.svg",
+      "kind": "svg-icon",
+      "role": "Минус/уменьшить количество",
+      "screen": "order",
+      "visible_rect_px_estimate": [
+        1091,
+        291,
+        14,
+        14
+      ],
+      "visible_rect_percent_of_screenshot": [
+        75.35,
+        26.8,
+        0.97,
+        1.29
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.9 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "8faaab5582070b19a4584df61d04b5567d4b2a53c7df5a36ab2281bb5740c282",
+      "bytes": 162,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/minus.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/minus.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/home-filled.svg",
+      "kind": "svg-icon",
+      "role": "Дом, активный таб",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        103,
+        942,
+        19,
+        21
+      ],
+      "visible_rect_percent_of_screenshot": [
+        7.11,
+        86.74,
+        1.31,
+        1.93
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "filled",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "f6efa0cca1166a0fff903646ef3e5f17b01971d10e5e5a5df718993b9997d138",
+      "bytes": 198,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/home-filled.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/home-filled.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/list.svg",
+      "kind": "svg-icon",
+      "role": "Список/рецепты",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        184,
+        942,
+        18,
+        21
+      ],
+      "visible_rect_percent_of_screenshot": [
+        12.71,
+        86.74,
+        1.24,
+        1.93
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.6 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "e7432c024ed76b1a215f1eeb206c8f34ae68fa3c36fb04224b2c56aa854cfede",
+      "bytes": 274,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/list.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/list.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/brand-pizza.svg",
+      "kind": "svg-icon",
+      "role": "Центральная pizza-марка",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        257,
+        912,
+        24,
+        25
+      ],
+      "visible_rect_percent_of_screenshot": [
+        17.75,
+        83.98,
+        1.66,
+        2.3
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "filled wedge with cut-out dots",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "7e64aea97cb3cfbf5874acfc964b3b874a4f8b67443cf2163f011a9ea50a1e44",
+      "bytes": 348,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/brand-pizza.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/brand-pizza.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/heart.svg",
+      "kind": "svg-icon",
+      "role": "Избранное",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        336,
+        942,
+        22,
+        21
+      ],
+      "visible_rect_percent_of_screenshot": [
+        23.2,
+        86.74,
+        1.52,
+        1.93
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.7 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "1a734d3df1ee47f6c2d3f651203c34128ca71e5780ea403db2c90622bb972f13",
+      "bytes": 246,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/heart.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/heart.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/profile.svg",
+      "kind": "svg-icon",
+      "role": "Профиль",
+      "screen": "home",
+      "visible_rect_px_estimate": [
+        416,
+        941,
+        19,
+        22
+      ],
+      "visible_rect_percent_of_screenshot": [
+        28.73,
+        86.65,
+        1.31,
+        2.03
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.6 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "2119a6052827449c9dde2ea1346e89b804fc52b70d259a1991928ddf66e6d42b",
+      "bytes": 271,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/profile.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/profile.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/check.svg",
+      "kind": "svg-icon",
+      "role": "Галочка выполненного шага",
+      "screen": "recipe",
+      "visible_rect_px_estimate": [
+        540,
+        780,
+        18,
+        17
+      ],
+      "visible_rect_percent_of_screenshot": [
+        37.29,
+        71.82,
+        1.24,
+        1.57
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 2 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "851ec6fade4f68ff0444e619242957084edd4460a8f056e181fcb3c32838d07b",
+      "bytes": 199,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/check.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/check.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/trash.svg",
+      "kind": "svg-icon",
+      "role": "Удалить",
+      "screen": "order",
+      "visible_rect_px_estimate": [
+        1295,
+        154,
+        18,
+        23
+      ],
+      "visible_rect_percent_of_screenshot": [
+        89.43,
+        14.18,
+        1.24,
+        2.12
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.6 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "26d0663fe3caa49d084b3ddca260dbfe2024e8b968f31b04305a5d5a05fd10c5",
+      "bytes": 246,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/trash.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/trash.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/percent.svg",
+      "kind": "svg-icon",
+      "role": "Промокод",
+      "screen": "order",
+      "visible_rect_px_estimate": [
+        985,
+        644,
+        19,
+        22
+      ],
+      "visible_rect_percent_of_screenshot": [
+        68.02,
+        59.3,
+        1.31,
+        2.03
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.8–2 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "f81113c2c4c756b194f49658ad5451371788dc0734c0fbf3945de8203aa25fc3",
+      "bytes": 317,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/percent.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/percent.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    },
+    {
+      "file": "icons/chevron-right.svg",
+      "kind": "svg-icon",
+      "role": "Переход вправо",
+      "screen": "order",
+      "visible_rect_px_estimate": [
+        1292,
+        649,
+        10,
+        16
+      ],
+      "visible_rect_percent_of_screenshot": [
+        89.23,
+        59.76,
+        0.69,
+        1.47
+      ],
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect_ratio": "1:1",
+      "alpha_channel": true,
+      "svg_viewBox": "0 0 24 24",
+      "geometry": "stroke 1.9 px",
+      "color": "currentColor",
+      "button_or_circle_background_included": false,
+      "sha256": "3dfc3636f371f7cbbdaa30f6995d43d9d424763559f5672da2665662e375922a",
+      "bytes": 190,
+      "repository_target_path": "images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/chevron-right.svg",
+      "direct_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/582696acce80241ed9be741f40d09b81a1919b16/images/reconstructed-apps/basil-bite-pizza-recipe-ui-2026-10-04/icons/chevron-right.svg",
+      "measurement_confidence": "approximate from raster screenshot; not original layout metrics",
+      "pinned_commit_sha": "582696acce80241ed9be741f40d09b81a1919b16"
+    }
+  ]
+}
