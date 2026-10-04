@@ -1,0 +1,763 @@
+{
+  "project": "berry-balance-smoothie-ui-2026-10-04",
+  "source": {
+    "type": "screenshot",
+    "screenshot_px": [
+      1448,
+      1086
+    ],
+    "note": "All layout measurements are screenshot-derived estimates, not original design-file values."
+  },
+  "reconstruction": {
+    "original_assets_available": false,
+    "status": "reconstructed_from_screenshot",
+    "note": "Raster images were reconstructed to match the screenshot; they are not claimed to be the original source media."
+  },
+  "repository": {
+    "requested_name": "Repixel Media",
+    "resolved_repository": "kiouoi996-commits/Repixel-Previews",
+    "resolution_basis": "README identifies Repixel-Previews as the public media repository for repixel.pro.",
+    "target_folder": "images/apps/berry-balance-smoothie-ui-2026-10-04",
+    "status": "assets_uploaded",
+    "write_error": null,
+    "repo_url": "https://github.com/kiouoi996-commits/Repixel-Previews",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/main/images/apps/berry-balance-smoothie-ui-2026-10-04",
+    "manifest_url": null,
+    "commit_sha": null,
+    "asset_commit_sha": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+    "asset_commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/59b10d45814e9073e5b02521bb8964d0d329f61e"
+  },
+  "rasters": {
+    "hero-strawberry-smoothie.webp": {
+      "role": "Onboarding screen full-bleed strawberry smoothie photo",
+      "screenshot_box_px": [
+        65,
+        78,
+        414,
+        913
+      ],
+      "main_subject": "strawberry smoothie glass + strawberries + mint",
+      "subject_occupancy_pct": {
+        "width": 68,
+        "height": 63
+      },
+      "subject_margins_pct": {
+        "top": 19,
+        "right": 0,
+        "bottom": 18,
+        "left": 32
+      },
+      "cropping": "glass and straw intentionally clipped at right edge; decorative foliage partly clipped",
+      "background": "warm beige stone/table + softly blurred foliage and dappled sunlight",
+      "alpha": false,
+      "display": {
+        "fit": "cover",
+        "position": "50% 50%",
+        "reference_css_box_px": [
+          414,
+          913
+        ]
+      },
+      "prompt": "Vertical warm sunlit close-up of a pink strawberry smoothie in a rounded clear glass, strawberry slices visible through the drink, two whole strawberries at left, mint near the bottom, pale straw at upper right, beige stone tabletop, dappled sunlight, shallow depth of field, no UI or text.",
+      "file_px": [
+        1242,
+        2739
+      ],
+      "aspect_ratio": 0.4535,
+      "file_bytes": 375434,
+      "sha256": "c0a04fada8460175d3597c2c742ea7991fed3382ac1457898df4199f68ce9056",
+      "screenshot_box_pct": [
+        4.5,
+        7.2,
+        28.6,
+        84.1
+      ],
+      "relative_path": "hero-strawberry-smoothie.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/hero-strawberry-smoothie.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/hero-strawberry-smoothie.webp",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "card-green-energizer.webp": {
+      "role": "Middle screen Green Energizer recipe card photo",
+      "screenshot_box_px": [
+        517,
+        417,
+        376,
+        234
+      ],
+      "main_subject": "green smoothie in glass bowl with kiwi and banana",
+      "subject_occupancy_pct": {
+        "width": 64,
+        "height": 90
+      },
+      "subject_margins_pct": {
+        "top": 6,
+        "right": 0,
+        "bottom": 0,
+        "left": 36
+      },
+      "cropping": "bowl intentionally clipped at right/bottom; spinach fills the remaining frame",
+      "background": "dense fresh spinach leaves, same photographic scene",
+      "alpha": false,
+      "display": {
+        "fit": "cover",
+        "position": "50% 50%",
+        "reference_css_box_px": [
+          376,
+          234
+        ]
+      },
+      "prompt": "Horizontal macro food photo of a clear glass bowl of thick emerald-green spinach smoothie on the right, kiwi and banana slices on top, wet spinach leaves across the background, warm sunlight from upper left, shallow depth of field, no UI or text.",
+      "file_px": [
+        1586,
+        987
+      ],
+      "aspect_ratio": 1.6069,
+      "file_bytes": 281272,
+      "sha256": "ab2a0b3b5368bff7f706919ef95f5cc2b9cd3882490016b71531ba3b08050987",
+      "screenshot_box_pct": [
+        35.7,
+        38.4,
+        26.0,
+        21.5
+      ],
+      "relative_path": "card-green-energizer.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/card-green-energizer.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/card-green-energizer.webp",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "card-berry-balance.webp": {
+      "role": "Middle screen Berry Balance recipe card photo",
+      "screenshot_box_px": [
+        517,
+        659,
+        376,
+        233
+      ],
+      "main_subject": "pink strawberry smoothie glass with sliced strawberries",
+      "subject_occupancy_pct": {
+        "width": 68,
+        "height": 96
+      },
+      "subject_margins_pct": {
+        "top": 0,
+        "right": 0,
+        "bottom": 0,
+        "left": 32
+      },
+      "cropping": "glass intentionally clipped at right and bottom; surrounding berries cropped by frame",
+      "background": "pink/red strawberry bokeh and fruit in the same scene",
+      "alpha": false,
+      "display": {
+        "fit": "cover",
+        "position": "50% 50%",
+        "reference_css_box_px": [
+          376,
+          233
+        ]
+      },
+      "prompt": "Horizontal macro close-up of a creamy pink strawberry smoothie in a clear glass on the right, glossy sliced strawberries on the frothy surface and around it, camera slightly above, saturated pink-red bokeh, warm highlights, no UI or text.",
+      "file_px": [
+        1586,
+        987
+      ],
+      "aspect_ratio": 1.6069,
+      "file_bytes": 266996,
+      "sha256": "d1a85d66cd6d1ac559dc5f791a7151d46e2e25a2651c40d42ba4a6cac87da774",
+      "screenshot_box_pct": [
+        35.7,
+        60.7,
+        26.0,
+        21.5
+      ],
+      "relative_path": "card-berry-balance.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/card-berry-balance.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/card-berry-balance.webp",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "hero-berry-balance.webp": {
+      "role": "Right detail screen full-height background image under the translucent recipe panel",
+      "screenshot_box_px": [
+        933,
+        79,
+        410,
+        913
+      ],
+      "main_subject": "suspended banana, raspberry, strawberry, mint, ice and berry smoothie glass",
+      "subject_occupancy_pct": {
+        "width": 84,
+        "height": 79
+      },
+      "subject_margins_pct": {
+        "top": 4,
+        "right": 0,
+        "bottom": 17,
+        "left": 16
+      },
+      "cropping": "right-side fruit intentionally clipped; lower continuation is covered by UI in the screenshot and is reconstructive",
+      "background": "near-black warm studio background with droplets and rim light",
+      "alpha": false,
+      "display": {
+        "fit": "cover",
+        "position": "50% 0%",
+        "reference_css_box_px": [
+          410,
+          913
+        ]
+      },
+      "prompt": "Vertical dramatic food-ad photo: banana slices, strawberry, raspberry, mint leaves, clear ice cubes and water droplets suspended above a red berry smoothie glass on a nearly black warm background; frozen motion and strong rim light; no UI or text.",
+      "file_px": [
+        1230,
+        2736
+      ],
+      "aspect_ratio": 0.4496,
+      "file_bytes": 408406,
+      "sha256": "61ccae2b437f62894e028503f197aa4b30ae97cd88c68bc34d7a49b423707f9e",
+      "screenshot_box_pct": [
+        64.4,
+        7.3,
+        28.3,
+        84.1
+      ],
+      "relative_path": "hero-berry-balance.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/hero-berry-balance.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/hero-berry-balance.webp",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "avatar-user.webp": {
+      "role": "Middle screen circular profile avatar",
+      "screenshot_box_px": [
+        840,
+        139,
+        48,
+        48
+      ],
+      "main_subject": "head-and-shoulders portrait",
+      "subject_occupancy_pct": {
+        "width": 72,
+        "height": 82
+      },
+      "subject_margins_pct": {
+        "top": 8,
+        "right": 8,
+        "bottom": 10,
+        "left": 20
+      },
+      "cropping": "designed for circular crop; shoulders may be cut by circle",
+      "background": "soft outdoor green/beige bokeh",
+      "alpha": false,
+      "display": {
+        "fit": "cover",
+        "position": "50% 35%",
+        "reference_css_box_px": [
+          48,
+          48
+        ]
+      },
+      "prompt": "Square head-and-shoulders outdoor portrait, short dark-brown curly hair, warm medium-brown skin, neutral expression, soft green-beige natural bokeh, centered for circular object-fit cover, no border, no online dot.",
+      "file_px": [
+        384,
+        384
+      ],
+      "aspect_ratio": 1.0,
+      "file_bytes": 27080,
+      "sha256": "ab30a60793719a9a504ebeb023eb59c77af6398ccc06dc08b53fb7caf734940f",
+      "screenshot_box_pct": [
+        58.0,
+        12.8,
+        3.3,
+        4.4
+      ],
+      "relative_path": "avatar-user.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/avatar-user.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/avatar-user.webp",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "ingredient-strawberry.webp": {
+      "role": "Right detail screen first ingredient cutout",
+      "screenshot_box_px": [
+        961,
+        723,
+        85,
+        94
+      ],
+      "main_subject": "single whole strawberry",
+      "subject_occupancy_pct": {
+        "width": 83,
+        "height": 80
+      },
+      "subject_margins_pct": {
+        "top": 9,
+        "right": 8,
+        "bottom": 11,
+        "left": 9
+      },
+      "cropping": "fully visible",
+      "background": "transparent",
+      "alpha": true,
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "reference_css_box_px": [
+          85,
+          94
+        ]
+      },
+      "prompt": "Single ripe red strawberry with green calyx, slight tilt, glossy wet macro detail, transparent background, no cast UI tile or shadow.",
+      "file_px": [
+        512,
+        512
+      ],
+      "aspect_ratio": 1.0,
+      "file_bytes": 89512,
+      "sha256": "7ac0fe049e1b832779b471adae94be4513f74b041f75648fa594795195aae131",
+      "screenshot_box_pct": [
+        66.4,
+        66.6,
+        5.9,
+        8.7
+      ],
+      "relative_path": "ingredient-strawberry.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-strawberry.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-strawberry.png",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "ingredient-banana.webp": {
+      "role": "Right detail screen second ingredient cutout",
+      "screenshot_box_px": [
+        1054,
+        723,
+        85,
+        94
+      ],
+      "main_subject": "three overlapping banana slices",
+      "subject_occupancy_pct": {
+        "width": 80,
+        "height": 76
+      },
+      "subject_margins_pct": {
+        "top": 12,
+        "right": 10,
+        "bottom": 12,
+        "left": 10
+      },
+      "cropping": "fully visible",
+      "background": "transparent",
+      "alpha": true,
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "reference_css_box_px": [
+          85,
+          94
+        ]
+      },
+      "prompt": "Two to three pale-yellow banana slices arranged in a loose overlapping fan, moist macro texture, warm highlight upper right, transparent background, no tile or shadow.",
+      "file_px": [
+        512,
+        512
+      ],
+      "aspect_ratio": 1.0,
+      "file_bytes": 58160,
+      "sha256": "fce26680763435cfb64b5ab62bae064bffd7664ec1a9d076b8020d729f74df64",
+      "screenshot_box_pct": [
+        72.8,
+        66.6,
+        5.9,
+        8.7
+      ],
+      "relative_path": "ingredient-banana.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-banana.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-banana.png",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "ingredient-raspberry.webp": {
+      "role": "Right detail screen third ingredient cutout",
+      "screenshot_box_px": [
+        1148,
+        723,
+        84,
+        94
+      ],
+      "main_subject": "single raspberry",
+      "subject_occupancy_pct": {
+        "width": 78,
+        "height": 75
+      },
+      "subject_margins_pct": {
+        "top": 12,
+        "right": 11,
+        "bottom": 13,
+        "left": 11
+      },
+      "cropping": "fully visible",
+      "background": "transparent",
+      "alpha": true,
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "reference_css_box_px": [
+          84,
+          94
+        ]
+      },
+      "prompt": "Single ripe red-magenta raspberry, slightly turned, visible drupelets and moist highlights, transparent background, no tile or additional objects.",
+      "file_px": [
+        512,
+        512
+      ],
+      "aspect_ratio": 1.0,
+      "file_bytes": 89088,
+      "sha256": "7b790cf26226032aa057f134af518264931ca5a46750eeb1dbb3d18dea6217b6",
+      "screenshot_box_pct": [
+        79.3,
+        66.6,
+        5.8,
+        8.7
+      ],
+      "relative_path": "ingredient-raspberry.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-raspberry.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-raspberry.png",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    },
+    "ingredient-mint.webp": {
+      "role": "Right detail screen fourth ingredient cutout",
+      "screenshot_box_px": [
+        1241,
+        723,
+        84,
+        94
+      ],
+      "main_subject": "small mint sprig",
+      "subject_occupancy_pct": {
+        "width": 81,
+        "height": 58
+      },
+      "subject_margins_pct": {
+        "top": 22,
+        "right": 9,
+        "bottom": 20,
+        "left": 10
+      },
+      "cropping": "fully visible",
+      "background": "transparent",
+      "alpha": true,
+      "display": {
+        "fit": "contain",
+        "position": "50% 50%",
+        "reference_css_box_px": [
+          84,
+          94
+        ]
+      },
+      "prompt": "Small fresh mint sprig with several serrated vivid-green leaves, wet veined surface, slight rightward tilt, transparent background, no tile or UI shadow.",
+      "file_px": [
+        512,
+        512
+      ],
+      "aspect_ratio": 1.0,
+      "file_bytes": 53030,
+      "sha256": "6c49df396ec67d2bf2ac384a1a4f5acdd065549c9e19fd164e0f7af358a4e990",
+      "screenshot_box_pct": [
+        85.7,
+        66.6,
+        5.8,
+        8.7
+      ],
+      "relative_path": "ingredient-mint.webp",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-mint.webp",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/ingredient-mint.png",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e",
+      "format": "WEBP"
+    }
+  },
+  "icons": [
+    {
+      "file": "icons/arrow-left.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 218,
+      "sha256": "ddb9b4d693e938c3dd667cbe0ab55ec2338904e952130963f5c8e209e1f1a230",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-left.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-left.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 218,
+      "sha256": "e991209444f766362597ded66460c50281c022a9c320fb2ead3037c80b8bf6a9",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-right.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/arrow-right.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/bowl.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 260,
+      "sha256": "77099ff11c97f98e542bbba7bf6814154216986aaa197875e89038327b203501",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/bowl.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/bowl.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/calendar.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 266,
+      "sha256": "4df2e40e8e073bfc44b0e1f8c5dc0d9b22661fbb1a5af66749e4daf05e932443",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/calendar.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/calendar.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/chevron-right.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 194,
+      "sha256": "9ea5ac0a1582b504408aa1a187b3946f7ad8502b170c6ce682c91bec65413ee2",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/chevron-right.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/chevron-right.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/clock.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 238,
+      "sha256": "65569bdb0fc1a83ccf3a1e5b1c0921e9a60e85f614d614698063be136e5bce1d",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/clock.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/clock.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/filter.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 353,
+      "sha256": "93490f3c187816dafb8b4ed1ed1310588db19cf876ebe408c936a035bafb76c5",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/filter.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/filter.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/flame.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 508,
+      "sha256": "48c46b017ab2e08cb4640e303ae14f6c2cd84f5aeb7d30d812f53f86350ca4bc",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/flame.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/flame.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/heart-filled.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 251,
+      "sha256": "045bb46d132cbd33c9f7bf53ee48e82a2cd5a3d2b2e38171fdcc6e054ca8cc33",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-filled.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-filled.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/heart-outline.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 331,
+      "sha256": "d289b36d3d4c74fd2cda63817fb43147f0629ec982d8edc1971bc51664e6e38f",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-outline.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/heart-outline.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/home.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 285,
+      "sha256": "0ea6bb88657df103d4913cba34512ad2369963bccf7a13d10604abdf490c62e8",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/home.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/home.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/immunity-bars.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 232,
+      "sha256": "cd90be75d242aa5828139f418cd43741304aca6b4bedb54677805280b2be0449",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/immunity-bars.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/immunity-bars.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/leaf-filled.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 464,
+      "sha256": "ca12eb9def17907e9ef5c300f6786eb2efa88f2e8280e0f0a0adb947742b3070",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-filled.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-filled.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/leaf-outline.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 471,
+      "sha256": "48338434320b8cdfee0a1281d8263eba108a72ac672e8883fb224db0a1cf1e34",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-outline.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/leaf-outline.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/search.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 237,
+      "sha256": "5b4d4bd5c4c79b6119dc61fcb38674fc57528a1559e4d7d39e6825d697a8d331",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/search.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/search.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/smoothie.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 258,
+      "sha256": "2dddfb86c25631d5700526d01f0efc7b5e68b58972131d1f78dc297d9bb8cb85",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/smoothie.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/smoothie.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    },
+    {
+      "file": "icons/user.svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "alpha": true,
+      "file_bytes": 269,
+      "sha256": "02e615a57f630e6866ecc98b640408899cc9b93ddaf8509919f095f5b4175441",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/59b10d45814e9073e5b02521bb8964d0d329f61e/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/user.svg",
+      "intended_public_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/<commit-sha>/images/apps/berry-balance-smoothie-ui-2026-10-04/icons/user.svg",
+      "published_commit": "59b10d45814e9073e5b02521bb8964d0d329f61e"
+    }
+  ],
+  "ui_primitives": {
+    "canvas_background": {
+      "type": "solid_or_very_subtle_gradient",
+      "sample_hex": "#E9E1D9"
+    },
+    "middle_screen_background": {
+      "type": "vertical_soft_gradient",
+      "css": "linear-gradient(180deg, #F3EEE8 0%, #EFE6DC 58%, #F5EFE9 100%)"
+    },
+    "search_surface": {
+      "type": "solid",
+      "sample_hex": "#FAF8F5"
+    },
+    "inactive_chip": {
+      "type": "solid",
+      "sample_hex": "#E5DACE"
+    },
+    "active_chip": {
+      "type": "solid",
+      "sample_hex": "#1A1A1A",
+      "text": "#FFFFFF"
+    },
+    "bottom_nav_surface": {
+      "type": "solid",
+      "sample_hex": "#F5EFE9"
+    },
+    "onboarding_glass_card": {
+      "type": "backdrop_blur",
+      "estimated_css": "background: rgba(196,166,145,.74); backdrop-filter: blur(14px); border: 1px solid rgba(255,255,255,.48);"
+    },
+    "right_recipe_panel": {
+      "type": "translucent_gradient",
+      "estimated_css": "background: linear-gradient(180deg, rgba(117,71,59,.94) 0%, rgba(79,55,48,.96) 42%, rgba(58,41,35,.98) 100%); backdrop-filter: blur(14px);"
+    },
+    "right_ingredient_tile": {
+      "type": "translucent_surface",
+      "estimated_css": "background: rgba(255,255,255,.09); border: 1px solid rgba(255,255,255,.18); border-radius: 22px;"
+    },
+    "round_dark_icon_button": {
+      "estimated_css": "background: rgba(34,27,23,.62); border: 1px solid rgba(255,255,255,.62); backdrop-filter: blur(10px);"
+    },
+    "round_light_icon_button": {
+      "estimated_css": "background: #FFFFFF; color: #1A1A1A; box-shadow: 0 2px 6px rgba(0,0,0,.12);"
+    },
+    "online_dot": {
+      "type": "css_circle",
+      "size_estimate_px": 12,
+      "fill": "#35B84A",
+      "border": "2px solid #F3EEE8"
+    },
+    "pagination_dot": {
+      "type": "css_circle",
+      "active": "rgba(255,255,255,.95)",
+      "inactive": "rgba(255,255,255,.38)"
+    },
+    "primary_text_light": "#FFFFFF",
+    "primary_text_dark": "#1A1A1A"
+  }
+}
