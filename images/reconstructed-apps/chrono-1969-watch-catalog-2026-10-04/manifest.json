@@ -1,0 +1,707 @@
+{
+  "project": "chrono-1969-watch-catalog-2026-10-04",
+  "title": "Chrono 1969 Watch Catalog",
+  "status": "reconstruction_from_screenshot",
+  "source_screenshot": {
+    "width_px": 1448,
+    "height_px": 1086,
+    "screens": {
+      "left": {
+        "bbox_px": [
+          62,
+          75,
+          474,
+          984
+        ],
+        "size_px": [
+          412,
+          909
+        ],
+        "bbox_pct": [
+          4.28,
+          6.91,
+          32.73,
+          90.61
+        ]
+      },
+      "center": {
+        "bbox_px": [
+          504,
+          75,
+          907,
+          984
+        ],
+        "size_px": [
+          403,
+          909
+        ],
+        "bbox_pct": [
+          34.81,
+          6.91,
+          62.64,
+          90.61
+        ]
+      },
+      "right": {
+        "bbox_px": [
+          937,
+          75,
+          1349,
+          984
+        ],
+        "size_px": [
+          412,
+          909
+        ],
+        "bbox_pct": [
+          64.71,
+          6.91,
+          93.16,
+          90.61
+        ]
+      }
+    },
+    "measurement_note": "All positions and dimensions are estimated from the supplied raster screenshot; they are not asserted as original design-source values."
+  },
+  "repository": {
+    "full_name": "kiouoi996-commits/Repixel-Previews",
+    "branch": "main",
+    "folder": "images/reconstructed-apps/chrono-1969-watch-catalog-2026-10-04"
+  },
+  "raster_assets": [
+    {
+      "file": "aqua-terra-front.webp",
+      "role": "Aqua Terra product image in the second featured-model tile.",
+      "source_visible_box_px": {
+        "x": 255,
+        "y": 710,
+        "width": 125,
+        "height": 170
+      },
+      "source_visible_box_pct": {
+        "x": 17.61,
+        "y": 65.38,
+        "width": 8.63,
+        "height": 15.65
+      },
+      "export_px": {
+        "width": 375,
+        "height": 510
+      },
+      "aspect_ratio": 0.7353,
+      "alpha": true,
+      "object_occupancy": {
+        "width_px": 293,
+        "height_px": 510,
+        "width_pct": 78.13,
+        "height_pct": 100.0
+      },
+      "transparent_margins": {
+        "left_px": 50,
+        "top_px": 0,
+        "right_px": 32,
+        "bottom_px": 0,
+        "left_pct": 13.33,
+        "top_pct": 0.0,
+        "right_pct": 8.53,
+        "bottom_pct": 0.0
+      },
+      "background": "transparent reconstruction",
+      "ui_removed": [
+        "heart icon",
+        "model title",
+        "price",
+        "tile shell"
+      ],
+      "display": {
+        "object_fit": "contain",
+        "object_position": "center center"
+      },
+      "clipping": "tight vertical product crop",
+      "reconstruction_prompt": "Single elegant wristwatch matching the screenshot: green sunburst dial, silver baton markers and hands, polished steel case, medium-brown leather strap, upright product view, soft premium lighting, transparent background, no UI.",
+      "sha256": "cda0ab6a26779f165b675fd01df74c36c6e41a3f741cf3a63c5b01eece479e6e",
+      "bytes": 19020,
+      "published_url": null,
+      "format": "webp"
+    },
+    {
+      "file": "de-ville-visible-fragment.webp",
+      "role": "Only the visible fragment of the third De Ville featured tile, because the carousel item is clipped by the phone edge.",
+      "source_visible_box_px": {
+        "x": 410,
+        "y": 710,
+        "width": 65,
+        "height": 170
+      },
+      "source_visible_box_pct": {
+        "x": 28.31,
+        "y": 65.38,
+        "width": 4.49,
+        "height": 15.65
+      },
+      "export_px": {
+        "width": 195,
+        "height": 510
+      },
+      "aspect_ratio": 0.3824,
+      "alpha": true,
+      "object_occupancy": {
+        "width_px": 163,
+        "height_px": 382,
+        "width_pct": 83.59,
+        "height_pct": 74.9
+      },
+      "transparent_margins": {
+        "left_px": 32,
+        "top_px": 128,
+        "right_px": 0,
+        "bottom_px": 0,
+        "left_pct": 16.41,
+        "top_pct": 25.1,
+        "right_pct": 0.0,
+        "bottom_pct": 0.0
+      },
+      "background": "transparent reconstruction",
+      "ui_removed": [
+        "tile copy and price",
+        "heart icon",
+        "tile shell"
+      ],
+      "display": {
+        "object_fit": "contain",
+        "object_position": "right center"
+      },
+      "clipping": "deliberately incomplete; unseen right side is not invented",
+      "reconstruction_prompt": "Only the screenshot-visible left fragment of a classic dress watch: ivory/cream dial, thin silver case, refined gold-toned markers/hands and dark strap; preserve the clipped composition, transparent background, do not invent unseen right-side geometry, no UI.",
+      "sha256": "f1bca74cfbfb3bb30afe8f6d21d3f96207509e130e76bc9a5d7deef02f1ae1c3",
+      "bytes": 8592,
+      "published_url": null,
+      "format": "webp"
+    },
+    {
+      "file": "seamaster-front.webp",
+      "role": "Reusable front-view Seamaster image for the center Seamaster card and first left featured-model tile.",
+      "source_visible_box_px": {
+        "x": 765,
+        "y": 445,
+        "width": 147,
+        "height": 250
+      },
+      "source_visible_box_pct": {
+        "x": 52.83,
+        "y": 40.98,
+        "width": 10.15,
+        "height": 23.02
+      },
+      "export_px": {
+        "width": 441,
+        "height": 750
+      },
+      "aspect_ratio": 0.588,
+      "alpha": true,
+      "object_occupancy": {
+        "width_px": 379,
+        "height_px": 750,
+        "width_pct": 85.94,
+        "height_pct": 100.0
+      },
+      "transparent_margins": {
+        "left_px": 62,
+        "top_px": 0,
+        "right_px": 0,
+        "bottom_px": 0,
+        "left_pct": 14.06,
+        "top_pct": 0.0,
+        "right_pct": 0.0,
+        "bottom_pct": 0.0
+      },
+      "background": "transparent reconstruction",
+      "ui_removed": [
+        "Seamaster title",
+        "Diver 300M subtitle",
+        "heart icon",
+        "description",
+        "price",
+        "bag button",
+        "card shell"
+      ],
+      "display": {
+        "object_fit": "contain",
+        "object_position": "center center"
+      },
+      "clipping": "right edge is close to the screen boundary; export keeps only the screenshot-visible silhouette",
+      "reconstruction_prompt": "Single stainless-steel dive watch matching the screenshot, upright front view, deep navy/blue dial and blue dive bezel with white minute numerals, round luminous markers, steel bracelet, polished/brushed case, soft studio reflections, transparent background, no UI.",
+      "sha256": "c6d4cbdda781a99962c5aa3761176fc337a3e37747c56b60ce25f18cbb837a4b",
+      "bytes": 31064,
+      "published_url": null,
+      "format": "webp"
+    },
+    {
+      "file": "speedmaster-card.webp",
+      "role": "Speedmaster product image in the large center collection card.",
+      "source_visible_box_px": {
+        "x": 540,
+        "y": 395,
+        "width": 208,
+        "height": 315
+      },
+      "source_visible_box_pct": {
+        "x": 37.29,
+        "y": 36.37,
+        "width": 14.36,
+        "height": 29.01
+      },
+      "export_px": {
+        "width": 624,
+        "height": 945
+      },
+      "aspect_ratio": 0.6603,
+      "alpha": true,
+      "object_occupancy": {
+        "width_px": 604,
+        "height_px": 945,
+        "width_pct": 96.79,
+        "height_pct": 100.0
+      },
+      "transparent_margins": {
+        "left_px": 20,
+        "top_px": 0,
+        "right_px": 0,
+        "bottom_px": 0,
+        "left_pct": 3.21,
+        "top_pct": 0.0,
+        "right_pct": 0.0,
+        "bottom_pct": 0.0
+      },
+      "background": "transparent reconstruction",
+      "ui_removed": [
+        "Speedmaster title",
+        "Moonwatch subtitle",
+        "heart icon",
+        "description",
+        "price",
+        "bag button"
+      ],
+      "display": {
+        "object_fit": "contain",
+        "object_position": "center center"
+      },
+      "clipping": "watch itself shown essentially complete; crop is tight at top and bottom",
+      "reconstruction_prompt": "Single Speedmaster-style chronograph, upright front view, black dial with three subdials, gold hour indices/hands and tachymeter numerals, stainless steel case and pushers, brown stitched leather strap, soft premium product lighting, transparent background, no card text or UI.",
+      "sha256": "3d9613e449bcd98d2f11551b76f0f25691afb86ac0276e11eb16a383eb1d97b8",
+      "bytes": 53200,
+      "published_url": null,
+      "format": "webp"
+    },
+    {
+      "file": "speedmaster-hero-left.webp",
+      "role": "Large Speedmaster hero render behind the left landing-screen copy.",
+      "source_visible_box_px": {
+        "x": 180,
+        "y": 160,
+        "width": 295,
+        "height": 505
+      },
+      "source_visible_box_pct": {
+        "x": 12.43,
+        "y": 14.73,
+        "width": 20.37,
+        "height": 46.5
+      },
+      "export_px": {
+        "width": 885,
+        "height": 1515
+      },
+      "aspect_ratio": 0.5842,
+      "alpha": true,
+      "object_occupancy": {
+        "width_px": 712,
+        "height_px": 1515,
+        "width_pct": 80.45,
+        "height_pct": 100.0
+      },
+      "transparent_margins": {
+        "left_px": 173,
+        "top_px": 0,
+        "right_px": 0,
+        "bottom_px": 0,
+        "left_pct": 19.55,
+        "top_pct": 0.0,
+        "right_pct": 0.0,
+        "bottom_pct": 0.0
+      },
+      "background": "transparent reconstruction; the dark app background and smoky glow remain UI effects",
+      "ui_removed": [
+        "headline/copy on the left",
+        "Explore collection control",
+        "featured-models strip"
+      ],
+      "display": {
+        "object_fit": "contain",
+        "object_position": "center right"
+      },
+      "clipping": "intentionally clipped at the source screen/right edge",
+      "reconstruction_prompt": "Single luxury chronograph watch matching the screenshot: black dial, gold indices and tachymeter markings, polished/brushed steel case, dark brown stitched leather strap, near-frontal three-quarter angle, large scale, strap entering from upper-right and exiting lower-center, soft studio reflections, transparent background, no UI or surrounding text.",
+      "sha256": "cce140b6a2b2033990f198738c191a43fa04810264e3327992b43932364a3699",
+      "bytes": 92998,
+      "published_url": null,
+      "format": "webp"
+    },
+    {
+      "file": "speedmaster-hero-right.webp",
+      "role": "Large oblique Speedmaster hero on the 1969 detail screen.",
+      "source_visible_box_px": {
+        "x": 940,
+        "y": 290,
+        "width": 410,
+        "height": 330
+      },
+      "source_visible_box_pct": {
+        "x": 64.92,
+        "y": 26.7,
+        "width": 28.31,
+        "height": 30.39
+      },
+      "export_px": {
+        "width": 1230,
+        "height": 990
+      },
+      "aspect_ratio": 1.2424,
+      "alpha": true,
+      "object_occupancy": {
+        "width_px": 1230,
+        "height_px": 934,
+        "width_pct": 100.0,
+        "height_pct": 94.34
+      },
+      "transparent_margins": {
+        "left_px": 0,
+        "top_px": 56,
+        "right_px": 0,
+        "bottom_px": 0,
+        "left_pct": 0.0,
+        "top_pct": 5.66,
+        "right_pct": 0.0,
+        "bottom_pct": 0.0
+      },
+      "background": "transparent reconstruction; screen gradient is separate",
+      "ui_removed": [
+        "1969 typography above",
+        "carousel dots",
+        "product title and metadata",
+        "CTA"
+      ],
+      "display": {
+        "object_fit": "contain",
+        "object_position": "center right"
+      },
+      "clipping": "intentionally clipped by the phone's right edge and lower-left framing",
+      "reconstruction_prompt": "Single close-up luxury Speedmaster-style chronograph at a low three-quarter side angle, black dial, gold indices and tachymeter markings, polished/brushed stainless-steel case with crown and two pushers prominent on the right, brown leather strap entering from lower-left, soft studio reflections, transparent background, no typography or UI.",
+      "sha256": "9ff96301aab415ab6a68e8005a9794dc41408f9d771fff530062fe73bfb15089",
+      "bytes": 72096,
+      "published_url": null,
+      "format": "webp"
+    }
+  ],
+  "icons": [
+    {
+      "file": "icons/arrow-left.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "center carousel previous button"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "f1d54714d988e305b88256df5e4a3e28c9544bcdcb02369b2cdb5782206a2713",
+      "bytes": 200,
+      "published_url": null
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "left Explore collection button",
+        "left See all link",
+        "center carousel next button"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "043ebcf0f6993798eb7db5c1709d413e57f774107a2c7e9eba8d234ac85a993f",
+      "bytes": 199,
+      "published_url": null
+    },
+    {
+      "file": "icons/back.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "right top navigation"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "82d30ede560d3e127f8b7ce7625b59923ecd73e7c7d6dc8d1274bd056ed543e5",
+      "bytes": 193,
+      "published_url": null
+    },
+    {
+      "file": "icons/bag.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "left top navigation",
+        "right top navigation",
+        "center product-card bag buttons",
+        "center bottom cart icon"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "39e6df701f872035822d37f9f1b6ac4180ba8a1b82153d048e1964a44b6c6d5b",
+      "bytes": 244,
+      "published_url": null
+    },
+    {
+      "file": "icons/discover.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "center bottom navigation Discover"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "acb8b5f0891f78bd54d9b7362bed5fae3b9b898cbb8b453b4e468b5491d9c344",
+      "bytes": 253,
+      "published_url": null
+    },
+    {
+      "file": "icons/grid.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "center top navigation"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "cdd39bf60c3f469af7c0c68bacf212b070423093b92383420ebb1efc2fb09dc4",
+      "bytes": 294,
+      "published_url": null
+    },
+    {
+      "file": "icons/heart.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "left featured tiles",
+        "center product cards"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "ecc4d70f7cc7bc50473eef641fd6ee58fa2cce019e8886c90307b4e3ad391c45",
+      "bytes": 280,
+      "published_url": null
+    },
+    {
+      "file": "icons/home.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "center bottom navigation active Home"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "298f78e5d3e27d5ede4174eadbbe0f685a0307d516f7112c4083ed3bb281795d",
+      "bytes": 242,
+      "published_url": null
+    },
+    {
+      "file": "icons/menu.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "left top navigation",
+        "center top navigation"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "e5750fdbef612ad59f420483d1472cb414d3ede8d10fa280dda4dd82efe3a0bc",
+      "bytes": 201,
+      "published_url": null
+    },
+    {
+      "file": "icons/more-vertical.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "right top navigation"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "dd51c535c801dac72186d671475525bb36c1841b613405122556488f0e8db81f",
+      "bytes": 360,
+      "published_url": null
+    },
+    {
+      "file": "icons/omega.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "right detail-screen Omega symbol next to product title"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "558811c1bcafe18b49ac8d50d11a14a621e888ae89a5f6dc561c0d27426067f7",
+      "bytes": 311,
+      "published_url": null
+    },
+    {
+      "file": "icons/profile.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "center bottom navigation Profile"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "7a9a121962faa44c22f192fa36e96b1c1af1d10a2e332fce0ba1d42c89c9ba86",
+      "bytes": 254,
+      "published_url": null
+    },
+    {
+      "file": "icons/search.svg",
+      "viewBox": "0 0 24 24",
+      "background": "transparent",
+      "color": "currentColor",
+      "usage": [
+        "left top navigation",
+        "center top navigation"
+      ],
+      "typical_display_px": {
+        "width": 24,
+        "height": 24
+      },
+      "sha256": "360bbfa4704bd2545360e3bee98b253147ad3f507dcdd24b9e9b0ce7255daaba",
+      "bytes": 233,
+      "published_url": null
+    }
+  ],
+  "ui_primitives": {
+    "canvas_background": {
+      "type": "linear-gradient",
+      "css": "linear-gradient(180deg, #C7CACD 0%, #D4D7D9 100%)",
+      "confidence": "estimated"
+    },
+    "left_screen_background": {
+      "type": "linear-gradient",
+      "css": "linear-gradient(180deg, #1F2125 0%, #1D1F23 55%, #16181A 100%)",
+      "confidence": "estimated"
+    },
+    "right_screen_background": {
+      "type": "linear-gradient",
+      "css": "linear-gradient(180deg, #1B1D21 0%, #15171A 100%)",
+      "confidence": "estimated"
+    },
+    "center_screen_background": {
+      "type": "linear-gradient",
+      "css": "linear-gradient(180deg, #FFD637 0%, #FDCD31 52%, #F7C52B 100%)",
+      "confidence": "estimated"
+    },
+    "product_card_background": {
+      "type": "linear-gradient",
+      "css": "linear-gradient(180deg, #17181B 0%, #111317 100%)",
+      "confidence": "estimated"
+    },
+    "bottom_nav_background": {
+      "type": "solid",
+      "hex": "#FBF5E9",
+      "confidence": "sampled/estimated"
+    },
+    "cta_orange": {
+      "type": "solid",
+      "hex": "#FB641B",
+      "confidence": "sampled"
+    },
+    "primary_text": {
+      "type": "solid",
+      "hex": "#F4F4F2",
+      "confidence": "estimated"
+    },
+    "secondary_text": {
+      "type": "solid",
+      "hex": "#B5B7BA",
+      "confidence": "estimated"
+    },
+    "yellow_accent": {
+      "type": "solid",
+      "hex": "#FFD229",
+      "confidence": "estimated"
+    },
+    "left_hero_smoke": {
+      "type": "css-effect",
+      "css": "radial-gradient(ellipse at 55% 52%, rgba(225,228,226,.22) 0%, rgba(175,182,184,.09) 38%, rgba(0,0,0,0) 72%); filter: blur(10px); transform: rotate(-12deg)",
+      "note": "Approximate reconstruction; keep outside watch PNG."
+    },
+    "phone_radius": {
+      "px": 40,
+      "confidence": "estimated"
+    },
+    "card_radius": {
+      "px": 20,
+      "confidence": "estimated"
+    },
+    "bottom_nav_radius": {
+      "px": 31,
+      "confidence": "estimated"
+    },
+    "cta_radius": {
+      "px": 22,
+      "confidence": "estimated"
+    },
+    "phone_shadow": {
+      "css": "0 26px 52px rgba(0,0,0,.20)",
+      "confidence": "estimated"
+    }
+  },
+  "notes": [
+    "No status-bar/time/Wi-Fi/battery graphics were created.",
+    "All interface copy remains text and is not baked into raster assets.",
+    "Simple circles, pills, card shells, badges and button backgrounds are UI primitives, not image assets.",
+    "The watch PNG alpha mattes are reconstructed from the supplied screenshot; they are not original source cutouts. Dark-edge reconstruction is optimized for the dark UI seen in the screenshot."
+  ]
+}
