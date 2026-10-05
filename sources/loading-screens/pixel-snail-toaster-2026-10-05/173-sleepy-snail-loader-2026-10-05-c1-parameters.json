@@ -1,0 +1,82 @@
+{
+  "nativeStage": [
+    1254,
+    1254
+  ],
+  "preview": {
+    "width": 900,
+    "height": 900,
+    "fps": 30,
+    "frames": 240,
+    "durationSeconds": 8,
+    "audio": false,
+    "faststart": true,
+    "closedSampling": "t=8*frameIndex/239; component uses actual elapsed time"
+  },
+  "stationaryLabel": true,
+  "wordBounds": [
+    [
+      486,
+      817,
+      767,
+      931
+    ]
+  ],
+  "motionAuthorship": "authored from supplied stills",
+  "breathPeriodSeconds": 4,
+  "snailBounds": [
+    422,
+    482,
+    732,
+    678
+  ],
+  "rigidShellCenter": [
+    539,
+    573
+  ],
+  "rigidShellRadius": 104,
+  "footContactY": 671,
+  "breathAmplitude": 0.018,
+  "warpWeight": "smoothstep((distanceToShellCenter-104)/12)*smoothstep((x-618)/20)*smoothstep((671-y)/20)",
+  "inverseSampleY": "671+(y-671)/(1+.018*sin(2*pi*t/4)*weight); sourceX=x",
+  "rigidShellAndFootRule": "weight is exactly zero in shell radius<=104 and y>=671",
+  "zBoxes": [
+    [
+      744,
+      472,
+      774,
+      503
+    ],
+    [
+      777,
+      427,
+      817,
+      468
+    ],
+    [
+      826,
+      380,
+      864,
+      421
+    ]
+  ],
+  "zPhase": "(t/4+.24+i/3) modulo 1",
+  "zPosition": "(730+119*p,530-141*p-6*sin(pi*p))",
+  "zScale": ".70+.65*p",
+  "zOpacity": "smoothstep(p/.15)*(1-smoothstep((p-.72)/.28))",
+  "zResetsInvisible": true,
+  "snoreOpacity": ".30+.70*(.5+.5*sin(2*pi*t/4))",
+  "stripeClip": [
+    208,
+    695,
+    532,
+    728
+  ],
+  "stripeRoundedRadius": 11,
+  "stripePitch": 20,
+  "stripeWidth": 9,
+  "stripeOffset": "20*(t modulo 1)",
+  "stripeTest": "(x+y-offset) modulo 20 <9",
+  "filledExtentIsConstant": true,
+  "semantics": "sleeping breathing character and clipped indeterminate barber-pole, not crawling or a measured progress fraction"
+}

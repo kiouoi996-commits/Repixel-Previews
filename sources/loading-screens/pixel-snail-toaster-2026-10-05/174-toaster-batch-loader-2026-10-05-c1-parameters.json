@@ -1,0 +1,135 @@
+{
+  "nativeStage": [
+    1254,
+    1254
+  ],
+  "preview": {
+    "width": 900,
+    "height": 900,
+    "fps": 30,
+    "frames": 300,
+    "durationSeconds": 10,
+    "audio": false,
+    "faststart": true,
+    "closedSampling": "t=10*frameIndex/299; component uses actual elapsed time"
+  },
+  "stationaryLabel": true,
+  "wordBounds": [
+    [
+      493,
+      969,
+      768,
+      1081
+    ]
+  ],
+  "motionAuthorship": "authored from supplied stills",
+  "cycleSeconds": 10,
+  "popCount": 8,
+  "firstPopCycleSeconds": 0.2,
+  "popIntervalSeconds": 1,
+  "leverBounds": [
+    776,
+    573,
+    850,
+    611
+  ],
+  "leverTravel": 14,
+  "leverDown": "14*smoothstep(u/.16) through u=.30",
+  "leverRelease": "14*(1-smoothstep((u-.30)/.12)) after u=.30",
+  "breadSourcePivot": [
+    627,
+    310
+  ],
+  "breadCrop": [
+    427,
+    110,
+    827,
+    510
+  ],
+  "breadClipBelowY": 523,
+  "launchSecondsWithinPop": 0.3,
+  "flightSeconds": 0.48,
+  "flightFraction": "s=clamp((u-.30)/.48,0,1)",
+  "breadOffsetY": "285-285*4*s*(1-s)",
+  "breadOffsetX": "4*sin(pi*s)",
+  "breadRotationDegrees": "-2*sin(2*pi*s) about pivot",
+  "breadHiddenAtRest": true,
+  "acknowledgeAtSecondsWithinPop": 0.54,
+  "tileCentersX": [
+    275.5,
+    368,
+    460,
+    552,
+    644,
+    744.5,
+    857.5,
+    964.5
+  ],
+  "tileCenterY": 867.5,
+  "filledSourceBoxes": [
+    [
+      235,
+      826,
+      316,
+      908
+    ],
+    [
+      328,
+      826,
+      408,
+      908
+    ],
+    [
+      420,
+      826,
+      500,
+      908
+    ],
+    [
+      512,
+      826,
+      592,
+      908
+    ],
+    [
+      604,
+      826,
+      684,
+      908
+    ]
+  ],
+  "emptySourceBoxes": [
+    [
+      695,
+      821,
+      794,
+      914
+    ],
+    [
+      808,
+      821,
+      907,
+      914
+    ],
+    [
+      915,
+      821,
+      1014,
+      914
+    ]
+  ],
+  "tileRule": "advance one tile only after its slice reaches apex; all prior tiles remain filled",
+  "rayOpacity": "exp(-((s-.5)/.14)^2) only in flight",
+  "risingVelocityOpacity": "max(0,sin(2*pi*s)) only in flight",
+  "velocityClipBelowY": 490,
+  "counterAndCrumbFadeOutSeconds": [
+    8.6,
+    9.4
+  ],
+  "invisibleCounterResetSeconds": [
+    9.4,
+    10
+  ],
+  "semantics": "eight-pop illustrative fixture, not baking duration, food temperature or real host completion; real item events must control real counters",
+  "emptyTileSizing": "First five empty templates resize to the corresponding filledSourceBox width/height; last three retain their source dimensions. This keeps the original unequal spacing without intersecting outlines."
+}

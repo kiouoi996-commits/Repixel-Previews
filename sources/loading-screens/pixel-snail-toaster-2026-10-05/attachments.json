@@ -1,0 +1,29 @@
+[
+  {
+    "fileId": "file_0000000052c08210847818d2bba7da17",
+    "libraryFileId": "libfile_16a418ee822081919b17ee5f9772148b",
+    "name": "Изображение ChatGPT 5 окт. 2026 г., 09_39_51-1.png",
+    "bytes": 481025,
+    "sha256": "c4560252042464f0952de54823c2a0d5abf761149f30305e698b56bf0e393c28",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "fileId": "file_000000008e9481f4a804d54499e63312",
+    "libraryFileId": "libfile_4c65879e7a348191b6e974717d921514",
+    "name": "Изображение ChatGPT 5 окт. 2026 г., 09_39_56-5.png",
+    "bytes": 392571,
+    "sha256": "9fce52ea2ef4f1b7044db8504951fd7184a4df36c435ec826bc87fdc6a7e6965",
+    "width": 1254,
+    "height": 1254
+  },
+  {
+    "fileId": "file_0000000003d881f4abfb3109d5428638",
+    "libraryFileId": "libfile_ba4378fb2a408191bfe3e7a3778aee33",
+    "name": "Изображение ChatGPT 5 окт. 2026 г., 09_39_59-8.png",
+    "bytes": 497172,
+    "sha256": "b6bffef65c374d25aa66e0d0b6fd9b7fc03c272da93ff86e5bae861763228573",
+    "width": 1254,
+    "height": 1254
+  }
+]
