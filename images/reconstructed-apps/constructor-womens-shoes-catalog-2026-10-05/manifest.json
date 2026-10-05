@@ -13,7 +13,8 @@
     "folder": "images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05",
     "asset_commit": "c9c1a4214d386ac0a55a17f609d073148aabd1c4",
     "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05",
-    "verification": "Pending final raw-content verification after manifest commit."
+    "verification": "All 24 published files were fetched back from GitHub at commit 79c1272e6de903ad9ca84491ffc399c19b2473b1 and byte-compared successfully; this manifest was then updated only to record that verification.",
+    "verified_file_count": 24
   },
   "raster_assets": [
     {
