@@ -1,0 +1,651 @@
+{
+  "project": {
+    "name": "Orbit Kids Astronomy",
+    "slug": "orbit-kids-astronomy-2026-10-05",
+    "status": "screenshot reconstruction",
+    "source_screenshot_px": {
+      "width": 1448,
+      "height": 1086
+    },
+    "measurement_note": "All screen coordinates, percentages, object occupancy and color values are estimates measured from the raster screenshot, not authoritative source-design values."
+  },
+  "publication": {
+    "repository": "https://github.com/kiouoi996-commits/Repixel-Previews",
+    "project_path": "images/reconstructed-apps/orbit-kids-astronomy-2026-10-05",
+    "asset_commit_sha": "56dcca4cbf8137b7d461aefa22e224673277e98c",
+    "folder_url_at_asset_commit": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05",
+    "analysis_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/asset-analysis.md"
+  },
+  "screens": [
+    {
+      "name": "home",
+      "approx_bbox_px": {
+        "x": 71,
+        "y": 80,
+        "width": 403,
+        "height": 886
+      }
+    },
+    {
+      "name": "discover",
+      "approx_bbox_px": {
+        "x": 506,
+        "y": 104,
+        "width": 400,
+        "height": 896
+      }
+    },
+    {
+      "name": "lesson-detail",
+      "approx_bbox_px": {
+        "x": 964,
+        "y": 80,
+        "width": 375,
+        "height": 887
+      }
+    }
+  ],
+  "rasters": [
+    {
+      "file": "hero-explore-universe.webp",
+      "type": "raster",
+      "role": "Home hero illustration",
+      "screen": "home",
+      "visible_bbox_px": {
+        "x": 91,
+        "y": 186,
+        "width": 378,
+        "height": 253
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 6.28,
+        "y": 17.13,
+        "width": 26.1,
+        "height": 23.3
+      },
+      "export_px": {
+        "width": 1134,
+        "height": 759
+      },
+      "aspect_ratio": 1.4941,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 78216,
+      "sha256": "a83ee06c8f76fd9db29026de6f72cd3c3e8a362d7bb9af52c814bcfb4ff0cacb",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/hero-explore-universe.webp"
+    },
+    {
+      "file": "course-solar-system.webp",
+      "type": "raster",
+      "role": "Solar System course thumbnail",
+      "screen": "home",
+      "visible_bbox_px": {
+        "x": 99,
+        "y": 664,
+        "width": 203,
+        "height": 125
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 6.84,
+        "y": 61.14,
+        "width": 14.02,
+        "height": 11.51
+      },
+      "export_px": {
+        "width": 609,
+        "height": 375
+      },
+      "aspect_ratio": 1.624,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 30258,
+      "sha256": "d3dac3936f5e1ed915f7e2ffdd5bf589d9432d8af64ca9c029224a3aa180f2c8",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/course-solar-system.webp"
+    },
+    {
+      "file": "course-life-in-space.webp",
+      "type": "raster",
+      "role": "Life in Space course thumbnail (visible viewport fragment)",
+      "screen": "home",
+      "visible_bbox_px": {
+        "x": 319,
+        "y": 664,
+        "width": 156,
+        "height": 125
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 22.03,
+        "y": 61.14,
+        "width": 10.77,
+        "height": 11.51
+      },
+      "export_px": {
+        "width": 468,
+        "height": 375
+      },
+      "aspect_ratio": 1.248,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 30668,
+      "sha256": "65a44305b99febd006c579f39049fb5b2182cb353841f1c1614d9f36b9257ee8",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/course-life-in-space.webp"
+    },
+    {
+      "file": "course-amazing-earth.webp",
+      "type": "raster",
+      "role": "Our Amazing Earth course thumbnail",
+      "screen": "discover",
+      "visible_bbox_px": {
+        "x": 546,
+        "y": 396,
+        "width": 202,
+        "height": 159
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 37.71,
+        "y": 36.46,
+        "width": 13.95,
+        "height": 14.64
+      },
+      "export_px": {
+        "width": 606,
+        "height": 477
+      },
+      "aspect_ratio": 1.2704,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 40014,
+      "sha256": "062ab0ab2a0738dd71062e1d05cb64f1a80ed6c1b774d8d52c7aafdf11ad0d5b",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/course-amazing-earth.webp"
+    },
+    {
+      "file": "course-galaxies.webp",
+      "type": "raster",
+      "role": "Mysteries of Galaxies thumbnail (visible viewport fragment)",
+      "screen": "discover",
+      "visible_bbox_px": {
+        "x": 765,
+        "y": 396,
+        "width": 140,
+        "height": 159
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 52.83,
+        "y": 36.46,
+        "width": 9.67,
+        "height": 14.64
+      },
+      "export_px": {
+        "width": 420,
+        "height": 477
+      },
+      "aspect_ratio": 0.8805,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 31524,
+      "sha256": "395e69e596b94714bf4d815ad821ad9924af3cbbeebe915671ad8408858c1ece",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/course-galaxies.webp"
+    },
+    {
+      "file": "course-stars-constellations.webp",
+      "type": "raster",
+      "role": "Stars and Constellations thumbnail",
+      "screen": "discover",
+      "visible_bbox_px": {
+        "x": 546,
+        "y": 714,
+        "width": 190,
+        "height": 119
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 37.71,
+        "y": 65.75,
+        "width": 13.12,
+        "height": 10.96
+      },
+      "export_px": {
+        "width": 570,
+        "height": 357
+      },
+      "aspect_ratio": 1.5966,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 28470,
+      "sha256": "bdc12aa06bdd0e4af8740dc898b344c03a05b67b6ce385f0296917bc4958e86e",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/course-stars-constellations.webp"
+    },
+    {
+      "file": "course-exploring-mars.webp",
+      "type": "raster",
+      "role": "Exploring Mars thumbnail (visible viewport fragment)",
+      "screen": "discover",
+      "visible_bbox_px": {
+        "x": 750,
+        "y": 714,
+        "width": 155,
+        "height": 119
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 51.8,
+        "y": 65.75,
+        "width": 10.7,
+        "height": 10.96
+      },
+      "export_px": {
+        "width": 465,
+        "height": 357
+      },
+      "aspect_ratio": 1.3025,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 22340,
+      "sha256": "ba301aa4d57cff62d7d07d2c63c3c51792f767ab929956745c6f6d74f0b7a35c",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/course-exploring-mars.webp"
+    },
+    {
+      "file": "hero-journey-moon.webp",
+      "type": "raster",
+      "role": "Journey to the Moon hero illustration",
+      "screen": "lesson-detail",
+      "visible_bbox_px": {
+        "x": 964,
+        "y": 80,
+        "width": 375,
+        "height": 366
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 66.57,
+        "y": 7.37,
+        "width": 25.9,
+        "height": 33.7
+      },
+      "export_px": {
+        "width": 1125,
+        "height": 1098
+      },
+      "aspect_ratio": 1.0246,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 144598,
+      "sha256": "c5522895a1af37fac68e2f41e59a50b0081e84301013598fc9d6da0ee144c926",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/hero-journey-moon.webp"
+    },
+    {
+      "file": "lesson-moon-basics.webp",
+      "type": "raster",
+      "role": "Moon Basics lesson thumbnail",
+      "screen": "lesson-detail",
+      "visible_bbox_px": {
+        "x": 999,
+        "y": 656,
+        "width": 70,
+        "height": 57
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 68.99,
+        "y": 60.41,
+        "width": 4.83,
+        "height": 5.25
+      },
+      "export_px": {
+        "width": 210,
+        "height": 171
+      },
+      "aspect_ratio": 1.2281,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 7052,
+      "sha256": "eb81a8c00b5daf27bdb7089046ffcf4a0ba81e729e3ef79d561ac64c9b847009",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/lesson-moon-basics.webp"
+    },
+    {
+      "file": "lesson-phases-moon.webp",
+      "type": "raster",
+      "role": "Phases of the Moon lesson thumbnail",
+      "screen": "lesson-detail",
+      "visible_bbox_px": {
+        "x": 999,
+        "y": 726,
+        "width": 70,
+        "height": 57
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 68.99,
+        "y": 66.85,
+        "width": 4.83,
+        "height": 5.25
+      },
+      "export_px": {
+        "width": 210,
+        "height": 171
+      },
+      "aspect_ratio": 1.2281,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 4924,
+      "sha256": "b9d93668b8c776c3b3665e223179c3f7e917302756ecf95f7f8cc0f65db17ea5",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/lesson-phases-moon.webp"
+    },
+    {
+      "file": "lesson-moon-exploration.webp",
+      "type": "raster",
+      "role": "Moon Exploration lesson thumbnail",
+      "screen": "lesson-detail",
+      "visible_bbox_px": {
+        "x": 999,
+        "y": 796,
+        "width": 70,
+        "height": 49
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 68.99,
+        "y": 73.3,
+        "width": 4.83,
+        "height": 4.51
+      },
+      "export_px": {
+        "width": 210,
+        "height": 147
+      },
+      "aspect_ratio": 1.4286,
+      "alpha_channel": false,
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "bytes": 6948,
+      "sha256": "90a843b68a1519e00cf4384687dcc3ec3aaf22c9206cd38258201f1524ec160f",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/lesson-moon-exploration.webp"
+    },
+    {
+      "file": "avatar-liam.png",
+      "type": "raster",
+      "role": "Reusable Liam avatar",
+      "screen": "home/discover",
+      "visible_bbox_px": {
+        "x": 395,
+        "y": 112,
+        "width": 54,
+        "height": 50
+      },
+      "visible_bbox_pct_of_screenshot": {
+        "x": 27.28,
+        "y": 10.31,
+        "width": 3.73,
+        "height": 4.6
+      },
+      "export_px": {
+        "width": 162,
+        "height": 150
+      },
+      "aspect_ratio": 1.08,
+      "alpha_channel": true,
+      "display": {
+        "object_fit": "contain",
+        "object_position": "50% 50%"
+      },
+      "bytes": 28137,
+      "sha256": "cda700bb17380be461d92c2f2cf05feb66ac7d3a2b70434e074f5b2904485d4d",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/avatar-liam.png"
+    }
+  ],
+  "icons": [
+    {
+      "file": "icons/back.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 201,
+      "sha256": "3437480eda80a06e10c16522f66156d18300e69f0d50f1f1c8042158fbfcca95",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/back.svg"
+    },
+    {
+      "file": "icons/book-open.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 271,
+      "sha256": "baa03f507799f07fac352c1f0fbc1639818a6656f0a1c24f8861fa178da10569",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/book-open.svg"
+    },
+    {
+      "file": "icons/bookmark.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 235,
+      "sha256": "4d9a17cb7bbab0bc8b5e971c03ef10d888925c593871430a727bebfb08e6bb66",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/bookmark.svg"
+    },
+    {
+      "file": "icons/chevron-right.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 203,
+      "sha256": "325bd9947f7d914830e39a6c31a05c66dfd579b648d5563218694a692b1001d1",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/chevron-right.svg"
+    },
+    {
+      "file": "icons/clock.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 247,
+      "sha256": "a7f2192c591a336f525c9abfb772255699a6bf1851f9bd78c97ab8321b572439",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/clock.svg"
+    },
+    {
+      "file": "icons/compass.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 264,
+      "sha256": "9284d2c23de44fdc173e58280d0696fbe971d9161bfe7ac109c1c7d5f96c27eb",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/compass.svg"
+    },
+    {
+      "file": "icons/heart.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 201,
+      "sha256": "80b0fdb43d0171ce90a8a061c4502be279c4a00c42ba55e176500d5399fc4775",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/heart.svg"
+    },
+    {
+      "file": "icons/home-filled.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 206,
+      "sha256": "1279dd5c689dc583be131cb6e2aca81ba3e28f306cca3ff505a217b74a7b4f3c",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/home-filled.svg"
+    },
+    {
+      "file": "icons/home-outline.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 331,
+      "sha256": "6ac315824cd9f5552256feffd74ee9c1ba5d6ad761575cbd6d5e2d31d03a748c",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/home-outline.svg"
+    },
+    {
+      "file": "icons/level-bars.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 304,
+      "sha256": "aa08d580372e0bea4d859c62f69a260ad444947e195bf5f38749ab0908165222",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/level-bars.svg"
+    },
+    {
+      "file": "icons/lock.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 397,
+      "sha256": "7d6cfff58fec5d3bec3662f63f7e70229a14266398f6919b377b133d25afaaea",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/lock.svg"
+    },
+    {
+      "file": "icons/menu.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 177,
+      "sha256": "8bd3e15a63ac0639dfb5d930cea1fd5eb1848c7e99c9ae06147708f70bf72395",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/menu.svg"
+    },
+    {
+      "file": "icons/play.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 137,
+      "sha256": "acedc321d470826b4dffb8c5ef210191e26601f524e04c52bf5dcf20b5784ed6",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/play.svg"
+    },
+    {
+      "file": "icons/profile.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 276,
+      "sha256": "fee971f6792f980bfb6797cb2c7767bfbb25b0ea8fe26af2a378112217ac19ef",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/profile.svg"
+    },
+    {
+      "file": "icons/search.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 248,
+      "sha256": "e5c28ad24aadf1017a99b9f10953c2258b42b0e058018b86116b1a824b011da3",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/search.svg"
+    },
+    {
+      "file": "icons/topic-galaxies.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 310,
+      "sha256": "c938b2c69dc14997f9d3375c4b5f3a72b135a97866b0aaa9b007ed43b07b3781",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/topic-galaxies.svg"
+    },
+    {
+      "file": "icons/topic-planets.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 489,
+      "sha256": "69bbe07a805093b1726134b4f410cdb3b4ff14f22d938bd9de115ec8709a6bec",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/topic-planets.svg"
+    },
+    {
+      "file": "icons/topic-spacecraft.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 345,
+      "sha256": "36ac8d7b3c7d08c24528504e735feca14fb5a16e870056a34213fb599cc62670",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/topic-spacecraft.svg"
+    },
+    {
+      "file": "icons/topic-stars.svg",
+      "type": "svg",
+      "role": "UI icon",
+      "viewBox": "0 0 24 24",
+      "alpha_channel": true,
+      "bytes": 186,
+      "sha256": "8de6dbac2cfa4c2bdc80d3e3ea4b1cbf380a326b2b020154948f80d13db5594f",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/icons/topic-stars.svg"
+    }
+  ],
+  "ui_primitives": {
+    "app_surface": "#FFFFFF",
+    "primary_text": "#07183F",
+    "secondary_text": "#6E84AE",
+    "input_surface": "#F1F6FC",
+    "neutral_chip_surface": "#F6F8FC",
+    "active_chip_surface": "#DDEBFF",
+    "primary_blue": "#2F84F8",
+    "primary_cta_gradient": {
+      "type": "linear",
+      "direction": "left-to-right",
+      "stops": [
+        {
+          "position": "0%",
+          "color": "#3D94FF"
+        },
+        {
+          "position": "100%",
+          "color": "#2E7EF5"
+        }
+      ]
+    },
+    "heart_pink": "#FF667F",
+    "level_green": "#18C785",
+    "card_shadow": "0 8px 24px rgba(24, 61, 113, 0.10)",
+    "avatar_online_dot": {
+      "fill": "#20C997",
+      "ring": "#FFFFFF"
+    },
+    "note": "Approximate screenshot-derived values; container radii, pills, circles, shadows and clipping belong to UI/CSS and are not baked into assets."
+  },
+  "analysis_file": {
+    "file": "asset-analysis.md",
+    "bytes": 18069,
+    "sha256": "b34762a44cbe8cdfacb8a62e27c43b125b86753bc89e0928c90ecb92c344d1dd",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/56dcca4cbf8137b7d461aefa22e224673277e98c/images/reconstructed-apps/orbit-kids-astronomy-2026-10-05/asset-analysis.md"
+  }
+}
