@@ -1,0 +1,636 @@
+{
+  "project": "constructor-womens-shoes-catalog-2026-10-05",
+  "title": "Constructor Women's Shoes Catalog",
+  "status": "reconstruction_from_screenshot",
+  "source_screenshot": {
+    "width_px": 1051,
+    "height_px": 1497,
+    "measurement_note": "All geometry/color values are estimates from the supplied raster screenshot, not asserted source-design values."
+  },
+  "repository": {
+    "full_name": "kiouoi996-commits/Repixel-Previews",
+    "branch": "main",
+    "folder": "images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05",
+    "asset_commit": "c9c1a4214d386ac0a55a17f609d073148aabd1c4",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05",
+    "verification": "Pending final raw-content verification after manifest commit."
+  },
+  "raster_assets": [
+    {
+      "file": "hero-womens-shoes.webp",
+      "role": "Hero banner background/artwork behind the Women's Shoes headline.",
+      "source_visible_box_px": {
+        "x": 0,
+        "y": 73,
+        "width": 1051,
+        "height": 316
+      },
+      "source_visible_box_pct": {
+        "x": 0.0,
+        "y": 4.88,
+        "width": 100.0,
+        "height": 21.11
+      },
+      "export_px": {
+        "width": 3153,
+        "height": 948
+      },
+      "aspect_ratio": 3.3259,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 54,
+        "height_pct": 78
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 43,
+        "top_pct": 8,
+        "right_pct": 2,
+        "bottom_pct": 4
+      },
+      "background_corner_samples": [
+        "#EFEEED",
+        "#EAE5E3",
+        "#F0EFEE",
+        "#EBE9E8"
+      ],
+      "ui_removed": [
+        "headline/body/CTA",
+        ""
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "full banner; three shoes/pedestals are visible, no UI copy embedded",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "eea48c018c184d9ab691ae112db6e136e14c727c6abc92545c8aa8c639bd20de",
+      "bytes": 120474,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/hero-womens-shoes.webp",
+      "format": "webp"
+    },
+    {
+      "file": "elara-ballet-flats.webp",
+      "role": "Elara Ballet Flats product photo.",
+      "source_visible_box_px": {
+        "x": 293,
+        "y": 477,
+        "width": 221,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 27.88,
+        "y": 31.86,
+        "width": 21.03,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 663,
+        "height": 576
+      },
+      "aspect_ratio": 1.151,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 86,
+        "height_pct": 62
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 8,
+        "top_pct": 22,
+        "right_pct": 6,
+        "bottom_pct": 16
+      },
+      "background_corner_samples": [
+        "#EDD2CD",
+        "#ECD2CC",
+        "#EDD2CD",
+        "#EACFCA"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "pair shown essentially complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "6a363ad3aa8bdb3cd96351f48fff549da7e89cc73b009b2dd9527c7d9caab1b9",
+      "bytes": 24958,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/elara-ballet-flats.webp",
+      "format": "webp"
+    },
+    {
+      "file": "nova-slingback-flats.webp",
+      "role": "Nova Slingback Flats product photo.",
+      "source_visible_box_px": {
+        "x": 529,
+        "y": 477,
+        "width": 222,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 50.33,
+        "y": 31.86,
+        "width": 21.12,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 666,
+        "height": 576
+      },
+      "aspect_ratio": 1.1562,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 86,
+        "height_pct": 47
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 7,
+        "top_pct": 30,
+        "right_pct": 7,
+        "bottom_pct": 23
+      },
+      "background_corner_samples": [
+        "#D3DCCE",
+        "#CFD7C8",
+        "#CFD8CA",
+        "#D2DACD"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "single shoe shown essentially complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "92b11762fb8e2b2fea4982543b7416d283fbf9d3070a7e71e44886d8f4ae61ff",
+      "bytes": 18794,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/nova-slingback-flats.webp",
+      "format": "webp"
+    },
+    {
+      "file": "mira-loafers.webp",
+      "role": "Mira Loafers product photo.",
+      "source_visible_box_px": {
+        "x": 767,
+        "y": 477,
+        "width": 222,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 72.98,
+        "y": 31.86,
+        "width": 21.12,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 666,
+        "height": 576
+      },
+      "aspect_ratio": 1.1562,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 89,
+        "height_pct": 59
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 5,
+        "top_pct": 21,
+        "right_pct": 6,
+        "bottom_pct": 20
+      },
+      "background_corner_samples": [
+        "#BFD3E7",
+        "#BCD1E4",
+        "#BFD2E6",
+        "#BCD0E5"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "pair shown essentially complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "129b9b27f017e21bc3e2ecbd80c32e37b127f149a83d99a5475a6e077250e73d",
+      "bytes": 23686,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/mira-loafers.webp",
+      "format": "webp"
+    },
+    {
+      "file": "lena-slide-sandals.webp",
+      "role": "Lena Slide Sandals product photo.",
+      "source_visible_box_px": {
+        "x": 293,
+        "y": 727,
+        "width": 221,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 27.88,
+        "y": 48.56,
+        "width": 21.03,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 663,
+        "height": 576
+      },
+      "aspect_ratio": 1.151,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 87,
+        "height_pct": 45
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 7,
+        "top_pct": 34,
+        "right_pct": 6,
+        "bottom_pct": 21
+      },
+      "background_corner_samples": [
+        "#D8D5EB",
+        "#D7D5EB",
+        "#D6D3EC",
+        "#D4D2EA"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "pair shown complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "d3e58e13e6aa3a9bfe48e4f7f898770c2925e84108bbe87f2014834ad02ea0d4",
+      "bytes": 23878,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/lena-slide-sandals.webp",
+      "format": "webp"
+    },
+    {
+      "file": "vega-chelsea-boots.webp",
+      "role": "Vega Chelsea Boots product photo.",
+      "source_visible_box_px": {
+        "x": 529,
+        "y": 727,
+        "width": 222,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 50.33,
+        "y": 48.56,
+        "width": 21.12,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 666,
+        "height": 576
+      },
+      "aspect_ratio": 1.1562,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 80,
+        "height_pct": 72
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 10,
+        "top_pct": 15,
+        "right_pct": 10,
+        "bottom_pct": 13
+      },
+      "background_corner_samples": [
+        "#EDDDCC",
+        "#ECDCCC",
+        "#EDDDCC",
+        "#EBDBCB"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "pair/overlap silhouette shown complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "778eea51f1370bdbb6c785096b34cd536021c0ddd545b38e696690c9d09d79af",
+      "bytes": 19198,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/vega-chelsea-boots.webp",
+      "format": "webp"
+    },
+    {
+      "file": "luna-sneakers.webp",
+      "role": "Luna Sneakers product photo.",
+      "source_visible_box_px": {
+        "x": 767,
+        "y": 727,
+        "width": 222,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 72.98,
+        "y": 48.56,
+        "width": 21.12,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 666,
+        "height": 576
+      },
+      "aspect_ratio": 1.1562,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 86,
+        "height_pct": 61
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 8,
+        "top_pct": 22,
+        "right_pct": 6,
+        "bottom_pct": 17
+      },
+      "background_corner_samples": [
+        "#F0D2D0",
+        "#EFD1CF",
+        "#F0D1CF",
+        "#EFCECE"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "pair shown essentially complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "0cb114e9ad49cbc8422155556b4de8102e85f56f6164dccb80e47167b66ec84d",
+      "bytes": 23270,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/luna-sneakers.webp",
+      "format": "webp"
+    },
+    {
+      "file": "aria-mules.webp",
+      "role": "Aria Mules product photo.",
+      "source_visible_box_px": {
+        "x": 293,
+        "y": 977,
+        "width": 221,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 27.88,
+        "y": 65.26,
+        "width": 21.03,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 663,
+        "height": 576
+      },
+      "aspect_ratio": 1.151,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 87,
+        "height_pct": 52
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 7,
+        "top_pct": 30,
+        "right_pct": 6,
+        "bottom_pct": 18
+      },
+      "background_corner_samples": [
+        "#D3DBCE",
+        "#D1D9CA",
+        "#D0D9CB",
+        "#CFD7CA"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "pair shown complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "3b6679f11381a771d3ecf4c5fc84dcb1d6458e807d388b7dfc0c7268b3090802",
+      "bytes": 32978,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/aria-mules.webp",
+      "format": "webp"
+    },
+    {
+      "file": "cora-flat-sandals.webp",
+      "role": "Cora Flat Sandals product photo.",
+      "source_visible_box_px": {
+        "x": 529,
+        "y": 977,
+        "width": 222,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 50.33,
+        "y": 65.26,
+        "width": 21.12,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 666,
+        "height": 576
+      },
+      "aspect_ratio": 1.1562,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 86,
+        "height_pct": 63
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 7,
+        "top_pct": 18,
+        "right_pct": 7,
+        "bottom_pct": 19
+      },
+      "background_corner_samples": [
+        "#C0D3E7",
+        "#BED2E4",
+        "#BED1E6",
+        "#BDD0E3"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "single sandal shown complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "106592eec961e15404ee293f1a6f924148764c80b671a86cb6c27efa0c50bb24",
+      "bytes": 25584,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/cora-flat-sandals.webp",
+      "format": "webp"
+    },
+    {
+      "file": "zara-boat-shoes.webp",
+      "role": "Zara Boat Shoes product photo.",
+      "source_visible_box_px": {
+        "x": 767,
+        "y": 977,
+        "width": 222,
+        "height": 192
+      },
+      "source_visible_box_pct": {
+        "x": 72.98,
+        "y": 65.26,
+        "width": 21.12,
+        "height": 12.83
+      },
+      "export_px": {
+        "width": 666,
+        "height": 576
+      },
+      "aspect_ratio": 1.1562,
+      "alpha": false,
+      "object_occupancy_estimate": {
+        "width_pct": 88,
+        "height_pct": 58
+      },
+      "edge_gaps_estimate": {
+        "left_pct": 6,
+        "top_pct": 23,
+        "right_pct": 6,
+        "bottom_pct": 19
+      },
+      "background_corner_samples": [
+        "#EAC4C3",
+        "#EBC3C1",
+        "#ECC7C6",
+        "#ECC5C5"
+      ],
+      "ui_removed": [
+        "text/price/card footer",
+        "circular bag button"
+      ],
+      "display": "object-fit: cover; object-position: center center",
+      "clipping": "pair shown essentially complete",
+      "repair_note": "Screenshot reconstruction/inpainting; repaired hidden pixels are approximate.",
+      "sha256": "914dfba51e1e17a0a0bb8e677f5576661b1bf2452a1b6f0477da4394df72fe22",
+      "bytes": 26268,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/zara-boat-shoes.webp",
+      "format": "webp"
+    }
+  ],
+  "svg_icons": [
+    {
+      "file": "icons/account.svg",
+      "role": "Header account/person glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "224dedccf75c9ad9adb4ed9b7ba23a2a39afb0f97ad044924a5091eb80944c9a",
+      "bytes": 222,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/account.svg"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "role": "Newsletter submit arrow",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "6a4a0529521a4876a16d1f04d6e4eedd486cf729df2e1b9a46837e6dab7df259",
+      "bytes": 231,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/arrow-right.svg"
+    },
+    {
+      "file": "icons/bag.svg",
+      "role": "Header/product-card shopping bag glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "21199b1218950f705a438daa96517c7991c53be8382ad7defb932d32dd74f03d",
+      "bytes": 304,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/bag.svg"
+    },
+    {
+      "file": "icons/check.svg",
+      "role": "Selected radio/check glyph; circular blue shell is CSS",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "d8c17823343dc81dc3c2147e2598f67eb06ce5afee498c3f66313460abaa1fd8",
+      "bytes": 214,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/check.svg"
+    },
+    {
+      "file": "icons/chevron-up.svg",
+      "role": "Expanded filter-section chevron",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "44cd8d7f1d181f32f4e36e4ebbd418fb33f70ff01ce92495518ccb242a63bbe8",
+      "bytes": 207,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/chevron-up.svg"
+    },
+    {
+      "file": "icons/facebook.svg",
+      "role": "Footer Facebook glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "6d3fd430cf57e44d79da2382e99933563c28f340e444e96e0f76d5d6eb5831d5",
+      "bytes": 240,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/facebook.svg"
+    },
+    {
+      "file": "icons/instagram.svg",
+      "role": "Footer Instagram glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "4514d761751d4caa6603e4e699539d7c0fc2ec70b3d3b2eea6746d01097e1440",
+      "bytes": 307,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/instagram.svg"
+    },
+    {
+      "file": "icons/mail.svg",
+      "role": "Newsletter envelope glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "adbad9552a5d991ff9903c39c1f9a3082d6b07df9f671c4a01faad94b1dff71b",
+      "bytes": 313,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/mail.svg"
+    },
+    {
+      "file": "icons/menu.svg",
+      "role": "Header hamburger/menu glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "7c9123c6e438f5599907540a1673c2251b03cc612c1ad57b8b513dff2d91e0a7",
+      "bytes": 193,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/menu.svg"
+    },
+    {
+      "file": "icons/pinterest.svg",
+      "role": "Footer Pinterest glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "9d4ac47feba42eb0ba0d7b72b1edbb452c170874b412179144c353996e168a5e",
+      "bytes": 602,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/pinterest.svg"
+    },
+    {
+      "file": "icons/search.svg",
+      "role": "Header search glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "3e97f94ce59075dc04318d6d266dfc9c324fbd3354f90877a299e13f1eee308c",
+      "bytes": 254,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/search.svg"
+    },
+    {
+      "file": "icons/youtube.svg",
+      "role": "Footer YouTube glyph",
+      "alpha": true,
+      "viewBox": "0 0 24 24",
+      "sha256": "c1c8b48ff513b25234619059a3cc17b39955207bca77e8bff6481a5462faebcc",
+      "bytes": 210,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/icons/youtube.svg"
+    }
+  ],
+  "ui_effects": {
+    "page_background": "#F8FAFD / white",
+    "card_shadow": "0 6px 18px rgba(75,95,140,0.08)",
+    "icon_color": "#7186B5",
+    "active_violet": "#5A46FF",
+    "product_bag_button": "white circular UI shell; icon stays separate"
+  },
+  "support_files": [
+    {
+      "file": "asset-analysis.md",
+      "role": "Detailed screenshot-derived measurement/separation notes",
+      "sha256": "82afef1e9d33b791f49bfdf11dfc3c5a18cd1206099abfb76f9676d408fcb4d9",
+      "bytes": 9921,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c9c1a4214d386ac0a55a17f609d073148aabd1c4/images/reconstructed-apps/constructor-womens-shoes-catalog-2026-10-05/asset-analysis.md"
+    }
+  ]
+}
