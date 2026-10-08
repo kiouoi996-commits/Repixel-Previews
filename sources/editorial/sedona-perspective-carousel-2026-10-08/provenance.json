@@ -1,0 +1,132 @@
+{
+  "studyBatch": "sedona-perspective-carousel-2026-10-08",
+  "motionAuthorship": "authored",
+  "sourceAttachment": {
+    "filename": "6e992b51-347e-41e5-aafb-3424792afb94.png",
+    "bytes": 2665989,
+    "sha256": "978eae0b8bf4f573c2ac910e0ab7e1161a249f9be4be107874cfd744bd4b2082",
+    "width": 1254,
+    "height": 1254
+  },
+  "sourceAssets": [
+    {
+      "path": "images/editorial/photos/sedona-perspective-carousel-2026-10-08/adobe-courtyard.webp",
+      "bytes": 222730,
+      "sha256": "51a83d33046bbd96ceaa1d879462223d3591362415045a4499f703533986c7bf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/adobe-courtyard.webp"
+    },
+    {
+      "path": "images/editorial/photos/sedona-perspective-carousel-2026-10-08/sunset-viewpoint.webp",
+      "bytes": 182082,
+      "sha256": "db0dd7c2178778f09af58a6e04e5fbcad1720cd01a9a0da5c376c46692052ddd",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/sunset-viewpoint.webp"
+    },
+    {
+      "path": "images/editorial/photos/sedona-perspective-carousel-2026-10-08/canyon-creek.webp",
+      "bytes": 238976,
+      "sha256": "9138c1199228e32f00602c24483f8dd01c66c695838154c9abce33ddb051b720",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/canyon-creek.webp"
+    },
+    {
+      "path": "images/editorial/references/175-sedona-perspective-carousel-2026-10-08-a1-reference.webp",
+      "bytes": 252330,
+      "sha256": "5e37b1a5f4d734e893b7e152bbcd9075f3b515f8b4166def54de591ed4a977dc",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/references/175-sedona-perspective-carousel-2026-10-08-a1-reference.webp"
+    }
+  ],
+  "photoReconstruction": [
+    {
+      "name": "adobe-courtyard",
+      "path": "repixel-sedona/assets/adobe-courtyard.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 222730,
+      "sha256": "51a83d33046bbd96ceaa1d879462223d3591362415045a4499f703533986c7bf",
+      "authorship": "AI-generated clean replacement based on the supplied screenshot; not a recovered original photograph"
+    },
+    {
+      "name": "sunset-viewpoint",
+      "path": "repixel-sedona/assets/sunset-viewpoint.webp",
+      "width": 640,
+      "height": 960,
+      "bytes": 182082,
+      "sha256": "db0dd7c2178778f09af58a6e04e5fbcad1720cd01a9a0da5c376c46692052ddd",
+      "authorship": "AI-generated clean replacement based on the supplied screenshot; not a recovered original photograph"
+    },
+    {
+      "name": "canyon-creek",
+      "path": "repixel-sedona/assets/canyon-creek.webp",
+      "width": 640,
+      "height": 958,
+      "bytes": 238976,
+      "sha256": "9138c1199228e32f00602c24483f8dd01c66c695838154c9abce33ddb051b720",
+      "authorship": "AI-generated clean replacement based on the supplied screenshot; not a recovered original photograph"
+    }
+  ],
+  "referenceEncoding": "Full uncropped 1254-by-1254 PNG composition converted to WebP quality 95; this is not a claim of lossless equivalence.",
+  "typography": "Inter 500 is a visually matched font, not an identified original source font.",
+  "font": {
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d4256c6ca9d175defe67e3c4965a2d1bfa0f1114/fonts/app-assets/pulse-go-next-place-2026-09-30/Inter-Latin.woff",
+    "bytes": 65484,
+    "sha256": "4554a7b83628b1e6629b0726dad143539b117033cd0c059abef351051da499b8"
+  },
+  "fontLicense": {
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d4256c6ca9d175defe67e3c4965a2d1bfa0f1114/fonts/app-assets/pulse-go-next-place-2026-09-30/Inter-OFL.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+  },
+  "previewRender": {
+    "width": 1080,
+    "height": 1080,
+    "fps": 30,
+    "frames": 180,
+    "durationSeconds": 6,
+    "audio": false,
+    "faststart": true,
+    "loopEndpointPixelsEqual": true,
+    "uniqueSourceFrames": 63,
+    "transitionMs": 700,
+    "easing": [
+      0.22,
+      1,
+      0.36,
+      1
+    ],
+    "featuredSequence": [
+      "sunset-viewpoint",
+      "canyon-creek",
+      "adobe-courtyard",
+      "sunset-viewpoint"
+    ],
+    "video": {
+      "path": "175-sedona-perspective-carousel-2026-10-08-a1.mp4",
+      "bytes": 3133879,
+      "sha256": "2edb1379898f7f3d530f2598d362db4c528ddae9dec67771905618c564b40387"
+    },
+    "poster": {
+      "path": "175-sedona-perspective-carousel-2026-10-08-a1.webp",
+      "bytes": 206244,
+      "sha256": "f745d24f7bf8a69d28007f2fb0b65ce7bd1180dd4900406892ed469ea176656f"
+    }
+  },
+  "implementation": {
+    "file": "175-sedona-perspective-carousel.html",
+    "bytes": 12580,
+    "sha256": "b2069d6c0b8cab996657586efcec67fe32131da93f818e56e2848670ac9f7cc7"
+  },
+  "renderer": {
+    "file": "render.py",
+    "bytes": 8913,
+    "sha256": "a16b698b965b2661d0ac6c03fd65a0247bdb15ac630d58001492ed4541d155fc"
+  },
+  "renderDependencies": {
+    "python": "3.12.14",
+    "Pillow": "12.3.0",
+    "NumPy": "2.3.5",
+    "fontTools": "4.61.1",
+    "ffmpeg": "H.264 encoding through ffmpeg"
+  },
+  "interaction": "Normal mode responds to pagination, side-card selection, keyboard and deliberate horizontal swipes. Only ?demo=1 runs the explicitly separate gallery fixture; reduced motion suppresses that fixture. Repeated input queues only the latest target.",
+  "pagination": "Three logical photos; offstage visual wrap clones are aria-hidden and never add extra accessible records.",
+  "integration": "The host owns collection records and destination actions. This isolated source does not fabricate booking, purchase or navigation."
+}

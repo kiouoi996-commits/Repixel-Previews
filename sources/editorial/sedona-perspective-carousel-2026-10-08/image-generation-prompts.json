@@ -1,0 +1,22 @@
+{
+  "generator": "built-in imagegen",
+  "inputReference": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/references/175-sedona-perspective-carousel-2026-10-08-a1-reference.webp",
+  "authorship": "Generated replacements based on the supplied still, not recovered original photographs.",
+  "prompts": [
+    {
+      "photoId": "adobe-courtyard",
+      "prompt": "Use case: photorealistic-natural. Asset type: one portrait source photograph for an interactive website photo carousel. The attached image is a composition/reference image, not the output UI. Generate ONLY the LEFT photograph: a warm peach adobe casita with a wooden pergola, prickly pear cacti, agave, a brown wooden doorway at left, pine trees and distant red sandstone buttes under a clear pale blue sky. Match the visible architecture and vegetation closely. Reconstruct it as one clean rectangular portrait photograph, approximately 2:3 aspect ratio, with the camera square to the image plane. This is an authored replacement for a partially occluded screenshot photograph; recreate the visible scene and complete only what is needed for the clean photograph. The photo fills the entire canvas edge to edge. Preserve the warm realistic travel-photo style of the reference. NO interface, no rounded corners, no frames, no tilt, no white margins, no label, no letters, no Sedona badge, no pagination dots, no watermark, no collage, no second scene.",
+      "transparentBackground": false
+    },
+    {
+      "photoId": "sunset-viewpoint",
+      "prompt": "Use case: photorealistic-natural. Asset type: one portrait source photograph for an interactive website photo carousel. The attached image is a composition/reference image, not the output UI. Generate ONLY the CENTRAL photograph: an anonymous adult hiker seen from behind in a tan wide-brim hat, dark olive backpack and outdoor clothing, sitting on a red-rock ledge overlooking dramatic sandstone towers and a broad desert valley. Golden sunset sun at the right horizon, peach clouds and blue upper sky. Keep the person low in the frame and the tall red rock formations to the left. Reconstruct it as one clean rectangular portrait photograph, approximately 2:3 aspect ratio, with the camera square to the image plane. This is an authored replacement for a partially occluded screenshot photograph; recreate the visible scene and complete only what is needed for the clean photograph. The photo fills the entire canvas edge to edge. Preserve the warm realistic travel-photo style of the reference. NO interface, no rounded corners, no frames, no tilt, no white margins, no label, no letters, no Sedona badge, no pagination dots, no watermark, no collage, no second scene.",
+      "transparentBackground": false
+    },
+    {
+      "photoId": "canyon-creek",
+      "prompt": "Use case: photorealistic-natural. Asset type: one portrait source photograph for an interactive website photo carousel. The attached image is a composition/reference image, not the output UI. Generate ONLY the RIGHT photograph: a narrow calm creek flowing through a red sandstone canyon, green shrubs and trees on the banks, distant red mesas, warm light and a blue sky with small peach clouds. Creek leads from the bottom center into the middle distance. Reconstruct it as one clean rectangular portrait photograph, approximately 2:3 aspect ratio, with the camera square to the image plane. This is an authored replacement for a partially occluded screenshot photograph; recreate the visible scene and complete only what is needed for the clean photograph. The photo fills the entire canvas edge to edge. Preserve the warm realistic travel-photo style of the reference. NO interface, no rounded corners, no frames, no tilt, no white margins, no label, no letters, no Sedona badge, no pagination dots, no watermark, no collage, no second scene.",
+      "transparentBackground": false
+    }
+  ]
+}

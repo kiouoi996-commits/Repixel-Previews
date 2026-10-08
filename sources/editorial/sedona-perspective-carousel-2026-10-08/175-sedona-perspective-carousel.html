@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Sedona — Perspective Carousel</title>
+<style>
+@font-face{font-family:Inter;src:url('https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d4256c6ca9d175defe67e3c4965a2d1bfa0f1114/fonts/app-assets/pulse-go-next-place-2026-09-30/Inter-Latin.woff');font-weight:100 900;font-display:swap}
+*{box-sizing:border-box}body{margin:0;min-height:100svh;display:grid;place-items:center;background:radial-gradient(ellipse at 50% 46%,#f5f5f5,#fdfdfd);font-family:Inter,system-ui,sans-serif;padding:16px}.carousel{position:relative;width:min(1080px,calc(100vw - 32px),calc(100svh - 32px));aspect-ratio:1;isolation:isolate}.stage{position:absolute;inset:0;overflow:hidden;touch-action:pan-y;user-select:none;outline:none;border-radius:24px}.stage:focus-visible{outline:2px solid #5547ff;outline-offset:4px}.glass{position:absolute;background:rgba(255,255,255,.6);border:1px solid rgba(255,255,255,.8);border-radius:38px;box-shadow:0 18px 80px rgba(34,43,59,.06);pointer-events:none}.glass.left{left:16%;top:19%;width:17%;height:54%;transform:skewY(-15deg) rotate(-3deg)}.glass.right{left:70%;top:32%;width:17%;height:45%;transform:skewY(-16deg) rotate(-3deg)}.photo-card{position:absolute;left:0;top:0;width:440px;height:680px;margin:0;transform-origin:0 0;border-radius:24px;overflow:hidden;box-shadow:0 20px 45px rgba(28,31,39,.15);will-change:transform,opacity;cursor:pointer;background:#ebe6df;backface-visibility:hidden}.photo-card img{width:100%;height:100%;display:block;object-fit:cover;pointer-events:none}.badge{position:absolute;left:28px;top:24px;width:176px;height:50px;border-radius:25px;display:grid;place-items:center;background:#ff703f;color:#fff;font-size:26px;font-weight:500;line-height:1;white-space:nowrap;pointer-events:none}.pagination{position:absolute;left:49.54%;bottom:9.25%;transform:translateX(-50%);display:flex;gap:0;z-index:20}.pagination button{width:57px;height:44px;padding:0;border:0;background:none;display:grid;place-items:center;cursor:pointer;border-radius:12px}.pagination button:focus-visible{outline:2px solid #5547ff;outline-offset:3px}.pagination span{display:block;height:16px;border-radius:8px;background:#c9c8f9;width:16px;pointer-events:none}.sr-only{position:absolute;clip-path:inset(50%);width:1px;height:1px;overflow:hidden;white-space:nowrap}.load-error{position:absolute;left:8%;right:8%;bottom:2%;color:#7a251c;font-size:14px;text-align:center;z-index:21}.load-error:empty{display:none}
+@media(max-width:600px){body{padding:12px}.carousel{width:calc(100vw - 24px);aspect-ratio:480/760}.glass{display:none}.pagination{left:50%;bottom:4%}}
+</style>
+</head>
+<body>
+<main class="carousel" role="region" aria-roledescription="carousel" aria-label="Sedona photo gallery">
+  <div class="stage" tabindex="0" aria-label="Photo carousel. Use left and right arrows or swipe to change photos.">
+    <div class="glass left" aria-hidden="true"></div><div class="glass right" aria-hidden="true"></div>
+    <div class="rail" aria-hidden="true"></div>
+  </div>
+  <img class="sr-only" id="selected-photo" alt="">
+  <div class="pagination" role="group" aria-label="Choose a photo"></div>
+  <p class="sr-only" id="selection-status" aria-live="polite" aria-atomic="true"></p>
+  <p class="load-error" role="status"></p>
+</main>
+<script type="module">
+const base='https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/';
+const photos=[
+  {id:'adobe-courtyard',title:'Sedona, AZ',name:'Adobe courtyard',alt:'Peach adobe casita, wooden pergola and cacti below red sandstone buttes.'},
+  {id:'sunset-viewpoint',title:'Sedona, AZ',name:'Sunset viewpoint',alt:'A seated hiker in a tan hat overlooks red sandstone towers at sunset.'},
+  {id:'canyon-creek',title:'Sedona, AZ',name:'Canyon creek',alt:'A calm creek runs between red sandstone cliffs and green canyon vegetation.'}
+];
+const stage=document.querySelector('.stage'),rail=document.querySelector('.rail'),pagination=document.querySelector('.pagination');
+const status=document.querySelector('#selection-status'),selectedImage=document.querySelector('#selected-photo'),loadError=document.querySelector('.load-error');
+const reduced=matchMedia('(prefers-reduced-motion: reduce)');
+const desktop={
+  '-2':[-135,456,210,382,.12,.025,0,0],'-1':[204,456,219,392,.10,.020,1,0],
+  '0':[574,461,444,686,.052,0,1,1],'1':[893,616,196,382,-.05,.085,1,0],'2':[1190,616,190,375,-.07,.10,0,0]
+};
+const mobile={
+  '-2':[-370,320,215,385,.09,.025,0,0],'-1':[-30,320,236,385,.07,.02,.85,0],
+  '0':[240,320,368,558,.028,0,1,1],'1':[510,340,236,385,-.05,.055,.85,0],'2':[850,340,215,385,-.07,.08,0,0]
+};
+const panels=Array.from({length:5},(_,i)=>{
+  const panel=document.createElement('figure');panel.className='photo-card';panel.dataset.slot=String(i-2);
+  const image=document.createElement('img');image.alt='';image.draggable=false;image.decoding='async';
+  image.addEventListener('error',()=>{loadError.textContent='A photo could not be loaded. Please retry or supply an available image.';});
+  const badge=document.createElement('span');badge.className='badge';panel.append(image,badge);rail.append(panel);
+  return {panel,image,badge,slot:i-2};
+});
+const buttons=photos.map((photo,i)=>{
+  const button=document.createElement('button');button.type='button';button.setAttribute('aria-label',`Show photo ${i+1}: ${photo.name}`);
+  const dot=document.createElement('span');dot.setAttribute('aria-hidden','true');button.append(dot);pagination.append(button);
+  button.addEventListener('click',()=>{stopDemo();select(i);});return {button,dot};
+});
+let current=1,animation=null,queued=null,raf=0,disposed=false,pointer=null;
+let narrow=matchMedia('(max-width:600px)').matches,scale=stage.clientWidth/(narrow?480:1080);
+const demoTimers=new Set();
+const modulo=n=>(n+photos.length)%photos.length;
+function easing(t){
+  if(t<=0)return 0;if(t>=1)return 1;let lo=0,hi=1;
+  for(let i=0;i<18;i++){const u=(lo+hi)/2,x=3*(1-u)**2*u*.22+3*(1-u)*u*u*.36+u**3;if(x<t)lo=u;else hi=u;}
+  return 1-(1-(lo+hi)/2)**3;
+}
+function pose(slot){return (narrow?mobile:desktop)[Math.max(-2,Math.min(2,slot))];}
+function corners(v){
+  const [cx,cy,w,h,shear,depth]=v,xl=cx-w/2,xr=cx+w/2,yl=cy-shear*w/2,yr=cy+shear*w/2,hl=h/2*(1-depth),hr=h/2*(1+depth);
+  return [[xl,yl-hl],[xr,yr-hr],[xr,yr+hr],[xl,yl+hl]].map(([x,y])=>[x*scale,y*scale]);
+}
+function homography(dst){
+  const src=[[0,0],[440,0],[440,680],[0,680]],a=[];
+  for(let i=0;i<4;i++){const [x,y]=src[i],[u,v]=dst[i];a.push([x,y,1,0,0,0,-u*x,-u*y,u],[0,0,0,x,y,1,-v*x,-v*y,v]);}
+  for(let c=0;c<8;c++){
+    let row=c;for(let r=c+1;r<8;r++)if(Math.abs(a[r][c])>Math.abs(a[row][c]))row=r;
+    [a[c],a[row]]=[a[row],a[c]];const pivot=a[c][c];for(let k=c;k<=8;k++)a[c][k]/=pivot;
+    for(let r=0;r<8;r++)if(r!==c){const f=a[r][c];for(let k=c;k<=8;k++)a[r][k]-=f*a[c][k];}
+  }
+  const h=a.map(row=>row[8]);return `matrix3d(${[h[0],h[3],0,h[6],h[1],h[4],0,h[7],0,0,1,0,h[2],h[5],0,1].join(',')})`;
+}
+function paint(index=current,direction=1,p=0){
+  for(const {panel,image,badge,slot} of panels){
+    const from=pose(slot),to=pose(slot-direction),v=from.map((n,i)=>n+(to[i]-n)*p),photo=photos[modulo(index+slot)];
+    const src=base+photo.id+'.webp';if(image.getAttribute('src')!==src)image.src=src;
+    badge.textContent=photo.title;badge.style.opacity=String(v[7]);
+    panel.style.transform=homography(corners(v));panel.style.opacity=String(v[6]);panel.style.visibility=v[6]<.001?'hidden':'visible';
+    panel.style.zIndex=String(Math.round(v[2]*v[3]/100));panel.dataset.photoId=photo.id;
+  }
+  for(let i=0;i<3;i++){
+    const weight=(i===index?1-p:0)+(i===modulo(index+direction)?p:0);
+    buttons[i].dot.style.width=(16+22*weight)+'px';buttons[i].dot.style.background=`rgb(${[201,200,249].map((n,k)=>Math.round(n+([85,71,255][k]-n)*weight)).join(',')})`;
+  }
+}
+function commit(index,announce=true){
+  current=index;const photo=photos[current];selectedImage.src=base+photo.id+'.webp';selectedImage.alt=photo.alt;
+  buttons.forEach(({button},i)=>{if(i===current)button.setAttribute('aria-current','true');else button.removeAttribute('aria-current');});
+  stage.dataset.selectedId=photo.id;stage.removeAttribute('aria-busy');
+  if(announce)status.textContent=`Photo ${current+1} of ${photos.length}: ${photo.name}.`;
+  document.querySelector('.carousel').dispatchEvent(new CustomEvent('photochange',{detail:{id:photo.id,index:current},bubbles:true}));
+}
+function tick(now){
+  if(disposed||!animation)return;
+  const progress=Math.min(1,(now-animation.start)/700);paint(animation.from,animation.direction,easing(progress));
+  if(progress<1){raf=requestAnimationFrame(tick);return;}
+  const target=animation.to;animation=null;commit(target);paint();
+  const next=queued;queued=null;if(next!==null&&next!==current)select(next);
+}
+function select(target){
+  target=modulo(target);if(disposed)return;
+  if(animation){queued=target;return;}if(target===current)return;
+  if(reduced.matches){commit(target);paint();return;}
+  const direction=modulo(target-current)===1?1:-1;
+  stage.setAttribute('aria-busy','true');animation={from:current,to:target,direction,start:performance.now()};raf=requestAnimationFrame(tick);
+}
+function stopDemo(){for(const timer of demoTimers)clearTimeout(timer);demoTimers.clear();}
+function scheduleDemo(){
+  if(disposed||reduced.matches)return;
+  for(const [delay,index] of [[700,2],[2300,0],[3900,1]]){
+    const timer=setTimeout(()=>{demoTimers.delete(timer);select(index);},delay);demoTimers.add(timer);
+  }
+  const timer=setTimeout(()=>{demoTimers.delete(timer);scheduleDemo();},6000);demoTimers.add(timer);
+}
+function keydown(event){
+  if(!['ArrowLeft','ArrowRight','Home','End'].includes(event.key))return;
+  event.preventDefault();stopDemo();const target=event.key==='Home'?0:event.key==='End'?2:modulo((queued??animation?.to??current)+(event.key==='ArrowRight'?1:-1));
+  select(target);if(event.target.closest('.pagination'))buttons[target].button.focus();
+}
+document.querySelector('.carousel').addEventListener('keydown',keydown);
+stage.addEventListener('pointerdown',event=>{
+  if(!event.isPrimary||(event.pointerType==='mouse'&&event.button!==0))return;
+  stopDemo();pointer={id:event.pointerId,x:event.clientX,y:event.clientY,axis:null};
+});
+stage.addEventListener('pointermove',event=>{
+  if(!pointer||event.pointerId!==pointer.id)return;const dx=event.clientX-pointer.x,dy=event.clientY-pointer.y;
+  if(!pointer.axis&&Math.max(Math.abs(dx),Math.abs(dy))>10){
+    if(Math.abs(dy)>=Math.abs(dx)){pointer=null;return;}
+    pointer.axis='horizontal';stage.setPointerCapture(event.pointerId);
+  }
+});
+function finishPointer(event){
+  if(!pointer||pointer.id!==event.pointerId)return;
+  const old=pointer;pointer=null;
+  if(stage.hasPointerCapture(event.pointerId))stage.releasePointerCapture(event.pointerId);
+  const dx=event.clientX-old.x,dy=event.clientY-old.y;
+  if(old.axis==='horizontal'&&Math.abs(dx)>=40&&Math.abs(dx)>Math.abs(dy)){select((queued??animation?.to??current)+(dx<0?1:-1));return;}
+  if(Math.hypot(dx,dy)<10){const card=event.target.closest('.photo-card');if(card){const index=photos.findIndex(photo=>photo.id===card.dataset.photoId);if(index>=0)select(index);}}
+}
+stage.addEventListener('pointerup',finishPointer);
+for(const eventName of ['pointercancel','lostpointercapture'])stage.addEventListener(eventName,()=>{pointer=null;});
+function motionPreference(){
+  if(!reduced.matches)return;stopDemo();
+  if(animation){cancelAnimationFrame(raf);const target=queued??animation.to;animation=null;queued=null;commit(target);paint();}
+}
+reduced.addEventListener('change',motionPreference);
+const resize=new ResizeObserver(()=>{narrow=matchMedia('(max-width:600px)').matches;scale=stage.clientWidth/(narrow?480:1080);if(animation)paint(animation.from,animation.direction,easing(Math.min(1,(performance.now()-animation.start)/700)));else paint();});resize.observe(stage);
+commit(current,false);paint();
+if(new URL(location.href).searchParams.get('demo')==='1')scheduleDemo();
+function dispose(){disposed=true;cancelAnimationFrame(raf);stopDemo();resize.disconnect();reduced.removeEventListener('change',motionPreference);document.querySelector('.carousel').removeEventListener('keydown',keydown);if(pointer&&stage.hasPointerCapture(pointer.id))stage.releasePointerCapture(pointer.id);pointer=null;}
+window.addEventListener('pagehide',dispose,{once:true});
+</script>
+</body>
+</html>
