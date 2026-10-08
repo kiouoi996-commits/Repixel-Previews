@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Orange Apex — Sport Cluster</title>
+<style>
+*{box-sizing:border-box}html,body{margin:0;background:#020304;color:#fafafa;font-family:Arial,Helvetica,sans-serif}body{min-height:100vh;display:flex;align-items:center;justify-content:center;flex-direction:column}
+#viewport{width:min(100vw,1448px);aspect-ratio:1448/1086;position:relative;overflow:hidden;background:radial-gradient(ellipse at 50% 52%,#050708 0%,#020303 55%,#000 100%)}
+#cluster{width:1448px;height:1086px;position:absolute;inset:0;transform-origin:top left}
+.asset{position:absolute;pointer-events:none}.gauge>svg{display:block;width:100%;height:100%}.car{object-fit:contain}
+#mode{position:absolute;left:591px;top:108px;width:221px;text-align:center;font-size:36px;font-weight:400;letter-spacing:1.8px;color:#fe6c0c}
+#mode:before,#mode:after{content:"";position:absolute;top:24px;width:88px;height:1px;background:linear-gradient(90deg,transparent,#5b3320)}
+#mode:before{right:225px}#mode:after{left:225px;transform:rotate(180deg)}
+#telemetry{position:absolute;left:590px;top:168px;width:255px;display:flex;gap:34px;font-size:35px;line-height:1}
+.value{position:absolute;text-align:center;font-weight:400;line-height:1;letter-spacing:-4px;font-variant-numeric:tabular-nums}
+#speed{left:260px;top:420px;width:230px;font-size:121px}#rpm{left:915px;top:423px;width:258px;font-size:111px}
+.unit{position:absolute;text-align:center;color:#b7bac2;font-size:38px;line-height:1}
+#speed-unit{left:273px;top:553px;width:206px}#rpm-unit{left:925px;top:550px;width:240px;font-size:36px}
+#dial-overlay{position:absolute;inset:0;width:1448px;height:1086px;overflow:visible;pointer-events:none}
+#dial-overlay text{fill:#b9bec3;font-family:Arial,Helvetica,sans-serif;font-size:32px;letter-spacing:-.4px}
+#dial-overlay .marker{stroke:#fff0c2;stroke-width:4;stroke-linecap:round;filter:drop-shadow(0 0 5px #fe8b11)}
+#gear{left:640px;top:751px;width:128px;font-size:128px}
+#gear-mode{position:absolute;left:652px;top:888px;width:110px;text-align:center;font-size:44px;line-height:1}
+.bar{position:absolute;height:24px;border-radius:6px;background:#303238;overflow:hidden}
+#fuel-bar{left:74px;top:858px;width:436px}#coolant-bar{left:903px;top:858px;width:431px}
+.fill{height:100%;border-radius:6px}
+#fuel-fill{background:linear-gradient(90deg,#ff8a10 0%,#ffc239 68%,#ffce3b 100%)}
+#coolant-fill{background:linear-gradient(90deg,#ff8013 0%,#ff9b12 55%,#f75b0c 100%)}
+.calibration{position:absolute;top:0;width:3px;height:24px;background:#f85d10}
+.endpoints{position:absolute;font-size:35px;color:#b7bac2;top:899px;line-height:1}
+.metric{position:absolute;top:800px;font-size:40px;color:#f5f5f6;line-height:1.08;letter-spacing:-1px;font-variant-numeric:tabular-nums}
+#range{left:191px}#coolant{left:1017px}
+#brake-lamps{position:absolute;left:0;top:0;width:1448px;height:1086px;opacity:0;pointer-events:none}
+#brake-lamps i{position:absolute;width:24px;height:7px;top:657px;background:#ff3329;border-radius:50%;box-shadow:0 0 15px 5px #ff1b1655;filter:blur(2px)}#brake-lamps i:first-child{left:638px}#brake-lamps i:last-child{left:782px}
+#controls{width:min(1100px,calc(100vw - 32px));padding:20px 0 26px;border-top:1px solid #1e2225;display:flex;align-items:center;justify-content:center;gap:8px;flex-wrap:wrap}
+#controls button{font:500 14px Arial,sans-serif;min-height:44px;padding:0 18px;color:#c9cdd1;background:#0c0e10;border:1px solid #303337;border-radius:9px;cursor:pointer;touch-action:none;transition:background .12s,border-color .12s,color .12s}
+#controls button:hover{border-color:#b76628;color:#fff}#controls button:focus-visible{outline:2px solid #ffae48;outline-offset:3px}
+#controls button:disabled{opacity:.35;cursor:not-allowed}#controls button[aria-pressed="true"]{background:#29150b;border-color:#e47725;color:#ffb969}
+#status{width:100%;min-height:18px;color:#969da4;font:12px Arial,sans-serif;text-align:center;padding-top:8px}
+.capture #controls{display:none}.capture body{min-height:0}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.marker{filter:none!important}#brake-lamps i{filter:none!important;box-shadow:none!important}}
+@media(max-width:480px){#controls{gap:6px;padding-top:14px}#controls button{padding:0 12px;min-height:44px;font-size:12px}}
+</style>
+</head>
+<body>
+<main id="viewport" aria-label="Orange Apex sport dashboard">
+<div id="cluster">
+<div class="asset gauge" id="speed-shell" aria-hidden="true" style="left:15px;top:110px;width:542px;height:651px"></div>
+<div class="asset gauge" id="rpm-shell" aria-hidden="true" style="left:846px;top:110px;width:548px;height:651px"></div>
+<div id="mode">SPORT</div><div id="telemetry"><span>23°C</span><span>10:24</span></div>
+<img class="asset car" id="car" alt="Orange sports car viewed from above" style="left:586px;top:264px;width:274px;height:462px">
+<div id="brake-lamps" aria-hidden="true"><i></i><i></i></div>
+<svg id="dial-overlay" viewBox="0 0 1448 1086" aria-hidden="true"><g id="dial-labels"></g><line class="marker" id="speed-marker"/><line class="marker" id="rpm-marker"/></svg>
+<output class="value" id="speed" aria-label="Speed in miles per hour">128</output><div class="unit" id="speed-unit">mph</div>
+<output class="value" id="rpm" aria-label="Engine speed in revolutions per minute">5600</output><div class="unit" id="rpm-unit">rpm</div>
+<img class="asset" id="bracket-left" alt="" style="left:587px;top:749px;width:32px;height:172px">
+<img class="asset" id="bracket-right" alt="" style="left:788px;top:749px;width:32px;height:172px;transform:scaleX(-1)">
+<output class="value" id="gear" aria-label="Current gear">4</output><div id="gear-mode">M</div>
+<img class="asset" id="fuel-icon" alt="" style="left:81px;top:792px;width:52px;height:52px">
+<output class="metric" id="range" aria-label="Remaining range in miles">310 mi</output>
+<div class="bar" id="fuel-bar" aria-hidden="true"><div class="fill" id="fuel-fill"></div><div class="calibration" style="left:165px"></div></div>
+<div class="endpoints" style="left:70px">E</div><div class="endpoints" style="left:491px">F</div>
+<img class="asset" id="coolant-icon" alt="" style="left:912px;top:790px;width:56px;height:54px">
+<output class="metric" id="coolant" aria-label="Coolant temperature in Fahrenheit">198°F</output>
+<div class="bar" id="coolant-bar" aria-hidden="true"><div class="fill" id="coolant-fill"></div><div class="calibration" style="left:158px;background:#f94811;width:4px"></div><div class="calibration" style="left:336px;background:#595c64;width:20px"></div></div>
+<div class="endpoints" style="left:898px">C</div><div class="endpoints" style="left:1312px">H</div>
+</div>
+</main>
+<section id="controls" aria-label="Dashboard simulator controls">
+<button id="demo" type="button" aria-pressed="false">Run demo</button>
+<button id="accelerate" type="button" aria-pressed="false">Accelerate</button>
+<button id="brake" type="button" aria-pressed="false">Brake</button>
+<button id="downshift" type="button" aria-label="Shift down one gear">Gear −</button>
+<button id="upshift" type="button" aria-label="Shift up one gear">Gear +</button>
+<button id="pause" type="button" aria-pressed="false">Pause</button>
+<button id="reset" type="button">Reset</button>
+<div id="status" role="status" aria-live="polite">Demo simulator · Hold a pedal or use ↑ / ↓. Shift with ← / →.</div>
+</section>
+<script type="module" src="./cluster.mjs"></script>
+</body>
+</html>

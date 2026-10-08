@@ -1,0 +1,332 @@
+{
+  "passed": 18,
+  "tests": [
+    {
+      "test": "zero shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 0,
+        "rpm": 0
+      }
+    },
+    {
+      "test": "zero hides both active ribbons",
+      "passed": true,
+      "details": null
+    },
+    {
+      "test": "reference shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 0.64,
+        "rpm": 0.7
+      }
+    },
+    {
+      "test": "maximum shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 1,
+        "rpm": 1
+      }
+    },
+    {
+      "test": "speed rendered warm ribbon area grows from zero through reference to maximum",
+      "passed": true,
+      "details": [
+        12706,
+        31853,
+        42468
+      ]
+    },
+    {
+      "test": "rpm rendered warm ribbon area grows from zero through reference to maximum",
+      "passed": true,
+      "details": [
+        13742,
+        33424,
+        42160
+      ]
+    },
+    {
+      "test": "clamped shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 1,
+        "rpm": 1
+      }
+    },
+    {
+      "test": "maximum bounds do not wrap around track",
+      "passed": true,
+      "details": null
+    },
+    {
+      "test": "before-upshift shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 0.8200000000000068,
+        "rpm": 0.8795635003072652
+      }
+    },
+    {
+      "test": "after-upshift shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 0.8200000000000068,
+        "rpm": 0.7127929933487481
+      }
+    },
+    {
+      "test": "upshift keeps speed ribbon unchanged",
+      "passed": true,
+      "details": [
+        37158,
+        37158
+      ]
+    },
+    {
+      "test": "upshift visibly contracts RPM ribbon",
+      "passed": true,
+      "details": [
+        38674,
+        33818
+      ]
+    },
+    {
+      "test": "before-brake shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 0.9100000000000099,
+        "rpm": 0.7279998147703808
+      }
+    },
+    {
+      "test": "braked shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 0.34000000000001857,
+        "rpm": 0.2987315517789034
+      }
+    },
+    {
+      "test": "braking visibly contracts both ribbons",
+      "passed": true,
+      "details": [
+        {
+          "speed": 39772,
+          "rpm": 34261
+        },
+        {
+          "speed": 22864,
+          "rpm": 21934
+        }
+      ]
+    },
+    {
+      "test": "reset shares exact displayed state",
+      "passed": true,
+      "details": {
+        "speed": 0.64,
+        "rpm": 0.7
+      }
+    },
+    {
+      "test": "demo reset restores exact reference ribbon pixels",
+      "passed": true,
+      "details": null
+    },
+    {
+      "test": "no browser errors",
+      "passed": true,
+      "details": []
+    }
+  ],
+  "samples": {
+    "zero": {
+      "state": {
+        "speed": 0,
+        "rpm": 0,
+        "gear": 4,
+        "range": 310,
+        "coolant": 198,
+        "paused": false,
+        "throttle": false,
+        "brake": false
+      },
+      "fractions": {
+        "speed": 0,
+        "rpm": 0
+      },
+      "warmPixels": {
+        "speed": 12706,
+        "rpm": 13742
+      }
+    },
+    "reference": {
+      "state": {
+        "speed": 128,
+        "rpm": 5600,
+        "gear": 4,
+        "range": 310,
+        "coolant": 198,
+        "paused": false,
+        "throttle": false,
+        "brake": false
+      },
+      "fractions": {
+        "speed": 0.64,
+        "rpm": 0.7
+      },
+      "warmPixels": {
+        "speed": 31853,
+        "rpm": 33424
+      }
+    },
+    "maximum": {
+      "state": {
+        "speed": 200,
+        "rpm": 8000,
+        "gear": 4,
+        "range": 310,
+        "coolant": 198,
+        "paused": false,
+        "throttle": false,
+        "brake": false
+      },
+      "fractions": {
+        "speed": 1,
+        "rpm": 1
+      },
+      "warmPixels": {
+        "speed": 42468,
+        "rpm": 42160
+      }
+    },
+    "clamped": {
+      "state": {
+        "speed": 240,
+        "rpm": 9000,
+        "gear": 4,
+        "range": 310,
+        "coolant": 198,
+        "paused": false,
+        "throttle": false,
+        "brake": false
+      },
+      "fractions": {
+        "speed": 1,
+        "rpm": 1
+      },
+      "warmPixels": {
+        "speed": 42468,
+        "rpm": 42160
+      }
+    },
+    "before-upshift": {
+      "state": {
+        "speed": 164.00000000000136,
+        "rpm": 7036.508002458121,
+        "gear": 4,
+        "range": 309.8832916666647,
+        "coolant": 199.2281462008752,
+        "paused": false,
+        "throttle": false,
+        "brake": false,
+        "phase": "Cruising"
+      },
+      "fractions": {
+        "speed": 0.8200000000000068,
+        "rpm": 0.8795635003072652
+      },
+      "warmPixels": {
+        "speed": 37158,
+        "rpm": 38674
+      }
+    },
+    "after-upshift": {
+      "state": {
+        "speed": 164.00000000000136,
+        "rpm": 5702.343946789985,
+        "gear": 5,
+        "range": 309.8696249999989,
+        "coolant": 199.19782316313348,
+        "paused": false,
+        "throttle": true,
+        "brake": false,
+        "phase": "Accelerating"
+      },
+      "fractions": {
+        "speed": 0.8200000000000068,
+        "rpm": 0.7127929933487481
+      },
+      "warmPixels": {
+        "speed": 37158,
+        "rpm": 33818
+      }
+    },
+    "before-brake": {
+      "state": {
+        "speed": 182.000000000002,
+        "rpm": 5823.998518163046,
+        "gear": 5,
+        "range": 309.7204375000026,
+        "coolant": 199.47431315198324,
+        "paused": false,
+        "throttle": false,
+        "brake": true,
+        "phase": "Braking"
+      },
+      "fractions": {
+        "speed": 0.9100000000000099,
+        "rpm": 0.7279998147703808
+      },
+      "warmPixels": {
+        "speed": 39772,
+        "rpm": 34261
+      }
+    },
+    "braked": {
+      "state": {
+        "speed": 68.00000000000371,
+        "rpm": 2389.8524142312276,
+        "gear": 5,
+        "range": 309.61640277778025,
+        "coolant": 199.14819623725714,
+        "paused": false,
+        "throttle": false,
+        "brake": false,
+        "phase": "Cruising"
+      },
+      "fractions": {
+        "speed": 0.34000000000001857,
+        "rpm": 0.2987315517789034
+      },
+      "warmPixels": {
+        "speed": 22864,
+        "rpm": 21934
+      }
+    },
+    "reset": {
+      "state": {
+        "speed": 128,
+        "rpm": 5600,
+        "gear": 4,
+        "range": 310,
+        "coolant": 198,
+        "paused": false,
+        "throttle": false,
+        "brake": false,
+        "phase": "Reference restored"
+      },
+      "fractions": {
+        "speed": 0.64,
+        "rpm": 0.7
+      },
+      "warmPixels": {
+        "speed": 31853,
+        "rpm": 33424
+      }
+    }
+  }
+}
