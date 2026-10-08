@@ -1,0 +1,526 @@
+{
+  "project": "Orange Apex Sport Cluster",
+  "slug": "orange-apex-sport-cluster",
+  "sourceScreenshot": {
+    "width": 1448,
+    "height": 1086,
+    "coordinateSystem": "top-left origin, pixel measurements approximate based on raster screenshot"
+  },
+  "assetType": "reconstruction from screenshot, NOT original files",
+  "confidence": "Visual estimates, measured raster pixels; not authoritative source design tokens",
+  "assets": [
+    {
+      "file": "car-top-view.webp",
+      "kind": "raster",
+      "role": "orange sports car, top down, no surrounding UI",
+      "nativeSize": [
+        822,
+        1386
+      ],
+      "displayFrame": [
+        586,
+        264,
+        274,
+        462
+      ],
+      "subjectFrame": [
+        612,
+        282,
+        219,
+        426
+      ],
+      "objectCoveragePct": [
+        79.9,
+        92.2
+      ],
+      "subjectInsetsPct": {
+        "left": 9.5,
+        "right": 10.6,
+        "top": 3.9,
+        "bottom": 3.9
+      },
+      "alpha": true,
+      "objectFit": "contain",
+      "objectPosition": "center center",
+      "cropped": false,
+      "production": "transparent object extraction from screenshot, 3x upscale; not an original source asset",
+      "displayFramePct": [
+        40.47,
+        24.31,
+        18.92,
+        42.54
+      ],
+      "aspectRatio": 0.59307,
+      "sizeBytes": 81706,
+      "sha256": "9e7b96e448761c0b6ad1a5b0b31ae4d54b0072a5f2e7fbc07c1f73fdd3662b95",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/65e9759ddad33685ab4ddb6c6981c257e1544ab6/images/orange-apex-sport-cluster/car-top-view.webp"
+    },
+    {
+      "file": "gauge-speed-left.svg",
+      "kind": "vector",
+      "role": "left speed gauge bands, ticks and subtle inner rim, without labels",
+      "nativeSize": [
+        542,
+        651
+      ],
+      "displayFrame": [
+        15,
+        110,
+        542,
+        651
+      ],
+      "subjectCoveragePct": [
+        96.5,
+        96.0
+      ],
+      "subjectInsetsPct": {
+        "left": 2,
+        "right": 0.5,
+        "top": 1.5,
+        "bottom": 2.5
+      },
+      "alpha": true,
+      "objectFit": "fill",
+      "cropped": false,
+      "production": "vector reconstruction",
+      "displayFramePct": [
+        1.04,
+        10.13,
+        37.43,
+        59.94
+      ],
+      "aspectRatio": 0.83257,
+      "sizeBytes": 15950,
+      "sha256": "cfc17bcf20c06e8d0839a07c3d2018e9edf71fe2044f72487cf93b0f849f0891",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/65e9759ddad33685ab4ddb6c6981c257e1544ab6/images/orange-apex-sport-cluster/gauge-speed-left.svg"
+    },
+    {
+      "file": "gauge-rpm-right.svg",
+      "kind": "vector",
+      "role": "right tachometer bands, ticks and subtle inner rim, without labels",
+      "nativeSize": [
+        548,
+        651
+      ],
+      "displayFrame": [
+        846,
+        110,
+        548,
+        651
+      ],
+      "subjectCoveragePct": [
+        96.0,
+        96.0
+      ],
+      "subjectInsetsPct": {
+        "left": 0,
+        "right": 2,
+        "top": 1.5,
+        "bottom": 2.5
+      },
+      "alpha": true,
+      "objectFit": "fill",
+      "cropped": false,
+      "production": "vector reconstruction",
+      "displayFramePct": [
+        58.43,
+        10.13,
+        37.85,
+        59.94
+      ],
+      "aspectRatio": 0.84178,
+      "sizeBytes": 14635,
+      "sha256": "7f9745a6ae729f74d4cbd0866b3cedd1c8b1e96c73ce42c3b8eb77ff407324c7",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/65e9759ddad33685ab4ddb6c6981c257e1544ab6/images/orange-apex-sport-cluster/gauge-rpm-right.svg"
+    },
+    {
+      "file": "icons/fuel-pump.svg",
+      "kind": "icon",
+      "role": "fuel pump glyph",
+      "nativeSize": [
+        52,
+        52
+      ],
+      "displayFrame": [
+        81,
+        792,
+        52,
+        52
+      ],
+      "subjectCoveragePct": [
+        90,
+        82
+      ],
+      "subjectInsetsPct": {
+        "left": 7,
+        "right": 4,
+        "top": 7,
+        "bottom": 8
+      },
+      "alpha": true,
+      "objectFit": "contain",
+      "cropped": false,
+      "production": "hand-traced vector",
+      "displayFramePct": [
+        5.59,
+        72.93,
+        3.59,
+        4.79
+      ],
+      "aspectRatio": 1.0,
+      "sizeBytes": 736,
+      "sha256": "e076a672729e7d0aec72fa005dca0a072ff1ec857106a480c5aa61c6f3201419",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/65e9759ddad33685ab4ddb6c6981c257e1544ab6/images/orange-apex-sport-cluster/icons/fuel-pump.svg"
+    },
+    {
+      "file": "icons/coolant-temperature.svg",
+      "kind": "icon",
+      "role": "coolant thermometer above two water waves",
+      "nativeSize": [
+        56,
+        54
+      ],
+      "displayFrame": [
+        912,
+        790,
+        56,
+        54
+      ],
+      "subjectCoveragePct": [
+        84,
+        72
+      ],
+      "subjectInsetsPct": {
+        "left": 8,
+        "right": 8,
+        "top": 13,
+        "bottom": 15
+      },
+      "alpha": true,
+      "objectFit": "contain",
+      "cropped": false,
+      "production": "hand-traced vector",
+      "displayFramePct": [
+        62.98,
+        72.74,
+        3.87,
+        4.97
+      ],
+      "aspectRatio": 1.03704,
+      "sizeBytes": 882,
+      "sha256": "64553a0f2e4832208acaaca6d14cb1e569183bc4e3d5e35363ba976f4b558559",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/65e9759ddad33685ab4ddb6c6981c257e1544ab6/images/orange-apex-sport-cluster/icons/coolant-temperature.svg"
+    },
+    {
+      "file": "icons/gear-bracket.svg",
+      "kind": "icon",
+      "role": "left orange bracket framing current gear; mirrored for right",
+      "nativeSize": [
+        32,
+        172
+      ],
+      "displayFrame": [
+        587,
+        749,
+        32,
+        172
+      ],
+      "mirroredFrame": [
+        788,
+        749,
+        32,
+        172
+      ],
+      "subjectCoveragePct": [
+        78,
+        95
+      ],
+      "subjectInsetsPct": {
+        "left": 9,
+        "right": 13,
+        "top": 2,
+        "bottom": 3
+      },
+      "alpha": true,
+      "objectFit": "contain",
+      "cropped": false,
+      "production": "vector reconstruction",
+      "displayFramePct": [
+        40.54,
+        68.97,
+        2.21,
+        15.84
+      ],
+      "aspectRatio": 0.18605,
+      "sizeBytes": 235,
+      "sha256": "f5c516ddfac2dba8c159bcedd25b1a679ced73e4ef2e9593e524a127a8a0479b",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/65e9759ddad33685ab4ddb6c6981c257e1544ab6/images/orange-apex-sport-cluster/icons/gear-bracket.svg"
+    }
+  ],
+  "interfaceLayersNotImages": [
+    {
+      "name": "background",
+      "bounds": [
+        0,
+        0,
+        1448,
+        1086
+      ],
+      "fill": "#020304",
+      "css": "background: radial-gradient(ellipse at 50% 52%, #050708 0%, #020303 55%, #000000 100%);",
+      "note": "Subtle dark ambient vignette; do not add opaque black rectangles behind car"
+    },
+    {
+      "name": "title / telemetry",
+      "bounds": [
+        591,
+        110,
+        221,
+        94
+      ],
+      "text": [
+        {
+          "value": "SPORT",
+          "color": "#FE6C0C",
+          "approxFontSizePx": 36
+        },
+        {
+          "value": "23°C",
+          "color": "#F5F5F6",
+          "approxFontSizePx": 35
+        },
+        {
+          "value": "10:24",
+          "color": "#F5F5F6",
+          "approxFontSizePx": 35
+        }
+      ],
+      "note": "All typography is DOM text. Thin separator lines around title via CSS."
+    },
+    {
+      "name": "speed value",
+      "bounds": [
+        273,
+        418,
+        206,
+        172
+      ],
+      "text": [
+        {
+          "value": "128",
+          "approxFontSizePx": 121,
+          "color": "#FAFAFA"
+        },
+        {
+          "value": "mph",
+          "approxFontSizePx": 38,
+          "color": "#B7BAC2"
+        }
+      ]
+    },
+    {
+      "name": "rpm value",
+      "bounds": [
+        925,
+        422,
+        240,
+        163
+      ],
+      "text": [
+        {
+          "value": "5600",
+          "approxFontSizePx": 111,
+          "color": "#FFFFFF"
+        },
+        {
+          "value": "rpm",
+          "approxFontSizePx": 36,
+          "color": "#B7BAC2"
+        }
+      ]
+    },
+    {
+      "name": "dial number labels",
+      "note": "speed dial: 0,40,80,120,160,200; rpm dial labels 6,4,5,3,7,8,0 in their screenshot positions. Keep text separate from gauge SVG"
+    },
+    {
+      "name": "gear value",
+      "bounds": [
+        652,
+        751,
+        110,
+        166
+      ],
+      "text": [
+        {
+          "value": "4",
+          "approxFontSizePx": 128,
+          "color": "#FAFAFA"
+        },
+        {
+          "value": "M",
+          "approxFontSizePx": 44,
+          "color": "#FAFAFA"
+        }
+      ],
+      "note": "gear-bracket.svg twice; second reflected horizontally"
+    },
+    {
+      "name": "fuel bar",
+      "bounds": [
+        74,
+        858,
+        436,
+        24
+      ],
+      "background": "#303238",
+      "radiusPx": 6,
+      "fillWidthPxApprox": 277,
+      "fillGradient": {
+        "direction": "left to right",
+        "stops": [
+          {
+            "offset": "0%",
+            "color": "#FF8A10"
+          },
+          {
+            "offset": "68%",
+            "color": "#FFC239"
+          },
+          {
+            "offset": "100%",
+            "color": "#FFCE3B"
+          }
+        ]
+      },
+      "pointer": {
+        "x": 239,
+        "color": "#F85D10",
+        "widthPxApprox": 3
+      },
+      "text": [
+        {
+          "value": "310 mi",
+          "bounds": [
+            191,
+            800,
+            128,
+            43
+          ]
+        },
+        {
+          "value": "E",
+          "bounds": [
+            70,
+            899,
+            20,
+            35
+          ]
+        },
+        {
+          "value": "F",
+          "bounds": [
+            491,
+            899,
+            23,
+            35
+          ]
+        }
+      ]
+    },
+    {
+      "name": "coolant bar",
+      "bounds": [
+        903,
+        858,
+        431,
+        24
+      ],
+      "background": "#303238",
+      "radiusPx": 6,
+      "fillWidthPxApprox": 268,
+      "fillGradient": {
+        "direction": "left to right",
+        "stops": [
+          {
+            "offset": "0%",
+            "color": "#FF8013"
+          },
+          {
+            "offset": "55%",
+            "color": "#FF9B12"
+          },
+          {
+            "offset": "100%",
+            "color": "#F75B0C"
+          }
+        ]
+      },
+      "pointer": {
+        "x": 1061,
+        "color": "#F94811",
+        "widthPxApprox": 4
+      },
+      "secondaryMarker": {
+        "x": 1239,
+        "widthPxApprox": 20,
+        "color": "#595C64"
+      },
+      "text": [
+        {
+          "value": "198°F",
+          "bounds": [
+            1017,
+            800,
+            114,
+            42
+          ]
+        },
+        {
+          "value": "C",
+          "bounds": [
+            898,
+            899,
+            24,
+            35
+          ]
+        },
+        {
+          "value": "H",
+          "bounds": [
+            1312,
+            899,
+            23,
+            35
+          ]
+        }
+      ]
+    }
+  ],
+  "uiFontRecommendations": {
+    "family": "system-ui, Arial, sans-serif",
+    "note": "Typography estimated; original font and vector paths are unknown"
+  },
+  "rendering": {
+    "referenceViewport": [
+      1448,
+      1086
+    ],
+    "coordinateScale": "scale all absolute source coordinates uniformly for screen size; no nonuniform stretching of asset bitmap",
+    "recommendation": "responsive parent with preserveAspectRatio / contain. Use CSS text and bars over transparent separated SVG/WEBP",
+    "shadows": "No separate CSS shadow for car; reconstructed isolated object does not bake duplicate container shadow",
+    "imageTextPolicy": "No labels, numbers or headings are baked into the published images"
+  },
+  "publicBase": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/",
+  "publication": {
+    "repo": "kiouoi996-commits/Repixel-Previews",
+    "path": "images/orange-apex-sport-cluster",
+    "assetCommit": "65e9759ddad33685ab4ddb6c6981c257e1544ab6",
+    "manifestCommit": null
+  },
+  "notes": [
+    "Transparent WebP is extracted/upscaled from the screenshot; missing real detail beyond source resolution cannot be recovered.",
+    "SVG gauge angles and line weights are manual reconstruction estimates; screenshot is the only reference.",
+    "All source coordinates and percentages are measurements/approximations from the raster screenshot."
+  ]
+}
