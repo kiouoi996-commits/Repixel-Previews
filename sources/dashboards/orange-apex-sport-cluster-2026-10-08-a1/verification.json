@@ -1,0 +1,136 @@
+{
+  "fps": 30,
+  "frames": 480,
+  "duration": 16,
+  "width": 1080,
+  "height": 810,
+  "codec": "h264",
+  "pixelFormat": "yuv420p",
+  "silent": true,
+  "loopEndpointsPixelEqual": true,
+  "samples": {
+    "0": {
+      "speed": 128,
+      "rpm": 5600,
+      "gear": 4,
+      "range": 310,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": false,
+      "phase": "Cruising"
+    },
+    "60": {
+      "speed": 146.00000000000068,
+      "rpm": 6249.541339621666,
+      "gear": 4,
+      "range": 309.92636805555355,
+      "coolant": 198.63964468296547,
+      "paused": false,
+      "throttle": true,
+      "brake": false,
+      "phase": "Accelerating"
+    },
+    "92": {
+      "speed": 164.00000000000136,
+      "rpm": 6908.9596214889625,
+      "gear": 5,
+      "range": 309.88025462962787,
+      "coolant": 199.22134208425013,
+      "paused": false,
+      "throttle": false,
+      "brake": false,
+      "phase": "Shifting"
+    },
+    "129": {
+      "speed": 182.000000000002,
+      "rpm": 5724.849551537459,
+      "gear": 5,
+      "range": 309.8215486111101,
+      "coolant": 199.74169519392004,
+      "paused": false,
+      "throttle": false,
+      "brake": false,
+      "phase": "Cruising"
+    },
+    "190": {
+      "speed": 180.7333333333354,
+      "rpm": 5819.617104666887,
+      "gear": 5,
+      "range": 309.7187596450643,
+      "coolant": 199.47022352034577,
+      "paused": false,
+      "throttle": false,
+      "brake": true,
+      "phase": "Braking"
+    },
+    "279": {
+      "speed": 68.00000000000371,
+      "rpm": 2389.8524142312276,
+      "gear": 5,
+      "range": 309.61640277778025,
+      "coolant": 199.14819623725714,
+      "paused": false,
+      "throttle": false,
+      "brake": false,
+      "phase": "Cruising"
+    },
+    "330": {
+      "speed": 93.20000000000466,
+      "rpm": 3938.9974084676096,
+      "gear": 4,
+      "range": 309.57936250000216,
+      "coolant": 199.8774774159951,
+      "paused": false,
+      "throttle": true,
+      "brake": false,
+      "phase": "Accelerating"
+    },
+    "388": {
+      "speed": 128.00000000000597,
+      "rpm": 5461.505932433101,
+      "gear": 4,
+      "range": 309.5199259259281,
+      "coolant": 200.7885241541046,
+      "paused": false,
+      "throttle": false,
+      "brake": false,
+      "phase": "Cruising"
+    },
+    "444": {
+      "speed": 128,
+      "rpm": 5600,
+      "gear": 4,
+      "range": 310,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": false,
+      "phase": "Reference restored"
+    },
+    "479": {
+      "speed": 128,
+      "rpm": 5600,
+      "gear": 4,
+      "range": 310,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": false,
+      "phase": "Reference restored"
+    }
+  },
+  "files": [
+    {
+      "name": "orange-apex-sport-cluster-2026-10-08-a1.mp4",
+      "bytes": 521465,
+      "sha256": "a67d871a8af0385820f30e632c65e960ca12af0c40f6400a2716b9a223436978"
+    },
+    {
+      "name": "orange-apex-sport-cluster-2026-10-08-a1.webp",
+      "bytes": 245566,
+      "sha256": "4113c5e66ba5c0aa4b134a124e501901cb76459fbcbbb531cc50f7ec0e91b960"
+    }
+  ],
+  "pageErrors": []
+}

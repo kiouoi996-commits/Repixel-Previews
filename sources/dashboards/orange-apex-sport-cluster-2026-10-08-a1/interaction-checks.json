@@ -1,0 +1,259 @@
+[
+  {
+    "test": "reference values",
+    "passed": true,
+    "details": {
+      "speed": 128,
+      "rpm": 5600,
+      "gear": 4,
+      "range": 310,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "held keyboard pedal accelerates",
+    "passed": true,
+    "details": {
+      "speed": 138.80000000000007,
+      "rpm": 5942.038612425913,
+      "gear": 4,
+      "range": 309.9771478885389,
+      "coolant": 198.39016460399432,
+      "paused": false,
+      "throttle": true,
+      "brake": false
+    }
+  },
+  {
+    "test": "upshift preserves speed and decreases RPM",
+    "passed": true,
+    "details": {
+      "speed": 138.80000000000007,
+      "rpm": 4491.440407182307,
+      "gear": 5,
+      "range": 309.95144675520504,
+      "coolant": 198.36908195203023,
+      "paused": false,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "valid downshift remains available",
+    "passed": true,
+    "details": null
+  },
+  {
+    "test": "brake lowers road and engine speeds",
+    "passed": true,
+    "details": {
+      "speed": 107.76920000000011,
+      "rpm": 3655.814913772001,
+      "gear": 5,
+      "range": 309.92355352403274,
+      "coolant": 198.3448014387896,
+      "paused": false,
+      "throttle": false,
+      "brake": true
+    }
+  },
+  {
+    "test": "range falls slowly and coolant bounded",
+    "passed": true,
+    "details": {
+      "speed": 107.76920000000011,
+      "rpm": 3655.814913772001,
+      "gear": 5,
+      "range": 309.92355352403274,
+      "coolant": 198.3448014387896,
+      "paused": false,
+      "throttle": false,
+      "brake": true
+    }
+  },
+  {
+    "test": "pause freezes all telemetry",
+    "passed": true,
+    "details": {
+      "speed": 107.76920000000011,
+      "rpm": 3620.7239916074486,
+      "gear": 5,
+      "range": 309.92255366534386,
+      "coolant": 198.34384307579217,
+      "paused": true,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "pause exposes Resume and disables pedals",
+    "passed": true,
+    "details": null
+  },
+  {
+    "test": "valid downshift at lower speed",
+    "passed": true,
+    "details": {
+      "speed": 82.4038,
+      "rpm": 3842.235528028014,
+      "gear": 3,
+      "range": 309.96427892647773,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "unsafe second downshift disabled",
+    "passed": true,
+    "details": {
+      "speed": 82.4038,
+      "rpm": 3842.235528028014,
+      "gear": 3,
+      "range": 309.96427892647773,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "upper gear boundary",
+    "passed": true,
+    "details": {
+      "speed": 128,
+      "rpm": 5234.594824687033,
+      "gear": 6,
+      "range": 309.9970346666666,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "demo starts from reference and accelerates",
+    "passed": true,
+    "details": {
+      "speed": 134.8976000000003,
+      "rpm": 5779.750187700154,
+      "gear": 4,
+      "range": 309.9504444693536,
+      "coolant": 198.25143078930435,
+      "paused": false,
+      "throttle": true,
+      "brake": false,
+      "phase": "Accelerating"
+    }
+  },
+  {
+    "test": "manual input cancels scripted demo",
+    "passed": true,
+    "details": {
+      "speed": 130.46300000000022,
+      "rpm": 5780.209229488118,
+      "gear": 4,
+      "range": 309.9461536845814,
+      "coolant": 198.24899747604172,
+      "paused": false,
+      "throttle": false,
+      "brake": true,
+      "phase": "Accelerating"
+    }
+  },
+  {
+    "test": "focus loss releases pedal",
+    "passed": true,
+    "details": {
+      "speed": 130.3994,
+      "rpm": 5687.325141751137,
+      "gear": 4,
+      "range": 309.98615495550564,
+      "coolant": 198.08655281109532,
+      "paused": false,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "global key ownership survives button focus change",
+    "passed": true,
+    "details": {
+      "speed": 134.59880000000004,
+      "rpm": 5771.056868207773,
+      "gear": 4,
+      "range": 309.9866140720834,
+      "coolant": 198.24070451793568,
+      "paused": false,
+      "throttle": true,
+      "brake": false
+    }
+  },
+  {
+    "test": "pointer capture releases outside button",
+    "passed": true,
+    "details": {
+      "speed": 134.89939999999982,
+      "rpm": 5862.586619395308,
+      "gear": 4,
+      "range": 309.9767198470222,
+      "coolant": 198.24734056892953,
+      "paused": false,
+      "throttle": false,
+      "brake": false
+    }
+  },
+  {
+    "test": "responsive 390",
+    "passed": true,
+    "details": {
+      "width": 390,
+      "scroll": 390,
+      "ratio": 1.3333333333333333,
+      "minTarget": 44
+    }
+  },
+  {
+    "test": "responsive 768",
+    "passed": true,
+    "details": {
+      "width": 768,
+      "scroll": 768,
+      "ratio": 1.3333333333333333,
+      "minTarget": 44
+    }
+  },
+  {
+    "test": "responsive 1448",
+    "passed": true,
+    "details": {
+      "width": 1448,
+      "scroll": 1448,
+      "ratio": 1.3333333333333333,
+      "minTarget": 44
+    }
+  },
+  {
+    "test": "reduced motion retains functionality",
+    "passed": true,
+    "details": {
+      "speed": 120.4,
+      "rpm": 5459.091330826884,
+      "gear": 4,
+      "range": 309.99311759294454,
+      "coolant": 198,
+      "paused": false,
+      "throttle": false,
+      "brake": true
+    }
+  },
+  {
+    "test": "no browser errors",
+    "passed": true,
+    "details": []
+  }
+]
