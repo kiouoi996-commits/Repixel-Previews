@@ -44,7 +44,7 @@
       ]
     },
     "css_effects": [
-      "Menu button 31x31 circle, 1px cream border; no circle in menu.svg",
+      "Menu button approx 32×32 px circle at x≈839,y≈13 with thin warm-white border; SVG contains only 3 horizontal bars centered in 24×24 icon viewBox.",
       "Thin line under links and small right-arrow asset",
       "Timeline 1px line from x242 to x697 near y476; five dots placed with CSS or chapter-dot.svg",
       "Large BLOOM and small BLOOM wordmark must be live typographic text",
@@ -87,7 +87,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 67,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "photographic sky and foliage",
       "display": {
@@ -134,7 +136,9 @@
           "right": 0,
           "bottom": 0,
           "left": 2
-        }
+        },
+        "colored_subject_area_pct_approx": 22,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "genuine alpha; transparent outside colored petals and leaves",
       "display": {
@@ -181,7 +185,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 73,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -228,7 +234,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 91,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -275,7 +283,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 90,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -322,7 +332,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 94,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -369,7 +381,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 69,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -416,7 +430,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 92,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -463,7 +479,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 91,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -510,7 +528,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 67,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -557,7 +577,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 85,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -597,14 +619,16 @@
       },
       "subject_estimate": {
         "main_subject": "Bougainvillea hanging against ivory stucco walls and an arch",
-        "width_pct": 100,
-        "height_pct": 100,
+        "width_pct": 90,
+        "height_pct": 80,
         "margins_pct": {
           "top": 0,
           "right": 0,
-          "bottom": 0,
-          "left": 0
-        }
+          "bottom": 20,
+          "left": 10
+        },
+        "colored_subject_area_pct_approx": 53,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -651,7 +675,9 @@
           "right": 0,
           "bottom": 0,
           "left": 0
-        }
+        },
+        "colored_subject_area_pct_approx": 79,
+        "method_note": "Visual estimate from limited screenshot; the full object bounding box can reach all photograph edges while coverage is below 100%."
       },
       "background": "own photograph",
       "display": {
@@ -674,16 +700,16 @@
       "viewBox": 24,
       "alpha": true,
       "source_visible_box_px": {
-        "x": 841,
-        "y": 18,
-        "w": 30,
-        "h": 30
+        "x": 848,
+        "y": 24,
+        "w": 16,
+        "h": 12
       },
       "source_visible_box_pct": {
-        "x": 89.37,
-        "y": 1.08,
-        "w": 3.19,
-        "h": 1.79
+        "x": 90.12,
+        "y": 1.44,
+        "w": 1.7,
+        "h": 0.72
       },
       "background": "transparent SVG, button shell rendered in CSS",
       "display": {
@@ -694,7 +720,13 @@
       "sha256": "4dfc96ed6a261bc668dd3b3bb2002d36398ebafba4c7dca161d82a9d96dadb16",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg",
+      "ui_shell_box_px": {
+        "x": 839,
+        "y": 13,
+        "w": 32,
+        "h": 32
+      }
     },
     {
       "file": "icons/arrow-right.svg",
