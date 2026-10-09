@@ -12,8 +12,8 @@
     "repo_url": "https://github.com/kiouoi996-commits/Repixel-Previews",
     "directory": "images/reconstructed-apps/bloom-floral-chronicle",
     "immutable_url_pattern": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/{relative_path}",
-    "asset_commit_sha": "20be8f41a095e0d59e009dc8347f85adbf98b0e6",
-    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle"
+    "asset_commit_sha": "961f4f25a228312901ca2e7c8c84775f89099d28",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle"
   },
   "reconstruction_disclosure": "All assets are screenshot-derived reconstructions or exact clean crops upscaled via interpolation, not verified original source photography. Upscaling improves exported dimensions but cannot recover fine detail beyond raster screenshot. Hero hidden areas are reconstructed using other clean screenshot regions. Alpha foreground has incomplete dark leaves under the interface text.",
   "ui_tokens_estimated_from_screenshot": {
@@ -101,7 +101,7 @@
       "sha256": "c258f1415a6cb4c4a8e4e9c8d70392a50108f3f28fcf3fa57257862fbc75b5d8",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/hero-bougainvillea-sky.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/hero-bougainvillea-sky.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/hero-bougainvillea-sky.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/hero-bougainvillea-sky.webp"
     },
     {
       "file": "hero-floral-overhang.webp",
@@ -141,14 +141,14 @@
         "object_fit": "contain",
         "object_position": "50% 50%"
       },
-      "crop_notes": "A true-alpha color-segmentation reconstruction. Leaf shadow details and foliage hidden behind the typography are incomplete; render over near-black background. Do not place over bright background without checking.",
-      "reconstruction_method": "chromatic extraction from screenshot with alpha masking and UI lettering removed; 3x Lanczos",
+      "crop_notes": "A true-alpha color-segmentation reconstruction. Leaf shadow details and foliage hidden behind the typography are incomplete; render over near-black background. Do not place over bright background without checking. Alpha mask was cleaned after QA on light and dark backgrounds to suppress gray halos. Intended on charcoal theme.",
+      "reconstruction_method": "screen-extracted color mask with secondary saturation/brightness connected-component matte cleanup; transparent WebP; full res",
       "reconstruction_prompt": "Isolate organically cascading red scarlet bougainvillea stems crossing diagonally from upper right to mid left, small golden-orange cluster at mid left, dark leaves; preserve composition; genuine transparent PNG/WebP alpha and no typographic elements.",
-      "bytes": 332042,
-      "sha256": "acda10acab362905bc00ddd765107c6e1c2267a75497a83ba7629e70e820e780",
+      "bytes": 170708,
+      "sha256": "89659a15591bcc1853a3c95ecd7366534c40b63dfda3b41527b68db3c9670d40",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/hero-floral-overhang.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/hero-floral-overhang.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/hero-floral-overhang.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/hero-floral-overhang.webp"
     },
     {
       "file": "collection-canopy.webp",
@@ -195,7 +195,7 @@
       "sha256": "2362b95915c72f10743e97564b65481d10d9b548171ad075f716e7669aad8bc9",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/collection-canopy.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/collection-canopy.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/collection-canopy.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/collection-canopy.webp"
     },
     {
       "file": "palette-scarlet.webp",
@@ -242,7 +242,7 @@
       "sha256": "b152ccd8e363e05b528f00dbbacfc1cb1573784b96026331cb0fa759aa890e1d",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/palette-scarlet.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/palette-scarlet.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/palette-scarlet.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/palette-scarlet.webp"
     },
     {
       "file": "palette-golden.webp",
@@ -289,7 +289,7 @@
       "sha256": "fa0d5f8edcf962d7abf7c9df432de76cdd78e4538879c36e542c001b2da943e2",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/palette-golden.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/palette-golden.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/palette-golden.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/palette-golden.webp"
     },
     {
       "file": "palette-blush.webp",
@@ -336,7 +336,7 @@
       "sha256": "71fd41861d4a8c803b323dee53474f1cd71f4af6dfc25d1a91a16969e82e7502",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/palette-blush.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/palette-blush.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/palette-blush.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/palette-blush.webp"
     },
     {
       "file": "season-spring.webp",
@@ -383,7 +383,7 @@
       "sha256": "50019e761820f9562b6728a95dceafaedf9f5c1824593eb3358fab1288042c56",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-spring.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-spring.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-spring.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/season-spring.webp"
     },
     {
       "file": "season-summer.webp",
@@ -430,7 +430,7 @@
       "sha256": "25b2dacd32171557a125139861704783354308df4f7b5f6b310283ea9cd9b5ae",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-summer.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-summer.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-summer.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/season-summer.webp"
     },
     {
       "file": "season-autumn.webp",
@@ -477,7 +477,7 @@
       "sha256": "ffd32be5e442b419b3c03edf6cfbc15e0b5ea4578b2e99d1f2fec4827d6ea69b",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-autumn.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-autumn.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-autumn.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/season-autumn.webp"
     },
     {
       "file": "season-winter.webp",
@@ -524,7 +524,7 @@
       "sha256": "640e764de99bbc38f3a0f1f7aa4611c6e47f056ff1a6a45a7adf8e17428b8c72",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-winter.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-winter.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-winter.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/season-winter.webp"
     },
     {
       "file": "experience-crimson-leaves.webp",
@@ -571,7 +571,7 @@
       "sha256": "0304f7f61637cc0435df6494339addeb564e45ae6efb547056e6840123424c86",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/experience-crimson-leaves.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/experience-crimson-leaves.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/experience-crimson-leaves.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/experience-crimson-leaves.webp"
     },
     {
       "file": "experience-arched-wall.webp",
@@ -618,7 +618,7 @@
       "sha256": "42ddfbf3c497003ff5198ae956825395cedaf73ea4b6174b4dbd4dc273acacb6",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/experience-arched-wall.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/experience-arched-wall.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/experience-arched-wall.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/experience-arched-wall.webp"
     },
     {
       "file": "studio-sunlit-canopy.webp",
@@ -665,7 +665,7 @@
       "sha256": "b21233a041ca93e596ac1e8a18b10b087b97877348dddb860723991234a8a051",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/studio-sunlit-canopy.webp",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/studio-sunlit-canopy.webp",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/studio-sunlit-canopy.webp"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/studio-sunlit-canopy.webp"
     },
     {
       "file": "icons/menu.svg",
@@ -694,7 +694,7 @@
       "sha256": "4dfc96ed6a261bc668dd3b3bb2002d36398ebafba4c7dca161d82a9d96dadb16",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg"
     },
     {
       "file": "icons/arrow-right.svg",
@@ -723,7 +723,7 @@
       "sha256": "d5ba357a3ba5212e4c510d0873a2e773ebe2811a5c46fe927546a4e935df69e9",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/arrow-right.svg",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/arrow-right.svg",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/arrow-right.svg"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/icons/arrow-right.svg"
     },
     {
       "file": "icons/scroll-line-dot.svg",
@@ -752,7 +752,7 @@
       "sha256": "b25348d9e785ec3ea8de7361746d83ff07d57079188ec048274874fc84878206",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/scroll-line-dot.svg",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/scroll-line-dot.svg",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/scroll-line-dot.svg"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/icons/scroll-line-dot.svg"
     },
     {
       "file": "icons/chapter-dot.svg",
@@ -781,7 +781,7 @@
       "sha256": "055e287aae212b460b16b328d13bfe05e89a3a136af28e10b55dc2dd7011e330",
       "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/chapter-dot.svg",
       "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/chapter-dot.svg",
-      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/chapter-dot.svg"
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/961f4f25a228312901ca2e7c8c84775f89099d28/images/reconstructed-apps/bloom-floral-chronicle/icons/chapter-dot.svg"
     }
   ],
   "visual_analysis": {
@@ -794,7 +794,8 @@
     "archive_sha256": "3a9ffac34242c5176d8c3f21a7ce8a4ff506c7919abc97ffda93bbf97f79a044",
     "uploaded_raster_count": 13,
     "uploaded_svg_count": 4,
-    "assets_pinned_to_commit": "20be8f41a095e0d59e009dc8347f85adbf98b0e6",
-    "source_unavailable_note": "3x screenshot upscaling does not restore native camera detail."
+    "assets_pinned_to_commit": "961f4f25a228312901ca2e7c8c84775f89099d28",
+    "source_unavailable_note": "3x screenshot upscaling does not restore native camera detail.",
+    "alpha_cleanup": "Chromatic masking, saturation/brightness cutoffs, small-island deletion, antialiased matte; previewed on cream and dark."
   }
 }
