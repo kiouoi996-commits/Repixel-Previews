@@ -1,0 +1,800 @@
+{
+  "project_name": "Bloom — A Floral Chronicle",
+  "project_slug": "bloom-floral-chronicle",
+  "status": "published_to_repixel_previews",
+  "source_screenshot": {
+    "width": 941,
+    "height": 1672,
+    "filename": "0e497647-30c4-49f5-9b25-7ebe97573e88.png",
+    "method": "pixel-measured from provided raster; design source unavailable; all box values approximate visual bounds"
+  },
+  "repository_request": {
+    "repo_url": "https://github.com/kiouoi996-commits/Repixel-Previews",
+    "directory": "images/reconstructed-apps/bloom-floral-chronicle",
+    "immutable_url_pattern": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/{relative_path}",
+    "asset_commit_sha": "20be8f41a095e0d59e009dc8347f85adbf98b0e6",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle"
+  },
+  "reconstruction_disclosure": "All assets are screenshot-derived reconstructions or exact clean crops upscaled via interpolation, not verified original source photography. Upscaling improves exported dimensions but cannot recover fine detail beyond raster screenshot. Hero hidden areas are reconstructed using other clean screenshot regions. Alpha foreground has incomplete dark leaves under the interface text.",
+  "ui_tokens_estimated_from_screenshot": {
+    "background_body": "#090908",
+    "background_secondary": "#0D0D0B",
+    "text_primary": "#F1EFE8",
+    "text_secondary": "#A4A29D",
+    "text_meta": "#C0BDB7",
+    "hero_sky": "#59AFCC",
+    "button_border": "rgba(240,238,229,0.65)",
+    "divider": "rgba(231,228,217,0.55)",
+    "background_gradient": {
+      "type": "linear",
+      "direction": "top to bottom",
+      "stops": [
+        {
+          "at": "0%",
+          "color": "#0A0A09"
+        },
+        {
+          "at": "60%",
+          "color": "#080808"
+        },
+        {
+          "at": "100%",
+          "color": "#0A0A09"
+        }
+      ]
+    },
+    "css_effects": [
+      "Menu button 31x31 circle, 1px cream border; no circle in menu.svg",
+      "Thin line under links and small right-arrow asset",
+      "Timeline 1px line from x242 to x697 near y476; five dots placed with CSS or chapter-dot.svg",
+      "Large BLOOM and small BLOOM wordmark must be live typographic text",
+      "Portrait hero photo is rectangular mask with no intrinsic border, overflow hidden",
+      "Photo shadows belong to photography; no CSS shadow duplicate",
+      "Heading text over hero in a higher z-layer, floral-overhang layered above text in masked regions",
+      "Image container itself supplies any clipping; no raster frame or rounded edge",
+      "Scroll caption typeset as UI with SVG mark only"
+    ]
+  },
+  "assets": [
+    {
+      "file": "hero-bougainvillea-sky.webp",
+      "type": "raster",
+      "role": "Central rectangular portrait behind BLOOM display typography",
+      "pixel_size": [
+        462,
+        873
+      ],
+      "aspect_ratio": 0.52921,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 391,
+        "y": 97,
+        "w": 154,
+        "h": 291
+      },
+      "source_visible_box_pct": {
+        "x": 41.55,
+        "y": 5.8,
+        "w": 16.37,
+        "h": 17.4
+      },
+      "subject_estimate": {
+        "main_subject": "Bougainvillea canopy seen from below, petals surrounding cyan blue sky",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "photographic sky and foliage",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Reconstructed from the separate unobstructed canopy photo, since original hero pixels are hidden by the huge BLOOM title. Color and floral positions are approximate, not recoverable.",
+      "reconstruction_method": "screenshot-referenced composite using same-screen uncensored canopy crop; 3x Lanczos",
+      "reconstruction_prompt": "Portrait upward view into vivid scarlet and golden bougainvillea clusters encircling a cyan blue sky opening; natural dark green leaf clusters, warm direct noon sun and strong contrast; full bleed vertical 154:291 composition, no text or UI, no transparency.",
+      "bytes": 58896,
+      "sha256": "c258f1415a6cb4c4a8e4e9c8d70392a50108f3f28fcf3fa57257862fbc75b5d8",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/hero-bougainvillea-sky.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/hero-bougainvillea-sky.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/hero-bougainvillea-sky.webp"
+    },
+    {
+      "file": "hero-floral-overhang.webp",
+      "type": "raster",
+      "role": "Foreground spray of bougainvillea layered over hero title and outside center photograph",
+      "pixel_size": [
+        1638,
+        1203
+      ],
+      "aspect_ratio": 1.3616,
+      "alpha": true,
+      "source_visible_box_px": {
+        "x": 268,
+        "y": 0,
+        "w": 546,
+        "h": 401
+      },
+      "source_visible_box_pct": {
+        "x": 28.48,
+        "y": 0.0,
+        "w": 58.02,
+        "h": 23.98
+      },
+      "subject_estimate": {
+        "main_subject": "Diagonal red and amber bougainvillea boughs with small dark green leaves and stems",
+        "width_pct": 96,
+        "height_pct": 98,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 2
+        }
+      },
+      "background": "genuine alpha; transparent outside colored petals and leaves",
+      "display": {
+        "object_fit": "contain",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "A true-alpha color-segmentation reconstruction. Leaf shadow details and foliage hidden behind the typography are incomplete; render over near-black background. Do not place over bright background without checking.",
+      "reconstruction_method": "chromatic extraction from screenshot with alpha masking and UI lettering removed; 3x Lanczos",
+      "reconstruction_prompt": "Isolate organically cascading red scarlet bougainvillea stems crossing diagonally from upper right to mid left, small golden-orange cluster at mid left, dark leaves; preserve composition; genuine transparent PNG/WebP alpha and no typographic elements.",
+      "bytes": 332042,
+      "sha256": "acda10acab362905bc00ddd765107c6e1c2267a75497a83ba7629e70e820e780",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/hero-floral-overhang.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/hero-floral-overhang.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/hero-floral-overhang.webp"
+    },
+    {
+      "file": "collection-canopy.webp",
+      "type": "raster",
+      "role": "Large collection photograph at middle-left",
+      "pixel_size": [
+        1290,
+        1041
+      ],
+      "aspect_ratio": 1.23919,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 0,
+        "y": 539,
+        "w": 430,
+        "h": 347
+      },
+      "source_visible_box_pct": {
+        "x": 0.0,
+        "y": 32.24,
+        "w": 45.7,
+        "h": 20.75
+      },
+      "subject_estimate": {
+        "main_subject": "Scarlet, amber and green bougainvillea canopy around bright blue opening",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Landscape full bleed, flowers clipped on all four sides.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Upward-looking close canopy of scarlet and yellow bougainvillea with turquoise sky window; direct sunlight, deep dark leaf shadows, 430:347 framing, no text.",
+      "bytes": 198286,
+      "sha256": "2362b95915c72f10743e97564b65481d10d9b548171ad075f716e7669aad8bc9",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/collection-canopy.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/collection-canopy.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/collection-canopy.webp"
+    },
+    {
+      "file": "palette-scarlet.webp",
+      "type": "raster",
+      "role": "Small scarlet palette image",
+      "pixel_size": [
+        381,
+        336
+      ],
+      "aspect_ratio": 1.13393,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 472,
+        "y": 738,
+        "w": 127,
+        "h": 112
+      },
+      "source_visible_box_pct": {
+        "x": 50.16,
+        "y": 44.14,
+        "w": 13.5,
+        "h": 6.7
+      },
+      "subject_estimate": {
+        "main_subject": "Red translucent bracts and deep red twigs",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Close-up cropped by all four edges.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Tight red bougainvillea petals backlit, dark fine veins and dark bokeh, 127:112 crop.",
+      "bytes": 13340,
+      "sha256": "b152ccd8e363e05b528f00dbbacfc1cb1573784b96026331cb0fa759aa890e1d",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/palette-scarlet.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/palette-scarlet.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/palette-scarlet.webp"
+    },
+    {
+      "file": "palette-golden.webp",
+      "type": "raster",
+      "role": "Small golden palette image",
+      "pixel_size": [
+        387,
+        336
+      ],
+      "aspect_ratio": 1.15179,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 617,
+        "y": 738,
+        "w": 129,
+        "h": 112
+      },
+      "source_visible_box_pct": {
+        "x": 65.57,
+        "y": 44.14,
+        "w": 13.71,
+        "h": 6.7
+      },
+      "subject_estimate": {
+        "main_subject": "Warm golden-yellow bougainvillea bracts, branches",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Close-up with upper and side petals cropped.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Tight cluster of golden yellow bougainvillea petals and fine dark stems with golden bokeh; warm sunlight, 129:112 crop.",
+      "bytes": 17646,
+      "sha256": "fa0d5f8edcf962d7abf7c9df432de76cdd78e4538879c36e542c001b2da943e2",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/palette-golden.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/palette-golden.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/palette-golden.webp"
+    },
+    {
+      "file": "palette-blush.webp",
+      "type": "raster",
+      "role": "Small blush palette image",
+      "pixel_size": [
+        390,
+        336
+      ],
+      "aspect_ratio": 1.16071,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 763,
+        "y": 738,
+        "w": 130,
+        "h": 112
+      },
+      "source_visible_box_pct": {
+        "x": 81.08,
+        "y": 44.14,
+        "w": 13.82,
+        "h": 6.7
+      },
+      "subject_estimate": {
+        "main_subject": "Translucent pink-red bracts with branching brown veins",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Petals reach all frame edges.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Deep pink fuchsia paper-thin bougainvillea bracts with visible dark veins, intense close backlighting, 130:112 crop.",
+      "bytes": 14290,
+      "sha256": "71fd41861d4a8c803b323dee53474f1cd71f4af6dfc25d1a91a16969e82e7502",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/palette-blush.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/palette-blush.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/palette-blush.webp"
+    },
+    {
+      "file": "season-spring.webp",
+      "type": "raster",
+      "role": "Spring portrait card",
+      "pixel_size": [
+        408,
+        507
+      ],
+      "aspect_ratio": 0.80473,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 294,
+        "y": 919,
+        "w": 136,
+        "h": 169
+      },
+      "source_visible_box_pct": {
+        "x": 31.24,
+        "y": 54.96,
+        "w": 14.45,
+        "h": 10.11
+      },
+      "subject_estimate": {
+        "main_subject": "Ivory-white flowers, lime and olive leaves against pale blue sky",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Flowers cropped top right and bottom.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Vertical upward view white bougainvillea blossoms with deep green leaves against pale cyan sky; backlit sunny spring; 136:169 crop.",
+      "bytes": 29968,
+      "sha256": "50019e761820f9562b6728a95dceafaedf9f5c1824593eb3358fab1288042c56",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-spring.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-spring.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-spring.webp"
+    },
+    {
+      "file": "season-summer.webp",
+      "type": "raster",
+      "role": "Summer portrait card",
+      "pixel_size": [
+        366,
+        507
+      ],
+      "aspect_ratio": 0.72189,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 441,
+        "y": 919,
+        "w": 122,
+        "h": 169
+      },
+      "source_visible_box_pct": {
+        "x": 46.87,
+        "y": 54.96,
+        "w": 12.96,
+        "h": 10.11
+      },
+      "subject_estimate": {
+        "main_subject": "Dense bright scarlet petals, olive leaves, dark shadow",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Dense blossoms overflow every side.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Vertical close scarlet bougainvillea clusters among dark green leaves in bright afternoon sun; full bleed dense red floral coverage.",
+      "bytes": 25690,
+      "sha256": "25b2dacd32171557a125139861704783354308df4f7b5f6b310283ea9cd9b5ae",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-summer.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-summer.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-summer.webp"
+    },
+    {
+      "file": "season-autumn.webp",
+      "type": "raster",
+      "role": "Autumn portrait card",
+      "pixel_size": [
+        369,
+        507
+      ],
+      "aspect_ratio": 0.72781,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 574,
+        "y": 919,
+        "w": 123,
+        "h": 169
+      },
+      "source_visible_box_pct": {
+        "x": 61.0,
+        "y": 54.96,
+        "w": 13.07,
+        "h": 10.11
+      },
+      "subject_estimate": {
+        "main_subject": "Honey-amber bougainvillea clusters crossed by fine brown branch",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Flower canopy clipped on all edges.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Vertical upward view dense golden orange bougainvillea bracts in crisp low-angle warm sunshine; dark brown twig diagonals, amber gold bokeh.",
+      "bytes": 28270,
+      "sha256": "ffd32be5e442b419b3c03edf6cfbc15e0b5ea4578b2e99d1f2fec4827d6ea69b",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-autumn.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-autumn.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-autumn.webp"
+    },
+    {
+      "file": "season-winter.webp",
+      "type": "raster",
+      "role": "Winter portrait card",
+      "pixel_size": [
+        393,
+        507
+      ],
+      "aspect_ratio": 0.77515,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 708,
+        "y": 919,
+        "w": 131,
+        "h": 169
+      },
+      "source_visible_box_pct": {
+        "x": 75.24,
+        "y": 54.96,
+        "w": 13.92,
+        "h": 10.11
+      },
+      "subject_estimate": {
+        "main_subject": "Red flowers suspended against soft cream and shaded brown bokeh",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Foreground red blossom clusters partly beyond frame.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Vertical red bougainvillea blossoms framing warm creamy defocused sunlit backdrop, shallow depth of field, gentle dark foliage shadows, dreamy winter warmth.",
+      "bytes": 22250,
+      "sha256": "640e764de99bbc38f3a0f1f7aa4611c6e47f056ff1a6a45a7adf8e17428b8c72",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/season-winter.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/season-winter.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/season-winter.webp"
+    },
+    {
+      "file": "experience-crimson-leaves.webp",
+      "type": "raster",
+      "role": "Large macro photo at left of Experience block",
+      "pixel_size": [
+        1065,
+        732
+      ],
+      "aspect_ratio": 1.45492,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 0,
+        "y": 1147,
+        "w": 355,
+        "h": 244
+      },
+      "source_visible_box_pct": {
+        "x": 0.0,
+        "y": 68.6,
+        "w": 37.73,
+        "h": 14.59
+      },
+      "subject_estimate": {
+        "main_subject": "Three red translucent bougainvillea leaf-like bracts with very visible veins and woody stems",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Leftmost petal and upper petals cropped by borders; image owns dark photographic background.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Extreme close macro red translucent bougainvillea bracts with dark branching veins and central brown stalk, backlit white red sunlight, dramatic deep burgundy shadows, dark green bokeh, 355:244 landscape.",
+      "bytes": 61576,
+      "sha256": "0304f7f61637cc0435df6494339addeb564e45ae6efb547056e6840123424c86",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/experience-crimson-leaves.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/experience-crimson-leaves.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/experience-crimson-leaves.webp"
+    },
+    {
+      "file": "experience-arched-wall.webp",
+      "type": "raster",
+      "role": "Installation photograph at right of Experience block",
+      "pixel_size": [
+        645,
+        633
+      ],
+      "aspect_ratio": 1.01896,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 616,
+        "y": 1161,
+        "w": 215,
+        "h": 211
+      },
+      "source_visible_box_pct": {
+        "x": 65.46,
+        "y": 69.44,
+        "w": 22.85,
+        "h": 12.62
+      },
+      "subject_estimate": {
+        "main_subject": "Bougainvillea hanging against ivory stucco walls and an arch",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Top flowers and wall cropped; ivory backdrop belongs inside picture.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Cream stucco architectural arch on left, ivory wall, strands of vivid red and golden yellow bougainvillea hanging down from top, crisp cast leaf shadows; warm late afternoon sunlight; square near 215:211.",
+      "bytes": 50776,
+      "sha256": "42ddfbf3c497003ff5198ae956825395cedaf73ea4b6174b4dbd4dc273acacb6",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/experience-arched-wall.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/experience-arched-wall.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/experience-arched-wall.webp"
+    },
+    {
+      "file": "studio-sunlit-canopy.webp",
+      "type": "raster",
+      "role": "Wide photo in bottom studio block",
+      "pixel_size": [
+        1335,
+        699
+      ],
+      "aspect_ratio": 1.90987,
+      "alpha": false,
+      "source_visible_box_px": {
+        "x": 355,
+        "y": 1411,
+        "w": 445,
+        "h": 233
+      },
+      "source_visible_box_pct": {
+        "x": 37.73,
+        "y": 84.39,
+        "w": 47.29,
+        "h": 13.94
+      },
+      "subject_estimate": {
+        "main_subject": "Backlit red and amber bougainvillea bracts over clear blue sky",
+        "width_pct": 100,
+        "height_pct": 100,
+        "margins_pct": {
+          "top": 0,
+          "right": 0,
+          "bottom": 0,
+          "left": 0
+        }
+      },
+      "background": "own photograph",
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%"
+      },
+      "crop_notes": "Large foreground crimson bracts cut by bottom and left borders; amber at top right.",
+      "reconstruction_method": "direct screenshot extraction + 3x Lanczos interpolation",
+      "reconstruction_prompt": "Wide upward photograph of vivid scarlet bougainvillea translucent petals foreground bottom and left, golden orange top right, olive green foliage and blue cyan sunlit sky center, bold botanical photography.",
+      "bytes": 97542,
+      "sha256": "b21233a041ca93e596ac1e8a18b10b087b97877348dddb860723991234a8a051",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/studio-sunlit-canopy.webp",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/studio-sunlit-canopy.webp",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/studio-sunlit-canopy.webp"
+    },
+    {
+      "file": "icons/menu.svg",
+      "type": "svg",
+      "role": "Menu glyph: three horizontal short thin strokes within CSS circle",
+      "viewBox": 24,
+      "alpha": true,
+      "source_visible_box_px": {
+        "x": 841,
+        "y": 18,
+        "w": 30,
+        "h": 30
+      },
+      "source_visible_box_pct": {
+        "x": 89.37,
+        "y": 1.08,
+        "w": 3.19,
+        "h": 1.79
+      },
+      "background": "transparent SVG, button shell rendered in CSS",
+      "display": {
+        "width": "24px",
+        "object_fit": "contain"
+      },
+      "bytes": 207,
+      "sha256": "4dfc96ed6a261bc668dd3b3bb2002d36398ebafba4c7dca161d82a9d96dadb16",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/menu.svg"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "type": "svg",
+      "role": "Tiny thin line rightward arrow for text links",
+      "viewBox": 24,
+      "alpha": true,
+      "source_visible_box_px": {
+        "x": 860,
+        "y": 675,
+        "w": 12,
+        "h": 13
+      },
+      "source_visible_box_pct": {
+        "x": 91.39,
+        "y": 40.37,
+        "w": 1.28,
+        "h": 0.78
+      },
+      "background": "transparent SVG, button shell rendered in CSS",
+      "display": {
+        "width": "24px",
+        "object_fit": "contain"
+      },
+      "bytes": 233,
+      "sha256": "d5ba357a3ba5212e4c510d0873a2e773ebe2811a5c46fe927546a4e935df69e9",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/arrow-right.svg",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/arrow-right.svg",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/arrow-right.svg"
+    },
+    {
+      "file": "icons/scroll-line-dot.svg",
+      "type": "svg",
+      "role": "Vertical hairline and circular dot indicating scroll",
+      "viewBox": 8,
+      "alpha": true,
+      "source_visible_box_px": {
+        "x": 783,
+        "y": 396,
+        "w": 6,
+        "h": 39
+      },
+      "source_visible_box_pct": {
+        "x": 83.21,
+        "y": 23.68,
+        "w": 0.64,
+        "h": 2.33
+      },
+      "background": "transparent SVG, button shell rendered in CSS",
+      "display": {
+        "width": "auto",
+        "object_fit": "contain"
+      },
+      "bytes": 203,
+      "sha256": "b25348d9e785ec3ea8de7361746d83ff07d57079188ec048274874fc84878206",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/scroll-line-dot.svg",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/scroll-line-dot.svg",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/scroll-line-dot.svg"
+    },
+    {
+      "file": "icons/chapter-dot.svg",
+      "type": "svg",
+      "role": "Small white chapter marker used over timeline rule",
+      "viewBox": 8,
+      "alpha": true,
+      "source_visible_box_px": {
+        "x": 240,
+        "y": 472,
+        "w": 6,
+        "h": 6
+      },
+      "source_visible_box_pct": {
+        "x": 25.5,
+        "y": 28.23,
+        "w": 0.64,
+        "h": 0.36
+      },
+      "background": "transparent SVG, button shell rendered in CSS",
+      "display": {
+        "width": "auto",
+        "object_fit": "contain"
+      },
+      "bytes": 131,
+      "sha256": "055e287aae212b460b16b328d13bfe05e89a3a136af28e10b55dc2dd7011e330",
+      "github_path": "images/reconstructed-apps/bloom-floral-chronicle/icons/chapter-dot.svg",
+      "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/reconstructed-apps/bloom-floral-chronicle/icons/chapter-dot.svg",
+      "github_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/20be8f41a095e0d59e009dc8347f85adbf98b0e6/images/reconstructed-apps/bloom-floral-chronicle/icons/chapter-dot.svg"
+    }
+  ],
+  "visual_analysis": {
+    "main_subject_notes": "Bougainvillea, not roses. Bright scarlet, fuchsia, honey yellow floral bracts; backlit thin papery petals with branching veins; olive green leaves. Shots are upward looking or macro.",
+    "image_count": 13,
+    "icon_count": 4,
+    "geometry_overlay_notes": "No system status bar. No badges or e-commerce product card icon. Header cart (0) is text. All editorial titles and CTA text stay in DOM."
+  },
+  "quality_assurance": {
+    "archive_sha256": "3a9ffac34242c5176d8c3f21a7ce8a4ff506c7919abc97ffda93bbf97f79a044",
+    "uploaded_raster_count": 13,
+    "uploaded_svg_count": 4,
+    "assets_pinned_to_commit": "20be8f41a095e0d59e009dc8347f85adbf98b0e6",
+    "source_unavailable_note": "3x screenshot upscaling does not restore native camera detail."
+  }
+}
