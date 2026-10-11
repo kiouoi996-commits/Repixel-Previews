@@ -1,0 +1,1911 @@
+{
+  "schema": "repixel.foodie.asset-manifest.v1",
+  "project": "Foodie Fresh Delivery Dashboard",
+  "slug": "foodie-fresh-delivery-dashboard",
+  "source": {
+    "kind": "user_provided_screenshot",
+    "filename": "78d9671f-a8d6-416b-a93f-bbaa2cafac4a.png",
+    "size_px": [
+      1448,
+      1086
+    ],
+    "fidelity_note": "Assets are reconstructions isolated from a raster UI screenshot and upscaled 3x; not original source photographs. Hidden area of hero bowl is left alpha-transparent rather than invented. Pixel coordinates are approximate observations, not authoritative design coordinates."
+  },
+  "repo_path": "images/foodie-fresh-delivery-dashboard",
+  "repository": "kiouoi996-commits/Repixel-Previews",
+  "assets": [
+    {
+      "name": "avatar-emma.webp",
+      "role": "Профиль пользователя",
+      "bbox": [
+        83,
+        240,
+        147,
+        308
+      ],
+      "mode": "portrait",
+      "obj": [
+        88,
+        244,
+        145,
+        304
+      ],
+      "display": "width:62px;height:62px;object-fit:cover;border-radius:50%;",
+      "notes": "Зелёная точка статуса — CSS",
+      "prompt": "Head and shoulders portrait of a smiling young woman with shoulder-length dark brown hair, light top, soft neutral studio background, frontal pose, circular avatar.",
+      "css": "",
+      "export_px": [
+        192,
+        204
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        88,
+        244,
+        145,
+        304
+      ],
+      "visible_bbox_source_px": [
+        83,
+        240,
+        147,
+        308
+      ],
+      "visible_wh_source_px": [
+        64,
+        68
+      ],
+      "aspect_ratio": "64:68",
+      "visible_area_screen_pct": [
+        4.42,
+        6.26
+      ],
+      "subject_occupancy_pct": [
+        89.1,
+        88.2
+      ],
+      "subject_insets_pct": {
+        "top": 5.9,
+        "right": 3.1,
+        "bottom": 5.9,
+        "left": 7.8
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 10698,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/avatar-emma.webp",
+      "published_file_bytes": 11686
+    },
+    {
+      "name": "category-all.webp",
+      "role": "Категория All — миска с овощами",
+      "bbox": [
+        310,
+        267,
+        371,
+        336
+      ],
+      "mode": "key",
+      "obj": [
+        313,
+        279,
+        367,
+        330
+      ],
+      "display": "width:64px;height:70px;object-fit:contain;",
+      "notes": "Жёлтая капсула active — CSS",
+      "prompt": "3D playful miniature salad bowl with broccoli leaves, tomato red spheres, cucumber, white ceramic bowl, viewed from elevated three-quarter angle on transparent background",
+      "css": "",
+      "export_px": [
+        183,
+        207
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        313,
+        279,
+        367,
+        330
+      ],
+      "visible_bbox_source_px": [
+        310,
+        267,
+        371,
+        336
+      ],
+      "visible_wh_source_px": [
+        61,
+        69
+      ],
+      "aspect_ratio": "61:69",
+      "visible_area_screen_pct": [
+        4.21,
+        6.35
+      ],
+      "subject_occupancy_pct": [
+        88.5,
+        73.9
+      ],
+      "subject_insets_pct": {
+        "top": 17.4,
+        "right": 6.6,
+        "bottom": 8.7,
+        "left": 4.9
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 11192,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/category-all.webp",
+      "published_file_bytes": 12208
+    },
+    {
+      "name": "category-burgers.webp",
+      "role": "Категория Burgers",
+      "bbox": [
+        405,
+        259,
+        490,
+        343
+      ],
+      "mode": "key",
+      "obj": [
+        421,
+        275,
+        476,
+        331
+      ],
+      "display": "width:70px;height:70px;object-fit:contain;",
+      "notes": "",
+      "prompt": "3D burger with sesame bun, red tomato, cheese, bright green lettuce and patty, front elevated view, transparent",
+      "css": "",
+      "export_px": [
+        255,
+        252
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        421,
+        275,
+        476,
+        331
+      ],
+      "visible_bbox_source_px": [
+        405,
+        259,
+        490,
+        343
+      ],
+      "visible_wh_source_px": [
+        85,
+        84
+      ],
+      "aspect_ratio": "85:84",
+      "visible_area_screen_pct": [
+        5.87,
+        7.73
+      ],
+      "subject_occupancy_pct": [
+        64.7,
+        66.7
+      ],
+      "subject_insets_pct": {
+        "top": 19.0,
+        "right": 16.5,
+        "bottom": 14.3,
+        "left": 18.8
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 11074,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/category-burgers.webp",
+      "published_file_bytes": 11922
+    },
+    {
+      "name": "category-pizza.webp",
+      "role": "Категория Pizza",
+      "bbox": [
+        504,
+        259,
+        598,
+        347
+      ],
+      "mode": "key",
+      "obj": [
+        532,
+        273,
+        583,
+        330
+      ],
+      "display": "width:70px;height:70px;object-fit:contain;",
+      "notes": "",
+      "prompt": "3D single triangular pepperoni pizza slice, melted cheese, browned thick crust, angled diagonally upward, transparent",
+      "css": "",
+      "export_px": [
+        282,
+        264
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        532,
+        273,
+        583,
+        330
+      ],
+      "visible_bbox_source_px": [
+        504,
+        259,
+        598,
+        347
+      ],
+      "visible_wh_source_px": [
+        94,
+        88
+      ],
+      "aspect_ratio": "94:88",
+      "visible_area_screen_pct": [
+        6.49,
+        8.1
+      ],
+      "subject_occupancy_pct": [
+        54.3,
+        64.8
+      ],
+      "subject_insets_pct": {
+        "top": 15.9,
+        "right": 16.0,
+        "bottom": 19.3,
+        "left": 29.8
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 12328,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/category-pizza.webp",
+      "published_file_bytes": 13498
+    },
+    {
+      "name": "category-asian.webp",
+      "role": "Категория Asian",
+      "bbox": [
+        611,
+        260,
+        702,
+        351
+      ],
+      "mode": "key",
+      "obj": [
+        621,
+        278,
+        688,
+        336
+      ],
+      "display": "width:70px;height:70px;object-fit:contain;",
+      "notes": "",
+      "prompt": "3D white bowl with golden noodles and two brown chopsticks raised to upper right, three-quarter view, transparent",
+      "css": "",
+      "export_px": [
+        273,
+        273
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        621,
+        278,
+        688,
+        336
+      ],
+      "visible_bbox_source_px": [
+        611,
+        260,
+        702,
+        351
+      ],
+      "visible_wh_source_px": [
+        91,
+        91
+      ],
+      "aspect_ratio": "91:91",
+      "visible_area_screen_pct": [
+        6.28,
+        8.38
+      ],
+      "subject_occupancy_pct": [
+        73.6,
+        63.7
+      ],
+      "subject_insets_pct": {
+        "top": 19.8,
+        "right": 15.4,
+        "bottom": 16.5,
+        "left": 11.0
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 14570,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/category-asian.webp",
+      "published_file_bytes": 15340
+    },
+    {
+      "name": "category-salads.webp",
+      "role": "Категория Salads",
+      "bbox": [
+        714,
+        261,
+        813,
+        345
+      ],
+      "mode": "key",
+      "obj": [
+        739,
+        282,
+        800,
+        331
+      ],
+      "display": "width:70px;height:70px;object-fit:contain;",
+      "notes": "",
+      "prompt": "3D white salad bowl, green spinach leaves red tomatoes cucumber, elevated front view, transparent",
+      "css": "",
+      "export_px": [
+        297,
+        252
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        739,
+        282,
+        800,
+        331
+      ],
+      "visible_bbox_source_px": [
+        714,
+        261,
+        813,
+        345
+      ],
+      "visible_wh_source_px": [
+        99,
+        84
+      ],
+      "aspect_ratio": "99:84",
+      "visible_area_screen_pct": [
+        6.84,
+        7.73
+      ],
+      "subject_occupancy_pct": [
+        61.6,
+        58.3
+      ],
+      "subject_insets_pct": {
+        "top": 25.0,
+        "right": 13.1,
+        "bottom": 16.7,
+        "left": 25.3
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 12298,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/category-salads.webp",
+      "published_file_bytes": 13246
+    },
+    {
+      "name": "category-desserts.webp",
+      "role": "Категория Desserts",
+      "bbox": [
+        822,
+        257,
+        922,
+        348
+      ],
+      "mode": "key",
+      "obj": [
+        847,
+        272,
+        912,
+        331
+      ],
+      "display": "width:70px;height:70px;object-fit:contain;",
+      "notes": "",
+      "prompt": "3D pink icing doughnut with colorful rainbow sprinkles, tilted three-quarter view and center hole, transparent",
+      "css": "",
+      "export_px": [
+        300,
+        273
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        847,
+        272,
+        912,
+        331
+      ],
+      "visible_bbox_source_px": [
+        822,
+        257,
+        922,
+        348
+      ],
+      "visible_wh_source_px": [
+        100,
+        91
+      ],
+      "aspect_ratio": "100:91",
+      "visible_area_screen_pct": [
+        6.91,
+        8.38
+      ],
+      "subject_occupancy_pct": [
+        65.0,
+        64.8
+      ],
+      "subject_insets_pct": {
+        "top": 16.5,
+        "right": 10.0,
+        "bottom": 18.7,
+        "left": 25.0
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 13528,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/category-desserts.webp",
+      "published_file_bytes": 14056
+    },
+    {
+      "name": "category-drinks.webp",
+      "role": "Категория Drinks",
+      "bbox": [
+        926,
+        253,
+        1022,
+        350
+      ],
+      "mode": "key",
+      "obj": [
+        961,
+        271,
+        1010,
+        332
+      ],
+      "display": "width:70px;height:70px;object-fit:contain;",
+      "notes": "",
+      "prompt": "3D milk bubble tea in clear plastic cup with black tapioca pearls and purple straw, tilted front view, transparent",
+      "css": "",
+      "export_px": [
+        288,
+        291
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        961,
+        271,
+        1010,
+        332
+      ],
+      "visible_bbox_source_px": [
+        926,
+        253,
+        1022,
+        350
+      ],
+      "visible_wh_source_px": [
+        96,
+        97
+      ],
+      "aspect_ratio": "96:97",
+      "visible_area_screen_pct": [
+        6.63,
+        8.93
+      ],
+      "subject_occupancy_pct": [
+        51.0,
+        62.9
+      ],
+      "subject_insets_pct": {
+        "top": 18.6,
+        "right": 12.5,
+        "bottom": 18.6,
+        "left": 36.5
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 11670,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/category-drinks.webp",
+      "published_file_bytes": 12212
+    },
+    {
+      "name": "hero-healthy-bowl.webp",
+      "role": "Блюдо баннера Healthy Bowls",
+      "bbox": [
+        606,
+        376,
+        884,
+        612
+      ],
+      "mode": "hero",
+      "obj": [
+        623,
+        389,
+        858,
+        605
+      ],
+      "display": "width:246px;height:232px;object-fit:contain;",
+      "notes": "Правая верхняя часть миски перекрыта бейджем 30%, реконструкция предположительная",
+      "prompt": "Large overhead three-quarter food photography of round ivory bowl with avocado fans, salmon cubes, purple shredded cabbage, broccoli, egg wedges, crispy greens, sesame seeds, soft shadow, transparent background",
+      "css": "",
+      "export_px": [
+        834,
+        708
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        623,
+        389,
+        858,
+        605
+      ],
+      "visible_bbox_source_px": [
+        606,
+        376,
+        884,
+        612
+      ],
+      "visible_wh_source_px": [
+        278,
+        236
+      ],
+      "aspect_ratio": "278:236",
+      "visible_area_screen_pct": [
+        19.2,
+        21.73
+      ],
+      "subject_occupancy_pct": [
+        84.5,
+        91.5
+      ],
+      "subject_insets_pct": {
+        "top": 5.5,
+        "right": 9.4,
+        "bottom": 3.0,
+        "left": 6.1
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 101916,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/hero-healthy-bowl.webp",
+      "published_file_bytes": 88170
+    },
+    {
+      "name": "dish-grilled-chicken.webp",
+      "role": "Карточка Grilled Chicken Bowl",
+      "bbox": [
+        300,
+        664,
+        468,
+        829
+      ],
+      "mode": "dish",
+      "obj": [
+        311,
+        682,
+        449,
+        817
+      ],
+      "display": "width:156px;height:155px;object-fit:contain;",
+      "notes": "Сердечко избранного отдельно, правый верхний угол маски исключён",
+      "prompt": "Overhead chicken quinoa salad in round white bowl with grilled chicken strips, avocado chunks, tomatoes and vibrant greens on pale cream surface",
+      "css": "",
+      "export_px": [
+        504,
+        495
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        311,
+        682,
+        449,
+        817
+      ],
+      "visible_bbox_source_px": [
+        300,
+        664,
+        468,
+        829
+      ],
+      "visible_wh_source_px": [
+        168,
+        165
+      ],
+      "aspect_ratio": "168:165",
+      "visible_area_screen_pct": [
+        11.6,
+        15.19
+      ],
+      "subject_occupancy_pct": [
+        82.1,
+        81.8
+      ],
+      "subject_insets_pct": {
+        "top": 10.9,
+        "right": 11.3,
+        "bottom": 7.3,
+        "left": 6.5
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 44604,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/dish-grilled-chicken.webp",
+      "published_file_bytes": 38780
+    },
+    {
+      "name": "dish-mushroom-pasta.webp",
+      "role": "Карточка Creamy Mushroom Pasta",
+      "bbox": [
+        483,
+        663,
+        659,
+        829
+      ],
+      "mode": "dish",
+      "obj": [
+        498,
+        680,
+        637,
+        810
+      ],
+      "display": "width:156px;height:155px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Overhead cream mushroom fettuccine on off-white round plate with grated Parmesan and green herbs, gentle studio shadow, pale cream surface",
+      "css": "",
+      "export_px": [
+        528,
+        498
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        498,
+        680,
+        637,
+        810
+      ],
+      "visible_bbox_source_px": [
+        483,
+        663,
+        659,
+        829
+      ],
+      "visible_wh_source_px": [
+        176,
+        166
+      ],
+      "aspect_ratio": "176:166",
+      "visible_area_screen_pct": [
+        12.15,
+        15.29
+      ],
+      "subject_occupancy_pct": [
+        79.0,
+        78.3
+      ],
+      "subject_insets_pct": {
+        "top": 10.2,
+        "right": 12.5,
+        "bottom": 11.4,
+        "left": 8.5
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 40144,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/dish-mushroom-pasta.webp",
+      "published_file_bytes": 34520
+    },
+    {
+      "name": "dish-teriyaki-salmon.webp",
+      "role": "Карточка Teriyaki Salmon Bowl",
+      "bbox": [
+        668,
+        664,
+        852,
+        835
+      ],
+      "mode": "dish",
+      "obj": [
+        690,
+        680,
+        834,
+        820
+      ],
+      "display": "width:156px;height:155px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Overhead black bowl with glazed salmon fillets, avocado, rice, bright green edamame and vegetables, glossy studio food photography",
+      "css": "",
+      "export_px": [
+        552,
+        513
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        690,
+        680,
+        834,
+        820
+      ],
+      "visible_bbox_source_px": [
+        668,
+        664,
+        852,
+        835
+      ],
+      "visible_wh_source_px": [
+        184,
+        171
+      ],
+      "aspect_ratio": "184:171",
+      "visible_area_screen_pct": [
+        12.71,
+        15.75
+      ],
+      "subject_occupancy_pct": [
+        78.3,
+        81.9
+      ],
+      "subject_insets_pct": {
+        "top": 9.4,
+        "right": 9.8,
+        "bottom": 8.8,
+        "left": 12.0
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 49530,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/dish-teriyaki-salmon.webp",
+      "published_file_bytes": 41812
+    },
+    {
+      "name": "dish-garden-pizza.webp",
+      "role": "Карточка Garden Veggie Pizza",
+      "bbox": [
+        862,
+        661,
+        1030,
+        829
+      ],
+      "mode": "dish",
+      "obj": [
+        885,
+        682,
+        1017,
+        816
+      ],
+      "display": "width:156px;height:155px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Top down thin crust circular vegetarian pizza tomato, basil, black and green olives and mozzarella on light surface",
+      "css": "",
+      "export_px": [
+        504,
+        504
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        885,
+        682,
+        1017,
+        816
+      ],
+      "visible_bbox_source_px": [
+        862,
+        661,
+        1030,
+        829
+      ],
+      "visible_wh_source_px": [
+        168,
+        168
+      ],
+      "aspect_ratio": "168:168",
+      "visible_area_screen_pct": [
+        11.6,
+        15.47
+      ],
+      "subject_occupancy_pct": [
+        78.6,
+        79.8
+      ],
+      "subject_insets_pct": {
+        "top": 12.5,
+        "right": 7.7,
+        "bottom": 7.7,
+        "left": 13.7
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 43572,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/dish-garden-pizza.webp",
+      "published_file_bytes": 35748
+    },
+    {
+      "name": "cart-matcha.webp",
+      "role": "Корзина: Iced Matcha Latte",
+      "bbox": [
+        1091,
+        263,
+        1149,
+        319
+      ],
+      "mode": "key",
+      "obj": [
+        1100,
+        267,
+        1130,
+        314
+      ],
+      "display": "width:42px;height:45px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Small green iced matcha latte in transparent takeaway cup, white foamy top, front view, transparent background",
+      "css": "",
+      "export_px": [
+        174,
+        168
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1100,
+        267,
+        1130,
+        314
+      ],
+      "visible_bbox_source_px": [
+        1091,
+        263,
+        1149,
+        319
+      ],
+      "visible_wh_source_px": [
+        58,
+        56
+      ],
+      "aspect_ratio": "58:56",
+      "visible_area_screen_pct": [
+        4.01,
+        5.16
+      ],
+      "subject_occupancy_pct": [
+        51.7,
+        83.9
+      ],
+      "subject_insets_pct": {
+        "top": 7.1,
+        "right": 32.8,
+        "bottom": 8.9,
+        "left": 15.5
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 5230,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/cart-matcha.webp",
+      "published_file_bytes": 6404
+    },
+    {
+      "name": "cart-donut.webp",
+      "role": "Корзина: Chocolate Donut",
+      "bbox": [
+        1090,
+        326,
+        1147,
+        387
+      ],
+      "mode": "key",
+      "obj": [
+        1098,
+        339,
+        1140,
+        376
+      ],
+      "display": "width:46px;height:44px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Small chocolate-glazed donut with shiny brown icing and light sprinkles, three-quarter view transparent",
+      "css": "",
+      "export_px": [
+        171,
+        183
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1098,
+        339,
+        1140,
+        376
+      ],
+      "visible_bbox_source_px": [
+        1090,
+        326,
+        1147,
+        387
+      ],
+      "visible_wh_source_px": [
+        57,
+        61
+      ],
+      "aspect_ratio": "57:61",
+      "visible_area_screen_pct": [
+        3.94,
+        5.62
+      ],
+      "subject_occupancy_pct": [
+        73.7,
+        60.7
+      ],
+      "subject_insets_pct": {
+        "top": 21.3,
+        "right": 12.3,
+        "bottom": 18.0,
+        "left": 14.0
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 7792,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/cart-donut.webp",
+      "published_file_bytes": 8346
+    },
+    {
+      "name": "delivery-courier.webp",
+      "role": "Иллюстрация курьера слева",
+      "bbox": [
+        90,
+        702,
+        242,
+        853
+      ],
+      "mode": "key",
+      "obj": [
+        96,
+        734,
+        235,
+        848
+      ],
+      "display": "width:145px;height:135px;object-fit:contain;",
+      "notes": "Жёлтые и фиолетовые штрихи над курьером можно отрисовать через CSS/SVG",
+      "prompt": "Playful 3D courier in yellow helmet and jacket, riding a purple step-through scooter to right with square yellow delivery box, three-quarter side view, transparent",
+      "css": "",
+      "export_px": [
+        456,
+        453
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        96,
+        734,
+        235,
+        848
+      ],
+      "visible_bbox_source_px": [
+        90,
+        702,
+        242,
+        853
+      ],
+      "visible_wh_source_px": [
+        152,
+        151
+      ],
+      "aspect_ratio": "152:151",
+      "visible_area_screen_pct": [
+        10.5,
+        13.9
+      ],
+      "subject_occupancy_pct": [
+        91.4,
+        75.5
+      ],
+      "subject_insets_pct": {
+        "top": 21.2,
+        "right": 4.6,
+        "bottom": 3.3,
+        "left": 3.9
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 35976,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/delivery-courier.webp",
+      "published_file_bytes": 37652
+    },
+    {
+      "name": "quickread-salad.webp",
+      "role": "Материал Quick Reads: салат",
+      "bbox": [
+        1084,
+        799,
+        1185,
+        880
+      ],
+      "mode": "photo",
+      "obj": [
+        1088,
+        801,
+        1181,
+        871
+      ],
+      "display": "width:96px;height:76px;object-fit:cover;object-position:50% 50%;",
+      "notes": "Плоская фотография с исходным собственным светлым фоном",
+      "prompt": "Healthy cucumber tomato and spinach salad in ceramic bowl on pale studio background, food photography",
+      "css": "",
+      "export_px": [
+        303,
+        243
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1088,
+        801,
+        1181,
+        871
+      ],
+      "visible_bbox_source_px": [
+        1084,
+        799,
+        1185,
+        880
+      ],
+      "visible_wh_source_px": [
+        101,
+        81
+      ],
+      "aspect_ratio": "101:81",
+      "visible_area_screen_pct": [
+        6.98,
+        7.46
+      ],
+      "subject_occupancy_pct": [
+        92.1,
+        86.4
+      ],
+      "subject_insets_pct": {
+        "top": 2.5,
+        "right": 4.0,
+        "bottom": 11.1,
+        "left": 4.0
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 10112,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/quickread-salad.webp",
+      "published_file_bytes": 5996
+    },
+    {
+      "name": "quickread-smoothie.webp",
+      "role": "Материал Quick Reads: смузи",
+      "bbox": [
+        1084,
+        875,
+        1185,
+        964
+      ],
+      "mode": "photo",
+      "obj": [
+        1089,
+        881,
+        1183,
+        956
+      ],
+      "display": "width:96px;height:77px;object-fit:cover;object-position:50% 50%;",
+      "notes": "Фотография включает собственные мелкие ягоды и фон",
+      "prompt": "Pink strawberry smoothie in glass with red straw, green mint, berries scattered on kitchen counter, shallow depth of field",
+      "css": "",
+      "export_px": [
+        303,
+        267
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1089,
+        881,
+        1183,
+        956
+      ],
+      "visible_bbox_source_px": [
+        1084,
+        875,
+        1185,
+        964
+      ],
+      "visible_wh_source_px": [
+        101,
+        89
+      ],
+      "aspect_ratio": "101:89",
+      "visible_area_screen_pct": [
+        6.98,
+        8.2
+      ],
+      "subject_occupancy_pct": [
+        93.1,
+        84.3
+      ],
+      "subject_insets_pct": {
+        "top": 6.7,
+        "right": 2.0,
+        "bottom": 9.0,
+        "left": 5.0
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 9520,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/quickread-smoothie.webp",
+      "published_file_bytes": 6154
+    },
+    {
+      "name": "promo-avocado.webp",
+      "role": "Авокадо на карточке Food for Better Tomorrow",
+      "bbox": [
+        1276,
+        639,
+        1382,
+        743
+      ],
+      "mode": "key",
+      "obj": [
+        1282,
+        646,
+        1370,
+        738
+      ],
+      "display": "width:104px;height:108px;object-fit:contain;",
+      "notes": "Белая кнопка-стрелка поверх плода — UI, удалена маской",
+      "prompt": "3D upright avocado half with dark green textured rind, pale yellow flesh and shiny brown pit, tilted diagonally, transparent",
+      "css": "",
+      "export_px": [
+        318,
+        312
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1282,
+        646,
+        1370,
+        738
+      ],
+      "visible_bbox_source_px": [
+        1276,
+        639,
+        1382,
+        743
+      ],
+      "visible_wh_source_px": [
+        106,
+        104
+      ],
+      "aspect_ratio": "106:104",
+      "visible_area_screen_pct": [
+        7.32,
+        9.58
+      ],
+      "subject_occupancy_pct": [
+        83.0,
+        88.5
+      ],
+      "subject_insets_pct": {
+        "top": 6.7,
+        "right": 11.3,
+        "bottom": 4.8,
+        "left": 5.7
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 14658,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/promo-avocado.webp",
+      "published_file_bytes": 17994
+    },
+    {
+      "name": "decor-avocado-corner.webp",
+      "role": "Декоративное авокадо внизу слева",
+      "bbox": [
+        12,
+        968,
+        155,
+        1086
+      ],
+      "mode": "key",
+      "obj": [
+        19,
+        981,
+        151,
+        1086
+      ],
+      "display": "width:146px;height:118px;object-fit:contain;",
+      "notes": "Обрезка плодa нижним краем кадра сохранена",
+      "prompt": "3D avocado half with smooth yellow-green flesh and brown stone, tilted diagonally, lower portion deliberately cut by frame edge",
+      "css": "",
+      "export_px": [
+        429,
+        354
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        19,
+        981,
+        151,
+        1086
+      ],
+      "visible_bbox_source_px": [
+        12,
+        968,
+        155,
+        1086
+      ],
+      "visible_wh_source_px": [
+        143,
+        118
+      ],
+      "aspect_ratio": "143:118",
+      "visible_area_screen_pct": [
+        9.88,
+        10.87
+      ],
+      "subject_occupancy_pct": [
+        92.3,
+        89.0
+      ],
+      "subject_insets_pct": {
+        "top": 11.0,
+        "right": 2.8,
+        "bottom": 0.0,
+        "left": 4.9
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 22746,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/decor-avocado-corner.webp",
+      "published_file_bytes": 22892
+    },
+    {
+      "name": "decor-tomato-corner.webp",
+      "role": "Декоративная долька томата справа сверху",
+      "bbox": [
+        1265,
+        0,
+        1432,
+        106
+      ],
+      "mode": "key",
+      "obj": [
+        1284,
+        0,
+        1419,
+        91
+      ],
+      "display": "width:167px;height:106px;object-fit:contain;",
+      "notes": "Долька обрезана верхним краем скриншота",
+      "prompt": "Glossy thick red tomato slice floating, diagonal orientation, white center, visible seeds and pulp, cropped top side",
+      "css": "",
+      "export_px": [
+        501,
+        318
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1284,
+        0,
+        1419,
+        91
+      ],
+      "visible_bbox_source_px": [
+        1265,
+        0,
+        1432,
+        106
+      ],
+      "visible_wh_source_px": [
+        167,
+        106
+      ],
+      "aspect_ratio": "167:106",
+      "visible_area_screen_pct": [
+        11.53,
+        9.76
+      ],
+      "subject_occupancy_pct": [
+        80.8,
+        85.8
+      ],
+      "subject_insets_pct": {
+        "top": 0.0,
+        "right": 7.8,
+        "bottom": 14.2,
+        "left": 11.4
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 24458,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/decor-tomato-corner.webp",
+      "published_file_bytes": 24220
+    },
+    {
+      "name": "decor-leaf-top.webp",
+      "role": "Зелёный лист сверху",
+      "bbox": [
+        1035,
+        25,
+        1110,
+        89
+      ],
+      "mode": "key",
+      "obj": [
+        1049,
+        31,
+        1093,
+        76
+      ],
+      "display": "width:74px;height:64px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Single bright green pointed leaf with midrib vein and soft glossy 3D finish, angled up-right, isolated",
+      "css": "",
+      "export_px": [
+        225,
+        192
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1049,
+        31,
+        1093,
+        76
+      ],
+      "visible_bbox_source_px": [
+        1035,
+        25,
+        1110,
+        89
+      ],
+      "visible_wh_source_px": [
+        75,
+        64
+      ],
+      "aspect_ratio": "75:64",
+      "visible_area_screen_pct": [
+        5.18,
+        5.89
+      ],
+      "subject_occupancy_pct": [
+        58.7,
+        70.3
+      ],
+      "subject_insets_pct": {
+        "top": 9.4,
+        "right": 22.7,
+        "bottom": 20.3,
+        "left": 18.7
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 7844,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/decor-leaf-top.webp",
+      "published_file_bytes": 8696
+    },
+    {
+      "name": "decor-leaf-bottom-left.webp",
+      "role": "Лист внизу слева",
+      "bbox": [
+        233,
+        994,
+        315,
+        1069
+      ],
+      "mode": "key",
+      "obj": [
+        252,
+        1000,
+        303,
+        1057
+      ],
+      "display": "width:82px;height:76px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Single green leaf angled down-right, visible central vein, smooth 3D finish, isolated",
+      "css": "",
+      "export_px": [
+        246,
+        225
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        252,
+        1000,
+        303,
+        1057
+      ],
+      "visible_bbox_source_px": [
+        233,
+        994,
+        315,
+        1069
+      ],
+      "visible_wh_source_px": [
+        82,
+        75
+      ],
+      "aspect_ratio": "82:75",
+      "visible_area_screen_pct": [
+        5.66,
+        6.91
+      ],
+      "subject_occupancy_pct": [
+        62.2,
+        76.0
+      ],
+      "subject_insets_pct": {
+        "top": 8.0,
+        "right": 14.6,
+        "bottom": 16.0,
+        "left": 23.2
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 8358,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/decor-leaf-bottom-left.webp",
+      "published_file_bytes": 9372
+    },
+    {
+      "name": "decor-leaf-bottom-right.webp",
+      "role": "Лист внизу справа",
+      "bbox": [
+        1214,
+        1003,
+        1285,
+        1079
+      ],
+      "mode": "key",
+      "obj": [
+        1230,
+        1027,
+        1272,
+        1079
+      ],
+      "display": "width:72px;height:76px;object-fit:contain;",
+      "notes": "",
+      "prompt": "Single green leaf upright diagonal orientation with central vein, 3D soft lighting, isolated",
+      "css": "",
+      "export_px": [
+        213,
+        228
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        1230,
+        1027,
+        1272,
+        1079
+      ],
+      "visible_bbox_source_px": [
+        1214,
+        1003,
+        1285,
+        1079
+      ],
+      "visible_wh_source_px": [
+        71,
+        76
+      ],
+      "aspect_ratio": "71:76",
+      "visible_area_screen_pct": [
+        4.9,
+        7.0
+      ],
+      "subject_occupancy_pct": [
+        59.2,
+        68.4
+      ],
+      "subject_insets_pct": {
+        "top": 31.6,
+        "right": 18.3,
+        "bottom": 0.0,
+        "left": 22.5
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 9448,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/decor-leaf-bottom-right.webp",
+      "published_file_bytes": 9478
+    },
+    {
+      "name": "decor-yellow-sparkle.webp",
+      "role": "Жёлтые каплеобразные штрихи сверху слева",
+      "bbox": [
+        136,
+        10,
+        215,
+        92
+      ],
+      "mode": "key",
+      "obj": [
+        149,
+        17,
+        207,
+        84
+      ],
+      "display": "width:78px;height:82px;object-fit:contain;",
+      "notes": "Можно реализовать через SVG декоративные штрихи",
+      "prompt": "Two smooth gold yellow teardrop accent marks radiating diagonally, with soft orange shading, isolated",
+      "css": "",
+      "export_px": [
+        237,
+        246
+      ],
+      "alpha": true,
+      "object_bbox_in_source_px": [
+        149,
+        17,
+        207,
+        84
+      ],
+      "visible_bbox_source_px": [
+        136,
+        10,
+        215,
+        92
+      ],
+      "visible_wh_source_px": [
+        79,
+        82
+      ],
+      "aspect_ratio": "79:82",
+      "visible_area_screen_pct": [
+        5.46,
+        7.55
+      ],
+      "subject_occupancy_pct": [
+        73.4,
+        81.7
+      ],
+      "subject_insets_pct": {
+        "top": 8.5,
+        "right": 10.1,
+        "bottom": 9.8,
+        "left": 16.5
+      },
+      "source_type": "reconstructed_from_screenshot",
+      "shadow": "Original photographic/illustration shading retained where visible; no duplicate CSS shadow",
+      "file_bytes": 10484,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/decor-yellow-sparkle.webp",
+      "published_file_bytes": 11892
+    },
+    {
+      "name": "icons/brand-chef.svg",
+      "role": "Логотип-поварская шапка",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 481,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/brand-chef.svg",
+      "published_file_bytes": 481
+    },
+    {
+      "name": "icons/nav-home.svg",
+      "role": "Активная Home",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 318,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/nav-home.svg",
+      "published_file_bytes": 318
+    },
+    {
+      "name": "icons/nav-explore.svg",
+      "role": "Explore",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 276,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/nav-explore.svg",
+      "published_file_bytes": 276
+    },
+    {
+      "name": "icons/nav-orders.svg",
+      "role": "Orders",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 285,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/nav-orders.svg",
+      "published_file_bytes": 285
+    },
+    {
+      "name": "icons/nav-heart.svg",
+      "role": "Избранное",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 357,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/nav-heart.svg",
+      "published_file_bytes": 357
+    },
+    {
+      "name": "icons/nav-settings.svg",
+      "role": "Настройки",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 466,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/nav-settings.svg",
+      "published_file_bytes": 466
+    },
+    {
+      "name": "icons/search.svg",
+      "role": "Поиск",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 269,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/search.svg",
+      "published_file_bytes": 269
+    },
+    {
+      "name": "icons/filter-sliders.svg",
+      "role": "Фильтр",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 325,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/filter-sliders.svg",
+      "published_file_bytes": 325
+    },
+    {
+      "name": "icons/cart-trash.svg",
+      "role": "Очистка корзины",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 292,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/cart-trash.svg",
+      "published_file_bytes": 292
+    },
+    {
+      "name": "icons/arrow-right.svg",
+      "role": "Стрелка вправо",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 252,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/arrow-right.svg",
+      "published_file_bytes": 252
+    },
+    {
+      "name": "icons/plus.svg",
+      "role": "Добавление блюда",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 251,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/plus.svg",
+      "published_file_bytes": 251
+    },
+    {
+      "name": "icons/crown.svg",
+      "role": "Food Lover — корона",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 378,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/crown.svg",
+      "published_file_bytes": 378
+    },
+    {
+      "name": "icons/chef-sparkle.svg",
+      "role": "Декоративная искра",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 305,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/chef-sparkle.svg",
+      "published_file_bytes": 305
+    },
+    {
+      "name": "icons/leaf.svg",
+      "role": "Мини-лист на промо",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 387,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/leaf.svg",
+      "published_file_bytes": 387
+    },
+    {
+      "name": "icons/wave-hand.svg",
+      "role": "Приветственная рука",
+      "mode": "svg",
+      "bbox": null,
+      "export_px": null,
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "display": "display:inline-block;width:20px;height:20px; color:var(--icon-color);",
+      "shadow": "none",
+      "prompt": "Custom SVG traced to match screenshot icon shape.",
+      "source_type": "vector_reconstruction",
+      "file_bytes": 518,
+      "css": "No button background in SVG.",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard/icons/wave-hand.svg",
+      "published_file_bytes": 518
+    }
+  ],
+  "interface_css": {
+    "page": {
+      "background": "linear-gradient(120deg, #edf3ff 0%, #f0f0ff 45%, #dbe9ff 100%)",
+      "note": "App outer background, no texture image needed"
+    },
+    "outer_shell": {
+      "background": "rgba(255,255,255,0.74)",
+      "borderRadius": "32px",
+      "backdropFilter": "blur(18px)",
+      "boxShadow": "0 24px 90px rgba(95,116,179,.13)"
+    },
+    "content_card": {
+      "background": "linear-gradient(140deg, #ffffff 0%, #fcfcff 100%)",
+      "borderRadius": "24px"
+    },
+    "side_nav_active": {
+      "background": "linear-gradient(110deg, #a17aff 0%, #8a67fa 100%)",
+      "borderRadius": "18px",
+      "boxShadow": "0 8px 16px rgba(142,104,255,.22)"
+    },
+    "category_default": {
+      "background": "#f4f5f9",
+      "borderRadius": "50%"
+    },
+    "category_active": {
+      "background": "linear-gradient(180deg,#ffe078 0%,#ffdc62 100%)",
+      "borderRadius": "30px"
+    },
+    "promotion_banner": {
+      "background": "linear-gradient(105deg,#ebe6ff 0%,#f3eaff 62%,#ede6ff 100%)",
+      "borderRadius": "24px"
+    },
+    "promotional_30_circle": {
+      "background": "linear-gradient(160deg,#9f78ff 0%,#8662ed 100%)",
+      "borderRadius": "50%",
+      "diameter_source_px": 100
+    },
+    "promo_better_tomorrow": {
+      "background": "linear-gradient(110deg,#fff8bf 0%,#fff5b2 100%)",
+      "borderRadius": "20px"
+    },
+    "checkout_button": {
+      "background": "linear-gradient(110deg,#8657f8 0%,#734dec 100%)",
+      "borderRadius": "16px"
+    },
+    "add_button": {
+      "background": "linear-gradient(130deg,#ffd235,#ffb400)",
+      "borderRadius": "50%"
+    },
+    "dish_card": {
+      "background": "#fff",
+      "border": "1px solid rgba(228,231,246,.8)",
+      "borderRadius": "18px",
+      "boxShadow": "0 8px 20px rgba(65,84,134,.06)"
+    },
+    "cart_row": {
+      "background": "#fff",
+      "border": "1px solid #eceff6",
+      "borderRadius": "16px"
+    },
+    "input_search": {
+      "background": "#f5f6fb",
+      "borderRadius": "32px"
+    },
+    "product_shadows": {
+      "note": "Photographic contact shadow retained inside food images. Additional CSS shadows apply to cards only."
+    },
+    "illustration_background": {
+      "note": "All category gray circular pads, status dot, favorite hearts round buttons and badge are interface elements, not included in rasters."
+    }
+  },
+  "icon_tints": {
+    "normal": "#6b7695",
+    "dark": "#253052",
+    "active": "#ffffff",
+    "purple": "#805af5",
+    "gold": "#ffc01e"
+  },
+  "text_policy": "All labels, headings, prices, descriptions and numbers must be real HTML text, never baked into images.",
+  "positioning_note": "screen pixels measured in 1448x1086 raster. Percentage calculations reference full screenshot.",
+  "published": {
+    "media_commit": "7fd3a1e7011c0247f2e207e68fbe10e67d0076b5",
+    "repository_url": "https://github.com/kiouoi996-commits/Repixel-Previews",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard",
+    "verified_media_commit": false,
+    "note": "Every asset URL is commit-pinned; manifest and guide will be in a later metadata commit."
+  },
+  "transfer_notice": "GitHub raster files were recompressed via a temporary AVIF intermediate and restored at 3x pixel dimensions; the downloadable local package retains higher quality WebP. Both are screenshot reconstructions."
+}
