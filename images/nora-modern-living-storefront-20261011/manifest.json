@@ -1,0 +1,238 @@
+{
+  "project": "Nora Modern Living Storefront",
+  "slug": "nora-modern-living-storefront-20261011",
+  "reference_size_px": [
+    1024,
+    1536
+  ],
+  "media_repository": "kiouoi996-commits/Repixel-Previews",
+  "publication_state": "svg-published-raster-awaits-transfer",
+  "photo_sources": "screenshot-derived reconstructions; not original images",
+  "pixel_note": "3x exported rasters are upsampled from screenshot; no original detail recovered",
+  "icons": [
+    {
+      "file": "icons/search.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/user.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/heart.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/heart-filled.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/cart.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/arrow-left.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/chevron-right.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/chevron-left.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/shipping.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/returns.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/shield.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/support.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/star.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/star-half.svg",
+      "size": [
+        24,
+        24
+      ],
+      "alpha": true
+    },
+    {
+      "file": "icons/nora-wordmark.svg",
+      "size": [
+        80,
+        36
+      ],
+      "alpha": true
+    }
+  ],
+  "raster_assets": [
+    {
+      "file": "hero-living-room.webp",
+      "width": 1812,
+      "height": 1395,
+      "published": false
+    },
+    {
+      "file": "sale-interior.webp",
+      "width": 1524,
+      "height": 762,
+      "published": false
+    },
+    {
+      "file": "category-chairs.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "category-tables.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "category-lighting.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "category-sofas.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "category-home-decor.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "category-storage.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "category-textiles.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "category-outdoor.png",
+      "width": 368,
+      "height": 368,
+      "published": false
+    },
+    {
+      "file": "product-nora-lounge-chair.webp",
+      "width": 654,
+      "height": 621,
+      "published": false
+    },
+    {
+      "file": "product-rivo-side-table.webp",
+      "width": 651,
+      "height": 621,
+      "published": false
+    },
+    {
+      "file": "product-aiko-pendant-lamp.webp",
+      "width": 651,
+      "height": 621,
+      "published": false
+    },
+    {
+      "file": "product-lume-sideboard.webp",
+      "width": 648,
+      "height": 621,
+      "published": false
+    }
+  ],
+  "ui_css": {
+    "background": "#FFFFFF",
+    "ink": "#262A2D",
+    "pale_circle": "#F6F4F2",
+    "sage": "#858875",
+    "sale_circle": "#F8C9BA",
+    "discount_badge": "#DF6862",
+    "card_shadow": "0 8px 26px rgba(41,35,27,0.025)"
+  },
+  "created_on": "2026-10-11"
+}
