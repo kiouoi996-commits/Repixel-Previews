@@ -1030,7 +1030,7 @@
         303,
         243
       ],
-      "alpha": true,
+      "alpha": false,
       "object_bbox_in_source_px": [
         1088,
         801,
@@ -1092,7 +1092,7 @@
         303,
         267
       ],
-      "alpha": true,
+      "alpha": false,
       "object_bbox_in_source_px": [
         1089,
         881,
@@ -1904,8 +1904,16 @@
     "media_commit": "7fd3a1e7011c0247f2e207e68fbe10e67d0076b5",
     "repository_url": "https://github.com/kiouoi996-commits/Repixel-Previews",
     "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/7fd3a1e7011c0247f2e207e68fbe10e67d0076b5/images/foodie-fresh-delivery-dashboard",
-    "verified_media_commit": false,
+    "verified_media_commit": true,
     "note": "Every asset URL is commit-pinned; manifest and guide will be in a later metadata commit."
   },
-  "transfer_notice": "GitHub raster files were recompressed via a temporary AVIF intermediate and restored at 3x pixel dimensions; the downloadable local package retains higher quality WebP. Both are screenshot reconstructions."
+  "transfer_notice": "GitHub raster files were recompressed via a temporary AVIF intermediate and restored at 3x pixel dimensions; the downloadable local package retains higher quality WebP. Both are screenshot reconstructions.",
+  "verification": {
+    "method": "HTTP GET + SHA-256 comparison with prepared files",
+    "files_checked": 42,
+    "files_successful": 42,
+    "http_status": 200,
+    "checked_on": "2026-10-11",
+    "detail": "40 media URLs pinned to media commit + 2 metadata URLs at manifest commit verified successfully"
+  }
 }
