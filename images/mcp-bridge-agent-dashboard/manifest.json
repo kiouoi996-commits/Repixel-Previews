@@ -1,0 +1,1700 @@
+{
+  "project": "mcp-bridge-agent-dashboard",
+  "title": "MCP Bridge — Connected AI Agents Dashboard",
+  "type": "reconstruction from screenshot, not original design files",
+  "reference": {
+    "widthPx": 1446,
+    "heightPx": 1088,
+    "coordinateOrigin": "upper-left",
+    "measurementCertainty": "approximate pixel measurements from raster screenshot"
+  },
+  "repo": "https://github.com/kiouoi996-commits/Repixel-Previews",
+  "folder": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/main/images/mcp-bridge-agent-dashboard",
+  "assets": [
+    {
+      "file": "icons/brand-mcp-bridge.svg",
+      "role": "Логотип MCP Bridge в боковой панели",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 61 47",
+      "renderSizePx": [
+        47,
+        36
+      ],
+      "assetCanvasPx": [
+        61,
+        47
+      ],
+      "aspectRatio": 1.306,
+      "alpha": true,
+      "screenBBoxPx": [
+        78,
+        103,
+        125,
+        139
+      ],
+      "screenBBoxPercent": [
+        5.39,
+        9.47,
+        8.64,
+        12.78
+      ],
+      "slotBBoxPx": [
+        77,
+        98,
+        128,
+        143
+      ],
+      "slotBBoxPercent": [
+        5.33,
+        9.01,
+        8.85,
+        13.14
+      ],
+      "objectOccupancyPercent": [
+        92.2,
+        80.0
+      ],
+      "marginsPercentLTRB": [
+        2.0,
+        11.1,
+        5.9,
+        8.9
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "a5cc220198e2d5e4fccac697094b9601e4a63e750f26a790335b02fe49b5ae54",
+      "bytes": 1271,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/brand-mcp-bridge.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/logo-chatgpt.svg",
+      "role": "Знак ChatGPT в первой карточке агента",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        55,
+        56
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 0.982,
+      "alpha": true,
+      "screenBBoxPx": [
+        358,
+        314,
+        413,
+        370
+      ],
+      "screenBBoxPercent": [
+        24.76,
+        28.86,
+        28.56,
+        34.01
+      ],
+      "slotBBoxPx": [
+        345,
+        302,
+        425,
+        382
+      ],
+      "slotBBoxPercent": [
+        23.86,
+        27.76,
+        29.39,
+        35.11
+      ],
+      "objectOccupancyPercent": [
+        68.8,
+        70.0
+      ],
+      "marginsPercentLTRB": [
+        16.2,
+        15.0,
+        15.0,
+        15.0
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "a891fa5b70ca89cd2cbd4fba529097493916dda4343b703e4372d68e5d6f4c1d",
+      "bytes": 730,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-chatgpt.svg",
+      "tileStyle": {
+        "background": "linear-gradient(133deg,#0D806B 0%,#19A281 55%,#087E69 100%)",
+        "borderRadius": 15,
+        "slotPx": [
+          80,
+          80
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-claude.svg",
+      "role": "Лучевая эмблема Claude во второй карточке",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        49,
+        52
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 0.942,
+      "alpha": true,
+      "screenBBoxPx": [
+        705,
+        316,
+        754,
+        368
+      ],
+      "screenBBoxPercent": [
+        48.76,
+        29.04,
+        52.14,
+        33.82
+      ],
+      "slotBBoxPx": [
+        689,
+        302,
+        769,
+        382
+      ],
+      "slotBBoxPercent": [
+        47.65,
+        27.76,
+        53.18,
+        35.11
+      ],
+      "objectOccupancyPercent": [
+        61.3,
+        65.0
+      ],
+      "marginsPercentLTRB": [
+        20.0,
+        17.5,
+        18.8,
+        17.5
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "67dbc9af50d74ba9d516ea64403243780edf4361f25b2b1c3362cc28f0a17980",
+      "bytes": 320,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-claude.svg",
+      "tileStyle": {
+        "background": "linear-gradient(140deg,#FF5422 0%,#FF762A 58%,#F95024 100%)",
+        "borderRadius": 15,
+        "slotPx": [
+          80,
+          80
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-gemini.svg",
+      "role": "Звезда Gemini в третьей карточке",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        45,
+        43
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 1.047,
+      "alpha": true,
+      "screenBBoxPx": [
+        1037,
+        321,
+        1082,
+        364
+      ],
+      "screenBBoxPercent": [
+        71.72,
+        29.5,
+        74.83,
+        33.46
+      ],
+      "slotBBoxPx": [
+        1019,
+        302,
+        1100,
+        382
+      ],
+      "slotBBoxPercent": [
+        70.47,
+        27.76,
+        76.07,
+        35.11
+      ],
+      "objectOccupancyPercent": [
+        55.6,
+        53.8
+      ],
+      "marginsPercentLTRB": [
+        22.2,
+        23.8,
+        22.2,
+        22.5
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "6e6c1060ba5816f65bda1ba582f28457da92997f4eea936b4c7f2ec19d3563d0",
+      "bytes": 611,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-gemini.svg",
+      "tileStyle": {
+        "background": "linear-gradient(140deg,#E3E9FF 0%,#EEF2FF 100%)",
+        "borderRadius": 15,
+        "slotPx": [
+          80,
+          80
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-wildberries.svg",
+      "role": "Логотип WB в подключениях",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        36,
+        28
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 1.286,
+      "alpha": true,
+      "screenBBoxPx": [
+        356,
+        549,
+        392,
+        577
+      ],
+      "screenBBoxPercent": [
+        24.62,
+        50.46,
+        27.11,
+        53.03
+      ],
+      "slotBBoxPx": [
+        350,
+        540,
+        398,
+        588
+      ],
+      "slotBBoxPercent": [
+        24.2,
+        49.63,
+        27.52,
+        54.04
+      ],
+      "objectOccupancyPercent": [
+        75.0,
+        58.3
+      ],
+      "marginsPercentLTRB": [
+        12.5,
+        18.8,
+        12.5,
+        22.9
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "bdf43918ed7fbb386f6d0af0388ae9cab78ac537742b809e28122c635082df61",
+      "bytes": 285,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-wildberries.svg",
+      "tileStyle": {
+        "background": "linear-gradient(135deg,#9305B8 0%,#7600C3 100%)",
+        "borderRadius": 12,
+        "slotPx": [
+          48,
+          48
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-ozon.svg",
+      "role": "Логотип OZ в подключениях",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        38,
+        25
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 1.52,
+      "alpha": true,
+      "screenBBoxPx": [
+        611,
+        551,
+        649,
+        576
+      ],
+      "screenBBoxPercent": [
+        42.25,
+        50.64,
+        44.88,
+        52.94
+      ],
+      "slotBBoxPx": [
+        605,
+        540,
+        653,
+        588
+      ],
+      "slotBBoxPercent": [
+        41.84,
+        49.63,
+        45.16,
+        54.04
+      ],
+      "objectOccupancyPercent": [
+        79.2,
+        52.1
+      ],
+      "marginsPercentLTRB": [
+        12.5,
+        22.9,
+        8.3,
+        25.0
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "a5c14f490c4979ec02f56de8e3897c08e878bb1d79acbc33af0600438cbec72e",
+      "bytes": 278,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-ozon.svg",
+      "tileStyle": {
+        "background": "linear-gradient(140deg,#0878FB 0%,#0067EB 100%)",
+        "borderRadius": 12,
+        "slotPx": [
+          48,
+          48
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-avito.svg",
+      "role": "Три разноцветных знака Avito",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 60 60",
+      "renderSizePx": [
+        45,
+        42
+      ],
+      "assetCanvasPx": [
+        60,
+        60
+      ],
+      "aspectRatio": 1.071,
+      "alpha": true,
+      "screenBBoxPx": [
+        843,
+        540,
+        888,
+        582
+      ],
+      "screenBBoxPercent": [
+        58.3,
+        49.63,
+        61.41,
+        53.49
+      ],
+      "slotBBoxPx": [
+        841,
+        538,
+        890,
+        587
+      ],
+      "slotBBoxPercent": [
+        58.16,
+        49.45,
+        61.55,
+        53.95
+      ],
+      "objectOccupancyPercent": [
+        91.8,
+        85.7
+      ],
+      "marginsPercentLTRB": [
+        4.1,
+        4.1,
+        4.1,
+        10.2
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "7dcbf3598a81a0dff3cb270fa438438cd37349e95094d65428462292aa389e9f",
+      "bytes": 287,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-avito.svg",
+      "tileStyle": {
+        "background": "transparent",
+        "borderRadius": 0,
+        "slotPx": [
+          48,
+          48
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-instagram.svg",
+      "role": "Камера Instagram",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        35,
+        33
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 1.061,
+      "alpha": true,
+      "screenBBoxPx": [
+        1112,
+        547,
+        1147,
+        580
+      ],
+      "screenBBoxPercent": [
+        76.9,
+        50.28,
+        79.32,
+        53.31
+      ],
+      "slotBBoxPx": [
+        1104,
+        540,
+        1153,
+        589
+      ],
+      "slotBBoxPercent": [
+        76.35,
+        49.63,
+        79.74,
+        54.14
+      ],
+      "objectOccupancyPercent": [
+        71.4,
+        67.3
+      ],
+      "marginsPercentLTRB": [
+        16.3,
+        14.3,
+        12.2,
+        18.4
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "870ca28348c4fcbba1adb7ee1b2e8909db584b45f390f20b95c7b566df79ff06",
+      "bytes": 325,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-instagram.svg",
+      "tileStyle": {
+        "background": "linear-gradient(140deg,#F82780 0%,#F30769 65%,#F8005E 100%)",
+        "borderRadius": 12,
+        "slotPx": [
+          48,
+          48
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-telegram.svg",
+      "role": "Белый самолётик Telegram",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        35,
+        35
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 1.0,
+      "alpha": true,
+      "screenBBoxPx": [
+        357,
+        645,
+        392,
+        680
+      ],
+      "screenBBoxPercent": [
+        24.69,
+        59.28,
+        27.11,
+        62.5
+      ],
+      "slotBBoxPx": [
+        350,
+        638,
+        399,
+        687
+      ],
+      "slotBBoxPercent": [
+        24.2,
+        58.64,
+        27.59,
+        63.14
+      ],
+      "objectOccupancyPercent": [
+        71.4,
+        71.4
+      ],
+      "marginsPercentLTRB": [
+        14.3,
+        14.3,
+        14.3,
+        14.3
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "8e895eee6c0f0e7ec40a7cc8f259ed2ff9a1da32b57a36b504de4d6410df83c2",
+      "bytes": 364,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-telegram.svg",
+      "tileStyle": {
+        "background": "linear-gradient(130deg,#20C7FF 0%,#06A8F5 100%)",
+        "borderRadius": 12,
+        "slotPx": [
+          49,
+          49
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-moysklad.svg",
+      "role": "Двухцветная буква M МойСклад",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        35,
+        35
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 1.0,
+      "alpha": true,
+      "screenBBoxPx": [
+        661,
+        646,
+        696,
+        681
+      ],
+      "screenBBoxPercent": [
+        45.71,
+        59.38,
+        48.13,
+        62.59
+      ],
+      "slotBBoxPx": [
+        654,
+        638,
+        703,
+        687
+      ],
+      "slotBBoxPercent": [
+        45.23,
+        58.64,
+        48.62,
+        63.14
+      ],
+      "objectOccupancyPercent": [
+        71.4,
+        71.4
+      ],
+      "marginsPercentLTRB": [
+        14.3,
+        16.3,
+        14.3,
+        12.2
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "6b006d307919e158c112346044d37731c68c9e0a08b6e4222d077f6c6c17325b",
+      "bytes": 738,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-moysklad.svg",
+      "tileStyle": {
+        "background": "linear-gradient(135deg,#E1EDFF 0%,#D6E8FF 100%)",
+        "borderRadius": 12,
+        "slotPx": [
+          49,
+          49
+        ]
+      }
+    },
+    {
+      "file": "icons/logo-cdek.svg",
+      "role": "Белая стрелка-птица CDEK",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 64 64",
+      "renderSizePx": [
+        31,
+        27
+      ],
+      "assetCanvasPx": [
+        64,
+        64
+      ],
+      "aspectRatio": 1.148,
+      "alpha": true,
+      "screenBBoxPx": [
+        965,
+        649,
+        996,
+        676
+      ],
+      "screenBBoxPercent": [
+        66.74,
+        59.65,
+        68.88,
+        62.13
+      ],
+      "slotBBoxPx": [
+        957,
+        638,
+        1006,
+        687
+      ],
+      "slotBBoxPercent": [
+        66.18,
+        58.64,
+        69.57,
+        63.14
+      ],
+      "objectOccupancyPercent": [
+        63.3,
+        55.1
+      ],
+      "marginsPercentLTRB": [
+        16.3,
+        22.4,
+        20.4,
+        22.4
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "8d93bdef17538b28b19facbf0499f3f0f835d6be0a39643af7edf8e7c14f4143",
+      "bytes": 405,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/logo-cdek.svg",
+      "tileStyle": {
+        "background": "linear-gradient(135deg,#60CC49 0%,#32A726 100%)",
+        "borderRadius": 12,
+        "slotPx": [
+          49,
+          49
+        ]
+      }
+    },
+    {
+      "file": "icons/home.svg",
+      "role": "Пункт Home, активный",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        25,
+        30
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.833,
+      "alpha": true,
+      "screenBBoxPx": [
+        81,
+        185,
+        106,
+        215
+      ],
+      "screenBBoxPercent": [
+        5.6,
+        17.0,
+        7.33,
+        19.76
+      ],
+      "slotBBoxPx": [
+        79,
+        184,
+        108,
+        216
+      ],
+      "slotBBoxPercent": [
+        5.46,
+        16.91,
+        7.47,
+        19.85
+      ],
+      "objectOccupancyPercent": [
+        86.2,
+        93.8
+      ],
+      "marginsPercentLTRB": [
+        6.9,
+        3.1,
+        6.9,
+        3.1
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "6da977b00d9ba499585aeb0400d20a38d856e80260c5defab1b16dfa43ed25cf",
+      "bytes": 298,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/home.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/link.svg",
+      "role": "Пункт Connections, повтор в recent activity",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        25,
+        28
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.893,
+      "alpha": true,
+      "screenBBoxPx": [
+        80,
+        254,
+        105,
+        282
+      ],
+      "screenBBoxPercent": [
+        5.53,
+        23.35,
+        7.26,
+        25.92
+      ],
+      "slotBBoxPx": [
+        79,
+        252,
+        108,
+        283
+      ],
+      "slotBBoxPercent": [
+        5.46,
+        23.16,
+        7.47,
+        26.01
+      ],
+      "objectOccupancyPercent": [
+        86.2,
+        90.3
+      ],
+      "marginsPercentLTRB": [
+        3.4,
+        6.5,
+        10.3,
+        3.2
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "6e2ba4e17b48f120081593bf4daa8d401845bdd4e92d82e56ca0115ea6afa384",
+      "bytes": 361,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/link.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/bolt.svg",
+      "role": "Automations, KPI и строка активности с разным CSS цветом",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        26,
+        34
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.765,
+      "alpha": true,
+      "screenBBoxPx": [
+        79,
+        314,
+        105,
+        348
+      ],
+      "screenBBoxPercent": [
+        5.46,
+        28.86,
+        7.26,
+        31.99
+      ],
+      "slotBBoxPx": [
+        79,
+        314,
+        107,
+        350
+      ],
+      "slotBBoxPercent": [
+        5.46,
+        28.86,
+        7.4,
+        32.17
+      ],
+      "objectOccupancyPercent": [
+        92.9,
+        94.4
+      ],
+      "marginsPercentLTRB": [
+        0.0,
+        0.0,
+        7.1,
+        5.6
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "40bc56d81c1611fa091495885c5acca4ef6c5cab2cf037312260b5716e1a234e",
+      "bytes": 285,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/bolt.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/settings.svg",
+      "role": "Пункт Settings",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        27,
+        29
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.931,
+      "alpha": true,
+      "screenBBoxPx": [
+        80,
+        380,
+        107,
+        409
+      ],
+      "screenBBoxPercent": [
+        5.53,
+        34.93,
+        7.4,
+        37.59
+      ],
+      "slotBBoxPx": [
+        79,
+        380,
+        109,
+        410
+      ],
+      "slotBBoxPercent": [
+        5.46,
+        34.93,
+        7.54,
+        37.68
+      ],
+      "objectOccupancyPercent": [
+        90.0,
+        96.7
+      ],
+      "marginsPercentLTRB": [
+        3.3,
+        0.0,
+        6.7,
+        3.3
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "5c882e3341a17835a118aec528195389460508c90cc70710dc8f0ef983246fdb",
+      "bytes": 561,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/settings.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/search.svg",
+      "role": "Иконка поля поиска",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        22,
+        24
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.917,
+      "alpha": true,
+      "screenBBoxPx": [
+        336,
+        106,
+        358,
+        130
+      ],
+      "screenBBoxPercent": [
+        23.24,
+        9.74,
+        24.76,
+        11.95
+      ],
+      "slotBBoxPx": [
+        332,
+        102,
+        360,
+        134
+      ],
+      "slotBBoxPercent": [
+        22.96,
+        9.38,
+        24.9,
+        12.32
+      ],
+      "objectOccupancyPercent": [
+        78.6,
+        75.0
+      ],
+      "marginsPercentLTRB": [
+        14.3,
+        12.5,
+        7.1,
+        12.5
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "acc22241919fa2c63243db7589c150741540598f949e4e5ccb0ced0efa3c5c59",
+      "bytes": 286,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/search.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/bell.svg",
+      "role": "Кнопка уведомлений",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        26,
+        28
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.929,
+      "alpha": true,
+      "screenBBoxPx": [
+        1083,
+        105,
+        1109,
+        133
+      ],
+      "screenBBoxPercent": [
+        74.9,
+        9.65,
+        76.69,
+        12.22
+      ],
+      "slotBBoxPx": [
+        1081,
+        102,
+        1111,
+        134
+      ],
+      "slotBBoxPercent": [
+        74.76,
+        9.38,
+        76.83,
+        12.32
+      ],
+      "objectOccupancyPercent": [
+        86.7,
+        87.5
+      ],
+      "marginsPercentLTRB": [
+        6.7,
+        9.4,
+        6.7,
+        3.1
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "e7863f7f24ca9daed0766c9d79e60680eba92fcb5a94ccb6ad0ba3e417c9c4da",
+      "bytes": 382,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/bell.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/chevron-down.svg",
+      "role": "Раскрытие меню профиля",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        14,
+        11
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 1.273,
+      "alpha": true,
+      "screenBBoxPx": [
+        1314,
+        113,
+        1328,
+        124
+      ],
+      "screenBBoxPercent": [
+        90.87,
+        10.39,
+        91.84,
+        11.4
+      ],
+      "slotBBoxPx": [
+        1310,
+        106,
+        1334,
+        132
+      ],
+      "slotBBoxPercent": [
+        90.59,
+        9.74,
+        92.25,
+        12.13
+      ],
+      "objectOccupancyPercent": [
+        58.3,
+        42.3
+      ],
+      "marginsPercentLTRB": [
+        16.7,
+        26.9,
+        25.0,
+        30.8
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "481c2af88b923413d475c5d51fcacc7aff94c16665b1e319d3e369c6adf4e09b",
+      "bytes": 247,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/chevron-down.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/plus.svg",
+      "role": "Добавить AI Agent",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        22,
+        23
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.957,
+      "alpha": true,
+      "screenBBoxPx": [
+        1161,
+        208,
+        1183,
+        231
+      ],
+      "screenBBoxPercent": [
+        80.29,
+        19.12,
+        81.81,
+        21.23
+      ],
+      "slotBBoxPx": [
+        1158,
+        206,
+        1186,
+        233
+      ],
+      "slotBBoxPercent": [
+        80.08,
+        18.93,
+        82.02,
+        21.42
+      ],
+      "objectOccupancyPercent": [
+        78.6,
+        85.2
+      ],
+      "marginsPercentLTRB": [
+        10.7,
+        7.4,
+        10.7,
+        7.4
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "6b9cba09f5374a72aff2c04ca7ac7a9e313994cb70ffc0405a3170d54ae9acca",
+      "bytes": 251,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/plus.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/more-horizontal.svg",
+      "role": "Точки опций, повтор у карточек",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        23,
+        9
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 2.556,
+      "alpha": true,
+      "screenBBoxPx": [
+        608,
+        301,
+        631,
+        310
+      ],
+      "screenBBoxPercent": [
+        42.05,
+        27.67,
+        43.64,
+        28.49
+      ],
+      "slotBBoxPx": [
+        607,
+        294,
+        633,
+        317
+      ],
+      "slotBBoxPercent": [
+        41.98,
+        27.02,
+        43.78,
+        29.14
+      ],
+      "objectOccupancyPercent": [
+        88.5,
+        39.1
+      ],
+      "marginsPercentLTRB": [
+        3.8,
+        30.4,
+        7.7,
+        30.4
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "ba6954418ca2d25076a94fb2bb0ec5a88e0dc7aeb09ecbc705724417a483db60",
+      "bytes": 247,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/more-horizontal.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "role": "Ссылки View all",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        18,
+        20
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.9,
+      "alpha": true,
+      "screenBBoxPx": [
+        1303,
+        486,
+        1321,
+        506
+      ],
+      "screenBBoxPercent": [
+        90.11,
+        44.67,
+        91.36,
+        46.51
+      ],
+      "slotBBoxPx": [
+        1298,
+        484,
+        1323,
+        508
+      ],
+      "slotBBoxPercent": [
+        89.76,
+        44.49,
+        91.49,
+        46.69
+      ],
+      "objectOccupancyPercent": [
+        72.0,
+        83.3
+      ],
+      "marginsPercentLTRB": [
+        20.0,
+        8.3,
+        8.0,
+        8.3
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "0b921e5d264acc9d67eec5a0ea16abeeb9dfd8d5db5d85501d8e951842f4f688",
+      "bytes": 267,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/arrow-right.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/crown.svg",
+      "role": "Иконка в Upgrade to Pro",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        31,
+        30
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 1.033,
+      "alpha": true,
+      "screenBBoxPx": [
+        87,
+        826,
+        118,
+        856
+      ],
+      "screenBBoxPercent": [
+        6.02,
+        75.92,
+        8.16,
+        78.68
+      ],
+      "slotBBoxPx": [
+        86,
+        823,
+        120,
+        859
+      ],
+      "slotBBoxPercent": [
+        5.95,
+        75.64,
+        8.3,
+        78.95
+      ],
+      "objectOccupancyPercent": [
+        91.2,
+        83.3
+      ],
+      "marginsPercentLTRB": [
+        2.9,
+        8.3,
+        5.9,
+        8.3
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "5f2a6e5ad1754b2711bee282f3901eefe7c07f92f6e3785803e24bf1e3fce968",
+      "bytes": 276,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/crown.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/people.svg",
+      "role": "Число подключений, KPI",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        31,
+        30
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 1.033,
+      "alpha": true,
+      "screenBBoxPx": [
+        359,
+        774,
+        390,
+        804
+      ],
+      "screenBBoxPercent": [
+        24.83,
+        71.14,
+        26.97,
+        73.9
+      ],
+      "slotBBoxPx": [
+        355,
+        769,
+        394,
+        808
+      ],
+      "slotBBoxPercent": [
+        24.55,
+        70.68,
+        27.25,
+        74.26
+      ],
+      "objectOccupancyPercent": [
+        79.5,
+        76.9
+      ],
+      "marginsPercentLTRB": [
+        10.3,
+        12.8,
+        10.3,
+        10.3
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "61db7f412b4d6a652fff578ee99c0b6782499009878f11d224e10b13b4804983",
+      "bytes": 384,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/people.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/chat.svg",
+      "role": "Общее число сообщений KPI и activity",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        31,
+        32
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.969,
+      "alpha": true,
+      "screenBBoxPx": [
+        776,
+        774,
+        807,
+        806
+      ],
+      "screenBBoxPercent": [
+        53.67,
+        71.14,
+        55.81,
+        74.08
+      ],
+      "slotBBoxPx": [
+        771,
+        769,
+        810,
+        810
+      ],
+      "slotBBoxPercent": [
+        53.32,
+        70.68,
+        56.02,
+        74.45
+      ],
+      "objectOccupancyPercent": [
+        79.5,
+        78.0
+      ],
+      "marginsPercentLTRB": [
+        12.8,
+        12.2,
+        7.7,
+        9.8
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "2beebdaa2637d1de6f21be9d1ecbe03ba3bb555b4b3025fb48935846105bb53d",
+      "bytes": 363,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/chat.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/arrow-up.svg",
+      "role": "Положительный тренд показателя",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        16,
+        28
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.571,
+      "alpha": true,
+      "screenBBoxPx": [
+        348,
+        899,
+        364,
+        927
+      ],
+      "screenBBoxPercent": [
+        24.07,
+        82.63,
+        25.17,
+        85.2
+      ],
+      "slotBBoxPx": [
+        343,
+        896,
+        367,
+        929
+      ],
+      "slotBBoxPercent": [
+        23.72,
+        82.35,
+        25.38,
+        85.39
+      ],
+      "objectOccupancyPercent": [
+        66.7,
+        84.8
+      ],
+      "marginsPercentLTRB": [
+        20.8,
+        9.1,
+        12.5,
+        6.1
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "5863864eae5c8f3c5b14eb2bb05a3dc7e067b9672d0773a4ef5c030a27ba34b8",
+      "bytes": 270,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/arrow-up.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/sync.svg",
+      "role": "Индикатор синхронизации Avito",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        14,
+        17
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 0.824,
+      "alpha": true,
+      "screenBBoxPx": [
+        916,
+        569,
+        930,
+        586
+      ],
+      "screenBBoxPercent": [
+        63.35,
+        52.3,
+        64.32,
+        53.86
+      ],
+      "slotBBoxPx": [
+        913,
+        566,
+        935,
+        588
+      ],
+      "slotBBoxPercent": [
+        63.14,
+        52.02,
+        64.66,
+        54.04
+      ],
+      "objectOccupancyPercent": [
+        63.6,
+        77.3
+      ],
+      "marginsPercentLTRB": [
+        13.6,
+        13.6,
+        22.7,
+        9.1
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "8ac53f1ded97569a7c6797359aed9d5446d08f6027f4dc59ad4ec88b1faf2f8a",
+      "bytes": 367,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/sync.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "icons/plane.svg",
+      "role": "Отчёт сформирован в строке activity",
+      "format": "image/svg+xml",
+      "viewBox": "0 0 24 24",
+      "renderSizePx": [
+        17,
+        15
+      ],
+      "assetCanvasPx": [
+        24,
+        24
+      ],
+      "aspectRatio": 1.133,
+      "alpha": true,
+      "screenBBoxPx": [
+        977,
+        927,
+        994,
+        942
+      ],
+      "screenBBoxPercent": [
+        67.57,
+        85.2,
+        68.74,
+        86.58
+      ],
+      "slotBBoxPx": [
+        973,
+        922,
+        997,
+        946
+      ],
+      "slotBBoxPercent": [
+        67.29,
+        84.74,
+        68.95,
+        86.95
+      ],
+      "objectOccupancyPercent": [
+        70.8,
+        62.5
+      ],
+      "marginsPercentLTRB": [
+        16.7,
+        20.8,
+        12.5,
+        16.7
+      ],
+      "clipped": false,
+      "display": "SVG <img>, width/height per slot, object-fit:contain; CSS currentColor for UI icons; backgrounds via CSS",
+      "sha256": "d08b150d159c22c2dfb4802747d0bcb9cb0ef432e58fb56fe7a3a62b0a48ae67",
+      "bytes": 310,
+      "repoPath": "images/mcp-bridge-agent-dashboard/icons/plane.svg",
+      "tileStyle": null
+    },
+    {
+      "file": "avatar-olivia-parker.webp",
+      "role": "Круглый портрет в меню профиля",
+      "format": "image/webp",
+      "renderSizePx": [
+        50,
+        50
+      ],
+      "assetCanvasPx": [
+        150,
+        150
+      ],
+      "aspectRatio": 1,
+      "alpha": true,
+      "screenBBoxPx": [
+        1177,
+        93,
+        1227,
+        143
+      ],
+      "screenBBoxPercent": [
+        81.4,
+        8.55,
+        84.85,
+        13.14
+      ],
+      "slotBBoxPx": [
+        1177,
+        93,
+        1227,
+        143
+      ],
+      "slotBBoxPercent": [
+        81.4,
+        8.55,
+        84.85,
+        13.14
+      ],
+      "objectOccupancyPercent": [
+        100,
+        100
+      ],
+      "marginsPercentLTRB": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "clipped": true,
+      "display": "width:50px;height:50px;border-radius:50%;object-fit:cover;object-position:center",
+      "source": "direct pixel crop from screenshot upscaled 3×, not high-res original or face regeneration",
+      "sha256": "a3a2f428746a6b33bcacb1ee47807d1352216210b7f1402ffb3398e01f53b6f5",
+      "bytes": 4826,
+      "repoPath": "images/mcp-bridge-agent-dashboard/avatar-olivia-parker.webp"
+    }
+  ],
+  "assetCount": 28,
+  "nonImageUi": {
+    "canvas": {
+      "color": "#F8F5EF",
+      "gradient": "radial-gradient(ellipse at center, #FFFFFF 0%, #FAF9F7 72%, #F8F5EF 100%)"
+    },
+    "mainShell": {
+      "background": "rgba(255,255,255,0.77)",
+      "radiusPx": 20,
+      "shadow": "0 7px 48px rgba(92,70,48,0.045)"
+    },
+    "cards": {
+      "background": "linear-gradient(140deg,#F8F8F9 0%,#F4F4F5 100%)",
+      "radiusPx": 15
+    },
+    "darkButtons": {
+      "background": "linear-gradient(145deg,#1A1A1A 0%,#161616 100%)",
+      "radiusPx": 13
+    },
+    "statusConnected": {
+      "background": "#DFF7E8",
+      "text": "#00A540",
+      "dot": "#00B447"
+    },
+    "statusDisconnected": {
+      "background": "#ECECF4",
+      "text": "#646D89"
+    },
+    "statusSyncing": {
+      "background": "#E3F0FF",
+      "text": "#0677F7"
+    },
+    "kpiRoundBackgrounds": [
+      "#DCF8E6",
+      "#DBEBFE",
+      "#F1E2FD"
+    ],
+    "upgradeCard": "linear-gradient(145deg,#FFFAF0 0%,#FFF4E2 100%)",
+    "typeTreatment": "Use live HTML text for all headings, brand wordmark, agent names, dates, labels, counts and badges. No text embedded in raster. WB and OZ are SVG brand lettering."
+  },
+  "limitations": [
+    "Only a single screenshot was provided; hidden/reconstructed shapes are approximate.",
+    "Visible avatar is a 50×50-pixel screenshot crop upscaled 3×; this is not original photographic detail.",
+    "Brand logos are clean SVG reconstructions of screenshot appearance, not official vendor logo source files.",
+    "Geometry, fills and color values are visually sampled estimates, not verified source-code tokens.",
+    "UI icons and logo tiles should not be stacked with duplicate background or shadows."
+  ],
+  "published": false
+}

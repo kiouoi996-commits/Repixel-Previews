@@ -1,0 +1,31 @@
+/* Reconstructed visually from 1446 × 1088 screenshot; all values approximate. */
+:root { --mcp-ink:#11131A;--mcp-muted:#5E6574;--mcp-on-dark:#FFFFFF;--mcp-green:#00B34D;--mcp-blue:#087AFA;--mcp-purple:#9200ED; }
+.mcp-background { background:radial-gradient(ellipse at 50% 45%,#FFFFFF 0%,#FAF9F7 72%,#F8F5EF 100%); }
+.mcp-app-shell {background:rgba(255,255,255,.77); border-radius:20px;box-shadow:0 7px 48px rgba(92,70,48,.045);}
+.mcp-glass-card {background:linear-gradient(140deg,#F8F8F9 0%,#F4F4F5 100%);border-radius:15px;}
+.mcp-active-nav,.mcp-black-button {background:linear-gradient(145deg,#1A1A1A 0%,#161616 100%);border-radius:13px;color:white;}
+.mcp-status-connected {background:#DFF7E8;color:#00A540;border-radius:20px;}
+.mcp-status-connected::before {content:'';width:11px;height:11px;border-radius:50%;background:#00B447;display:inline-block;margin-right:12px;}
+.mcp-status-offline {background:#ECECF4;color:#646D89;border-radius:20px;}
+.mcp-status-sync {background:#E3F0FF;color:#0677F7;border-radius:20px;}
+.mcp-kpi-icon-bg--green {background:#DCF8E6;}
+.mcp-kpi-icon-bg--blue {background:#DBEBFE;}
+.mcp-kpi-icon-bg--purple {background:#F1E2FD;}
+.mcp-kpi-icon-bg {border-radius:50%; width:67px;height:67px;display:grid;place-items:center;}
+.mcp-upgrade-card {background:linear-gradient(145deg,#FFFAF0 0%,#FFF4E2 100%);border-radius:15px;}
+.mcp-avatar {width:50px;height:50px;border-radius:50%;object-fit:cover;object-position:center;}
+.mcp-logo-tile {display:grid;place-items:center;overflow:hidden;box-sizing:border-box;}
+.mcp-logo-tile img {width:75%;height:75%;object-fit:contain;object-position:center;}
+.mcp-logo-tile--chatgpt{background:linear-gradient(133deg,#0D806B 0%,#19A281 55%,#087E69 100%);border-radius:15px;}
+.mcp-logo-tile--claude{background:linear-gradient(140deg,#FF5422 0%,#FF762A 58%,#F95024 100%);border-radius:15px;}
+.mcp-logo-tile--gemini{background:linear-gradient(140deg,#E3E9FF 0%,#EEF2FF 100%);border-radius:15px;}
+.mcp-logo-tile--wildberries{background:linear-gradient(135deg,#9305B8 0%,#7600C3 100%);border-radius:12px;}
+.mcp-logo-tile--ozon{background:linear-gradient(140deg,#0878FB 0%,#0067EB 100%);border-radius:12px;}
+.mcp-logo-tile--instagram{background:linear-gradient(140deg,#F82780 0%,#F30769 65%,#F8005E 100%);border-radius:12px;}
+.mcp-logo-tile--telegram{background:linear-gradient(130deg,#20C7FF 0%,#06A8F5 100%);border-radius:12px;}
+.mcp-logo-tile--moysklad{background:linear-gradient(135deg,#E1EDFF 0%,#D6E8FF 100%);border-radius:12px;}
+.mcp-logo-tile--cdek{background:linear-gradient(135deg,#60CC49 0%,#32A726 100%);border-radius:12px;}
+.mcp-logo-tile--avito{background:transparent;}
+.mcp-logo-tile--agent{width:80px;height:80px;}
+.mcp-logo-tile--connection{width:48px;height:48px;}
+.mcp-icon{width:24px;height:24px;display:inline-block;object-fit:contain;}
