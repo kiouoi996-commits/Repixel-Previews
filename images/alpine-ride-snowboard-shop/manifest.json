@@ -6,9 +6,9 @@
     1448,
     1086
   ],
-  "provenance": "Reconstruction based on screenshot; original source product media and design file were not supplied. AI-generated reference-sheet regions were individually segmented and exported as transparent assets, NOT original photographs. Hero scenes are AI reconstruction. A low-resolution binding is extracted from screenshot; recolored navy jacket/grey helmet are hypothetical.",
+  "provenance": "Reconstruction based on screenshot; original source product media and design file were not supplied. AI-generated reference-sheet regions were individually segmented and exported as transparent assets, NOT original photographs. Hero scenes are AI reconstruction. Binding is represented by a clean vector icon instead of an unusable low-resolution crop; recolored navy jacket/grey helmet are hypothetical.",
   "measurement_confidence": "All coordinates, object occupancy estimates and palettes are approximations measured on screenshot bitmap, NOT known design parameters.",
-  "asset_count": 31,
+  "asset_count": 30,
   "rasters": [
     {
       "file": "hero_left.webp",
@@ -492,57 +492,6 @@
       "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/4076f7bf2b5f9ba9a44a9048922ed4d7b9096f86/images/alpine-ride-snowboard-shop/helmet_freeride.webp"
     },
     {
-      "file": "binding_black.webp",
-      "kind": "category",
-      "display": "contain",
-      "alpha": true,
-      "notes": "Black and white binding with orange accents; adapted crop of a binding on generated board",
-      "width_px": 174,
-      "height_px": 216,
-      "aspect_ratio": 0.80556,
-      "screenshot_approx_bbox_px": [
-        97,
-        496,
-        38,
-        48
-      ],
-      "screenshot_approx_bbox_pct": [
-        6.7,
-        45.67,
-        2.62,
-        4.42
-      ],
-      "main_object_approx_bbox_pct_of_asset": [
-        2,
-        2,
-        97,
-        94
-      ],
-      "main_object_edge_gaps_pct": [
-        2,
-        2,
-        1,
-        4
-      ],
-      "placed_at": [
-        "left: Bindings category chip"
-      ],
-      "layer_separation": "Alpha-extracted native low-resolution screenshot crop, not a transparent product source.",
-      "reused": null,
-      "prompt_reconstruction": "One isolated black snowboard binding mechanism with curved highback and white support clips, angled three-quarter view, no board or snow, real transparency.",
-      "sha256": "60c568ed1f0d0538b72c7c1f6e99a15660adf8781d1af31c28dc596c92106607",
-      "byte_size": 9226,
-      "partial_cropping": "fully represented or artistically reconstructed as seen",
-      "background": "transparent alpha",
-      "display_css": {
-        "objectFit": "contain",
-        "objectPosition": "center center",
-        "avoidNonuniformStretch": true
-      },
-      "preview_url": null,
-      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/4076f7bf2b5f9ba9a44a9048922ed4d7b9096f86/images/alpine-ride-snowboard-shop/binding_black.webp"
-    },
-    {
       "file": "board_fire.webp",
       "kind": "board-thumbnail",
       "display": "contain",
@@ -778,9 +727,23 @@
       "viewBox": "0 0 24 24",
       "alpha": true,
       "background": "none",
-      "placed_at": "various UI controls, labels and state variants",
-      "visible_bboxes_px": [],
-      "visible_bboxes_pct": [],
+      "placed_at": "left screen: Bindings category chip",
+      "visible_bboxes_px": [
+        [
+          97,
+          496,
+          38,
+          48
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          6.7,
+          45.67,
+          2.62,
+          4.42
+        ]
+      ],
       "display_css": {
         "width": "18px-28px according to context",
         "height": "auto",
@@ -1542,13 +1505,13 @@
   "repo_folder": "images/alpine-ride-snowboard-shop",
   "git_commit": "4076f7bf2b5f9ba9a44a9048922ed4d7b9096f86",
   "verified_urls": true,
-  "assets_verified_count": 34,
+  "assets_verified_count": 33,
   "repo_folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/4076f7bf2b5f9ba9a44a9048922ed4d7b9096f86/images/alpine-ride-snowboard-shop",
   "manifest_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/manifest.json",
   "verification": {
     "method": "HTTP GET direct pinned raw links + SHA-256 byte comparison",
-    "checked_files": 34,
-    "matched_files": 34,
+    "checked_files": 33,
+    "matched_files": 33,
     "verified_at_commit": "4076f7bf2b5f9ba9a44a9048922ed4d7b9096f86",
     "notes": "URLs pinned to source-asset commit; manifest updated in a later commit."
   }

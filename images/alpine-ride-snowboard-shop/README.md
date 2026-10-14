@@ -19,7 +19,6 @@ Images contain no UI prices, buttons, text, cards or platform status indicators.
 | `jacket_orange.webp` | category | 369×417 | 0.88489 | yes | 846,308 · 72×86; 58.43, 28.36, 4.97, 7.92% | contain |
 | `jacket_navy.webp` | category | 369×417 | 0.88489 | yes | 94,553 · 42×44; 6.49, 50.92, 2.9, 4.05% | contain |
 | `helmet_freeride.webp` | product | 678×837 | 0.81004 | yes | 1242,820 · 128×126; 85.77, 75.51, 8.84, 11.6% | contain |
-| `binding_black.webp` | category | 174×216 | 0.80556 | yes | 97,496 · 38×48; 6.7, 45.67, 2.62, 4.42% | contain |
 | `board_fire.webp` | board-thumbnail | 300×570 | 0.52663 | yes | 195,838 · 93×108; 13.47, 77.16, 6.42, 9.94% | contain |
 | `board_white_blue.webp` | board-thumbnail | 288×510 | 0.56471 | yes | 303,837 · 90×109; 20.93, 77.07, 6.22, 10.04% | contain |
 | `avatar_rider.webp` | avatar | 237×231 | 1.02597 | yes | 860,114 · 43×44; 59.39, 10.5, 2.97, 4.05% | contain |
