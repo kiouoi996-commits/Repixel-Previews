@@ -1,0 +1,1545 @@
+{
+  "project": "alpine-ride-snowboard-shop",
+  "title": "Alpine Ride — Snowboard Gear Shopping UI",
+  "source": "user screenshot, 1448×1086 px",
+  "source_dimensions_px": [
+    1448,
+    1086
+  ],
+  "provenance": "Reconstruction based on screenshot; original source product media and design file were not supplied. AI-generated reference-sheet regions were individually segmented and exported as transparent assets, NOT original photographs. Hero scenes are AI reconstruction. A low-resolution binding is extracted from screenshot; recolored navy jacket/grey helmet are hypothetical.",
+  "measurement_confidence": "All coordinates, object occupancy estimates and palettes are approximations measured on screenshot bitmap, NOT known design parameters.",
+  "asset_count": 31,
+  "rasters": [
+    {
+      "file": "hero_left.webp",
+      "kind": "hero",
+      "display": "cover",
+      "subject": {
+        "bbox_pct": [
+          6,
+          8,
+          91,
+          82
+        ]
+      },
+      "alpha": false,
+      "notes": "Left mountain hero, snowboard integrated in photography; no UI text or controls. Generated reconstruction, not source.",
+      "width_px": 1320,
+      "height_px": 2913,
+      "aspect_ratio": 0.45314,
+      "screenshot_approx_bbox_px": [
+        56,
+        78,
+        433,
+        931
+      ],
+      "screenshot_approx_bbox_pct": [
+        3.87,
+        7.18,
+        29.9,
+        85.73
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        20,
+        10,
+        79,
+        76
+      ],
+      "main_object_edge_gaps_pct": [
+        20,
+        10,
+        1,
+        14
+      ],
+      "placed_at": [
+        "left: screen-cover background"
+      ],
+      "layer_separation": "Cover photograph; image includes snowy skyline and integrated diagonal board. Overlay navigation, title, chips, bottom popular panel are UI.",
+      "reused": null,
+      "prompt_reconstruction": "Portrait alpine snowboarding promotional photograph; intensely blue sky, bright snow-covered ridges and drifting snow spray; one glossy sky-blue navy orange coral snowboard with two realistic black/white bindings tilted lower left to upper right, lower nose ends in powder, sunny cold cinematic light; no labels, navigation, cards, badges or lettering. Native tall 0.46 aspect.",
+      "sha256": "e631e7769f0cd4add11913eb0e6b810c3cfb43f0f1ed1100fd8968d2182b4571",
+      "byte_size": 286126,
+      "partial_cropping": "cropped by container",
+      "background": "scene intrinsic opaque",
+      "display_css": {
+        "objectFit": "cover",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/hero_left.webp"
+    },
+    {
+      "file": "hero_right.webp",
+      "kind": "hero",
+      "display": "cover",
+      "subject": {
+        "bbox_pct": [
+          26,
+          7,
+          72,
+          72
+        ]
+      },
+      "alpha": false,
+      "notes": "Right mountain hero, snowboard integrated. CSS crop top middle to visible hero; bottom is masked by white product info sheet.",
+      "width_px": 1296,
+      "height_px": 2899,
+      "aspect_ratio": 0.44705,
+      "screenshot_approx_bbox_px": [
+        964,
+        78,
+        433,
+        535
+      ],
+      "screenshot_approx_bbox_pct": [
+        66.57,
+        7.18,
+        29.9,
+        49.26
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        23,
+        7,
+        74,
+        77
+      ],
+      "main_object_edge_gaps_pct": [
+        23,
+        7,
+        3,
+        16
+      ],
+      "placed_at": [
+        "right: photographic detail hero"
+      ],
+      "layer_separation": "Top image background with a snowboard and alpine rocks. UI back/heart and 1/4 dots are overlays. White product sheet is an overlay.",
+      "reused": null,
+      "prompt_reconstruction": "Portrait commercial alpine snowboarding photograph; blue sky, bright fluffy clouds, snowy rocks, in foreground one blue white orange-red snowboard with two black and white bindings; board angled from upper left to bottom right, sharply detailed with spray; no prices, indicator, heart or other interface, retain cold blue ambience.",
+      "sha256": "0ee1b3615da51dfe454791f0dd7c451f8006f4c6bb41569944ded45d97940fbd",
+      "byte_size": 284008,
+      "partial_cropping": "cropped by container",
+      "background": "scene intrinsic opaque",
+      "display_css": {
+        "objectFit": "cover",
+        "objectPosition": "center 26%",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/hero_right.webp"
+    },
+    {
+      "file": "board_alpine_pro.webp",
+      "kind": "product",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Alpine board without bindings, upright, blue mountain illustration; same art used in featured boards.",
+      "width_px": 417,
+      "height_px": 1278,
+      "aspect_ratio": 0.32629,
+      "screenshot_approx_bbox_px": [
+        542,
+        442,
+        177,
+        248
+      ],
+      "screenshot_approx_bbox_pct": [
+        37.43,
+        40.7,
+        12.22,
+        22.84
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        21,
+        1,
+        73,
+        97
+      ],
+      "main_object_edge_gaps_pct": [
+        21,
+        1,
+        6,
+        2
+      ],
+      "placed_at": [
+        "middle: Alpine Pro primary card",
+        "left: first popular-board circle (miniature artwork)"
+      ],
+      "layer_separation": "Transparent product, product title, price, plus button and card shadow are UI.",
+      "reused": "Use one file for Alpine Pro catalog card and first popular board miniaturization.",
+      "prompt_reconstruction": "Only a slender upright snowboard, full tip to tail, blue/cyan white snowy sharp mountain illustration, midnight navy top with white snowy sparkles, slightly angled to the camera, faint curved tip, isolated transparent background without shadow, captions, or card.",
+      "sha256": "2a71adbcc4a7d5d8f6149f410b71c240a71d6de1bf19dabf69c2483fa276c1a9",
+      "byte_size": 139650,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/board_alpine_pro.webp"
+    },
+    {
+      "file": "boot_summit.webp",
+      "kind": "product",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Charcoal boot, orange stitching and hardware; reuse category and recommendations",
+      "width_px": 684,
+      "height_px": 894,
+      "aspect_ratio": 0.7651,
+      "screenshot_approx_bbox_px": [
+        737,
+        440,
+        180,
+        251
+      ],
+      "screenshot_approx_bbox_pct": [
+        50.9,
+        40.52,
+        12.43,
+        23.11
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        5,
+        3,
+        94,
+        83
+      ],
+      "main_object_edge_gaps_pct": [
+        5,
+        3,
+        1,
+        14
+      ],
+      "placed_at": [
+        "middle: Summit Boot primary card",
+        "middle: boots category",
+        "right: first recommended card"
+      ],
+      "layer_separation": "Transparent dark charcoal snowboard boot; name and prices in UI.",
+      "reused": "Reuse for category Boots and right recommendation.",
+      "prompt_reconstruction": "Only one technical charcoal-black snowboard boot three-quarter view toward right, reinforced ankle and toe, orange reinforced loops/lacing accents, black rubber outsole and gray seams, photorealistic studio highlights, soft contact shadow alpha, no other object, transparent.",
+      "sha256": "2147fd3f0fd80f750337ef2bb3711ef46105e1a4a49011f071ff2f36bcf9bb61",
+      "byte_size": 71576,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/boot_summit.webp"
+    },
+    {
+      "file": "helmet_trail.webp",
+      "kind": "product",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Matte cobalt-blue shell, black/orange padding, black chinstrap; category icon reuse",
+      "width_px": 678,
+      "height_px": 837,
+      "aspect_ratio": 0.81004,
+      "screenshot_approx_bbox_px": [
+        538,
+        708,
+        177,
+        247
+      ],
+      "screenshot_approx_bbox_pct": [
+        37.15,
+        65.19,
+        12.22,
+        22.74
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        7,
+        10,
+        90,
+        80
+      ],
+      "main_object_edge_gaps_pct": [
+        7,
+        10,
+        3,
+        10
+      ],
+      "placed_at": [
+        "middle: Trail Helmet primary card",
+        "middle: helmets category"
+      ],
+      "layer_separation": "Matte cobalt blue, orange padding; reused as mini category product.",
+      "reused": "Reuse for middle Helmets category.",
+      "prompt_reconstruction": "Only one matte cobalt blue open-face ski/snowboard helmet right-front three-quarter view, narrow black vent cutouts, black and orange interior foam, hanging black/orange buckle chin strap, white studio key light upper left, real transparency.",
+      "sha256": "290b278d3cfffb0e4adbb86e68863634062258edc6af1d11dde5304bbcea1913",
+      "byte_size": 49030,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/helmet_trail.webp"
+    },
+    {
+      "file": "goggles_polar.webp",
+      "kind": "product",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Wide orange/rose mirrored visor with black rim; recommendation and category reuse",
+      "width_px": 702,
+      "height_px": 771,
+      "aspect_ratio": 0.91051,
+      "screenshot_approx_bbox_px": [
+        737,
+        708,
+        180,
+        247
+      ],
+      "screenshot_approx_bbox_pct": [
+        50.9,
+        65.19,
+        12.43,
+        22.74
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        5,
+        24,
+        91,
+        60
+      ],
+      "main_object_edge_gaps_pct": [
+        5,
+        24,
+        4,
+        16
+      ],
+      "placed_at": [
+        "middle: Polar Goggles primary card",
+        "middle: goggles category",
+        "right: second recommended card"
+      ],
+      "layer_separation": "Black frame, orange-magenta mirror lens; no card background embedded.",
+      "reused": "Reuse for category Goggles and right recommendation.",
+      "prompt_reconstruction": "Front-facing snow goggles with one large orange-red-pink gold mirrored wraparound lens, black and grey frame, elastic strap only barely visible at sides, bright studio reflection, transparent alpha.",
+      "sha256": "775728a12adb7295d560ed158989d4313a35abb41e97319a1e9e7f0457572b12",
+      "byte_size": 50492,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/goggles_polar.webp"
+    },
+    {
+      "file": "jacket_orange.webp",
+      "kind": "category",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Small red-orange hooded shell jacket; source is small, enlarged 3x",
+      "width_px": 369,
+      "height_px": 417,
+      "aspect_ratio": 0.88489,
+      "screenshot_approx_bbox_px": [
+        846,
+        308,
+        72,
+        86
+      ],
+      "screenshot_approx_bbox_pct": [
+        58.43,
+        28.36,
+        4.97,
+        7.92
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        5,
+        7,
+        92,
+        86
+      ],
+      "main_object_edge_gaps_pct": [
+        5,
+        7,
+        3,
+        7
+      ],
+      "placed_at": [
+        "middle: Jackets category"
+      ],
+      "layer_separation": "Orange hooded snowboard jacket shown as category thumbnail.",
+      "reused": null,
+      "prompt_reconstruction": "Only a small technical ski jacket, orange-red shell, full front, hood, dark seams, black zipper and cuffs, centered isolated on transparent alpha, no hanger or mannequin.",
+      "sha256": "225998c1fd205d43c1f0901789cc1a7b25f3d5b68206340416f24798debd7d00",
+      "byte_size": 21576,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/jacket_orange.webp"
+    },
+    {
+      "file": "jacket_navy.webp",
+      "kind": "category",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Approximate recoloring of orange jacket for the navy outerwear navigation icon; not recovered from original.",
+      "width_px": 369,
+      "height_px": 417,
+      "aspect_ratio": 0.88489,
+      "screenshot_approx_bbox_px": [
+        94,
+        553,
+        42,
+        44
+      ],
+      "screenshot_approx_bbox_pct": [
+        6.49,
+        50.92,
+        2.9,
+        4.05
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        5,
+        7,
+        92,
+        86
+      ],
+      "main_object_edge_gaps_pct": [
+        5,
+        7,
+        3,
+        7
+      ],
+      "placed_at": [
+        "left: Outerwear category chip"
+      ],
+      "layer_separation": "Blue variant is an approximate reconstruction; original navy garment only ~27px tall.",
+      "reused": null,
+      "prompt_reconstruction": "Only a compact dark blue technical snowboarding jacket front view, hood, two zipped chest pockets and central zipper, transparent alpha.",
+      "sha256": "7e51ec7a554610c59c8f8a9d1ce8922dc7af297b826b370768611065a73fe89b",
+      "byte_size": 19490,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/jacket_navy.webp"
+    },
+    {
+      "file": "helmet_freeride.webp",
+      "kind": "product",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Slate-charcoal variant reconstructed from trail helmet geometry",
+      "width_px": 678,
+      "height_px": 837,
+      "aspect_ratio": 0.81004,
+      "screenshot_approx_bbox_px": [
+        1242,
+        820,
+        128,
+        126
+      ],
+      "screenshot_approx_bbox_pct": [
+        85.77,
+        75.51,
+        8.84,
+        11.6
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        7,
+        10,
+        90,
+        80
+      ],
+      "main_object_edge_gaps_pct": [
+        7,
+        10,
+        3,
+        10
+      ],
+      "placed_at": [
+        "right: third recommended card"
+      ],
+      "layer_separation": "Charcoal color variant; shell derived by approximate recoloring, not an independent original photo.",
+      "reused": null,
+      "prompt_reconstruction": "One matte graphite-dark-grey alpine snowboard helmet, three-quarter view, vents, chinstrap, dark ear pads, on transparent alpha, same scale as Trail helmet product card.",
+      "sha256": "0af24ebe40f622d7621e0b3f7ef56a2b7dee255c10de49d8d70bf66d8cd0efc3",
+      "byte_size": 41190,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/helmet_freeride.webp"
+    },
+    {
+      "file": "binding_black.webp",
+      "kind": "category",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Black and white binding with orange accents; adapted crop of a binding on generated board",
+      "width_px": 174,
+      "height_px": 216,
+      "aspect_ratio": 0.80556,
+      "screenshot_approx_bbox_px": [
+        97,
+        496,
+        38,
+        48
+      ],
+      "screenshot_approx_bbox_pct": [
+        6.7,
+        45.67,
+        2.62,
+        4.42
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        2,
+        2,
+        97,
+        94
+      ],
+      "main_object_edge_gaps_pct": [
+        2,
+        2,
+        1,
+        4
+      ],
+      "placed_at": [
+        "left: Bindings category chip"
+      ],
+      "layer_separation": "Alpha-extracted native low-resolution screenshot crop, not a transparent product source.",
+      "reused": null,
+      "prompt_reconstruction": "One isolated black snowboard binding mechanism with curved highback and white support clips, angled three-quarter view, no board or snow, real transparency.",
+      "sha256": "60c568ed1f0d0538b72c7c1f6e99a15660adf8781d1af31c28dc596c92106607",
+      "byte_size": 9226,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/binding_black.webp"
+    },
+    {
+      "file": "board_fire.webp",
+      "kind": "board-thumbnail",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Black tip with orange-red mountain/flame pattern.",
+      "width_px": 300,
+      "height_px": 570,
+      "aspect_ratio": 0.52632,
+      "screenshot_approx_bbox_px": [
+        195,
+        838,
+        93,
+        108
+      ],
+      "screenshot_approx_bbox_pct": [
+        13.47,
+        77.16,
+        6.42,
+        9.94
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        17,
+        4,
+        65,
+        91
+      ],
+      "main_object_edge_gaps_pct": [
+        17,
+        4,
+        18,
+        5
+      ],
+      "placed_at": [
+        "left: popular boards second circle"
+      ],
+      "layer_separation": "Black board with red/orange mountains; parent circular white tile should be CSS.",
+      "reused": null,
+      "prompt_reconstruction": "Only a cropped upright black snowboard tip with graphic burnt orange and crimson alpine mountain/fire illustration, subtly diagonal, isolated on transparent background.",
+      "sha256": "1cdfd8736b24332669d9e167a83d183387dd74c70398d6063726ecc56addbd4a",
+      "byte_size": 22228,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/board_fire.webp"
+    },
+    {
+      "file": "board_white_blue.webp",
+      "kind": "board-thumbnail",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Pale silver tip with navy snowy peak graphics.",
+      "width_px": 288,
+      "height_px": 510,
+      "aspect_ratio": 0.56471,
+      "screenshot_approx_bbox_px": [
+        303,
+        837,
+        90,
+        109
+      ],
+      "screenshot_approx_bbox_pct": [
+        20.93,
+        77.07,
+        6.22,
+        10.04
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        20,
+        4,
+        57,
+        90
+      ],
+      "main_object_edge_gaps_pct": [
+        20,
+        4,
+        23,
+        6
+      ],
+      "placed_at": [
+        "left: popular boards third circle"
+      ],
+      "layer_separation": "White and pale silver board with blue mountain print; parent oval tile CSS.",
+      "reused": null,
+      "prompt_reconstruction": "Only a light silver-white snowboard tip with ink-blue sharp snowy peaks near middle, narrow vertical board, diagonal angle, transparent.",
+      "sha256": "38094afa69e9a9eaceafb83a9d78ff4e938673ff9f1cff1f4098a08eede35044",
+      "byte_size": 23196,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/board_white_blue.webp"
+    },
+    {
+      "file": "avatar_rider.webp",
+      "kind": "avatar",
+      "display": "contain",
+      "alpha": true,
+      "notes": "Small rider portrait in blue helmet and orange mirrored goggles; inferred area reconstruction",
+      "width_px": 237,
+      "height_px": 231,
+      "aspect_ratio": 1.02597,
+      "screenshot_approx_bbox_px": [
+        860,
+        114,
+        43,
+        44
+      ],
+      "screenshot_approx_bbox_pct": [
+        59.39,
+        10.5,
+        2.97,
+        4.05
+      ],
+      "main_object_approx_bbox_pct_of_asset": [
+        17,
+        5,
+        64,
+        91
+      ],
+      "main_object_edge_gaps_pct": [
+        17,
+        5,
+        19,
+        4
+      ],
+      "placed_at": [
+        "middle: top-right circular profile picture"
+      ],
+      "layer_separation": "Tiny photo reconstruction, worn ski helmet and orange mirrored goggles.",
+      "reused": null,
+      "prompt_reconstruction": "Close cropped round user avatar: anonymous snowboard rider in blue helmet with gold/orange mirrored ski goggles, dark winter jacket, cold mountain daylight, no interface circle border.",
+      "sha256": "c89610c31a722608a2ddd3d0732122c20a3fb1caccd6116361b44674ac17e9a7",
+      "byte_size": 10066,
+      "partial_cropping": "fully represented or artistically reconstructed as seen",
+      "background": "transparent alpha",
+      "display_css": {
+        "objectFit": "contain",
+        "objectPosition": "center center",
+        "avoidNonuniformStretch": true
+      },
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/avatar_rider.webp"
+    }
+  ],
+  "icons": [
+    {
+      "file": "icons/arrow-right.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          420,
+          863,
+          27,
+          27
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          29.01,
+          79.47,
+          1.86,
+          2.49
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 259,
+      "sha256": "d7c9709d07143d99b36c9c3030f14b214b2925f7a56802f266b9e01144aaca04",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/arrow-right.svg"
+    },
+    {
+      "file": "icons/back.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          1005,
+          125,
+          24,
+          27
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          69.41,
+          11.51,
+          1.66,
+          2.49
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 257,
+      "sha256": "91fc8348755cf8fbc5a2ed510fedf521f6f6c36bb7753d339887738abfab3c85",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/back.svg"
+    },
+    {
+      "file": "icons/binding-category.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [],
+      "visible_bboxes_pct": [],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 297,
+      "sha256": "bde95edc6453b223047098d8578b57f1e144bdb29d897152297e5d2aad68e276",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/binding-category.svg"
+    },
+    {
+      "file": "icons/board-category.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          549,
+          333,
+          40,
+          43
+        ],
+        [
+          98,
+          384,
+          34,
+          34
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          37.91,
+          30.66,
+          2.76,
+          3.96
+        ],
+        [
+          6.77,
+          35.36,
+          2.35,
+          3.13
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 316,
+      "sha256": "752e5213cade59d9aeb2c31636378a3fbd43fa26df2ea7e0ec1b6b483511663b",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/board-category.svg"
+    },
+    {
+      "file": "icons/cart.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          799,
+          127,
+          30,
+          25
+        ],
+        [
+          1163,
+          710,
+          26,
+          26
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          55.18,
+          11.69,
+          2.07,
+          2.3
+        ],
+        [
+          80.32,
+          65.38,
+          1.8,
+          2.39
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 412,
+      "sha256": "fcd1e0e0bc64607a6bc13f95d1525faf618fe5e6e5988e807d9ae2d291c4de92",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/cart.svg"
+    },
+    {
+      "file": "icons/close.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [],
+      "visible_bboxes_pct": [],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 252,
+      "sha256": "97eadb4ea6dfa77d8c15d160e078c93273dda94a33fc5e9974eb1c805a8f3654",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/close.svg"
+    },
+    {
+      "file": "icons/heart-filled.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [],
+      "visible_bboxes_pct": [],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 411,
+      "sha256": "32b1565997b849a1e60b069575d6b9ad99c6b409737804fd4ce7e6abd5d74ecb",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/heart-filled.svg"
+    },
+    {
+      "file": "icons/heart-muted.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          1075,
+          817,
+          18,
+          17
+        ],
+        [
+          1209,
+          818,
+          19,
+          17
+        ],
+        [
+          1350,
+          818,
+          19,
+          17
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          74.24,
+          75.23,
+          1.24,
+          1.57
+        ],
+        [
+          83.49,
+          75.32,
+          1.31,
+          1.57
+        ],
+        [
+          93.23,
+          75.32,
+          1.31,
+          1.57
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 404,
+      "sha256": "db1083eafacc75ac81963c96734c56867e52673ad7c0fe3b907e4a4488dcad97",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/heart-muted.svg"
+    },
+    {
+      "file": "icons/heart.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          1329,
+          130,
+          22,
+          23
+        ],
+        [
+          675,
+          450,
+          23,
+          22
+        ],
+        [
+          868,
+          451,
+          21,
+          20
+        ],
+        [
+          674,
+          705,
+          21,
+          21
+        ],
+        [
+          868,
+          704,
+          22,
+          21
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          91.78,
+          11.97,
+          1.52,
+          2.12
+        ],
+        [
+          46.62,
+          41.44,
+          1.59,
+          2.03
+        ],
+        [
+          59.94,
+          41.53,
+          1.45,
+          1.84
+        ],
+        [
+          46.55,
+          64.92,
+          1.45,
+          1.93
+        ],
+        [
+          59.94,
+          64.83,
+          1.52,
+          1.93
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 404,
+      "sha256": "7c7068776a3fbc8cd231a1602e5f750eb5c91b761289b651fd5de9570446f22c",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/heart.svg"
+    },
+    {
+      "file": "icons/jacket-category.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [],
+      "visible_bboxes_pct": [],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 350,
+      "sha256": "045ae0b0ec44275697f25936b6fa231199ed5ea3c7f8dca73d4754c8257897a2",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/jacket-category.svg"
+    },
+    {
+      "file": "icons/menu.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          85,
+          125,
+          27,
+          28
+        ],
+        [
+          548,
+          126,
+          26,
+          25
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          5.87,
+          11.51,
+          1.86,
+          2.58
+        ],
+        [
+          37.85,
+          11.6,
+          1.8,
+          2.3
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 257,
+      "sha256": "e0d5736134acd0e87e9fc412db89a7b6ba7db62502015df3699fc46ee9c29caa",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/menu.svg"
+    },
+    {
+      "file": "icons/minus.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          1000,
+          713,
+          17,
+          18
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          69.06,
+          65.65,
+          1.17,
+          1.66
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 238,
+      "sha256": "9699a9263a474fcc4dcd2004522b94d36fac4d73426eec704f2061e9b6eaf6b2",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/minus.svg"
+    },
+    {
+      "file": "icons/plus-dark.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          1115,
+          712,
+          17,
+          19
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          77.0,
+          65.56,
+          1.17,
+          1.75
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 254,
+      "sha256": "08602487759cb2928de08e3401f4f5d47843b91e510e411760fab41a487435ae",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/plus-dark.svg"
+    },
+    {
+      "file": "icons/plus.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          666,
+          623,
+          22,
+          25
+        ],
+        [
+          859,
+          625,
+          22,
+          25
+        ],
+        [
+          666,
+          898,
+          22,
+          25
+        ],
+        [
+          858,
+          899,
+          22,
+          25
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          45.99,
+          57.37,
+          1.52,
+          2.3
+        ],
+        [
+          59.32,
+          57.55,
+          1.52,
+          2.3
+        ],
+        [
+          45.99,
+          82.69,
+          1.52,
+          2.3
+        ],
+        [
+          59.25,
+          82.78,
+          1.52,
+          2.3
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 254,
+      "sha256": "6028a9efe8b6991d41f538c8e43adad65e97a067fad84672f962e6c412655542",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/plus.svg"
+    },
+    {
+      "file": "icons/search.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          408,
+          125,
+          25,
+          26
+        ],
+        [
+          552,
+          253,
+          18,
+          19
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          28.18,
+          11.51,
+          1.73,
+          2.39
+        ],
+        [
+          38.12,
+          23.3,
+          1.24,
+          1.75
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 287,
+      "sha256": "ef8443465ecdea360d8bb48c36b1f958d48661bda58cd9d5499078f2d37d8aa9",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/search.svg"
+    },
+    {
+      "file": "icons/sliders.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          875,
+          255,
+          18,
+          18
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          60.43,
+          23.48,
+          1.24,
+          1.66
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 415,
+      "sha256": "d875d79cbbeb9c72f102692408938318199226d8e25e50333162d05171c5be6e",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/sliders.svg"
+    },
+    {
+      "file": "icons/star-outline.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [],
+      "visible_bboxes_pct": [],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 322,
+      "sha256": "52c91395cab236a564fa377b4ef6295693168b241381a8283d4d4db98dc213d2",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/star-outline.svg"
+    },
+    {
+      "file": "icons/star.svg",
+      "kind": "icon",
+      "width_px": 24,
+      "height_px": 24,
+      "aspect_ratio": 1,
+      "viewBox": "0 0 24 24",
+      "alpha": true,
+      "background": "none",
+      "placed_at": "various UI controls, labels and state variants",
+      "visible_bboxes_px": [
+        [
+          1214,
+          635,
+          14,
+          17
+        ]
+      ],
+      "visible_bboxes_pct": [
+        [
+          83.84,
+          58.47,
+          0.97,
+          1.57
+        ]
+      ],
+      "display_css": {
+        "width": "18px-28px according to context",
+        "height": "auto",
+        "color": "from svg or CSS custom color"
+      },
+      "byte_size": 330,
+      "sha256": "c91b00d49f618f22a2de8cc104c941dfc0d130db3926e11f9ca84efad5ed0cb8",
+      "preview_url": null,
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/alpine-ride-snowboard-shop/icons/star.svg"
+    }
+  ],
+  "ui_not_baked_into_images": [
+    "Ride Beyond / Explore Gear / Alpine Pro and all titles",
+    "prices and product copy",
+    "navigation and chevrons",
+    "cart badges and favorite actions",
+    "buy buttons, plus/minus and rating labels",
+    "category pill backgrounds",
+    "catalog card backgrounds and shadows",
+    "screen rounded frames and color gradients",
+    "step indicator circles",
+    "stars repeat with SVG icon"
+  ],
+  "screens": [
+    {
+      "name": "left_landing",
+      "bbox_px": [
+        56,
+        78,
+        433,
+        932
+      ],
+      "bbox_pct": [
+        3.87,
+        7.18,
+        29.9,
+        85.82
+      ],
+      "borderRadius_px_estimate": 45
+    },
+    {
+      "name": "middle_catalog",
+      "bbox_px": [
+        517,
+        78,
+        418,
+        932
+      ],
+      "bbox_pct": [
+        35.7,
+        7.18,
+        28.87,
+        85.82
+      ],
+      "borderRadius_px_estimate": 48
+    },
+    {
+      "name": "right_details",
+      "bbox_px": [
+        962,
+        78,
+        434,
+        932
+      ],
+      "bbox_pct": [
+        66.44,
+        7.18,
+        29.97,
+        85.82
+      ],
+      "borderRadius_px_estimate": 48
+    }
+  ],
+  "ui_styles": {
+    "canvas": {
+      "base": "#EBF9FD",
+      "gradient": "radial-gradient(ellipse at 54% 43%, #E8F8FC 0%, #DFF2F7 58%, #D2EAF4 100%)"
+    },
+    "mainText": "#08172F",
+    "secondaryText": "#8598B4",
+    "priceBlue": "#005BCB",
+    "coral": "#FF614D",
+    "yellowStars": "#FFBA00",
+    "activeCategoryTile": {
+      "gradient": "linear-gradient(135deg, #49A8FF 0%, #0868EC 100%)",
+      "radius_px_estimate": 21
+    },
+    "orangeButtons": {
+      "gradient": "linear-gradient(135deg, #FF8A62 0%, #FF5248 100%)",
+      "shadow": "0 10px 24px rgba(255,83,65,.22)"
+    },
+    "whiteCategoryPill": "rgba(255,255,255,.84)",
+    "whiteCards": "linear-gradient(150deg,#FFFFFF 0%,#F9FCFF 100%)",
+    "glassSearch": "linear-gradient(90deg,#F0F5FA 0%,#ECF2F7 100%)",
+    "popularBottomPanel": {
+      "gradient": "linear-gradient(135deg,#0C88E7 0%,#0068C8 48%,#004EAA 100%)",
+      "wave": "curved blue upper edge, CSS clip-path or SVG wave mask"
+    },
+    "detailBottomSheet": {
+      "background": "#FAFCFF",
+      "borderRadius": "52px 52px 0 0",
+      "boxShadow": "0 -8px 32px rgba(49,112,160,.05)"
+    },
+    "cardShadow": "0 14px 35px rgba(26,78,128,.08)",
+    "largeScreenShadow": "0 28px 50px rgba(34,102,152,.15)",
+    "screenRadii_px_estimate": [
+      44,
+      50,
+      48
+    ],
+    "popularThumbnailTile": "white to pale-blue radial gradient within circular CSS width 90-100px, overflow hidden; board image is separate contain",
+    "activePagination": "white rounded 32×6px track, inactive dots 7px opacity 0.45",
+    "rating": "Five separate star.svg icons, not one raster image",
+    "cartCountBadge": "#FF5945 circle ~20px with UI text 3",
+    "recommendedThumbnailCards": "#FFFFFF background radius 19px shadow 0 9px 23px rgba(23,74,132,.06)",
+    "buttons": "round white translucent icon buttons via CSS, not images"
+  },
+  "url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{COMMIT_SHA}/images/alpine-ride-snowboard-shop/{ASSET_PATH}",
+  "repo_folder": "images/alpine-ride-snowboard-shop",
+  "git_commit": null,
+  "verified_urls": false
+}
