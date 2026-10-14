@@ -1,0 +1,16 @@
+/* Reconstructed approximate values from 1448×1086 bitmap, not original design specs. */
+:root{--navy:#08172F;--price-blue:#005BCB;--muted:#8598B4;--coral:#FF614D;--card-white:#FAFCFF;}
+.alpine-canvas{background:radial-gradient(ellipse at 54% 43%,#E8F8FC 0%,#DFF2F7 58%,#D2EAF4 100%)}
+.alpine-device{border-radius:48px;overflow:hidden;box-shadow:0 28px 50px rgba(34,102,152,.15)}
+.alpine-landing-photo{width:100%;height:100%;object-fit:cover;object-position:center center}
+.alpine-detail-photo{width:100%;height:100%;object-fit:cover;object-position:center 26%}
+.alpine-product-image{width:100%;height:100%;object-fit:contain;object-position:center;display:block}
+.alpine-card{background:linear-gradient(150deg,#FFFFFF,#F9FCFF);border-radius:22px;box-shadow:0 14px 35px rgba(26,78,128,.08)}
+.alpine-active-cat{background:linear-gradient(135deg,#49A8FF,#0868EC);border-radius:21px}
+.alpine-coral-btn{background:linear-gradient(135deg,#FF8A62,#FF5248);color:#fff;box-shadow:0 10px 24px rgba(255,83,65,.22)}
+.alpine-popular-panel{background:linear-gradient(135deg,#0C88E7,#0068C8 48%,#004EAA);border-radius:40px 40px 0 0}
+.alpine-popular-circle{width:96px;aspect-ratio:1;border-radius:50%;background:radial-gradient(circle at 45% 25%,#FFFFFF 0%,#DFF1FB 100%);overflow:hidden}
+.alpine-detail-sheet{background:#FAFCFF;border-radius:52px 52px 0 0;box-shadow:0 -8px 32px rgba(49,112,160,.05)}
+.alpine-pagination-active{width:32px;height:6px;background:#FFF;border-radius:99px}
+.alpine-pagination-inactive{width:7px;height:7px;background:rgba(255,255,255,.5);border-radius:50%}
+.alpine-cart-count{width:20px;height:20px;border-radius:50%;background:#FF5945;color:white}
