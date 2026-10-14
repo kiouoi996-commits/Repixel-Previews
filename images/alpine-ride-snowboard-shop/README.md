@@ -98,11 +98,6 @@ One matte graphite-dark-grey alpine snowboard helmet, three-quarter view, vents,
 
 Visible-object estimated bounds within asset: `[7, 10, 90, 80]` percent [left, top, width, height]. Edge gaps [left, top, right, bottom]: `[7, 10, 3, 10]` percent. This estimate may differ from the reconstructed image because original composition was partly masked.
 
-### `binding_black.webp`
-One isolated black snowboard binding mechanism with curved highback and white support clips, angled three-quarter view, no board or snow, real transparency.
-
-Visible-object estimated bounds within asset: `[2, 2, 97, 94]` percent [left, top, width, height]. Edge gaps [left, top, right, bottom]: `[2, 2, 1, 4]` percent. This estimate may differ from the reconstructed image because original composition was partly masked.
-
 ### `board_fire.webp`
 Only a cropped upright black snowboard tip with graphic burnt orange and crimson alpine mountain/fire illustration, subtly diagonal, isolated on transparent background.
 
