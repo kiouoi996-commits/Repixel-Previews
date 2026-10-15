@@ -1,0 +1,2462 @@
+{
+  "project": "heritage-911-classic-cars",
+  "title": "Heritage 911 — Classic Cars Catalog",
+  "type": "visual asset reconstruction",
+  "source": "user-provided screenshot",
+  "status": "screen-reference reconstruction using matched archived media; not the original licensed photographs",
+  "repo": "kiouoi996-commits/Repixel-Previews",
+  "base_path": "images/heritage-911-classic-cars",
+  "source_dimensions_px": {
+    "width": 1536,
+    "height": 1024
+  },
+  "assumptions": {
+    "measurement_status": "screen-pixel estimates from a 1536x1024 raster screenshot, not exact source Figma dimensions",
+    "source_screenshot_px": {
+      "width": 1536,
+      "height": 1024
+    },
+    "screen_regions": {
+      "home": {
+        "x": 82,
+        "y": 62,
+        "width": 433,
+        "height": 926,
+        "radius_px_estimate": 42
+      },
+      "detail": {
+        "x": 550,
+        "y": 62,
+        "width": 438,
+        "height": 926,
+        "radius_px_estimate": 42
+      },
+      "timeline": {
+        "x": 1024,
+        "y": 62,
+        "width": 432,
+        "height": 926,
+        "radius_px_estimate": 42
+      }
+    },
+    "ui_not_in_images": {
+      "backdrop": {
+        "type": "radial-gradient",
+        "css": "radial-gradient(ellipse at 46% 42%, #CECFCA 0%, #B5B7B2 64%, #979B98 100%)",
+        "shadow_note": "Background behind the 3 screens."
+      },
+      "phone_surface": {
+        "background": "#F7F6F3",
+        "border_radius": "42px",
+        "overflow": "hidden",
+        "box_shadow": "0 28px 60px rgba(34,37,34,0.19)"
+      },
+      "card_surface": {
+        "background": "#FAFAF8",
+        "border_radius": "18px",
+        "box_shadow": "0 8px 18px rgba(46,44,39,0.025)"
+      },
+      "image_corner_radius": "18px / small detail crops ≈ 11px",
+      "round_arrow_buttons": {
+        "background": "#F1F0ED",
+        "radius": "50%",
+        "size_px_estimate": 50
+      },
+      "dark_card_arrow_buttons": {
+        "background": "linear-gradient(145deg,#30332F 0%,#111310 100%)",
+        "radius": "50%",
+        "size_px_estimate": 35
+      },
+      "top_search_circle": {
+        "background": "#F4F3F0",
+        "border": "1px solid #E6E4DF",
+        "size_px_estimate": 44
+      },
+      "bottom_navigation": {
+        "background": "rgba(252,251,249,0.96)",
+        "backdrop_filter": "blur(16px)",
+        "border_radius": "30px",
+        "box_shadow": "0 -4px 22px rgba(45,44,39,0.025)"
+      },
+      "active_nav_icon_disc": {
+        "background": "#171916",
+        "border_radius": "13px",
+        "size_px_estimate": 47
+      },
+      "active_year_pill": {
+        "background": "#171916",
+        "color": "#F6F5F2",
+        "border_radius": "30px",
+        "width_px_estimate": 79,
+        "height_px_estimate": 51
+      },
+      "selected_home_tab": {
+        "background": "#171916",
+        "color": "#F8F8F7",
+        "border_radius": "40px"
+      },
+      "spec_card": {
+        "background": "rgba(249,248,245,0.96)",
+        "border_radius": "24px",
+        "shadow": "0 5px 18px rgba(28,27,23,0.03)"
+      },
+      "cta_bar": {
+        "background": "linear-gradient(112deg,#1D1F1D 0%,#10120F 100%)",
+        "border_radius": "21px",
+        "color": "#FFFFFF"
+      },
+      "typography": {
+        "serif": "editorial contrast serif similar to Didone/Bodoni",
+        "sans": "minimal neutral grotesk"
+      },
+      "carousel_bullets": {
+        "active": "#171815",
+        "inactive": "#FAF9F6",
+        "diameter_px_estimate": 5
+      },
+      "text_colors": {
+        "strong": "#181916",
+        "secondary": "#77736D",
+        "muted": "#9B968F"
+      },
+      "font_and_ui_text": [
+        "Classic Cars",
+        "PORSCHE",
+        "911",
+        "1964",
+        "1967",
+        "1970",
+        "1973",
+        "all labels, prices, prices and specs are HTML/CSS text, not raster assets"
+      ],
+      "exclude_system_status_bar": true
+    },
+    "process": {
+      "raster_upscale": 3,
+      "rendered_photo_file_format": "WebP",
+      "alpha_for_photos": false,
+      "note": "All photographic scene backgrounds and their own contact shadows are inside the photo; screen and button shadows live in CSS. The source screenshot and model reconstructed detail board are visual references, not original photographs."
+    },
+    "screenshot_measurements": "All coordinates are estimates read from a 1536×1024 flattened screenshot; not verified Figma/design data."
+  },
+  "assets": [
+    {
+      "file": "home_hero_porsche_911_rear.webp",
+      "kind": "image",
+      "role": "1964 ivory Porsche 911 rear three-quarter, studio floor, cropped on right",
+      "screen": "home-hero",
+      "display": {
+        "rect_px": {
+          "x": 82,
+          "y": 63,
+          "width": 433,
+          "height": 485
+        },
+        "rect_percent_of_screenshot": {
+          "x": 5.34,
+          "y": 6.15,
+          "width": 28.19,
+          "height": 47.36
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "0"
+      },
+      "image_pixels": {
+        "width": 1299,
+        "height": 1455
+      },
+      "aspect_ratio": 0.89278,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 75,
+          "top": 239,
+          "right": 433,
+          "bottom": 485
+        },
+        "coverage_width_percent": 82.7,
+        "coverage_height_percent": 50.7,
+        "margins_px": {
+          "left": 75,
+          "top": 239,
+          "right": 0,
+          "bottom": 0
+        },
+        "margins_percent": {
+          "left": 17.3,
+          "top": 49.3,
+          "right": 0.0,
+          "bottom": 0.0
+        }
+      },
+      "source_region_px": [
+        82,
+        63,
+        515,
+        548
+      ],
+      "source_method": "source screenshot with upper neutral-studio backdrop reconstruction",
+      "reconstruction_note": "Upper background reconstructed to remove headline, menu/search and slide count; lower car silhouette and floor from reference, right side clipped as on screenshot.",
+      "generation_prompt": "Ivory 1964 Porsche 911 from rear-left three-quarter angle, cropped at right, in a warm pale-grey minimalist studio. Dark grille across engine lid, chrome bumper, red/amber rectangular taillight, German classic plate, black Fuchs wheels, soft diffuse top-left illumination, grey horizon and floor contact shadow. Car enters from lower right occupying about 83% frame width and 51% frame height. No editorial typography, UI, buttons, watermarks.",
+      "ui_overlay_excluded": true,
+      "bytes": 49302,
+      "sha256": "b5ddc647695f5c9960b31bf65cc845d7cdafd4a505850989958278d31bef36d0",
+      "repository_path": "images/heritage-911-classic-cars/home_hero_porsche_911_rear.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/home_hero_porsche_911_rear.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "home_card_porsche_911_1964.webp",
+      "kind": "image",
+      "role": "Ivory 1964 Porsche 911 side/front, studio product photo",
+      "screen": "home-catalog",
+      "display": {
+        "rect_px": {
+          "x": 101,
+          "y": 628,
+          "width": 196,
+          "height": 121
+        },
+        "rect_percent_of_screenshot": {
+          "x": 6.58,
+          "y": 61.33,
+          "width": 12.76,
+          "height": 11.82
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 588,
+        "height": 363
+      },
+      "aspect_ratio": 1.61983,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 8,
+          "top": 39,
+          "right": 187,
+          "bottom": 115
+        },
+        "coverage_width_percent": 91.3,
+        "coverage_height_percent": 62.8,
+        "margins_px": {
+          "left": 8,
+          "top": 39,
+          "right": 9,
+          "bottom": 6
+        },
+        "margins_percent": {
+          "left": 4.1,
+          "top": 32.2,
+          "right": 4.6,
+          "bottom": 5.0
+        }
+      },
+      "source_region_px": [
+        101,
+        628,
+        297,
+        749
+      ],
+      "source_method": "direct screenshot photo crop with heart removal and rounded-corner restoration",
+      "reconstruction_note": "Heart is UI overlay and was locally inpainted; corner pixels were extended from adjacent photo background.",
+      "generation_prompt": "1964 ivory Porsche 911 low front three quarter, neutral warm grey studio, natural floor shadow, car spans 92% width and lower 62%, no UI or heart.",
+      "ui_overlay_excluded": true,
+      "bytes": 10250,
+      "sha256": "68c8990d8d6872860490c2595ce62fd0d02b9e52b9891ee8d7aa5fc1ec15f88d",
+      "repository_path": "images/heritage-911-classic-cars/home_card_porsche_911_1964.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/home_card_porsche_911_1964.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "home_card_mercedes_300sl_1955.webp",
+      "kind": "image",
+      "role": "Deep green Mercedes-Benz 300 SL coupe in neutral studio",
+      "screen": "home-catalog",
+      "display": {
+        "rect_px": {
+          "x": 314,
+          "y": 628,
+          "width": 182,
+          "height": 121
+        },
+        "rect_percent_of_screenshot": {
+          "x": 20.44,
+          "y": 61.33,
+          "width": 11.85,
+          "height": 11.82
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 546,
+        "height": 363
+      },
+      "aspect_ratio": 1.50413,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 6,
+          "top": 36,
+          "right": 177,
+          "bottom": 116
+        },
+        "coverage_width_percent": 94.0,
+        "coverage_height_percent": 66.1,
+        "margins_px": {
+          "left": 6,
+          "top": 36,
+          "right": 5,
+          "bottom": 5
+        },
+        "margins_percent": {
+          "left": 3.3,
+          "top": 29.8,
+          "right": 2.7,
+          "bottom": 4.1
+        }
+      },
+      "source_region_px": [
+        314,
+        628,
+        496,
+        749
+      ],
+      "source_method": "direct screenshot photo crop with heart removal and rounded-corner restoration",
+      "reconstruction_note": "Heart is UI overlay and was locally inpainted; corner pixels were extended from adjacent photo background.",
+      "generation_prompt": "1955 Mercedes 300 SL dark forest green coupe, silver star central grille, front three-quarter view, minimalist studio soft grey background, polished paint and contact shadow, no heart icon.",
+      "ui_overlay_excluded": true,
+      "bytes": 10436,
+      "sha256": "0fa1268502ddcea0a7349bd543c36f61296c6b41c495b9ebd193f0d2d0df9066",
+      "repository_path": "images/heritage-911-classic-cars/home_card_mercedes_300sl_1955.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/home_card_mercedes_300sl_1955.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "home_card_porsche_911_blue.webp",
+      "kind": "image",
+      "role": "Deep blue early Porsche 911 coupe, front three quarter",
+      "screen": "home-catalog",
+      "display": {
+        "rect_px": {
+          "x": 101,
+          "y": 827,
+          "width": 196,
+          "height": 121
+        },
+        "rect_percent_of_screenshot": {
+          "x": 6.58,
+          "y": 80.76,
+          "width": 12.76,
+          "height": 11.82
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 588,
+        "height": 363
+      },
+      "aspect_ratio": 1.61983,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 8,
+          "top": 31,
+          "right": 188,
+          "bottom": 119
+        },
+        "coverage_width_percent": 91.8,
+        "coverage_height_percent": 72.7,
+        "margins_px": {
+          "left": 8,
+          "top": 31,
+          "right": 8,
+          "bottom": 2
+        },
+        "margins_percent": {
+          "left": 4.1,
+          "top": 25.6,
+          "right": 4.1,
+          "bottom": 1.7
+        }
+      },
+      "source_region_px": [
+        16,
+        631,
+        258,
+        769
+      ],
+      "source_method": "reconstructed car imagery conditioned on screenshot reference",
+      "reconstruction_note": "Lower image obscured after y≈894 by tab bar; unseen lower car/floor is hypothetical. Do not treat it as recovered original.",
+      "generation_prompt": "Early Porsche 911 dark navy-blue coupe front-left three-quarter with chrome round headlights, a softly illuminated neutral grey studio, dark wheels, visible entire car and ground shadow, no UI.",
+      "ui_overlay_excluded": true,
+      "bytes": 12048,
+      "sha256": "1fd7031433df12e249f073960bc5f1ccfa7cc39106b57330aa6ac74ecee3abed",
+      "repository_path": "images/heritage-911-classic-cars/home_card_porsche_911_blue.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/home_card_porsche_911_blue.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "home_card_porsche_911_red.webp",
+      "kind": "image",
+      "role": "Bright red early Porsche 911 coupe, front three quarter",
+      "screen": "home-catalog",
+      "display": {
+        "rect_px": {
+          "x": 314,
+          "y": 827,
+          "width": 182,
+          "height": 121
+        },
+        "rect_percent_of_screenshot": {
+          "x": 20.44,
+          "y": 80.76,
+          "width": 11.85,
+          "height": 11.82
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 546,
+        "height": 363
+      },
+      "aspect_ratio": 1.50413,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 7,
+          "top": 24,
+          "right": 179,
+          "bottom": 115
+        },
+        "coverage_width_percent": 94.5,
+        "coverage_height_percent": 75.2,
+        "margins_px": {
+          "left": 7,
+          "top": 24,
+          "right": 3,
+          "bottom": 6
+        },
+        "margins_percent": {
+          "left": 3.8,
+          "top": 19.8,
+          "right": 1.6,
+          "bottom": 5.0
+        }
+      },
+      "source_region_px": [
+        276,
+        631,
+        504,
+        769
+      ],
+      "source_method": "reconstructed car imagery conditioned on screenshot reference",
+      "reconstruction_note": "Lower image obscured after y≈894 by tab bar; unseen lower car/floor is hypothetical. Do not treat it as recovered original.",
+      "generation_prompt": "Early Porsche 911 vivid red coupe front three-quarter studio photograph, grey wall and floor, silver trim, two round headlamps, entire vehicle visible without heart, labels or buttons.",
+      "ui_overlay_excluded": true,
+      "bytes": 13826,
+      "sha256": "d433543afd29583fcca459ae1cf09a2e69aeeaf14726fa1544701c1834e93a0f",
+      "repository_path": "images/heritage-911-classic-cars/home_card_porsche_911_red.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/home_card_porsche_911_red.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "detail_hero_porsche_911_1964.webp",
+      "kind": "image",
+      "role": "Ivory 1964 Porsche 911 front-three-quarter in split light/dark architectural studio",
+      "screen": "detail-hero",
+      "display": {
+        "rect_px": {
+          "x": 550,
+          "y": 63,
+          "width": 438,
+          "height": 585
+        },
+        "rect_percent_of_screenshot": {
+          "x": 35.81,
+          "y": 6.15,
+          "width": 28.52,
+          "height": 57.13
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "0"
+      },
+      "image_pixels": {
+        "width": 1314,
+        "height": 1755
+      },
+      "aspect_ratio": 0.74872,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 17,
+          "top": 277,
+          "right": 428,
+          "bottom": 516
+        },
+        "coverage_width_percent": 93.8,
+        "coverage_height_percent": 40.9,
+        "margins_px": {
+          "left": 17,
+          "top": 277,
+          "right": 10,
+          "bottom": 69
+        },
+        "margins_percent": {
+          "left": 3.9,
+          "top": 47.4,
+          "right": 2.3,
+          "bottom": 11.8
+        }
+      },
+      "source_region_px": [
+        550,
+        63,
+        988,
+        648
+      ],
+      "source_method": "screenshot photo with text/icon regions reconstructed by vertical wall interpolation and inpainting",
+      "reconstruction_note": "Original photo present from screenshot; dark/light wall areas behind removed 911/1964 typography are approximate reconstructions.",
+      "generation_prompt": "Creamy silver Porsche 911 1964, front-left three-quarter, full car from round headlights to passenger-side rear wheel, dark five-spoke rims, orange turn signals, chrome bumper, period German number plate. Dramatic ivory lit wall left, matte charcoal vertical panel right, soft reflected studio floor, car low in composition at y≈48%-88%. No headings, 1964 typography, bookmark, counters, icons or cards.",
+      "ui_overlay_excluded": true,
+      "bytes": 71776,
+      "sha256": "9c75e6b9886fae04dad72aa359828e6a985cb59c9b8ba0e3d5989a1ce92fc62d",
+      "repository_path": "images/heritage-911-classic-cars/detail_hero_porsche_911_1964.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/detail_hero_porsche_911_1964.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "detail_steering.webp",
+      "kind": "image",
+      "role": "Classic Porsche black dashboard and black/wood steering wheel",
+      "screen": "detail-gallery",
+      "display": {
+        "rect_px": {
+          "x": 570,
+          "y": 771,
+          "width": 89,
+          "height": 87
+        },
+        "rect_percent_of_screenshot": {
+          "x": 37.11,
+          "y": 75.29,
+          "width": 5.79,
+          "height": 8.5
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 267,
+        "height": 261
+      },
+      "aspect_ratio": 1.02299,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 0,
+          "top": 0,
+          "right": 89,
+          "bottom": 87
+        },
+        "coverage_width_percent": 100.0,
+        "coverage_height_percent": 100.0,
+        "margins_px": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "margins_percent": {
+          "left": 0.0,
+          "top": 0.0,
+          "right": 0.0,
+          "bottom": 0.0
+        }
+      },
+      "source_region_px": [
+        570,
+        771,
+        659,
+        858
+      ],
+      "source_method": "exact visible screenshot crop, tiny rounded-corner restoration",
+      "reconstruction_note": "",
+      "generation_prompt": "Tight interior shot of vintage Porsche 911 wood-rim steering wheel, black dashboard gauges, window with warm landscape, photorealistic, same crop.",
+      "ui_overlay_excluded": true,
+      "bytes": 7232,
+      "sha256": "b1dfc5ba54dc0e2ae88d8621edd7e831c5d40809790f1f40d8c1917ee42a3fe5",
+      "repository_path": "images/heritage-911-classic-cars/detail_steering.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/detail_steering.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "detail_wheel.webp",
+      "kind": "image",
+      "role": "Front tire and metallic rim close-up",
+      "screen": "detail-gallery",
+      "display": {
+        "rect_px": {
+          "x": 668,
+          "y": 771,
+          "width": 93,
+          "height": 87
+        },
+        "rect_percent_of_screenshot": {
+          "x": 43.49,
+          "y": 75.29,
+          "width": 6.05,
+          "height": 8.5
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 279,
+        "height": 261
+      },
+      "aspect_ratio": 1.06897,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 0,
+          "top": 0,
+          "right": 93,
+          "bottom": 87
+        },
+        "coverage_width_percent": 100.0,
+        "coverage_height_percent": 100.0,
+        "margins_px": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "margins_percent": {
+          "left": 0.0,
+          "top": 0.0,
+          "right": 0.0,
+          "bottom": 0.0
+        }
+      },
+      "source_region_px": [
+        668,
+        771,
+        761,
+        858
+      ],
+      "source_method": "exact visible screenshot crop, tiny rounded-corner restoration",
+      "reconstruction_note": "",
+      "generation_prompt": "Tight vertical classic Porsche Fuchs wheel and black tire photograph, hub centered, small polished metal trim highlights, dark studio lighting.",
+      "ui_overlay_excluded": true,
+      "bytes": 8306,
+      "sha256": "441ebc09b2bf814d8659f4aab5799ea990b9c44e94d4e78b4d2008d9b5e87204",
+      "repository_path": "images/heritage-911-classic-cars/detail_wheel.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/detail_wheel.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "detail_leather_seats.webp",
+      "kind": "image",
+      "role": "Brown saddle-leather front seats, interior crop",
+      "screen": "detail-gallery",
+      "display": {
+        "rect_px": {
+          "x": 769,
+          "y": 771,
+          "width": 99,
+          "height": 87
+        },
+        "rect_percent_of_screenshot": {
+          "x": 50.07,
+          "y": 75.29,
+          "width": 6.45,
+          "height": 8.5
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 297,
+        "height": 261
+      },
+      "aspect_ratio": 1.13793,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 0,
+          "top": 0,
+          "right": 99,
+          "bottom": 87
+        },
+        "coverage_width_percent": 100.0,
+        "coverage_height_percent": 100.0,
+        "margins_px": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "margins_percent": {
+          "left": 0.0,
+          "top": 0.0,
+          "right": 0.0,
+          "bottom": 0.0
+        }
+      },
+      "source_region_px": [
+        769,
+        771,
+        868,
+        858
+      ],
+      "source_method": "exact visible screenshot crop, tiny rounded-corner restoration",
+      "reconstruction_note": "",
+      "generation_prompt": "Classic 1960s Porsche 911 tan brown striped leather front seats with pronounced pleats, dark window and trim, warm interior light, close crop.",
+      "ui_overlay_excluded": true,
+      "bytes": 6726,
+      "sha256": "cc10c3dbd811a99a9c95774013cd14d7aee789640d96e154fcbc7d88bdd78c6d",
+      "repository_path": "images/heritage-911-classic-cars/detail_leather_seats.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/detail_leather_seats.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "detail_911_emblem.webp",
+      "kind": "image",
+      "role": "Chrome 911 badge photographed diagonally on silver body panel",
+      "screen": "detail-gallery",
+      "display": {
+        "rect_px": {
+          "x": 876,
+          "y": 771,
+          "width": 93,
+          "height": 87
+        },
+        "rect_percent_of_screenshot": {
+          "x": 57.03,
+          "y": 75.29,
+          "width": 6.05,
+          "height": 8.5
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 279,
+        "height": 261
+      },
+      "aspect_ratio": 1.06897,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 0,
+          "top": 0,
+          "right": 93,
+          "bottom": 87
+        },
+        "coverage_width_percent": 100.0,
+        "coverage_height_percent": 100.0,
+        "margins_px": {
+          "left": 0,
+          "top": 0,
+          "right": 0,
+          "bottom": 0
+        },
+        "margins_percent": {
+          "left": 0.0,
+          "top": 0.0,
+          "right": 0.0,
+          "bottom": 0.0
+        }
+      },
+      "source_region_px": [
+        876,
+        771,
+        969,
+        858
+      ],
+      "source_method": "exact visible screenshot crop, tiny rounded-corner restoration",
+      "reconstruction_note": "",
+      "generation_prompt": "Tight macro of raised chrome 911 emblem on metallic beige/grey car body panel, diagonal composition, shallow shadows, monochrome studio shot.",
+      "ui_overlay_excluded": true,
+      "bytes": 3800,
+      "sha256": "f7d8ef1bfc237d7752b679fbefdd671f470f7370bfec6c4da706a2c364c422f3",
+      "repository_path": "images/heritage-911-classic-cars/detail_911_emblem.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/detail_911_emblem.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "timeline_porsche_911_1964.webp",
+      "kind": "image",
+      "role": "Ivory-grey Porsche 911 1964 coupe facing left",
+      "screen": "timeline",
+      "display": {
+        "rect_px": {
+          "x": 1037,
+          "y": 255,
+          "width": 292,
+          "height": 182
+        },
+        "rect_percent_of_screenshot": {
+          "x": 67.51,
+          "y": 24.9,
+          "width": 19.01,
+          "height": 17.77
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 876,
+        "height": 546
+      },
+      "aspect_ratio": 1.6044,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 10,
+          "top": 45,
+          "right": 274,
+          "bottom": 159
+        },
+        "coverage_width_percent": 90.4,
+        "coverage_height_percent": 62.6,
+        "margins_px": {
+          "left": 10,
+          "top": 45,
+          "right": 18,
+          "bottom": 23
+        },
+        "margins_percent": {
+          "left": 3.4,
+          "top": 24.7,
+          "right": 6.2,
+          "bottom": 12.6
+        }
+      },
+      "source_region_px": [
+        1037,
+        255,
+        1329,
+        437
+      ],
+      "source_method": "direct screenshot photographic crop, removed outside UI by bounding",
+      "reconstruction_note": "",
+      "generation_prompt": "Ivory/silver 1964 Porsche 911 coupe photographed from low front three quarter, elongated studio photograph, grey stone wall and floor, soft diffuse left-light, 90% car width, no UI.",
+      "ui_overlay_excluded": true,
+      "bytes": 21436,
+      "sha256": "9929930f48e05d3b03de4c185aa34a41f58cba6d33c4530417c82eca8076b487",
+      "repository_path": "images/heritage-911-classic-cars/timeline_porsche_911_1964.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/timeline_porsche_911_1964.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "timeline_porsche_911s_1967.webp",
+      "kind": "image",
+      "role": "Burgundy-red 1967 Porsche 911 S coupe",
+      "screen": "timeline",
+      "display": {
+        "rect_px": {
+          "x": 1037,
+          "y": 447,
+          "width": 292,
+          "height": 183
+        },
+        "rect_percent_of_screenshot": {
+          "x": 67.51,
+          "y": 43.65,
+          "width": 19.01,
+          "height": 17.87
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 876,
+        "height": 549
+      },
+      "aspect_ratio": 1.59563,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 13,
+          "top": 41,
+          "right": 280,
+          "bottom": 173
+        },
+        "coverage_width_percent": 91.4,
+        "coverage_height_percent": 72.1,
+        "margins_px": {
+          "left": 13,
+          "top": 41,
+          "right": 12,
+          "bottom": 10
+        },
+        "margins_percent": {
+          "left": 4.5,
+          "top": 22.4,
+          "right": 4.1,
+          "bottom": 5.5
+        }
+      },
+      "source_region_px": [
+        1037,
+        447,
+        1329,
+        630
+      ],
+      "source_method": "direct screenshot photographic crop, removed outside UI by bounding",
+      "reconstruction_note": "",
+      "generation_prompt": "Burgundy red Porsche 911 S 1967 coupe, low front three-quarter facing right, round chrome-ringed headlights, silver bumpers, polished gray studio wall and floor, visible soft shadow.",
+      "ui_overlay_excluded": true,
+      "bytes": 22712,
+      "sha256": "7623e730ab01ba7ef65de1071ecc200bf195dfd3991a4b320625f09c12edd1c6",
+      "repository_path": "images/heritage-911-classic-cars/timeline_porsche_911s_1967.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/timeline_porsche_911s_1967.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "timeline_porsche_911t_1970.webp",
+      "kind": "image",
+      "role": "Near-black dark green Porsche 911 T 1970 coupe",
+      "screen": "timeline",
+      "display": {
+        "rect_px": {
+          "x": 1037,
+          "y": 639,
+          "width": 292,
+          "height": 180
+        },
+        "rect_percent_of_screenshot": {
+          "x": 67.51,
+          "y": 62.4,
+          "width": 19.01,
+          "height": 17.58
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 876,
+        "height": 540
+      },
+      "aspect_ratio": 1.62222,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 18,
+          "top": 42,
+          "right": 283,
+          "bottom": 174
+        },
+        "coverage_width_percent": 90.8,
+        "coverage_height_percent": 73.3,
+        "margins_px": {
+          "left": 18,
+          "top": 42,
+          "right": 9,
+          "bottom": 6
+        },
+        "margins_percent": {
+          "left": 6.2,
+          "top": 23.3,
+          "right": 3.1,
+          "bottom": 3.3
+        }
+      },
+      "source_region_px": [
+        1037,
+        639,
+        1329,
+        819
+      ],
+      "source_method": "direct screenshot photographic crop, removed outside UI by bounding",
+      "reconstruction_note": "",
+      "generation_prompt": "Dark pine-green almost black Porsche 911 T 1970 coupe, low front three-quarter, neutral taupe seamless studio, chrome period trim and contact shadow, no text.",
+      "ui_overlay_excluded": true,
+      "bytes": 18840,
+      "sha256": "c901bcc864af55d91c42b3425dcbde8129ff27c909986a4362b6e8a4a1fbf3fc",
+      "repository_path": "images/heritage-911-classic-cars/timeline_porsche_911t_1970.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/timeline_porsche_911t_1970.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "timeline_porsche_911_carrera_1973.webp",
+      "kind": "image",
+      "role": "Warm mustard-yellow Porsche 911 Carrera 1973",
+      "screen": "timeline",
+      "display": {
+        "rect_px": {
+          "x": 1037,
+          "y": 827,
+          "width": 292,
+          "height": 159
+        },
+        "rect_percent_of_screenshot": {
+          "x": 67.51,
+          "y": 80.76,
+          "width": 19.01,
+          "height": 15.53
+        },
+        "fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius_css": "18px"
+      },
+      "image_pixels": {
+        "width": 876,
+        "height": 477
+      },
+      "aspect_ratio": 1.83648,
+      "has_alpha": false,
+      "object_estimate": {
+        "bounds_in_visible_rect_px": {
+          "left": 23,
+          "top": 29,
+          "right": 274,
+          "bottom": 155
+        },
+        "coverage_width_percent": 86.0,
+        "coverage_height_percent": 79.2,
+        "margins_px": {
+          "left": 23,
+          "top": 29,
+          "right": 18,
+          "bottom": 4
+        },
+        "margins_percent": {
+          "left": 7.9,
+          "top": 18.2,
+          "right": 6.2,
+          "bottom": 2.5
+        }
+      },
+      "source_region_px": [
+        1037,
+        827,
+        1329,
+        986
+      ],
+      "source_method": "direct screenshot photographic crop, removed outside UI by bounding",
+      "reconstruction_note": "",
+      "generation_prompt": "Mustard-golden yellow 1973 Porsche 911 Carrera coupe, low front three-quarter in pale grey showroom, amber side marker, black trim, detailed wheels, soft floor shadow.",
+      "ui_overlay_excluded": true,
+      "bytes": 19622,
+      "sha256": "0947dbfd2a4c51b24565566af02d6d5862cb62e07257bc2d6753b0442378fea8",
+      "repository_path": "images/heritage-911-classic-cars/timeline_porsche_911_carrera_1973.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/timeline_porsche_911_carrera_1973.webp",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/menu.svg",
+      "kind": "svg-icon",
+      "role": "hamburger navigation",
+      "display_regions_px": [
+        [
+          120,
+          101,
+          143,
+          124
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.65,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 228,
+      "sha256": "35987483d39cfd51192dc0a787c667a5299a1484da6908a38909d762857e2cf9",
+      "repository_path": "images/heritage-911-classic-cars/icons/menu.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/menu.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 120,
+          "y": 101,
+          "width": 23,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 7.81,
+            "y": 9.86,
+            "width": 1.5,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/search.svg",
+      "kind": "svg-icon",
+      "role": "search",
+      "display_regions_px": [
+        [
+          454,
+          102,
+          478,
+          126
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.7,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 257,
+      "sha256": "45bb5e1c7932ac788c5bd0b57fb0163e07c3979286b5dcfa9fc0fc59da72c7b0",
+      "repository_path": "images/heritage-911-classic-cars/icons/search.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/search.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 454,
+          "y": 102,
+          "width": 24,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 29.56,
+            "y": 9.96,
+            "width": 1.56,
+            "height": 2.34
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/chevron_left.svg",
+      "kind": "svg-icon",
+      "role": "back",
+      "display_regions_px": [
+        [
+          586,
+          102,
+          608,
+          125
+        ],
+        [
+          1055,
+          103,
+          1078,
+          128
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.65,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 225,
+      "sha256": "fd34a6b401a45d74c5dc259478fe031e04c925b47b29685e01b9aa4262425dab",
+      "repository_path": "images/heritage-911-classic-cars/icons/chevron_left.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/chevron_left.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 586,
+          "y": 102,
+          "width": 22,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 38.15,
+            "y": 9.96,
+            "width": 1.43,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 1055,
+          "y": 103,
+          "width": 23,
+          "height": 25,
+          "screenshot_percent": {
+            "x": 68.68,
+            "y": 10.06,
+            "width": 1.5,
+            "height": 2.44
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/bookmark.svg",
+      "kind": "svg-icon",
+      "role": "bookmark outline",
+      "display_regions_px": [
+        [
+          917,
+          104,
+          938,
+          127
+        ],
+        [
+          212,
+          921,
+          233,
+          944
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.55,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 268,
+      "sha256": "28c60fc658f521939cef580e911feee2dc57ab4e020c9bbc9026baee71208724",
+      "repository_path": "images/heritage-911-classic-cars/icons/bookmark.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/bookmark.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 917,
+          "y": 104,
+          "width": 21,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 59.7,
+            "y": 10.16,
+            "width": 1.37,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 212,
+          "y": 921,
+          "width": 21,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 13.8,
+            "y": 89.94,
+            "width": 1.37,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/heart.svg",
+      "kind": "svg-icon",
+      "role": "favorite outline",
+      "display_regions_px": [
+        [
+          258,
+          637,
+          285,
+          661
+        ],
+        [
+          456,
+          638,
+          482,
+          660
+        ],
+        [
+          258,
+          837,
+          283,
+          860
+        ],
+        [
+          456,
+          837,
+          482,
+          860
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.8,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 301,
+      "sha256": "d2c98b864f44d5e1ae4e427fcbf3e774904a2fddcff2d8832fa614f2e7c8b233",
+      "repository_path": "images/heritage-911-classic-cars/icons/heart.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/heart.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 258,
+          "y": 637,
+          "width": 27,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 16.8,
+            "y": 62.21,
+            "width": 1.76,
+            "height": 2.34
+          }
+        },
+        {
+          "x": 456,
+          "y": 638,
+          "width": 26,
+          "height": 22,
+          "screenshot_percent": {
+            "x": 29.69,
+            "y": 62.3,
+            "width": 1.69,
+            "height": 2.15
+          }
+        },
+        {
+          "x": 258,
+          "y": 837,
+          "width": 25,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 16.8,
+            "y": 81.74,
+            "width": 1.63,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 456,
+          "y": 837,
+          "width": 26,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 29.69,
+            "y": 81.74,
+            "width": 1.69,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/arrow_right.svg",
+      "kind": "svg-icon",
+      "role": "forward arrow",
+      "display_regions_px": [
+        [
+          259,
+          769,
+          283,
+          791
+        ],
+        [
+          458,
+          769,
+          482,
+          792
+        ],
+        [
+          1369,
+          378,
+          1396,
+          404
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.6,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 228,
+      "sha256": "0949194ba2d069d8b81ced08c89753cae3e60e9cbc66a40216582da06b4fd796",
+      "repository_path": "images/heritage-911-classic-cars/icons/arrow_right.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/arrow_right.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 259,
+          "y": 769,
+          "width": 24,
+          "height": 22,
+          "screenshot_percent": {
+            "x": 16.86,
+            "y": 75.1,
+            "width": 1.56,
+            "height": 2.15
+          }
+        },
+        {
+          "x": 458,
+          "y": 769,
+          "width": 24,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 29.82,
+            "y": 75.1,
+            "width": 1.56,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 1369,
+          "y": 378,
+          "width": 27,
+          "height": 26,
+          "screenshot_percent": {
+            "x": 89.13,
+            "y": 36.91,
+            "width": 1.76,
+            "height": 2.54
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/home_filled.svg",
+      "kind": "svg-icon",
+      "role": "active home",
+      "display_regions_px": [
+        [
+          133,
+          920,
+          158,
+          946
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.45,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 348,
+      "sha256": "2abcf130146063d7029041771e14250043c2dcfe4ce9fa187c6f00da44a122fe",
+      "repository_path": "images/heritage-911-classic-cars/icons/home_filled.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/home_filled.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 133,
+          "y": 920,
+          "width": 25,
+          "height": 26,
+          "screenshot_percent": {
+            "x": 8.66,
+            "y": 89.84,
+            "width": 1.63,
+            "height": 2.54
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/plus_circle.svg",
+      "kind": "svg-icon",
+      "role": "add",
+      "display_regions_px": [
+        [
+          287,
+          918,
+          312,
+          945
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.55,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 259,
+      "sha256": "bd90e900b5e152f08820dc664ccd8dace8d1fd2c9f0c0cce4e690311bbda04a0",
+      "repository_path": "images/heritage-911-classic-cars/icons/plus_circle.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/plus_circle.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 287,
+          "y": 918,
+          "width": 25,
+          "height": 27,
+          "screenshot_percent": {
+            "x": 18.68,
+            "y": 89.65,
+            "width": 1.63,
+            "height": 2.64
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/message.svg",
+      "kind": "svg-icon",
+      "role": "messages",
+      "display_regions_px": [
+        [
+          364,
+          919,
+          386,
+          942
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.55,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 321,
+      "sha256": "5c84908feaba625726bf280bd011c608e8357087e63980300e595788e93e6263",
+      "repository_path": "images/heritage-911-classic-cars/icons/message.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/message.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 364,
+          "y": 919,
+          "width": 22,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 23.7,
+            "y": 89.75,
+            "width": 1.43,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/user.svg",
+      "kind": "svg-icon",
+      "role": "account",
+      "display_regions_px": [
+        [
+          442,
+          919,
+          467,
+          944
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.55,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 305,
+      "sha256": "d75216712df86555757a078a24f5312f92f2487ec093c3e78ad044831366b9ff",
+      "repository_path": "images/heritage-911-classic-cars/icons/user.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/user.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 442,
+          "y": 919,
+          "width": 25,
+          "height": 25,
+          "screenshot_percent": {
+            "x": 28.78,
+            "y": 89.75,
+            "width": 1.63,
+            "height": 2.44
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/grid_2x2.svg",
+      "kind": "svg-icon",
+      "role": "grid display",
+      "display_regions_px": [
+        [
+          1402,
+          103,
+          1428,
+          128
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.65,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 415,
+      "sha256": "d1ed391e695f9079755227264823f6ec3c9e0dc2f68a917f36472e59abc4994b",
+      "repository_path": "images/heritage-911-classic-cars/icons/grid_2x2.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/grid_2x2.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 1402,
+          "y": 103,
+          "width": 26,
+          "height": 25,
+          "screenshot_percent": {
+            "x": 91.28,
+            "y": 10.06,
+            "width": 1.69,
+            "height": 2.44
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/engine.svg",
+      "kind": "svg-icon",
+      "role": "engine specification",
+      "display_regions_px": [
+        [
+          598,
+          670,
+          629,
+          693
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.3,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 301,
+      "sha256": "1a1e3e0f2b24493b231f44b0cc3f434f4871b7fc186f05f447292cf4c347fb0d",
+      "repository_path": "images/heritage-911-classic-cars/icons/engine.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/engine.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 598,
+          "y": 670,
+          "width": 31,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 38.93,
+            "y": 65.43,
+            "width": 2.02,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/gauge.svg",
+      "kind": "svg-icon",
+      "role": "horsepower gauge",
+      "display_regions_px": [
+        [
+          701,
+          670,
+          730,
+          694
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.35,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 363,
+      "sha256": "0e902c1ed4beedfd81990e8b8dabeec49ba4c2e0f0667c72e27bf0e44ff3b905",
+      "repository_path": "images/heritage-911-classic-cars/icons/gauge.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/gauge.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 701,
+          "y": 670,
+          "width": 29,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 45.64,
+            "y": 65.43,
+            "width": 1.89,
+            "height": 2.34
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/drivetrain.svg",
+      "kind": "svg-icon",
+      "role": "rear-wheel-drive layout",
+      "display_regions_px": [
+        [
+          800,
+          671,
+          826,
+          695
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.2,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 536,
+      "sha256": "60d6a9def83589c56ef5f4d0f6c8c9fa0285def230123a4d625b6cb7e59173a3",
+      "repository_path": "images/heritage-911-classic-cars/icons/drivetrain.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/drivetrain.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 800,
+          "y": 671,
+          "width": 26,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 52.08,
+            "y": 65.53,
+            "width": 1.69,
+            "height": 2.34
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/weight.svg",
+      "kind": "svg-icon",
+      "role": "weight specification",
+      "display_regions_px": [
+        [
+          899,
+          672,
+          923,
+          695
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.3,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 255,
+      "sha256": "4a1719a2bd6cccf07d4593d6aa84d9a78f686fa4f9fd98cea8815696a445f3a7",
+      "repository_path": "images/heritage-911-classic-cars/icons/weight.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/weight.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 899,
+          "y": 672,
+          "width": 24,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 58.53,
+            "y": 65.62,
+            "width": 1.56,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/arrow_up_right.svg",
+      "kind": "svg-icon",
+      "role": "contact seller external action",
+      "display_regions_px": [
+        [
+          924,
+          909,
+          946,
+          930
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "currentColor",
+      "stroke_width": 1.65,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 228,
+      "sha256": "b855b06e13a7d6f623112343afc0cdd77f8c8d99900f525cb8766e2bc57b0a0e",
+      "repository_path": "images/heritage-911-classic-cars/icons/arrow_up_right.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/arrow_up_right.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 924,
+          "y": 909,
+          "width": 22,
+          "height": 21,
+          "screenshot_percent": {
+            "x": 60.16,
+            "y": 88.77,
+            "width": 1.43,
+            "height": 2.05
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/heart_light.svg",
+      "kind": "svg-icon",
+      "role": "Light heart outline for photo overlay",
+      "display_regions_px": [
+        [
+          258,
+          637,
+          285,
+          661
+        ],
+        [
+          456,
+          638,
+          482,
+          660
+        ],
+        [
+          258,
+          837,
+          283,
+          860
+        ],
+        [
+          456,
+          837,
+          482,
+          860
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "#FFFFFF",
+      "stroke_width": 1.8,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 296,
+      "sha256": "c70c90788413bb38eb7ae8343f9bf5c6ee2249e691552f09028911999478f5d9",
+      "positions_in_screenshot": [
+        {
+          "x": 258,
+          "y": 637,
+          "width": 27,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 16.8,
+            "y": 62.21,
+            "width": 1.76,
+            "height": 2.34
+          }
+        },
+        {
+          "x": 456,
+          "y": 638,
+          "width": 26,
+          "height": 22,
+          "screenshot_percent": {
+            "x": 29.69,
+            "y": 62.3,
+            "width": 1.69,
+            "height": 2.15
+          }
+        },
+        {
+          "x": 258,
+          "y": 837,
+          "width": 25,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 16.8,
+            "y": 81.74,
+            "width": 1.63,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 456,
+          "y": 837,
+          "width": 26,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 29.69,
+            "y": 81.74,
+            "width": 1.69,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "repository_path": "images/heritage-911-classic-cars/icons/heart_light.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/heart_light.svg",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/bookmark_light.svg",
+      "kind": "svg-icon",
+      "role": "Light bookmark outline on dark photo",
+      "display_regions_px": [
+        [
+          917,
+          104,
+          938,
+          127
+        ],
+        [
+          212,
+          921,
+          233,
+          944
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "#FFFFFF",
+      "stroke_width": 1.55,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 263,
+      "sha256": "ecfc2299b1301c520f881fb4ed684455c7436dd08790378e40c93165a647f41b",
+      "positions_in_screenshot": [
+        {
+          "x": 917,
+          "y": 104,
+          "width": 21,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 59.7,
+            "y": 10.16,
+            "width": 1.37,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 212,
+          "y": 921,
+          "width": 21,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 13.8,
+            "y": 89.94,
+            "width": 1.37,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "repository_path": "images/heritage-911-classic-cars/icons/bookmark_light.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/bookmark_light.svg",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    },
+    {
+      "file": "icons/arrow_right_light.svg",
+      "kind": "svg-icon",
+      "role": "Light right arrow on dark card button",
+      "display_regions_px": [
+        [
+          259,
+          769,
+          283,
+          791
+        ],
+        [
+          458,
+          769,
+          482,
+          792
+        ],
+        [
+          1369,
+          378,
+          1396,
+          404
+        ]
+      ],
+      "viewBox": "0 0 24 24",
+      "image_pixels": {
+        "width": 24,
+        "height": 24
+      },
+      "aspect_ratio": 1,
+      "has_alpha": true,
+      "color": "#FFFFFF",
+      "stroke_width": 1.6,
+      "display": {
+        "fit": "contain",
+        "width_px": 24,
+        "height_px": 24
+      },
+      "background": "transparent",
+      "ui_overlay_excluded": true,
+      "bytes": 223,
+      "sha256": "2ca52831cb4432e4b5b2264ccf64ea8287a87901721461ebdc1fd939a0fcdf28",
+      "positions_in_screenshot": [
+        {
+          "x": 259,
+          "y": 769,
+          "width": 24,
+          "height": 22,
+          "screenshot_percent": {
+            "x": 16.86,
+            "y": 75.1,
+            "width": 1.56,
+            "height": 2.15
+          }
+        },
+        {
+          "x": 458,
+          "y": 769,
+          "width": 24,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 29.82,
+            "y": 75.1,
+            "width": 1.56,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 1369,
+          "y": 378,
+          "width": 27,
+          "height": 26,
+          "screenshot_percent": {
+            "x": 89.13,
+            "y": 36.91,
+            "width": 1.76,
+            "height": 2.54
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      },
+      "repository_path": "images/heritage-911-classic-cars/icons/arrow_right_light.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/icons/arrow_right_light.svg",
+      "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+      "published_sha256_verified": true
+    }
+  ],
+  "publication": {
+    "media_commit_sha": "805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+    "commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/805d8a44e220da863ec29320cc7f5d9fcabacb6e",
+    "repo_folder": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars",
+    "raw_prefix_commit_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/805d8a44e220da863ec29320cc7f5d9fcabacb6e/images/heritage-911-classic-cars/",
+    "checks": {
+      "files_checked": 33,
+      "http_200": 33,
+      "sha256_match": 33,
+      "checked_on": "2026-10-15"
+    },
+    "manifest_commit_sha": "published separately after media commit"
+  },
+  "reuse_disclosure": "Image/photo assets and 16 core SVG paths are byte-identical reuse of screenshot-matching media already published in this same repository under images/porsche-911-heritage-archive. Three white stroke-state icons were added for this project. Not independently re-generated photographs.",
+  "rendering_notes": {
+    "raster_output": "WebP photographic layers, RGB (no alpha), source background and contact shadow included",
+    "raster_scale": "Three times the estimated display rectangle for every photograph. Resampling cannot recover missing source detail.",
+    "object_fit": "Use object-fit and object-position per asset; do not stretch along only one axis.",
+    "icon_output": "SVG transparent background; button circles, badges and nav panels are separate UI layers.",
+    "text_output": "All headings, prices, years, pagination and buttons are live interface text and must not be burned into the photographs.",
+    "crop_occlusion": "The rear car is cut by viewport boundary; the lower home cards continue below the fixed navigation overlay, without extrapolating hidden parts."
+  },
+  "ui_style_tokens": {
+    "background_canvas": {
+      "css": "radial-gradient(ellipse at 50% 43%, #C4C5BF 0%, #B5B7B0 65%, #AAAFA9 100%)",
+      "sample_hex": {
+        "top_left": "#B4B4AD",
+        "left_center": "#B5B5AF",
+        "bottom_mid": "#A9ABA6"
+      }
+    },
+    "screen_panel": {
+      "background": "#F5F4F0",
+      "radius_px": 42,
+      "shadow": "0 23px 52px rgba(46,47,42,0.13)",
+      "screen_bounds_px": {
+        "home": [
+          82,
+          63,
+          433,
+          926
+        ],
+        "details": [
+          550,
+          63,
+          438,
+          926
+        ],
+        "timeline": [
+          1023,
+          63,
+          434,
+          926
+        ]
+      }
+    },
+    "colors": {
+      "text_primary": "#161715",
+      "text_secondary": "#787875",
+      "text_muted": "#93908C",
+      "black_pill": "#1A1B19",
+      "white_warm": "#FAF9F6",
+      "card_photo_gray": "#D3D0CA"
+    },
+    "catalog_filter_active": {
+      "background": "#1A1B19",
+      "color": "#FFFFFF",
+      "radius": "999px"
+    },
+    "catalog_card": {
+      "photo_radius_px": 14,
+      "info_background": "#FFFFFF",
+      "info_radius_px": 14,
+      "arrow_circle_background": "#1B1C19"
+    },
+    "bottom_navigation": {
+      "background": "rgba(253,252,249,.95)",
+      "backdrop_filter": "blur(16px)",
+      "radius_px": 30,
+      "shadow": "0 -7px 28px rgba(80,78,70,.07)",
+      "active_icon_background": "#181A18",
+      "active_icon_radius_px": 15
+    },
+    "search_button": {
+      "size_px": 44,
+      "border": "1px solid rgba(70,70,67,.08)",
+      "background": "rgba(248,247,243,.6)",
+      "radius": "50%"
+    },
+    "middle_stats_strip": {
+      "background": "rgba(250,249,246,.94)",
+      "radius_px": 22,
+      "separator": "1px solid rgba(60,59,55,.07)"
+    },
+    "middle_contact_button": {
+      "background": "#191B19",
+      "text": "#FFFFFF",
+      "radius_px": 21
+    },
+    "timeline_year_active": {
+      "background": "#171816",
+      "text": "#FAFAF8",
+      "radius": "999px"
+    },
+    "timeline_card": {
+      "background": "#FBFAF7",
+      "radius_px": 18,
+      "photographic_shadow": "inside WebP; not CSS",
+      "info_arrow_circle_background": "#F1F0ED",
+      "info_arrow_circle_size_px": 51
+    },
+    "carousel_dots": {
+      "active": "#171816",
+      "inactive": "rgba(249,248,245,.86)",
+      "radius_px": 3
+    },
+    "hero_wall": {
+      "notes": "The vertical architectural shadow gradient is part of the center hero photo; do not add a separate duplicate CSS shadow."
+    }
+  }
+}
