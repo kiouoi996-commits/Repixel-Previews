@@ -1,0 +1,1 @@
+# Tahoe Cabin Retreats\n\nScreenshot reference-based media. The raster files are currently available in the chat ZIP artifact; icon SVGs and manifest were published first. Manifest has per-file status. Raster images are 3x upscales from screenshot and subject to approximate overlay inpainting.\n
