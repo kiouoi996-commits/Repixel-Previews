@@ -200,7 +200,9 @@
       "generation_prompt": "Ivory 1964 Porsche 911 from rear-left three-quarter angle, cropped at right, in a warm pale-grey minimalist studio. Dark grille across engine lid, chrome bumper, red/amber rectangular taillight, German classic plate, black Fuchs wheels, soft diffuse top-left illumination, grey horizon and floor contact shadow. Car enters from lower right occupying about 83% frame width and 51% frame height. No editorial typography, UI, buttons, watermarks.",
       "ui_overlay_excluded": true,
       "bytes": 49302,
-      "sha256": "b5ddc647695f5c9960b31bf65cc845d7cdafd4a505850989958278d31bef36d0"
+      "sha256": "b5ddc647695f5c9960b31bf65cc845d7cdafd4a505850989958278d31bef36d0",
+      "repository_path": "images/porsche-911-heritage-archive/home_hero_porsche_911_rear.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/home_hero_porsche_911_rear.webp"
     },
     {
       "file": "home_card_porsche_911_1964.webp",
@@ -263,7 +265,9 @@
       "generation_prompt": "1964 ivory Porsche 911 low front three quarter, neutral warm grey studio, natural floor shadow, car spans 92% width and lower 62%, no UI or heart.",
       "ui_overlay_excluded": true,
       "bytes": 10250,
-      "sha256": "68c8990d8d6872860490c2595ce62fd0d02b9e52b9891ee8d7aa5fc1ec15f88d"
+      "sha256": "68c8990d8d6872860490c2595ce62fd0d02b9e52b9891ee8d7aa5fc1ec15f88d",
+      "repository_path": "images/porsche-911-heritage-archive/home_card_porsche_911_1964.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/home_card_porsche_911_1964.webp"
     },
     {
       "file": "home_card_mercedes_300sl_1955.webp",
@@ -326,7 +330,9 @@
       "generation_prompt": "1955 Mercedes 300 SL dark forest green coupe, silver star central grille, front three-quarter view, minimalist studio soft grey background, polished paint and contact shadow, no heart icon.",
       "ui_overlay_excluded": true,
       "bytes": 10436,
-      "sha256": "0fa1268502ddcea0a7349bd543c36f61296c6b41c495b9ebd193f0d2d0df9066"
+      "sha256": "0fa1268502ddcea0a7349bd543c36f61296c6b41c495b9ebd193f0d2d0df9066",
+      "repository_path": "images/porsche-911-heritage-archive/home_card_mercedes_300sl_1955.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/home_card_mercedes_300sl_1955.webp"
     },
     {
       "file": "home_card_porsche_911_blue.webp",
@@ -389,7 +395,9 @@
       "generation_prompt": "Early Porsche 911 dark navy-blue coupe front-left three-quarter with chrome round headlights, a softly illuminated neutral grey studio, dark wheels, visible entire car and ground shadow, no UI.",
       "ui_overlay_excluded": true,
       "bytes": 12048,
-      "sha256": "1fd7031433df12e249f073960bc5f1ccfa7cc39106b57330aa6ac74ecee3abed"
+      "sha256": "1fd7031433df12e249f073960bc5f1ccfa7cc39106b57330aa6ac74ecee3abed",
+      "repository_path": "images/porsche-911-heritage-archive/home_card_porsche_911_blue.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/home_card_porsche_911_blue.webp"
     },
     {
       "file": "home_card_porsche_911_red.webp",
@@ -452,7 +460,9 @@
       "generation_prompt": "Early Porsche 911 vivid red coupe front three-quarter studio photograph, grey wall and floor, silver trim, two round headlamps, entire vehicle visible without heart, labels or buttons.",
       "ui_overlay_excluded": true,
       "bytes": 13826,
-      "sha256": "d433543afd29583fcca459ae1cf09a2e69aeeaf14726fa1544701c1834e93a0f"
+      "sha256": "d433543afd29583fcca459ae1cf09a2e69aeeaf14726fa1544701c1834e93a0f",
+      "repository_path": "images/porsche-911-heritage-archive/home_card_porsche_911_red.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/home_card_porsche_911_red.webp"
     },
     {
       "file": "detail_hero_porsche_911_1964.webp",
@@ -515,7 +525,9 @@
       "generation_prompt": "Creamy silver Porsche 911 1964, front-left three-quarter, full car from round headlights to passenger-side rear wheel, dark five-spoke rims, orange turn signals, chrome bumper, period German number plate. Dramatic ivory lit wall left, matte charcoal vertical panel right, soft reflected studio floor, car low in composition at y≈48%-88%. No headings, 1964 typography, bookmark, counters, icons or cards.",
       "ui_overlay_excluded": true,
       "bytes": 71776,
-      "sha256": "9c75e6b9886fae04dad72aa359828e6a985cb59c9b8ba0e3d5989a1ce92fc62d"
+      "sha256": "9c75e6b9886fae04dad72aa359828e6a985cb59c9b8ba0e3d5989a1ce92fc62d",
+      "repository_path": "images/porsche-911-heritage-archive/detail_hero_porsche_911_1964.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/detail_hero_porsche_911_1964.webp"
     },
     {
       "file": "detail_steering.webp",
@@ -578,7 +590,9 @@
       "generation_prompt": "Tight interior shot of vintage Porsche 911 wood-rim steering wheel, black dashboard gauges, window with warm landscape, photorealistic, same crop.",
       "ui_overlay_excluded": true,
       "bytes": 7232,
-      "sha256": "b1dfc5ba54dc0e2ae88d8621edd7e831c5d40809790f1f40d8c1917ee42a3fe5"
+      "sha256": "b1dfc5ba54dc0e2ae88d8621edd7e831c5d40809790f1f40d8c1917ee42a3fe5",
+      "repository_path": "images/porsche-911-heritage-archive/detail_steering.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/detail_steering.webp"
     },
     {
       "file": "detail_wheel.webp",
@@ -641,7 +655,9 @@
       "generation_prompt": "Tight vertical classic Porsche Fuchs wheel and black tire photograph, hub centered, small polished metal trim highlights, dark studio lighting.",
       "ui_overlay_excluded": true,
       "bytes": 8306,
-      "sha256": "441ebc09b2bf814d8659f4aab5799ea990b9c44e94d4e78b4d2008d9b5e87204"
+      "sha256": "441ebc09b2bf814d8659f4aab5799ea990b9c44e94d4e78b4d2008d9b5e87204",
+      "repository_path": "images/porsche-911-heritage-archive/detail_wheel.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/detail_wheel.webp"
     },
     {
       "file": "detail_leather_seats.webp",
@@ -704,7 +720,9 @@
       "generation_prompt": "Classic 1960s Porsche 911 tan brown striped leather front seats with pronounced pleats, dark window and trim, warm interior light, close crop.",
       "ui_overlay_excluded": true,
       "bytes": 6726,
-      "sha256": "cc10c3dbd811a99a9c95774013cd14d7aee789640d96e154fcbc7d88bdd78c6d"
+      "sha256": "cc10c3dbd811a99a9c95774013cd14d7aee789640d96e154fcbc7d88bdd78c6d",
+      "repository_path": "images/porsche-911-heritage-archive/detail_leather_seats.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/detail_leather_seats.webp"
     },
     {
       "file": "detail_911_emblem.webp",
@@ -767,7 +785,9 @@
       "generation_prompt": "Tight macro of raised chrome 911 emblem on metallic beige/grey car body panel, diagonal composition, shallow shadows, monochrome studio shot.",
       "ui_overlay_excluded": true,
       "bytes": 3800,
-      "sha256": "f7d8ef1bfc237d7752b679fbefdd671f470f7370bfec6c4da706a2c364c422f3"
+      "sha256": "f7d8ef1bfc237d7752b679fbefdd671f470f7370bfec6c4da706a2c364c422f3",
+      "repository_path": "images/porsche-911-heritage-archive/detail_911_emblem.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/detail_911_emblem.webp"
     },
     {
       "file": "timeline_porsche_911_1964.webp",
@@ -830,7 +850,9 @@
       "generation_prompt": "Ivory/silver 1964 Porsche 911 coupe photographed from low front three quarter, elongated studio photograph, grey stone wall and floor, soft diffuse left-light, 90% car width, no UI.",
       "ui_overlay_excluded": true,
       "bytes": 21436,
-      "sha256": "9929930f48e05d3b03de4c185aa34a41f58cba6d33c4530417c82eca8076b487"
+      "sha256": "9929930f48e05d3b03de4c185aa34a41f58cba6d33c4530417c82eca8076b487",
+      "repository_path": "images/porsche-911-heritage-archive/timeline_porsche_911_1964.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/timeline_porsche_911_1964.webp"
     },
     {
       "file": "timeline_porsche_911s_1967.webp",
@@ -893,7 +915,9 @@
       "generation_prompt": "Burgundy red Porsche 911 S 1967 coupe, low front three-quarter facing right, round chrome-ringed headlights, silver bumpers, polished gray studio wall and floor, visible soft shadow.",
       "ui_overlay_excluded": true,
       "bytes": 22712,
-      "sha256": "7623e730ab01ba7ef65de1071ecc200bf195dfd3991a4b320625f09c12edd1c6"
+      "sha256": "7623e730ab01ba7ef65de1071ecc200bf195dfd3991a4b320625f09c12edd1c6",
+      "repository_path": "images/porsche-911-heritage-archive/timeline_porsche_911s_1967.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/timeline_porsche_911s_1967.webp"
     },
     {
       "file": "timeline_porsche_911t_1970.webp",
@@ -956,7 +980,9 @@
       "generation_prompt": "Dark pine-green almost black Porsche 911 T 1970 coupe, low front three-quarter, neutral taupe seamless studio, chrome period trim and contact shadow, no text.",
       "ui_overlay_excluded": true,
       "bytes": 18840,
-      "sha256": "c901bcc864af55d91c42b3425dcbde8129ff27c909986a4362b6e8a4a1fbf3fc"
+      "sha256": "c901bcc864af55d91c42b3425dcbde8129ff27c909986a4362b6e8a4a1fbf3fc",
+      "repository_path": "images/porsche-911-heritage-archive/timeline_porsche_911t_1970.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/timeline_porsche_911t_1970.webp"
     },
     {
       "file": "timeline_porsche_911_carrera_1973.webp",
@@ -1019,7 +1045,9 @@
       "generation_prompt": "Mustard-golden yellow 1973 Porsche 911 Carrera coupe, low front three-quarter in pale grey showroom, amber side marker, black trim, detailed wheels, soft floor shadow.",
       "ui_overlay_excluded": true,
       "bytes": 19622,
-      "sha256": "0947dbfd2a4c51b24565566af02d6d5862cb62e07257bc2d6753b0442378fea8"
+      "sha256": "0947dbfd2a4c51b24565566af02d6d5862cb62e07257bc2d6753b0442378fea8",
+      "repository_path": "images/porsche-911-heritage-archive/timeline_porsche_911_carrera_1973.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/timeline_porsche_911_carrera_1973.webp"
     },
     {
       "file": "icons/menu.svg",
@@ -1050,7 +1078,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 228,
-      "sha256": "35987483d39cfd51192dc0a787c667a5299a1484da6908a38909d762857e2cf9"
+      "sha256": "35987483d39cfd51192dc0a787c667a5299a1484da6908a38909d762857e2cf9",
+      "repository_path": "images/porsche-911-heritage-archive/icons/menu.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/menu.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 120,
+          "y": 101,
+          "width": 23,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 7.81,
+            "y": 9.86,
+            "width": 1.5,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/search.svg",
@@ -1081,7 +1130,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 257,
-      "sha256": "45bb5e1c7932ac788c5bd0b57fb0163e07c3979286b5dcfa9fc0fc59da72c7b0"
+      "sha256": "45bb5e1c7932ac788c5bd0b57fb0163e07c3979286b5dcfa9fc0fc59da72c7b0",
+      "repository_path": "images/porsche-911-heritage-archive/icons/search.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/search.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 454,
+          "y": 102,
+          "width": 24,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 29.56,
+            "y": 9.96,
+            "width": 1.56,
+            "height": 2.34
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/chevron_left.svg",
@@ -1118,7 +1188,40 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 225,
-      "sha256": "fd34a6b401a45d74c5dc259478fe031e04c925b47b29685e01b9aa4262425dab"
+      "sha256": "fd34a6b401a45d74c5dc259478fe031e04c925b47b29685e01b9aa4262425dab",
+      "repository_path": "images/porsche-911-heritage-archive/icons/chevron_left.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/chevron_left.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 586,
+          "y": 102,
+          "width": 22,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 38.15,
+            "y": 9.96,
+            "width": 1.43,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 1055,
+          "y": 103,
+          "width": 23,
+          "height": 25,
+          "screenshot_percent": {
+            "x": 68.68,
+            "y": 10.06,
+            "width": 1.5,
+            "height": 2.44
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/bookmark.svg",
@@ -1155,7 +1258,40 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 268,
-      "sha256": "28c60fc658f521939cef580e911feee2dc57ab4e020c9bbc9026baee71208724"
+      "sha256": "28c60fc658f521939cef580e911feee2dc57ab4e020c9bbc9026baee71208724",
+      "repository_path": "images/porsche-911-heritage-archive/icons/bookmark.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/bookmark.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 917,
+          "y": 104,
+          "width": 21,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 59.7,
+            "y": 10.16,
+            "width": 1.37,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 212,
+          "y": 921,
+          "width": 21,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 13.8,
+            "y": 89.94,
+            "width": 1.37,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/heart.svg",
@@ -1204,7 +1340,64 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 301,
-      "sha256": "d2c98b864f44d5e1ae4e427fcbf3e774904a2fddcff2d8832fa614f2e7c8b233"
+      "sha256": "d2c98b864f44d5e1ae4e427fcbf3e774904a2fddcff2d8832fa614f2e7c8b233",
+      "repository_path": "images/porsche-911-heritage-archive/icons/heart.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/heart.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 258,
+          "y": 637,
+          "width": 27,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 16.8,
+            "y": 62.21,
+            "width": 1.76,
+            "height": 2.34
+          }
+        },
+        {
+          "x": 456,
+          "y": 638,
+          "width": 26,
+          "height": 22,
+          "screenshot_percent": {
+            "x": 29.69,
+            "y": 62.3,
+            "width": 1.69,
+            "height": 2.15
+          }
+        },
+        {
+          "x": 258,
+          "y": 837,
+          "width": 25,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 16.8,
+            "y": 81.74,
+            "width": 1.63,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 456,
+          "y": 837,
+          "width": 26,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 29.69,
+            "y": 81.74,
+            "width": 1.69,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/arrow_right.svg",
@@ -1247,7 +1440,52 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 228,
-      "sha256": "0949194ba2d069d8b81ced08c89753cae3e60e9cbc66a40216582da06b4fd796"
+      "sha256": "0949194ba2d069d8b81ced08c89753cae3e60e9cbc66a40216582da06b4fd796",
+      "repository_path": "images/porsche-911-heritage-archive/icons/arrow_right.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/arrow_right.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 259,
+          "y": 769,
+          "width": 24,
+          "height": 22,
+          "screenshot_percent": {
+            "x": 16.86,
+            "y": 75.1,
+            "width": 1.56,
+            "height": 2.15
+          }
+        },
+        {
+          "x": 458,
+          "y": 769,
+          "width": 24,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 29.82,
+            "y": 75.1,
+            "width": 1.56,
+            "height": 2.25
+          }
+        },
+        {
+          "x": 1369,
+          "y": 378,
+          "width": 27,
+          "height": 26,
+          "screenshot_percent": {
+            "x": 89.13,
+            "y": 36.91,
+            "width": 1.76,
+            "height": 2.54
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/home_filled.svg",
@@ -1278,7 +1516,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 348,
-      "sha256": "2abcf130146063d7029041771e14250043c2dcfe4ce9fa187c6f00da44a122fe"
+      "sha256": "2abcf130146063d7029041771e14250043c2dcfe4ce9fa187c6f00da44a122fe",
+      "repository_path": "images/porsche-911-heritage-archive/icons/home_filled.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/home_filled.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 133,
+          "y": 920,
+          "width": 25,
+          "height": 26,
+          "screenshot_percent": {
+            "x": 8.66,
+            "y": 89.84,
+            "width": 1.63,
+            "height": 2.54
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/plus_circle.svg",
@@ -1309,7 +1568,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 259,
-      "sha256": "bd90e900b5e152f08820dc664ccd8dace8d1fd2c9f0c0cce4e690311bbda04a0"
+      "sha256": "bd90e900b5e152f08820dc664ccd8dace8d1fd2c9f0c0cce4e690311bbda04a0",
+      "repository_path": "images/porsche-911-heritage-archive/icons/plus_circle.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/plus_circle.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 287,
+          "y": 918,
+          "width": 25,
+          "height": 27,
+          "screenshot_percent": {
+            "x": 18.68,
+            "y": 89.65,
+            "width": 1.63,
+            "height": 2.64
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/message.svg",
@@ -1340,7 +1620,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 321,
-      "sha256": "5c84908feaba625726bf280bd011c608e8357087e63980300e595788e93e6263"
+      "sha256": "5c84908feaba625726bf280bd011c608e8357087e63980300e595788e93e6263",
+      "repository_path": "images/porsche-911-heritage-archive/icons/message.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/message.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 364,
+          "y": 919,
+          "width": 22,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 23.7,
+            "y": 89.75,
+            "width": 1.43,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/user.svg",
@@ -1371,7 +1672,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 305,
-      "sha256": "d75216712df86555757a078a24f5312f92f2487ec093c3e78ad044831366b9ff"
+      "sha256": "d75216712df86555757a078a24f5312f92f2487ec093c3e78ad044831366b9ff",
+      "repository_path": "images/porsche-911-heritage-archive/icons/user.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/user.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 442,
+          "y": 919,
+          "width": 25,
+          "height": 25,
+          "screenshot_percent": {
+            "x": 28.78,
+            "y": 89.75,
+            "width": 1.63,
+            "height": 2.44
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/grid_2x2.svg",
@@ -1402,7 +1724,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 415,
-      "sha256": "d1ed391e695f9079755227264823f6ec3c9e0dc2f68a917f36472e59abc4994b"
+      "sha256": "d1ed391e695f9079755227264823f6ec3c9e0dc2f68a917f36472e59abc4994b",
+      "repository_path": "images/porsche-911-heritage-archive/icons/grid_2x2.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/grid_2x2.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 1402,
+          "y": 103,
+          "width": 26,
+          "height": 25,
+          "screenshot_percent": {
+            "x": 91.28,
+            "y": 10.06,
+            "width": 1.69,
+            "height": 2.44
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/engine.svg",
@@ -1433,7 +1776,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 301,
-      "sha256": "1a1e3e0f2b24493b231f44b0cc3f434f4871b7fc186f05f447292cf4c347fb0d"
+      "sha256": "1a1e3e0f2b24493b231f44b0cc3f434f4871b7fc186f05f447292cf4c347fb0d",
+      "repository_path": "images/porsche-911-heritage-archive/icons/engine.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/engine.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 598,
+          "y": 670,
+          "width": 31,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 38.93,
+            "y": 65.43,
+            "width": 2.02,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/gauge.svg",
@@ -1464,7 +1828,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 363,
-      "sha256": "0e902c1ed4beedfd81990e8b8dabeec49ba4c2e0f0667c72e27bf0e44ff3b905"
+      "sha256": "0e902c1ed4beedfd81990e8b8dabeec49ba4c2e0f0667c72e27bf0e44ff3b905",
+      "repository_path": "images/porsche-911-heritage-archive/icons/gauge.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/gauge.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 701,
+          "y": 670,
+          "width": 29,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 45.64,
+            "y": 65.43,
+            "width": 1.89,
+            "height": 2.34
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/drivetrain.svg",
@@ -1495,7 +1880,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 536,
-      "sha256": "60d6a9def83589c56ef5f4d0f6c8c9fa0285def230123a4d625b6cb7e59173a3"
+      "sha256": "60d6a9def83589c56ef5f4d0f6c8c9fa0285def230123a4d625b6cb7e59173a3",
+      "repository_path": "images/porsche-911-heritage-archive/icons/drivetrain.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/drivetrain.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 800,
+          "y": 671,
+          "width": 26,
+          "height": 24,
+          "screenshot_percent": {
+            "x": 52.08,
+            "y": 65.53,
+            "width": 1.69,
+            "height": 2.34
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/weight.svg",
@@ -1526,7 +1932,28 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 255,
-      "sha256": "4a1719a2bd6cccf07d4593d6aa84d9a78f686fa4f9fd98cea8815696a445f3a7"
+      "sha256": "4a1719a2bd6cccf07d4593d6aa84d9a78f686fa4f9fd98cea8815696a445f3a7",
+      "repository_path": "images/porsche-911-heritage-archive/icons/weight.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/weight.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 899,
+          "y": 672,
+          "width": 24,
+          "height": 23,
+          "screenshot_percent": {
+            "x": 58.53,
+            "y": 65.62,
+            "width": 1.56,
+            "height": 2.25
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     },
     {
       "file": "icons/arrow_up_right.svg",
@@ -1557,7 +1984,41 @@
       "background": "transparent",
       "ui_overlay_excluded": true,
       "bytes": 228,
-      "sha256": "b855b06e13a7d6f623112343afc0cdd77f8c8d99900f525cb8766e2bc57b0a0e"
+      "sha256": "b855b06e13a7d6f623112343afc0cdd77f8c8d99900f525cb8766e2bc57b0a0e",
+      "repository_path": "images/porsche-911-heritage-archive/icons/arrow_up_right.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/icons/arrow_up_right.svg",
+      "positions_in_screenshot": [
+        {
+          "x": 924,
+          "y": 909,
+          "width": 22,
+          "height": 21,
+          "screenshot_percent": {
+            "x": 60.16,
+            "y": 88.77,
+            "width": 1.43,
+            "height": 2.05
+          }
+        }
+      ],
+      "estimated_drawing_coverage": {
+        "width_percent": 84,
+        "height_percent": 82,
+        "status": "visual estimate; SVG exact paths are authoritative"
+      }
     }
-  ]
+  ],
+  "publication": {
+    "media_commit_sha": "c0a0b9eee28114264781693652623fc03abbd68a",
+    "media_commit_url": "https://github.com/kiouoi996-commits/Repixel-Previews/commit/c0a0b9eee28114264781693652623fc03abbd68a",
+    "repo_folder_commit_pinned": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive",
+    "raw_prefix_commit_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c0a0b9eee28114264781693652623fc03abbd68a/images/porsche-911-heritage-archive/",
+    "checks": {
+      "files_checked": 32,
+      "http_200": 32,
+      "sha256_match": 30,
+      "checked_on": "2026-10-15"
+    },
+    "verification_note": "All 30 assets and two publication metadata documents passed direct HTTP 200 check; 30 asset SHA256 hashes matched."
+  }
 }
