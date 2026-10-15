@@ -1,1 +1,3 @@
-# Tahoe Cabin Retreats\n\nScreenshot reference-based media. The raster files are currently available in the chat ZIP artifact; icon SVGs and manifest were published first. Manifest has per-file status. Raster images are 3x upscales from screenshot and subject to approximate overlay inpainting.\n
+# Tahoe Cabin Retreats — Repixel media
+
+30 separate assets (14 WebP, 16 transparent SVG), plus manifest.json, asset-index.csv, prompts.json, and analysis.md. These are photographic reconstructions from the screenshot, not original media. The source screenshot was 1448x1086. Download file names directly or use the commit-pinned published_url for each asset from manifest.json. No text or button backgrounds are baked into photographs; covered photographic regions are approximately restored. Note: the published photo variant was transferred at lossy interim resolution; the user ZIP contains the higher fidelity local version.

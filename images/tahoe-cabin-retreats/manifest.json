@@ -6,7 +6,7 @@
     1086
   ],
   "asset_count": 30,
-  "status": "partial: icons uploaded; rasters only in locally delivered zip",
+  "status": "published_all_assets_verified",
   "assets": [
     {
       "file": "avatar-guest.webp",
@@ -30,7 +30,31 @@
       "aspect_ratio": 1.0,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/avatar-guest.webp",
+      "sha256": "44a8ba17424e7c428b13a62014e7927c81d5bebac2f1614237018677719073d8",
+      "file_size_bytes": 1654,
+      "subject": "circular close-cropped portrait of a woman with long straight brown hair in a light blouse against a beige indoor background, warm diffuse daylight",
+      "object_bbox_percent": [
+        29,
+        5,
+        72,
+        99
+      ],
+      "object_occupancy_percent": [
+        43,
+        94
+      ],
+      "object_margins_percent": {
+        "left": 29,
+        "top": 5,
+        "right": 28,
+        "bottom": 1
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: circular close-cropped portrait of a woman with long straight brown hair in a light blouse against a beige indoor background, warm diffuse daylight. Output at 147x147 pixels; no alpha; same subject occupies the estimated 43% image width and 94% image height, with margins [29, 5, 28, 1] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "category-cabins.webp",
@@ -54,7 +78,31 @@
       "aspect_ratio": 1.0862,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/category-cabins.webp",
+      "sha256": "0ac32d946e56994b6ab845f964dca4f62736e7dbb4f8f554464d59906019774d",
+      "file_size_bytes": 2534,
+      "subject": "small dark timber A-frame retreat with warm glowing glazed front windows in a pine grove, camera at eye level, daylight",
+      "object_bbox_percent": [
+        11,
+        9,
+        92,
+        95
+      ],
+      "object_occupancy_percent": [
+        81,
+        86
+      ],
+      "object_margins_percent": {
+        "left": 11,
+        "top": 9,
+        "right": 8,
+        "bottom": 5
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: small dark timber A-frame retreat with warm glowing glazed front windows in a pine grove, camera at eye level, daylight. Output at 189x174 pixels; no alpha; same subject occupies the estimated 81% image width and 86% image height, with margins [11, 9, 8, 5] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "category-lakeside.webp",
@@ -78,7 +126,31 @@
       "aspect_ratio": 1.1034,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/category-lakeside.webp",
+      "sha256": "9bb5da73f846d11d2a3510aa14082dc89829452992789772acd06308c3166671",
+      "file_size_bytes": 2116,
+      "subject": "serene still alpine lake with forested banks and distant hazy hills, reflection on water, eye-level landscape",
+      "object_bbox_percent": [
+        0,
+        4,
+        100,
+        100
+      ],
+      "object_occupancy_percent": [
+        100,
+        96
+      ],
+      "object_margins_percent": {
+        "left": 0,
+        "top": 4,
+        "right": 0,
+        "bottom": 0
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: serene still alpine lake with forested banks and distant hazy hills, reflection on water, eye-level landscape. Output at 192x174 pixels; no alpha; same subject occupies the estimated 100% image width and 96% image height, with margins [0, 4, 0, 0] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "category-mountain.webp",
@@ -102,7 +174,31 @@
       "aspect_ratio": 1.1897,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/category-mountain.webp",
+      "sha256": "b7ae8af61d4913a9fc5c32c8bdb3480be97b23c29d516de28475c3a2e0c4cd52",
+      "file_size_bytes": 2410,
+      "subject": "rugged sharp grey alpine mountain with snow dusting on upper cliffs against cool pale cloudy sky, distant landscape",
+      "object_bbox_percent": [
+        14,
+        2,
+        97,
+        98
+      ],
+      "object_occupancy_percent": [
+        83,
+        96
+      ],
+      "object_margins_percent": {
+        "left": 14,
+        "top": 2,
+        "right": 3,
+        "bottom": 2
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: rugged sharp grey alpine mountain with snow dusting on upper cliffs against cool pale cloudy sky, distant landscape. Output at 207x174 pixels; no alpha; same subject occupies the estimated 83% image width and 96% image height, with margins [14, 2, 3, 2] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "category-forest.webp",
@@ -126,7 +222,31 @@
       "aspect_ratio": 1.1207,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/category-forest.webp",
+      "sha256": "97d010f6dd18e1eac6a07efb250f83a2a6af128c371ef6e77f1687f2dcb22dff",
+      "file_size_bytes": 2500,
+      "subject": "tall deep green pine trunks and leafy understory on a shaded forest path, soft daylight from above",
+      "object_bbox_percent": [
+        0,
+        0,
+        100,
+        100
+      ],
+      "object_occupancy_percent": [
+        100,
+        100
+      ],
+      "object_margins_percent": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: tall deep green pine trunks and leafy understory on a shaded forest path, soft daylight from above. Output at 195x174 pixels; no alpha; same subject occupies the estimated 100% image width and 100% image height, with margins [0, 0, 0, 0] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "featured-pine-ridge.webp",
@@ -150,7 +270,31 @@
       "aspect_ratio": 0.9079,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/featured-pine-ridge.webp",
+      "sha256": "9f9bb3fb1435fd2ea5f45201fdad491f42e328b65dc56491718f3fcd2311908a",
+      "file_size_bytes": 28488,
+      "subject": "steep triangular dark timber A-frame cabin with warm orange-lit large windows and pine trees all around at blue-hour dusk; green shrubs and front pathway, slightly low eye-level viewpoint",
+      "object_bbox_percent": [
+        8,
+        8,
+        88,
+        93
+      ],
+      "object_occupancy_percent": [
+        80,
+        85
+      ],
+      "object_margins_percent": {
+        "left": 8,
+        "top": 8,
+        "right": 12,
+        "bottom": 7
+      },
+      "ui_removed": "buttons, badges, captions or textual UI reconstructed approximately where overlapping",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: steep triangular dark timber A-frame cabin with warm orange-lit large windows and pine trees all around at blue-hour dusk; green shrubs and front pathway, slightly low eye-level viewpoint. Output at 621x684 pixels; no alpha; same subject occupies the estimated 80% image width and 85% image height, with margins [8, 8, 12, 7] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "featured-meadow-house.webp",
@@ -174,7 +318,31 @@
       "aspect_ratio": 0.7763,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/featured-meadow-house.webp",
+      "sha256": "e86e1e33f508a3244fab7ed2143f5a46168061d8197a23167d03966a9aaa3791",
+      "file_size_bytes": 18134,
+      "subject": "warm honey wood and glass contemporary living room with floor-to-ceiling panoramic windows, beige couch foreground and lush outdoor forest; viewpoint from room corner",
+      "object_bbox_percent": [
+        18,
+        34,
+        91,
+        94
+      ],
+      "object_occupancy_percent": [
+        73,
+        60
+      ],
+      "object_margins_percent": {
+        "left": 18,
+        "top": 34,
+        "right": 9,
+        "bottom": 6
+      },
+      "ui_removed": "buttons, badges, captions or textual UI reconstructed approximately where overlapping",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: warm honey wood and glass contemporary living room with floor-to-ceiling panoramic windows, beige couch foreground and lush outdoor forest; viewpoint from room corner. Output at 531x684 pixels; no alpha; same subject occupies the estimated 73% image width and 60% image height, with margins [18, 34, 9, 6] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "hero-pine-ridge.webp",
@@ -198,7 +366,31 @@
       "aspect_ratio": 0.7949,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/hero-pine-ridge.webp",
+      "sha256": "23922aca4da43d12964cc4cf8beb126e5fa4e61df47c9cb30ef8b25c3fa1f972",
+      "file_size_bytes": 87546,
+      "subject": "large black steep gable A-frame lakeside timber cabin, full-height angular glass front, warm illuminated wood interior, outdoor dark wood lounge chairs and square fire pit at dusk, trees framing mountain lake and pastel sunset sky, slightly elevated three-quarter front angle",
+      "object_bbox_percent": [
+        0,
+        13,
+        70,
+        91
+      ],
+      "object_occupancy_percent": [
+        70,
+        78
+      ],
+      "object_margins_percent": {
+        "left": 0,
+        "top": 13,
+        "right": 30,
+        "bottom": 9
+      },
+      "ui_removed": "buttons, badges, captions or textual UI reconstructed approximately where overlapping",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: large black steep gable A-frame lakeside timber cabin, full-height angular glass front, warm illuminated wood interior, outdoor dark wood lounge chairs and square fire pit at dusk, trees framing mountain lake and pastel sunset sky, slightly elevated three-quarter front angle. Output at 1209x1521 pixels; no alpha; same subject occupies the estimated 70% image width and 78% image height, with margins [0, 13, 30, 9] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "gallery-living.webp",
@@ -222,7 +414,31 @@
       "aspect_ratio": 1.0,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/gallery-living.webp",
+      "sha256": "b9e79ae27d515a81a88e198d77576c86a2e24683919eabf020fc8607a32a0e5c",
+      "file_size_bytes": 3894,
+      "subject": "warm modern minimalist living room with beige upholstered sofa, neutral paintings, timber ceiling, soft morning light, wide-angle interior",
+      "object_bbox_percent": [
+        12,
+        24,
+        93,
+        89
+      ],
+      "object_occupancy_percent": [
+        81,
+        65
+      ],
+      "object_margins_percent": {
+        "left": 12,
+        "top": 24,
+        "right": 7,
+        "bottom": 11
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: warm modern minimalist living room with beige upholstered sofa, neutral paintings, timber ceiling, soft morning light, wide-angle interior. Output at 249x249 pixels; no alpha; same subject occupies the estimated 81% image width and 65% image height, with margins [12, 24, 7, 11] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "gallery-bedroom.webp",
@@ -246,7 +462,31 @@
       "aspect_ratio": 1.0,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/gallery-bedroom.webp",
+      "sha256": "8a96d5feb93b717e41e86fcb89857d19253486c77dd2566158b0d5b97b594f00",
+      "file_size_bytes": 4568,
+      "subject": "modern wood-clad cabin bedroom with pale white bedding and broad windows, soft neutral natural illumination, three-quarter interior view",
+      "object_bbox_percent": [
+        16,
+        49,
+        86,
+        95
+      ],
+      "object_occupancy_percent": [
+        70,
+        46
+      ],
+      "object_margins_percent": {
+        "left": 16,
+        "top": 49,
+        "right": 14,
+        "bottom": 5
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: modern wood-clad cabin bedroom with pale white bedding and broad windows, soft neutral natural illumination, three-quarter interior view. Output at 249x249 pixels; no alpha; same subject occupies the estimated 70% image width and 46% image height, with margins [16, 49, 14, 5] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "gallery-lake-view.webp",
@@ -270,7 +510,31 @@
       "aspect_ratio": 1.012,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/gallery-lake-view.webp",
+      "sha256": "7af26f6baa856f4ccb40215299751e4fee32b5ab52511ba57423abd4f71852e7",
+      "file_size_bytes": 4554,
+      "subject": "wide calm mountain lake at hazy dusk framed by dark evergreen trees, view from hillside, blue-grey water and sunset peach-toned horizon",
+      "object_bbox_percent": [
+        0,
+        22,
+        100,
+        100
+      ],
+      "object_occupancy_percent": [
+        100,
+        78
+      ],
+      "object_margins_percent": {
+        "left": 0,
+        "top": 22,
+        "right": 0,
+        "bottom": 0
+      },
+      "ui_removed": "UI clipped from image by placing photo within viewport",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: wide calm mountain lake at hazy dusk framed by dark evergreen trees, view from hillside, blue-grey water and sunset peach-toned horizon. Output at 252x249 pixels; no alpha; same subject occupies the estimated 100% image width and 78% image height, with margins [0, 22, 0, 0] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "cedar-lake-house.webp",
@@ -294,7 +558,31 @@
       "aspect_ratio": 2.5517,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/cedar-lake-house.webp",
+      "sha256": "a8cc4835b7b1e3b62213ddd061b88eb025acccd9c7cc84e64beaf3dbeb82cc17",
+      "file_size_bytes": 31946,
+      "subject": "single-level dark charcoal timber lake house with broad orange-lit glazing, long porch and decks, granite boulders and tall pines beside Lake Tahoe, sunny warm forest daylight, three-quarter perspective",
+      "object_bbox_percent": [
+        7,
+        14,
+        67,
+        91
+      ],
+      "object_occupancy_percent": [
+        60,
+        77
+      ],
+      "object_margins_percent": {
+        "left": 7,
+        "top": 14,
+        "right": 33,
+        "bottom": 9
+      },
+      "ui_removed": "buttons, badges, captions or textual UI reconstructed approximately where overlapping",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: single-level dark charcoal timber lake house with broad orange-lit glazing, long porch and decks, granite boulders and tall pines beside Lake Tahoe, sunny warm forest daylight, three-quarter perspective. Output at 1110x435 pixels; no alpha; same subject occupies the estimated 60% image width and 77% image height, with margins [7, 14, 33, 9] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "willow-cabin-bedroom.webp",
@@ -318,7 +606,31 @@
       "aspect_ratio": 2.5874,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/willow-cabin-bedroom.webp",
+      "sha256": "c9ac14c61526f8e159c9bfe58a4007939629be0098499e0a56f99bcde562122a",
+      "file_size_bytes": 24784,
+      "subject": "natural oak cabin bedroom with large soft king bed and grey-beige pillows foreground, tall floor-to-ceiling windows revealing pine trunks, pale warm midday natural daylight, interior front view",
+      "object_bbox_percent": [
+        17,
+        50,
+        79,
+        100
+      ],
+      "object_occupancy_percent": [
+        62,
+        50
+      ],
+      "object_margins_percent": {
+        "left": 17,
+        "top": 50,
+        "right": 21,
+        "bottom": 0
+      },
+      "ui_removed": "buttons, badges, captions or textual UI reconstructed approximately where overlapping",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: natural oak cabin bedroom with large soft king bed and grey-beige pillows foreground, tall floor-to-ceiling windows revealing pine trunks, pale warm midday natural daylight, interior front view. Output at 1110x429 pixels; no alpha; same subject occupies the estimated 62% image width and 50% image height, with margins [17, 50, 21, 0] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "summit-retreat.webp",
@@ -342,7 +654,31 @@
       "aspect_ratio": 3.4906,
       "alpha": false,
       "css": "object-fit:cover;object-position:center center",
-      "upload_status": "pending_binary_transfer"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/summit-retreat.webp",
+      "sha256": "c6fbd0041541259dec871a9a69905944c4009c9014c29484ff4e70ea309cf680",
+      "file_size_bytes": 21006,
+      "subject": "modern low black timber cabin with flat slanted roof, floor-to-ceiling warm golden window panes, shaded deep pine forest with mossy floor, three-quarter frontal eye-level view",
+      "object_bbox_percent": [
+        17,
+        6,
+        88,
+        96
+      ],
+      "object_occupancy_percent": [
+        71,
+        90
+      ],
+      "object_margins_percent": {
+        "left": 17,
+        "top": 6,
+        "right": 12,
+        "bottom": 4
+      },
+      "ui_removed": "buttons, badges, captions or textual UI reconstructed approximately where overlapping",
+      "cropping": "object-fit:cover; object-position:center center; UI border radius applied by container; photo reaches crop edges",
+      "background": "opaque natural photographic environment, lighting/shadows included in photo",
+      "reconstruction_prompt": "Reconstruct from matching single screenshot region. Photorealistic, no UI overlays, buttons, price, text or signage. Preserve exact field-of-view, perspective, object scale and composition: modern low black timber cabin with flat slanted roof, floor-to-ceiling warm golden window panes, shaded deep pine forest with mossy floor, three-quarter frontal eye-level view. Output at 1110x318 pixels; no alpha; same subject occupies the estimated 71% image width and 90% image height, with margins [17, 6, 12, 4] percent [left,top,right,bottom]. Preserve lighting and natural scene, do not invent objects."
     },
     {
       "file": "icons/arrow-left.svg",
@@ -353,7 +689,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/arrow-left.svg",
+      "file_size_bytes": 235,
+      "sha256": "d9d2eb291f1a9198b5546b1e7a48606aecb3fa2d771eea759739a03d465f5ce3",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/search.svg",
@@ -364,7 +704,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/search.svg",
+      "file_size_bytes": 253,
+      "sha256": "e103954dcb26bed13c4c37c1ff60f089546ec1a5e89b1fc97dec85ab055eaa5e",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/heart.svg",
@@ -375,7 +719,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/heart.svg",
+      "file_size_bytes": 321,
+      "sha256": "1cfd40244d70cdb0e8051eb9004d05bca51cba1b171ede49592882333484e148",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/sliders.svg",
@@ -386,7 +734,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/sliders.svg",
+      "file_size_bytes": 345,
+      "sha256": "9d049cdabe0664c568975bf2ac7bb0c62943cff5c7271845ccd896e3dfa24fc0",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/map-fold.svg",
@@ -397,7 +749,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/map-fold.svg",
+      "file_size_bytes": 262,
+      "sha256": "85b4b1c968dcfe92c471e4decd99a4b6b37fc0d27270188041aee1600f55fc8e",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/close.svg",
@@ -408,7 +764,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/close.svg",
+      "file_size_bytes": 222,
+      "sha256": "5c2d5c506370fd41bb3ccbc596ca8c64074dad7fbffa880ceb195d499f989ec3",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/chevron-down.svg",
@@ -419,7 +779,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/chevron-down.svg",
+      "file_size_bytes": 214,
+      "sha256": "5e67ab51f45f173597c7b3e5744e200ac2bf0bdddc12ef637f78e7ed0a074f64",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/map-pin.svg",
@@ -430,7 +794,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/map-pin.svg",
+      "file_size_bytes": 282,
+      "sha256": "0b09c627d5ba780d0052bb06bdcf672c21e83cd978a25ef42ceab3d30c3b73de",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/star-filled.svg",
@@ -441,7 +809,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/star-filled.svg",
+      "file_size_bytes": 296,
+      "sha256": "ff39cf2da6679546e7712be278c33a215f6cbb2587bc36b7240fec4428fb183f",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/bed-double.svg",
@@ -452,7 +824,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/bed-double.svg",
+      "file_size_bytes": 343,
+      "sha256": "399cbd041c28bfed6868c1ae5c37c3de7761172d7d709f51e1b933216f610d92",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/users.svg",
@@ -463,7 +839,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/users.svg",
+      "file_size_bytes": 358,
+      "sha256": "94152307f3324f25cef46fe654e180c63ae3c09307811835d7f148aa59e434bb",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/shower.svg",
@@ -474,7 +854,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/shower.svg",
+      "file_size_bytes": 358,
+      "sha256": "6fe1722fa0e38867625b277f8112257d5ecb8379604b290141d8bb11d7f1d4ae",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/pine-tree.svg",
@@ -485,7 +869,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/pine-tree.svg",
+      "file_size_bytes": 286,
+      "sha256": "90c8ec2008a08293e45d577cc1124a014ec93c14efc2b1c44673a08bd97d4117",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/home.svg",
@@ -496,7 +884,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/home.svg",
+      "file_size_bytes": 265,
+      "sha256": "2424aff273802eb04f85b3466e376bfe0f6717fe418c4ef57917696e3e7d2dfc",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/home-filled.svg",
@@ -507,7 +899,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/home-filled.svg",
+      "file_size_bytes": 265,
+      "sha256": "d292d41159a9eb0b418dc1050bebe482c6148da3bd5328d271541a96cc1a0262",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     },
     {
       "file": "icons/user-round.svg",
@@ -518,7 +914,11 @@
       ],
       "alpha": true,
       "css": "currentColor; background:transparent",
-      "upload_status": "ready"
+      "upload_status": "verified_http_200_sha256_match",
+      "published_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/77a12e6f751d2c52019d5aecb8c6100f4615de66/images/tahoe-cabin-retreats/icons/user-round.svg",
+      "file_size_bytes": 294,
+      "sha256": "b2ad9384b9146d04e519814e56492106969c2cb759157617c3421b443563b482",
+      "background": "transparent SVG vector only; button backgrounds via CSS"
     }
   ],
   "screen_positions_are_estimates": true,
@@ -536,6 +936,26 @@
     "subtitle": "#90918E",
     "main_device_radius_approx_px": 54,
     "image_cover": "object-fit:cover;object-position:center center",
-    "hero_overlay_gradient": "linear-gradient(180deg,rgba(10,12,10,0) 56%,rgba(10,12,10,.53) 100%)"
-  }
+    "hero_overlay_gradient": "linear-gradient(180deg,rgba(10,12,10,0) 56%,rgba(10,12,10,.53) 100%)",
+    "phone_shadow": "0 18px 48px rgba(37,42,31,.09)",
+    "filter_background": "#535B4B",
+    "button_circle_background": "rgba(255,255,255,.87)",
+    "featured_border_radius": "22px",
+    "result_image_border_radius": "18px"
+  },
+  "publication": {
+    "repository": "kiouoi996-commits/Repixel-Previews",
+    "root": "images/tahoe-cabin-retreats",
+    "image_commit": "77a12e6f751d2c52019d5aecb8c6100f4615de66",
+    "url_mode": "commit-pinned raw GitHub URLs",
+    "photo_transfer_note": "Raster source screenshot crops were re-encoded in a lossy temporary atlas solely for transfer, then exported as separate WebP files; published raster bytes differ from the higher-quality local ZIP."
+  },
+  "limitations": [
+    "All bounding boxes and object size estimates derive from screenshot pixels, not original design properties.",
+    "The referenced original high-resolution photos were unavailable.",
+    "Hidden photo regions previously covered by UI are reconstructed heuristically.",
+    "The photo-generation tool failed, so no independent high-resolution image-generation pass was completed.",
+    "Published images used lossy transport encoding; local downloadable ZIP keeps a higher quality reconstruction.",
+    "SVGs use transparent backgrounds; no system status bar elements were produced."
+  ]
 }
