@@ -108,7 +108,8 @@
         "top": 39.7,
         "right": 0.0,
         "bottom": 3.0
-      }
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/hero-mercedes-300sl.webp"
     },
     {
       "path": "timeline-aston-martin-db5.webp",
@@ -153,7 +154,8 @@
         "top": 15.9,
         "right": 3.5,
         "bottom": 9.1
-      }
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/timeline-aston-martin-db5.webp"
     },
     {
       "path": "auction-ferrari-250gt.webp",
@@ -198,7 +200,8 @@
         "top": 3.3,
         "right": 0.0,
         "bottom": 0.6
-      }
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/auction-ferrari-250gt.webp"
     },
     {
       "path": "collection-porsche-911-red.webp",
@@ -243,7 +246,8 @@
         "top": 24.8,
         "right": 16.4,
         "bottom": 8.5
-      }
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/collection-porsche-911-red.webp"
     },
     {
       "path": "collection-jaguar-e-type-blue.webp",
@@ -288,7 +292,8 @@
         "top": 27.4,
         "right": 5.1,
         "bottom": 7.7
-      }
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/collection-jaguar-e-type-blue.webp"
     },
     {
       "path": "collection-alfa-romeo-dark.webp",
@@ -333,7 +338,8 @@
         "top": 29.9,
         "right": 0.0,
         "bottom": 4.3
-      }
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/collection-alfa-romeo-dark.webp"
     },
     {
       "path": "icons/menu.svg",
@@ -365,7 +371,8 @@
         "size": "21x16",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/menu.svg"
     },
     {
       "path": "icons/search.svg",
@@ -397,7 +404,8 @@
         "size": "20x21",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/search.svg"
     },
     {
       "path": "icons/arrow-right.svg",
@@ -429,7 +437,8 @@
         "size": "17x17",
         "color": "currentColor"
       },
-      "note": "Reused for hero CTA, collection tile, timeline next and auction CTA; scale/stroke CSS as needed."
+      "note": "Reused for hero CTA, collection tile, timeline next and auction CTA; scale/stroke CSS as needed.",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/arrow-right.svg"
     },
     {
       "path": "icons/arrow-left.svg",
@@ -461,7 +470,8 @@
         "size": "20x18",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/arrow-left.svg"
     },
     {
       "path": "icons/chevron-left.svg",
@@ -493,7 +503,8 @@
         "size": "13x19",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/chevron-left.svg"
     },
     {
       "path": "icons/bookmark.svg",
@@ -525,7 +536,8 @@
         "size": "18x21",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/bookmark.svg"
     },
     {
       "path": "icons/calendar.svg",
@@ -557,7 +569,8 @@
         "size": "21x21",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/calendar.svg"
     },
     {
       "path": "icons/factory.svg",
@@ -589,7 +602,8 @@
         "size": "27x24",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/factory.svg"
     },
     {
       "path": "icons/engine.svg",
@@ -621,7 +635,8 @@
         "size": "34x26",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/engine.svg"
     },
     {
       "path": "icons/car-profile.svg",
@@ -653,7 +668,8 @@
         "size": "36x17",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/car-profile.svg"
     },
     {
       "path": "icons/layers.svg",
@@ -685,7 +701,8 @@
         "size": "31x29",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/layers.svg"
     },
     {
       "path": "icons/gavel.svg",
@@ -717,7 +734,8 @@
         "size": "31x28",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/gavel.svg"
     },
     {
       "path": "icons/map-pin.svg",
@@ -749,7 +767,15 @@
         "size": "19x23",
         "color": "currentColor"
       },
-      "note": "No clickable background or button circle baked in"
+      "note": "No clickable background or button circle baked in",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/900befecf5a1cd567ac5f69bdfe995e3066f0e20/images/icons-never-fade-grand-tourers/icons/map-pin.svg"
     }
-  ]
+  ],
+  "publication": {
+    "repository": "kiouoi996-commits/Repixel-Previews",
+    "asset_commit": "900befecf5a1cd567ac5f69bdfe995e3066f0e20",
+    "all_files_verified": true,
+    "verification": "HTTP 200 and SHA256 exact match for 22 files",
+    "links": "Immutable commit-pinned raw URLs"
+  }
 }
