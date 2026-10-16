@@ -1,0 +1,5 @@
+# Repixel assembly notes
+
+Reconstruct three 427–431px-wide mobile cards at 1448×1086 reference viewport. Use `manifest.json` for measured image regions, icon locations and backgrounds. Display each SVG with `currentColor`; draw circle buttons as CSS layers. The Mercedes and DB5 WebPs contain real alpha transparency and contact shadows; neither should receive an additional CSS drop shadow. Preserve right clipping in hero and auction. Images are reconstructed lookalikes, not exact originals.
+
+At deployment, serve files from the verified, commit-pinned `raw.githubusercontent.com` URLs supplied with this release; do not embed the screenshot as a background. All editorial copy, auction data, year bar and page indicators must be native text/UI.

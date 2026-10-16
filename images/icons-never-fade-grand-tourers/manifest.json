@@ -1,0 +1,755 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "project": "Icons Never Fade — Grand Tourers",
+  "slug": "icons-never-fade-grand-tourers",
+  "repository": "kiouoi996-commits/Repixel-Previews",
+  "repository_folder": "images/icons-never-fade-grand-tourers/",
+  "reference": {
+    "name": "user-supplied-3-screen-interface",
+    "width": 1448,
+    "height": 1086,
+    "unit": "px",
+    "estimates": true,
+    "note": "Regions measured on raster screenshot, not recovered from original layout; values are approximate."
+  },
+  "production": {
+    "status": "reconstruction",
+    "source": "visually reconstructed from supplied screenshot using separately masked regions of a model-generated reference sheet",
+    "originals_available": false,
+    "generative_individual_assets": false,
+    "source_detail_note": "Generator returned a combined draft twice; assets extracted from a draft, processed as separate files. Do not describe as authentic stock/original photographs. Upscaling 3x uses interpolation."
+  },
+  "backgrounds": {
+    "canvas": {
+      "type": "radial-gradient",
+      "css": "radial-gradient(ellipse at 47% 4%, #EEF0F1 0%, #DEE2E6 56%, #C4CAD1 100%)"
+    },
+    "home_card": {
+      "color": "#F4F4F3"
+    },
+    "timeline_card": {
+      "color": "#FDFDFD"
+    },
+    "home_blue_accent": {
+      "type": "svg_css_geometry",
+      "gradient": "linear-gradient(157deg, #7593B2 0%, #88A5C2 100%)",
+      "geometry": "Custom curved clipping path from x≈344 at y=66, bowing left to x≈287 around y=360, covering upper right; placed below transparent hero"
+    },
+    "auction": {
+      "css": "radial-gradient(ellipse at 53% 44%, #263038 0%, #171E25 55%, #101820 100%)"
+    },
+    "auction_cta": {
+      "css": "linear-gradient(90deg,#97B0CB 0%,#86A2C0 100%)"
+    },
+    "collection_cards": {
+      "porsche": "#BCC5CF",
+      "jaguar": "#C7D1DE",
+      "alfa": "#EBE6E0"
+    }
+  },
+  "effects": {
+    "main_card_radius_px": 36,
+    "main_card_shadow": "0 28px 52px rgba(22,30,40,.17)",
+    "collection_card_radius_px": 16,
+    "circle_button_border": "1px solid rgba(22,30,40,.5)",
+    "image_shadow_note": "Car contact shadows are embedded in raster asset; do not recreate in CSS."
+  },
+  "ui_only": [
+    "Headlines, vehicle names, lot number, dates, estimate, current bid, carousel card captions, timeline year ticks, separator lines, pagination count, screen titles, image bounds and button circles remain live UI.",
+    "No Android/iOS status bar icons generated."
+  ],
+  "assets": [
+    {
+      "path": "hero-mercedes-300sl.webp",
+      "role": "photograph_reconstruction",
+      "mime": "image/webp",
+      "pixel_dimensions": [
+        1632,
+        1365
+      ],
+      "aspect_ratio": 1.1956,
+      "alpha": true,
+      "sha256": "2e3a60a5b56a0417d79b05cd83c6c03b105333b59442adccf95c443bc87e17f5",
+      "bytes": 133996,
+      "screen": "home",
+      "region": [
+        49,
+        66,
+        427,
+        668
+      ],
+      "object_bbox_est": [
+        71,
+        331,
+        405,
+        383
+      ],
+      "render": {
+        "mode": "absolute img, alpha",
+        "css": {
+          "width": "116%",
+          "height": "auto",
+          "left": "3%",
+          "bottom": "0%",
+          "objectFit": "contain"
+        }
+      },
+      "note": "Transparent car; blue curved backdrop and pale studio floor belong to CSS; underlying contact shadow retained; roof and right end cropped by viewport.",
+      "region_percent_of_screenshot": [
+        3.38,
+        6.08,
+        29.49,
+        61.51
+      ],
+      "object_percent_of_region": {
+        "width": 94.8,
+        "height": 57.3,
+        "left": 5.2,
+        "top": 39.7,
+        "right": 0.0,
+        "bottom": 3.0
+      }
+    },
+    {
+      "path": "timeline-aston-martin-db5.webp",
+      "role": "photograph_reconstruction",
+      "mime": "image/webp",
+      "pixel_dimensions": [
+        1689,
+        639
+      ],
+      "aspect_ratio": 2.6432,
+      "alpha": true,
+      "sha256": "698da2a53d0ecc0b369b02ecf986f30a6c45005b341af0484d6f05fab311145e",
+      "bytes": 81084,
+      "screen": "timeline",
+      "region": [
+        512,
+        448,
+        425,
+        176
+      ],
+      "object_bbox_est": [
+        519,
+        476,
+        403,
+        132
+      ],
+      "render": {
+        "objectFit": "contain",
+        "objectPosition": "50% 50%"
+      },
+      "note": "Silver side profile at horizontal eye-line, white/transparent stage with soft contact shadow.",
+      "region_percent_of_screenshot": [
+        35.36,
+        41.25,
+        29.35,
+        16.21
+      ],
+      "object_percent_of_region": {
+        "width": 94.8,
+        "height": 75.0,
+        "left": 1.6,
+        "top": 15.9,
+        "right": 3.5,
+        "bottom": 9.1
+      }
+    },
+    {
+      "path": "auction-ferrari-250gt.webp",
+      "role": "photograph_reconstruction",
+      "mime": "image/webp",
+      "pixel_dimensions": [
+        1629,
+        1356
+      ],
+      "aspect_ratio": 1.2013,
+      "alpha": false,
+      "sha256": "190d21eeb1279a97a796df5ea4a4edd9a373429c0baa994fd07d45d94a2c08c2",
+      "bytes": 104466,
+      "screen": "auction",
+      "region": [
+        974,
+        284,
+        430,
+        338
+      ],
+      "object_bbox_est": [
+        998,
+        295,
+        406,
+        325
+      ],
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "51% 49%"
+      },
+      "note": "Dark near-black studio photo; front-right body cropped by screen edge, rim and grille bright.",
+      "region_percent_of_screenshot": [
+        67.27,
+        26.15,
+        29.7,
+        31.12
+      ],
+      "object_percent_of_region": {
+        "width": 94.4,
+        "height": 96.2,
+        "left": 5.6,
+        "top": 3.3,
+        "right": 0.0,
+        "bottom": 0.6
+      }
+    },
+    {
+      "path": "collection-porsche-911-red.webp",
+      "role": "photograph_reconstruction",
+      "mime": "image/webp",
+      "pixel_dimensions": [
+        795,
+        480
+      ],
+      "aspect_ratio": 1.6562,
+      "alpha": false,
+      "sha256": "4543b8f6db40200aa20c96e369287eebfaf6788cb01afa84f160900a4e4a4a0a",
+      "bytes": 24936,
+      "screen": "home",
+      "region": [
+        77,
+        797,
+        159,
+        117
+      ],
+      "object_bbox_est": [
+        77,
+        826,
+        133,
+        78
+      ],
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "67% 53%"
+      },
+      "note": "Red early Porsche 911 in light cool gray studio; left edge of car cropped by collection scroll card.",
+      "region_percent_of_screenshot": [
+        5.32,
+        73.39,
+        10.98,
+        10.77
+      ],
+      "object_percent_of_region": {
+        "width": 83.6,
+        "height": 66.7,
+        "left": 0.0,
+        "top": 24.8,
+        "right": 16.4,
+        "bottom": 8.5
+      }
+    },
+    {
+      "path": "collection-jaguar-e-type-blue.webp",
+      "role": "photograph_reconstruction",
+      "mime": "image/webp",
+      "pixel_dimensions": [
+        795,
+        480
+      ],
+      "aspect_ratio": 1.6562,
+      "alpha": false,
+      "sha256": "c88f6d009ef65ecd482a51eb661c241f61be9f30f26519c9e47fcc1122e3260e",
+      "bytes": 23674,
+      "screen": "home",
+      "region": [
+        250,
+        797,
+        157,
+        117
+      ],
+      "object_bbox_est": [
+        254,
+        829,
+        145,
+        76
+      ],
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "52% 52%"
+      },
+      "note": "Deep blue Jaguar E-Type 2+2 on pale powder blue-gray.",
+      "region_percent_of_screenshot": [
+        17.27,
+        73.39,
+        10.84,
+        10.77
+      ],
+      "object_percent_of_region": {
+        "width": 92.4,
+        "height": 65.0,
+        "left": 2.5,
+        "top": 27.4,
+        "right": 5.1,
+        "bottom": 7.7
+      }
+    },
+    {
+      "path": "collection-alfa-romeo-dark.webp",
+      "role": "photograph_reconstruction",
+      "mime": "image/webp",
+      "pixel_dimensions": [
+        795,
+        480
+      ],
+      "aspect_ratio": 1.6562,
+      "alpha": false,
+      "sha256": "644fd8e2fe01a794968fe1f4c99a36f28f397622f1ef1b27dfc3c08907dc3ee4",
+      "bytes": 23018,
+      "screen": "home",
+      "region": [
+        419,
+        797,
+        59,
+        117
+      ],
+      "object_bbox_est": [
+        419,
+        832,
+        59,
+        77
+      ],
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%"
+      },
+      "note": "Only left ~37% of a full collection tile visible; crop via horizontal container overflow.",
+      "region_percent_of_screenshot": [
+        28.94,
+        73.39,
+        4.07,
+        10.77
+      ],
+      "object_percent_of_region": {
+        "width": 100.0,
+        "height": 65.8,
+        "left": 0.0,
+        "top": 29.9,
+        "right": 0.0,
+        "bottom": 4.3
+      }
+    },
+    {
+      "path": "icons/menu.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "85eb873a55519537b67042628e6f4fc2274f331cc9ca732dc735dd37766e6ed3",
+      "bytes": 244,
+      "screen": "home",
+      "region": [
+        81,
+        120,
+        21,
+        16
+      ],
+      "region_percent_of_screenshot": [
+        5.59,
+        11.05,
+        1.45,
+        1.47
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "21x16",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/search.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "ff0697d10dd43202d5f04ab9d602c040c81d5013c67d45a2e872b310f11c225a",
+      "bytes": 268,
+      "screen": "home",
+      "region": [
+        420,
+        117,
+        20,
+        21
+      ],
+      "region_percent_of_screenshot": [
+        29.01,
+        10.77,
+        1.38,
+        1.93
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "20x21",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/arrow-right.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "191575909b69805ac322ba69bf1702d9528ea4dac7f3a77f9cd5545818fcb725",
+      "bytes": 243,
+      "screen": "home,timeline,auction",
+      "region": [
+        96,
+        408,
+        17,
+        17
+      ],
+      "region_percent_of_screenshot": [
+        6.63,
+        37.57,
+        1.17,
+        1.57
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "17x17",
+        "color": "currentColor"
+      },
+      "note": "Reused for hero CTA, collection tile, timeline next and auction CTA; scale/stroke CSS as needed."
+    },
+    {
+      "path": "icons/arrow-left.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "d6c0eddebf2687f97a48c404a48d97837e67755b102dcaf8bb6ed2d875b76bf4",
+      "bytes": 242,
+      "screen": "timeline",
+      "region": [
+        551,
+        907,
+        20,
+        18
+      ],
+      "region_percent_of_screenshot": [
+        38.05,
+        83.52,
+        1.38,
+        1.66
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "20x18",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/chevron-left.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "801ce7dd737d9619f77704b610283701a75b9df0797127fb11b9b345d3b8fa44",
+      "bytes": 246,
+      "screen": "timeline,auction",
+      "region": [
+        548,
+        118,
+        13,
+        19
+      ],
+      "region_percent_of_screenshot": [
+        37.85,
+        10.87,
+        0.9,
+        1.75
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "13x19",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/bookmark.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "12743025e77374b0f66123112bb7ad7a1f00684d4151677248a56a882b4b777b",
+      "bytes": 247,
+      "screen": "timeline",
+      "region": [
+        891,
+        117,
+        18,
+        21
+      ],
+      "region_percent_of_screenshot": [
+        61.53,
+        10.77,
+        1.24,
+        1.93
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "18x21",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/calendar.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "38cbd293f6ae0d5943a90f6bfec1c68cbeb7ad377b8550be40e09172236a4f2c",
+      "bytes": 294,
+      "screen": "auction",
+      "region": [
+        1352,
+        117,
+        21,
+        21
+      ],
+      "region_percent_of_screenshot": [
+        93.37,
+        10.77,
+        1.45,
+        1.93
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "21x21",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/factory.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "4784c8ca2c8882a967c901e303e6cad155e9b32fe308cf3f3acd6a109c0b03d5",
+      "bytes": 276,
+      "screen": "timeline",
+      "region": [
+        550,
+        686,
+        27,
+        24
+      ],
+      "region_percent_of_screenshot": [
+        37.98,
+        63.17,
+        1.86,
+        2.21
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "27x24",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/engine.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "353ac9d9f85f558432772c49ce7d6cb51aa7ceff647085bd25d6f3f76128f2f2",
+      "bytes": 294,
+      "screen": "timeline",
+      "region": [
+        756,
+        686,
+        34,
+        26
+      ],
+      "region_percent_of_screenshot": [
+        52.21,
+        63.17,
+        2.35,
+        2.39
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "34x26",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/car-profile.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "5d1666f8066d06c816150b40e2365d4b38f44c9d2a4ca9d3113a55b4d0b9b5ad",
+      "bytes": 387,
+      "screen": "timeline",
+      "region": [
+        543,
+        812,
+        36,
+        17
+      ],
+      "region_percent_of_screenshot": [
+        37.5,
+        74.77,
+        2.49,
+        1.57
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "36x17",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/layers.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "0ff350992455efaaafdb15d9570ff5a6fb3a81ac0bebc522a19994f07d18e91b",
+      "bytes": 276,
+      "screen": "timeline",
+      "region": [
+        758,
+        805,
+        31,
+        29
+      ],
+      "region_percent_of_screenshot": [
+        52.35,
+        74.13,
+        2.14,
+        2.67
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "31x29",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/gavel.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "7c7da05efa890ec51bf578966572feceb07a4726b1da1f40b0241c647314ed8c",
+      "bytes": 335,
+      "screen": "auction",
+      "region": [
+        1037,
+        919,
+        31,
+        28
+      ],
+      "region_percent_of_screenshot": [
+        71.62,
+        84.62,
+        2.14,
+        2.58
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "31x28",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    },
+    {
+      "path": "icons/map-pin.svg",
+      "role": "icon",
+      "mime": "image/svg+xml",
+      "pixel_dimensions": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1,
+      "alpha": true,
+      "sha256": "c500c5461dd6521816c0b1c1c77161fb4c578d16e7dcfda4276d64220a6b407f",
+      "bytes": 315,
+      "screen": "auction",
+      "region": [
+        1011,
+        845,
+        19,
+        23
+      ],
+      "region_percent_of_screenshot": [
+        69.82,
+        77.81,
+        1.31,
+        2.12
+      ],
+      "render": {
+        "mode": "inline svg",
+        "size": "19x23",
+        "color": "currentColor"
+      },
+      "note": "No clickable background or button circle baked in"
+    }
+  ]
+}
