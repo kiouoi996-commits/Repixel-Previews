@@ -1,0 +1,11 @@
+/* Icons in Motion — reference implementation positions in source screenshot pixels. */
+.icons-panel--collection { background:linear-gradient(180deg,#899FB8 0%,#9AB1CA 50%,#B5C6D9 100%); }
+.icons-panel--timeline { background:linear-gradient(180deg,#F4F4F3 0%,#F9F9F8 43%,#F1F2F2 100%); }
+.icons-panel--auction { background:linear-gradient(180deg,#171717 0%,#1D1D1D 65%,#131313 100%); }
+.icons-panel { border-radius:34px; overflow:hidden; box-shadow:0 26px 48px rgba(35,42,47,.25); position:relative; }
+.icons-card { border-radius:14px; overflow:hidden; background:linear-gradient(135deg,rgba(252,252,252,.78),rgba(240,241,244,.52)); }
+.icons-car { width:100%; height:100%; object-fit:contain; }
+.icons-photo-hero { object-fit:cover; object-position:50% 50%; }
+.icons-svg { stroke:currentColor; fill:none; width:24px; height:24px; }
+.icons-rule { height:1px; background:rgba(255,255,255,.45); }
+/* Put all names, metadata, typography, buttons in HTML on top of the photo layers. */

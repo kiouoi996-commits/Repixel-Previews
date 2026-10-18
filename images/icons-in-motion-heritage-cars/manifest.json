@@ -1,0 +1,320 @@
+{
+  "project": "Icons in Motion — Heritage Cars",
+  "slug": "icons-in-motion-heritage-cars",
+  "source": "reconstruction based on screenshot 1448×1086 px; source images unavailable",
+  "source_screenshot_px": [
+    1448,
+    1086
+  ],
+  "status": "locally prepared; remote media upload is separately verifiable",
+  "generated_at_utc": "2026-10-18",
+  "repo": "kiouoi996-commits/Repixel-Previews",
+  "intended_folder": "images/icons-in-motion-heritage-cars",
+  "assets": [
+    {
+      "file": "porsche-911-hero.webp",
+      "role": "main image, screen 1",
+      "pixels": [
+        1173,
+        1218
+      ],
+      "aspect_ratio": 0.96305,
+      "alpha_channel": "none",
+      "screen_bbox_px": [
+        80,
+        302,
+        471,
+        708
+      ],
+      "screen_bbox_percent": [
+        5.52,
+        27.81,
+        27.0,
+        37.38
+      ],
+      "positioning": "width:391px; height:406px; object-fit:contain; at left:80px top:302px",
+      "display": "cover; use natural image crop, no stretching",
+      "notes": "Porsche 911 front 3/4 from the left; right/front half clipped by screen; cloud-blue studio backdrop, ground and contact shadow baked in",
+      "bytes": 121032,
+      "sha256": "52da1645f42d79c97ac15ec3e22f2d53b6fdae8802bfda3a5d707ec962fb2764"
+    },
+    {
+      "file": "porsche-911-profile.png",
+      "role": "main side profile + reuse for first collection thumbnail",
+      "pixels": [
+        1176,
+        423
+      ],
+      "aspect_ratio": 2.78014,
+      "alpha_channel": "yes",
+      "screen_bbox_px": [
+        514,
+        472,
+        906,
+        613
+      ],
+      "screen_bbox_percent": [
+        35.5,
+        43.46,
+        27.07,
+        12.98
+      ],
+      "positioning": "width:392px; height:141px; object-fit:contain; position center",
+      "display": "contain, transparent background, no extra CSS shadow",
+      "notes": "1968 Porsche 911 steel blue, facing right, studio profile; alpha plus faint contact shadow",
+      "bytes": 288313,
+      "sha256": "8cd56bc2efacb007808f752a49c6421c9113c0acc722b0ae4a6186418c95ab82"
+    },
+    {
+      "file": "ferrari-250-gto-hero.webp",
+      "role": "auction screen hero",
+      "pixels": [
+        1158,
+        1398
+      ],
+      "aspect_ratio": 0.82833,
+      "alpha_channel": "none",
+      "screen_bbox_px": [
+        967,
+        226,
+        1353,
+        692
+      ],
+      "screen_bbox_percent": [
+        66.78,
+        20.81,
+        26.66,
+        42.91
+      ],
+      "positioning": "width:386px; height:466px; object-fit:contain; at left:967px top:226px",
+      "display": "cover; crop right edge only as screenshot",
+      "notes": "1962 Ferrari 250 GTO red front-left, cropped at the right of phone; charcoal studio with floor shadow",
+      "bytes": 99386,
+      "sha256": "6c540605f15ec22af45eed7e04bd7f1c7a9d6e5666bfaff9bef3be94831f0963"
+    },
+    {
+      "file": "mercedes-300sl-thumb.png",
+      "role": "collection card 2",
+      "pixels": [
+        432,
+        285
+      ],
+      "aspect_ratio": 1.51579,
+      "alpha_channel": "yes",
+      "screen_bbox_px": [
+        240,
+        810,
+        384,
+        905
+      ],
+      "screen_bbox_percent": [
+        16.57,
+        74.59,
+        9.94,
+        8.75
+      ],
+      "positioning": "width:144px; height:95px; object-fit:contain",
+      "display": "contain, avoid background or second shadow",
+      "notes": "Red Mercedes 300SL, rightward-side three quarter, red body with white/silver door panel",
+      "bytes": 88831,
+      "sha256": "b73d133faa67ae12d244d37d69657a4e0e546b76bc631e1eaf9475e46d4eff06"
+    },
+    {
+      "file": "jaguar-e-type-thumb-partial.png",
+      "role": "collection card 3, clipped",
+      "pixels": [
+        243,
+        267
+      ],
+      "aspect_ratio": 0.91011,
+      "alpha_channel": "yes",
+      "screen_bbox_px": [
+        390,
+        816,
+        471,
+        905
+      ],
+      "screen_bbox_percent": [
+        26.93,
+        75.14,
+        5.59,
+        8.2
+      ],
+      "positioning": "width:81px; height:89px; object-fit:contain",
+      "display": "contain; the remaining off-screen Jaguar is deliberately not reconstructed",
+      "notes": "Olive green Jaguar E-Type rear/midbody only, cropped at viewport right edge",
+      "bytes": 35027,
+      "sha256": "5b6767ae0bc0dfa2eec36174f77f5dc0e27055cab63be0b2c47909f41812e9a5"
+    },
+    {
+      "file": "porsche-crest.png",
+      "role": "secondary Porsche crest near bottom of timeline",
+      "pixels": [
+        165,
+        207
+      ],
+      "aspect_ratio": 0.7971,
+      "alpha_channel": "yes",
+      "screen_bbox_px": [
+        846,
+        905,
+        901,
+        974
+      ],
+      "screen_bbox_percent": [
+        58.43,
+        83.33,
+        3.8,
+        6.35
+      ],
+      "positioning": "width:55px; height:69px; object-fit:contain",
+      "display": "contain; do not rasterize CSS text",
+      "notes": "Porsche heraldic crest detail reconstructed from screenshot, not an official vector master",
+      "bytes": 47743,
+      "sha256": "b062aea4657a5f9198e3522550e4c48d2612cf31bc36e77ac0609a353bb99849"
+    },
+    {
+      "file": "icons/menu.svg",
+      "role": "hamburger on screen 1",
+      "pixels": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1.0,
+      "alpha_channel": "yes",
+      "screen_bbox_px": null,
+      "screen_bbox_percent": null,
+      "positioning": "24×24 displayed, use currentColor",
+      "display": "inline SVG; CSS sets stroke-color and size",
+      "notes": "hamburger on screen 1",
+      "bytes": 219,
+      "sha256": "f2f0c2f955773386b00ad4a8515819f3d41089698aca7fdf3c6afa2dfb859148"
+    },
+    {
+      "file": "icons/search.svg",
+      "role": "search on screens 1 and 2",
+      "pixels": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1.0,
+      "alpha_channel": "yes",
+      "screen_bbox_px": null,
+      "screen_bbox_percent": null,
+      "positioning": "24×24 displayed, use currentColor",
+      "display": "inline SVG; CSS sets stroke-color and size",
+      "notes": "search on screens 1 and 2",
+      "bytes": 241,
+      "sha256": "b1799fc18ca5edf579f12caaabdaea56d6ec12dd2a64684b0ed565f8f657f26f"
+    },
+    {
+      "file": "icons/chevron-left.svg",
+      "role": "back on screens 2 and 3",
+      "pixels": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1.0,
+      "alpha_channel": "yes",
+      "screen_bbox_px": null,
+      "screen_bbox_percent": null,
+      "positioning": "24×24 displayed, use currentColor",
+      "display": "inline SVG; CSS sets stroke-color and size",
+      "notes": "back on screens 2 and 3",
+      "bytes": 213,
+      "sha256": "c9dbd5108542c5ba39cf1d72fabc8e8c8b53c4a1305d49431d34c32d8b063716"
+    },
+    {
+      "file": "icons/bookmark.svg",
+      "role": "outline bookmark on screen 3",
+      "pixels": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1.0,
+      "alpha_channel": "yes",
+      "screen_bbox_px": null,
+      "screen_bbox_percent": null,
+      "positioning": "24×24 displayed, use currentColor",
+      "display": "inline SVG; CSS sets stroke-color and size",
+      "notes": "outline bookmark on screen 3",
+      "bytes": 216,
+      "sha256": "4590d8a28ff18471933d676ac4adaead476cd63562400665ef14453332c7b58d"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "role": "collection and details CTA arrow",
+      "pixels": [
+        24,
+        24
+      ],
+      "aspect_ratio": 1.0,
+      "alpha_channel": "yes",
+      "screen_bbox_px": null,
+      "screen_bbox_percent": null,
+      "positioning": "24×24 displayed, use currentColor",
+      "display": "inline SVG; CSS sets stroke-color and size",
+      "notes": "collection and details CTA arrow",
+      "bytes": 211,
+      "sha256": "b9b1601bc6a74832164ff24f084f90c1c1ae74c1499934ab3a886e4ec21d38d1"
+    }
+  ],
+  "layout": {
+    "panels": [
+      {
+        "name": "collection",
+        "observed_bbox_px": [
+          56,
+          68,
+          470,
+          987
+        ],
+        "radius_px_approx": 34,
+        "background": "linear-gradient(180deg,#899FB8 0%,#9AB1CA 50%,#B5C6D9 100%)"
+      },
+      {
+        "name": "timeline",
+        "observed_bbox_px": [
+          500,
+          68,
+          911,
+          987
+        ],
+        "radius_px_approx": 34,
+        "background": "linear-gradient(180deg,#F4F4F3 0%,#F9F9F8 43%,#F1F2F2 100%)"
+      },
+      {
+        "name": "auction",
+        "observed_bbox_px": [
+          938,
+          68,
+          1353,
+          987
+        ],
+        "radius_px_approx": 34,
+        "background": "linear-gradient(180deg,#171717 0%,#1D1D1D 65%,#131313 100%)"
+      }
+    ],
+    "global_background": "radial-gradient(ellipse at 50% 30%,#EAEAEA 0%,#D6D7D9 80%,#C4C7CA 100%)",
+    "tile_background": "linear-gradient(135deg,rgba(252,252,252,.78),rgba(240,241,244,.52))",
+    "tile_radius_px_approx": 14,
+    "panel_box_shadow": "0 26px 48px rgba(35,42,47,.25)",
+    "rule_color": "rgba(20,20,20,.14)",
+    "rule_height_px": 1,
+    "card_notes": "Live HTML typography / buttons / tables / header; do not encode UI strings in the raster image."
+  },
+  "quality_limits": [
+    "Screenshot sampling resolution only: exported 3× dimensions are upscaled, not native 3× fine detail.",
+    "The Jaguar image retains only the visible rear fragment; off-screen body was not invented.",
+    "Lettering over hero photographic backgrounds removed by estimated smooth background reconstruction.",
+    "A small heraldic logo is a raster reconstruction and should be replaced with licensed official mark when needed."
+  ],
+  "prompts": {
+    "porsche-911-hero.webp": "Extract the exact pale steel-blue late-1960s Porsche 911 front at left-center, front-on slightly off axis, chrome twin front bumpers, two high oval headlamps, grey-blue studio backdrop, soft floor shadows, cropped at right edge. Do not add captions or badges. Maintain screenshot crop.",
+    "porsche-911-profile.png": "Isolate exactly the pale blue 1968 Porsche 911 coupe in clean right-facing side profile, silver wheels, subtle floor contact shadow, transparent alpha, no typography or panel background.",
+    "ferrari-250-gto-hero.webp": "Keep the vivid scarlet 1962 Ferrari 250 GTO close-up front three-quarter crop, large circular chrome headlamp on left, distinctive wide black grille, shining red hood, near-black charcoal studio, soft bottom shadow, cut at right edge; no overlay wording or CTA.",
+    "mercedes-300sl-thumb.png": "Extract small red mid-century Mercedes-Benz 300 SL automobile with cream-white side oval panel, profile facing right, no text, transparent alpha, subtle natural ground shadow.",
+    "jaguar-e-type-thumb-partial.png": "Extract only the green rear-quarter of the Jaguar E-Type visible on the original third card, right side deliberately cropped and never invent unseen vehicle, transparent alpha.",
+    "porsche-crest.png": "Extract cropped original yellow Porsche heraldic shield from timeline footer; transparent outside crest; fidelity limited by tiny source."
+  }
+}
