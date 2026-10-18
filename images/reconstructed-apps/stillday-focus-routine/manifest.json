@@ -1,0 +1,678 @@
+{
+  "project_name": "Stillday — Focus Routine & Ambient Sound",
+  "slug": "stillday-focus-routine",
+  "status": "published_reconstruction",
+  "source": {
+    "width_px": 1448,
+    "height_px": 1086,
+    "measurement_caveat": "coordinates/colors estimated from flattened user screenshot; not source-design properties",
+    "reconstruction_caveat": "image assets are screenshot-derived reconstructions, not original source. Forest and mist obscured regions recreated approximately. Enlarged 3x from low-resolution details; no genuine extra texture restored."
+  },
+  "repository": {
+    "full_name": "kiouoi996-commits/Repixel-Previews",
+    "directory": "images/reconstructed-apps/stillday-focus-routine",
+    "asset_commit": "bc7f125c2ea5a77e8e234d2ca5472597959762e7",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine",
+    "immutable_base": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/"
+  },
+  "ui": {
+    "colors_estimated": {
+      "card_light": "#FAF9F7",
+      "main_dark": "#080909",
+      "secondary_dark": "#191A1B",
+      "text_main": "#111214",
+      "text_muted": "#97989B",
+      "text_on_dark": "#F2F1EF",
+      "text_dark_muted": "#B2B3B6"
+    },
+    "gradients": [
+      {
+        "name": "screen-background",
+        "direction": "to bottom",
+        "stops": [
+          [
+            "0%",
+            "#FBFAF8"
+          ],
+          [
+            "100%",
+            "#F5F4F1"
+          ]
+        ]
+      },
+      {
+        "name": "dark-panel",
+        "direction": "to bottom right",
+        "stops": [
+          [
+            "0%",
+            "#080909"
+          ],
+          [
+            "58%",
+            "#171819"
+          ],
+          [
+            "100%",
+            "#080909"
+          ]
+        ]
+      },
+      {
+        "name": "selected-task-bg",
+        "direction": "to right",
+        "stops": [
+          [
+            "0%",
+            "#F4F2EC"
+          ],
+          [
+            "75%",
+            "#FAF8F3"
+          ],
+          [
+            "100%",
+            "#F8F5F0"
+          ]
+        ]
+      }
+    ],
+    "non_image_effects": [
+      "outer screen cards radius ≈32px with subtle shadow; CSS",
+      "Plan Session black body bounds x68,y329,w395,h648",
+      "Today black body bounds x507,y380,w395,h597",
+      "category pill tabs and dark selected state: CSS",
+      "timeline 1px track and dots: CSS",
+      "selection peach orb glow: CSS",
+      "sound card gradient overlay for readable live text: CSS",
+      "mini player repeats forest-rain.webp at 984,902,46,46; no second asset",
+      "player volume slider track, knob and outlined play buttons: CSS",
+      "top OS status icons are omitted"
+    ],
+    "typography": "Large elegant high-contrast modern serif headings; clean small sans for labels/body. Exact font cannot be determined from flattened screenshot."
+  },
+  "assets": [
+    {
+      "file": "avatar-dark-hills.png",
+      "role": "Dark green mountainous profile portrait",
+      "size_px": [
+        246,
+        246
+      ],
+      "ratio": 1.0,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        392,
+        116,
+        41,
+        41
+      ],
+      "screenshot_bounds_pct": [
+        27.07,
+        10.68,
+        2.83,
+        3.78
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Plan Session top right; circle, dark mountain dominates lower half",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/avatar-dark-hills.png"
+    },
+    {
+      "file": "avatar-moon-hills.png",
+      "role": "Moon and hills profile portrait",
+      "size_px": [
+        246,
+        246
+      ],
+      "ratio": 1.0,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        831,
+        116,
+        41,
+        41
+      ],
+      "screenshot_bounds_pct": [
+        57.39,
+        10.68,
+        2.83,
+        3.78
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Today top right; moon and hill silhouettes",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/avatar-moon-hills.png"
+    },
+    {
+      "file": "hero-sunset-sea.png",
+      "role": "Peach sunset disk, pale water and birds",
+      "size_px": [
+        1044,
+        633
+      ],
+      "ratio": 1.6493,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        976,
+        323,
+        348,
+        211
+      ],
+      "screenshot_bounds_pct": [
+        67.4,
+        29.74,
+        24.03,
+        19.43
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Focus Sound hero; sun disk occupies 67% of cropped width; sea lower 35%; no UI",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/hero-sunset-sea.png"
+    },
+    {
+      "file": "forest-rain.webp",
+      "role": "Forest Rain large tile",
+      "size_px": [
+        723,
+        438
+      ],
+      "ratio": 1.6507,
+      "alpha": false,
+      "screenshot_bounds_px": [
+        970,
+        587,
+        241,
+        146
+      ],
+      "screenshot_bounds_pct": [
+        66.99,
+        54.05,
+        16.64,
+        13.44
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Focus Sound main tile; dark desaturated fir forest; UI text and play icon overlaid in CSS",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/forest-rain.webp"
+    },
+    {
+      "file": "morning-mist.webp",
+      "role": "Morning Mist tall tile",
+      "size_px": [
+        318,
+        438
+      ],
+      "ratio": 0.726,
+      "alpha": false,
+      "screenshot_bounds_px": [
+        1224,
+        587,
+        106,
+        146
+      ],
+      "screenshot_bounds_pct": [
+        84.53,
+        54.05,
+        7.32,
+        13.44
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "65% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Focus Sound tall tile; pale fog and grey blue mountain ridges; text overlaid in CSS",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/morning-mist.webp"
+    },
+    {
+      "file": "ocean-waves.webp",
+      "role": "Ocean small tile",
+      "size_px": [
+        324,
+        195
+      ],
+      "ratio": 1.6615,
+      "alpha": false,
+      "screenshot_bounds_px": [
+        970,
+        747,
+        108,
+        65
+      ],
+      "screenshot_bounds_pct": [
+        66.99,
+        68.78,
+        7.46,
+        5.99
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Focus Sound tile; grey-blue wave closeup; label below",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/ocean-waves.webp"
+    },
+    {
+      "file": "warm-glow.webp",
+      "role": "Fireplace small tile (visual is peach abstract glow)",
+      "size_px": [
+        324,
+        198
+      ],
+      "ratio": 1.6364,
+      "alpha": false,
+      "screenshot_bounds_px": [
+        1090,
+        746,
+        108,
+        66
+      ],
+      "screenshot_bounds_pct": [
+        75.28,
+        68.69,
+        7.46,
+        6.08
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Focus Sound tile; central salmon diffused sun; no literal fire",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/warm-glow.webp"
+    },
+    {
+      "file": "crescent-night.webp",
+      "role": "Night small tile",
+      "size_px": [
+        324,
+        195
+      ],
+      "ratio": 1.6615,
+      "alpha": false,
+      "screenshot_bounds_px": [
+        1210,
+        747,
+        108,
+        65
+      ],
+      "screenshot_bounds_pct": [
+        83.56,
+        68.78,
+        7.46,
+        5.99
+      ],
+      "display": {
+        "object_fit": "cover",
+        "object_position": "50% 50%",
+        "border_radius": "set in CSS"
+      },
+      "composition_note": "Focus Sound tile; crescent toward right over blue-grey sky",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/crescent-night.webp"
+    },
+    {
+      "file": "icons/back-chevron.svg",
+      "role": "UI line icon: back-chevron",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        96,
+        129,
+        14,
+        18
+      ],
+      "screenshot_bounds_pct": [
+        6.63,
+        11.88,
+        0.97,
+        1.66
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/back-chevron.svg"
+    },
+    {
+      "file": "icons/menu-lines.svg",
+      "role": "UI line icon: menu-lines",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        534,
+        129,
+        22,
+        17
+      ],
+      "screenshot_bounds_pct": [
+        36.88,
+        11.88,
+        1.52,
+        1.57
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/menu-lines.svg"
+    },
+    {
+      "file": "icons/audio-wave.svg",
+      "role": "UI line icon: audio-wave",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        1288,
+        122,
+        24,
+        30
+      ],
+      "screenshot_bounds_pct": [
+        88.95,
+        11.23,
+        1.66,
+        2.76
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/audio-wave.svg"
+    },
+    {
+      "file": "icons/pen-edit.svg",
+      "role": "UI line icon: pen-edit",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        112,
+        596,
+        24,
+        25
+      ],
+      "screenshot_bounds_pct": [
+        7.73,
+        54.88,
+        1.66,
+        2.3
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/pen-edit.svg"
+    },
+    {
+      "file": "icons/bell-reminder.svg",
+      "role": "UI line icon: bell-reminder",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        114,
+        776,
+        22,
+        27
+      ],
+      "screenshot_bounds_pct": [
+        7.87,
+        71.45,
+        1.52,
+        2.49
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/bell-reminder.svg"
+    },
+    {
+      "file": "icons/coffee-break.svg",
+      "role": "UI line icon: coffee-break",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        114,
+        832,
+        23,
+        24
+      ],
+      "screenshot_bounds_pct": [
+        7.87,
+        76.61,
+        1.59,
+        2.21
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/coffee-break.svg"
+    },
+    {
+      "file": "icons/chevron-right.svg",
+      "role": "UI line icon: chevron-right",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        421,
+        435,
+        14,
+        19
+      ],
+      "screenshot_bounds_pct": [
+        29.07,
+        40.06,
+        0.97,
+        1.75
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/chevron-right.svg"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "role": "UI line icon: arrow-right",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        396,
+        909,
+        22,
+        22
+      ],
+      "screenshot_bounds_pct": [
+        27.35,
+        83.7,
+        1.52,
+        2.03
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/arrow-right.svg"
+    },
+    {
+      "file": "icons/plus.svg",
+      "role": "UI line icon: plus",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        549,
+        890,
+        37,
+        37
+      ],
+      "screenshot_bounds_pct": [
+        37.91,
+        81.95,
+        2.56,
+        3.41
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/plus.svg"
+    },
+    {
+      "file": "icons/play.svg",
+      "role": "UI line icon: play",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        1159,
+        680,
+        26,
+        26
+      ],
+      "screenshot_bounds_pct": [
+        80.04,
+        62.62,
+        1.8,
+        2.39
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/play.svg"
+    },
+    {
+      "file": "icons/pause.svg",
+      "role": "UI line icon: pause",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        1280,
+        914,
+        22,
+        22
+      ],
+      "screenshot_bounds_pct": [
+        88.4,
+        84.16,
+        1.52,
+        2.03
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/pause.svg"
+    },
+    {
+      "file": "icons/volume.svg",
+      "role": "UI line icon: volume",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        975,
+        854,
+        24,
+        23
+      ],
+      "screenshot_bounds_pct": [
+        67.33,
+        78.64,
+        1.66,
+        2.12
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/volume.svg"
+    },
+    {
+      "file": "icons/mixer-sliders.svg",
+      "role": "UI line icon: mixer-sliders",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        1287,
+        854,
+        25,
+        23
+      ],
+      "screenshot_bounds_pct": [
+        88.88,
+        78.64,
+        1.73,
+        2.12
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/mixer-sliders.svg"
+    },
+    {
+      "file": "icons/more-horizontal.svg",
+      "role": "UI line icon: more-horizontal",
+      "size_px": "vector:24x24 viewBox",
+      "ratio": 1,
+      "alpha": true,
+      "screenshot_bounds_px": [
+        850,
+        586,
+        18,
+        16
+      ],
+      "screenshot_bounds_pct": [
+        58.7,
+        53.96,
+        1.24,
+        1.47
+      ],
+      "display": {
+        "width": "match visual bounds with CSS",
+        "color": "currentColor",
+        "background": "none"
+      },
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bc7f125c2ea5a77e8e234d2ca5472597959762e7/images/reconstructed-apps/stillday-focus-routine/icons/more-horizontal.svg"
+    }
+  ]
+}
