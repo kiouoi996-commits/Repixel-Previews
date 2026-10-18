@@ -43,7 +43,21 @@
       "mask_note": "overlay removal via local inpaint: 3 marked regions; sky pill region replaced with estimated gradient",
       "unknown_parts": "obscured parts reconstructed approximately",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/hero-santorini.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/hero-santorini.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/hero-santorini.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/hero-santorini.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        58,
+        22,
+        42,
+        78
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 58,
+        "top": 22,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: coastal town 43% left, broad blue sea lower center, jagged rock ridge upper right; midday. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -79,7 +93,21 @@
       "mask_note": "overlay removal via local inpaint: 1 marked regions",
       "unknown_parts": "obscured parts reconstructed approximately",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/destination-amalfi.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/destination-amalfi.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/destination-amalfi.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/destination-amalfi.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        5,
+        74,
+        93
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 5,
+        "right": 26,
+        "bottom": 2
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: dark limestone green cliffs encircle brilliant aqua lagoon 70% lower part; central distant mountains. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -115,7 +143,21 @@
       "mask_note": "overlay removal via local inpaint: 1 marked regions",
       "unknown_parts": "obscured parts reconstructed approximately",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/destination-bali.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/destination-bali.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/destination-bali.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/destination-bali.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        0,
+        100,
+        95
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 0,
+        "right": 0,
+        "bottom": 5
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: large traditional Japanese wooden Buddhist temple center, dense pink sakura left/right, low-angle frontal view. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -151,7 +193,21 @@
       "mask_note": "overlay removal via local inpaint: 3 marked regions",
       "unknown_parts": "obscured parts reconstructed approximately",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/trending-kyoto.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/trending-kyoto.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/trending-kyoto.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/trending-kyoto.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        19,
+        11,
+        68,
+        89
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 19,
+        "top": 11,
+        "right": 13,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: steep mountains with stacked pastel peach/orange/white buildings on right 65%, bright turquoise Mediterranean sea left bottom 35%, wide panorama. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -187,7 +243,21 @@
       "mask_note": "overlay removal via local inpaint: 1 marked regions",
       "unknown_parts": "obscured parts reconstructed approximately",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/details-positano.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/details-positano.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/details-positano.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/details-positano.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        28,
+        0,
+        72,
+        100
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 28,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: cliff village above turquoise sea, sloped coast, left-facing composition. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -223,7 +293,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-coast.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-coast.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-coast.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-coast.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        12,
+        5,
+        88,
+        95
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 12,
+        "top": 5,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: dense pastel village on steep coastal headland and small turquoise bay. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -259,7 +343,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-bay.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-bay.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-bay.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/gallery-positano-bay.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        15,
+        8,
+        85,
+        92
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 15,
+        "top": 8,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: warm Italian village narrow stone pedestrian street with red bougainvillea and warm golden facades. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -295,7 +393,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/gallery-flower-street.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-flower-street.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-flower-street.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/gallery-flower-street.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        10,
+        8,
+        86,
+        92
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 10,
+        "top": 8,
+        "right": 4,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: yellow-cream church dome and cross near Amalfi coast, azure sea behind, cliff at right edge. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -331,7 +443,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/gallery-dome-church.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-dome-church.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/gallery-dome-church.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/gallery-dome-church.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        30,
+        22,
+        47,
+        78
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 30,
+        "top": 22,
+        "right": 23,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: Amalfi coast blue sea and tiny settlement nestled in hills; distant headland. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -367,7 +493,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/highlight-seaview.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/highlight-seaview.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/highlight-seaview.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/highlight-seaview.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        12,
+        95,
+        87
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 12,
+        "right": 5,
+        "bottom": 1
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: plate of gnocchi or golden dumplings with herbs and tomato sauce on cafe table, overhead three-quarter angle. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -403,7 +543,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/highlight-local-food.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/highlight-local-food.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/highlight-local-food.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/highlight-local-food.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        13,
+        18,
+        70,
+        70
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 13,
+        "top": 18,
+        "right": 17,
+        "bottom": 12
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: winding pastel Italian street, vivid magenta bougainvillea, warm peach buildings. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -439,7 +593,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/highlight-charming-street.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/highlight-charming-street.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/highlight-charming-street.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/highlight-charming-street.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        14,
+        0,
+        86,
+        100
+      ],
+      "dominant_visual_cropped_by_frame_estimate": false,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 14,
+        "top": 0,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: young brunette woman wearing wide woven straw sun hat in front of bright blue sky; tight bust portrait, looking frame right. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -475,7 +643,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/profile-avatar-emma.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-avatar-emma.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-avatar-emma.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/profile-avatar-emma.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        16,
+        12,
+        70,
+        88
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 16,
+        "top": 12,
+        "right": 14,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: green lake and high mountain slopes, bright turquoise bay, low hills. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -511,7 +693,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/story-italy.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-italy.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-italy.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/story-italy.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        12,
+        15,
+        78,
+        75
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 12,
+        "top": 15,
+        "right": 10,
+        "bottom": 10
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: red Japanese wooden pagoda silhouette, pink orange sunset sky and Mount Fuji, spring cherry blossoms. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -547,7 +743,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/story-japan.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-japan.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-japan.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/story-japan.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        28,
+        7,
+        53,
+        91
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 28,
+        "top": 7,
+        "right": 19,
+        "bottom": 2
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: dark mountain ranges with snow-capped peaks, lake fjord with reflective water. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -583,7 +793,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/story-iceland.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-iceland.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-iceland.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/story-iceland.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        8,
+        100,
+        89
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 8,
+        "right": 0,
+        "bottom": 3
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: whitewashed Cycladic houses and vibrant royal-blue church dome against sea and blue sky. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -619,7 +843,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/story-greece.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-greece.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/story-greece.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/story-greece.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        21,
+        15,
+        77,
+        85
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 21,
+        "top": 15,
+        "right": 2,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: white blue domed Cycladic buildings foreground, Aegean Sea and cliffs, clear sky. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -655,7 +893,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/profile-santorini.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-santorini.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-santorini.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/profile-santorini.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        20,
+        100,
+        80
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 20,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: red 5-tier pagoda center framed by pale pink sakura branches, soft blue sky. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -691,7 +943,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/profile-japan-pagoda.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-japan-pagoda.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-japan-pagoda.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/profile-japan-pagoda.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        29,
+        10,
+        48,
+        88
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 29,
+        "top": 10,
+        "right": 23,
+        "bottom": 2
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: turquoise alpine lake with spruce pines and triangular icy peaks in distance. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -727,7 +993,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/profile-alpine-lake.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-alpine-lake.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-alpine-lake.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/profile-alpine-lake.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        10,
+        100,
+        90
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 10,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: Amalfi coastal hillside town with historic houses, little marina and blue bay. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -763,7 +1043,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/profile-amalfi-marina.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-amalfi-marina.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-amalfi-marina.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/profile-amalfi-marina.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        8,
+        95,
+        91
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 8,
+        "right": 5,
+        "bottom": 1
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: narrow white Greek cobblestone alley with blue window frames and hot-pink bougainvillea. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -799,7 +1093,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/profile-greek-alley.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-greek-alley.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-greek-alley.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/profile-greek-alley.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        0,
+        5,
+        100,
+        95
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 0,
+        "top": 5,
+        "right": 0,
+        "bottom": 0
+      }
     },
     {
       "reconstruction_prompt": "Reconstruct ONLY this photo as an independent realistic photograph without any UI or text: wooden long-tail boat angled left in clear turquoise tropical cove, tall limestone islands background. Match the source camera position, lens, color grade, object scale, precise crop and composition, hard daylight, and natural detail. Keep photographic backdrop. No stickers, labels, borders, or buttons.",
@@ -835,7 +1143,21 @@
       "mask_note": "no foreground UI overlay within visible crop",
       "unknown_parts": "none",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/profile-bali-boat.webp",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-bali-boat.webp"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/profile-bali-boat.webp",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/profile-bali-boat.webp",
+      "dominant_visual_bbox_pct_within_photo_estimate": [
+        10,
+        64,
+        78,
+        29
+      ],
+      "dominant_visual_cropped_by_frame_estimate": true,
+      "dominant_visual_margins_pct_estimate": {
+        "left": 10,
+        "top": 64,
+        "right": 12,
+        "bottom": 7
+      }
     }
   ],
   "icons": [
@@ -851,7 +1173,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/search.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/search.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/search.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/search.svg",
+      "usage_bbox_px_estimate": [
+        [
+          410,
+          147,
+          22,
+          24
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          28.31,
+          13.54,
+          1.52,
+          2.21
+        ]
+      ]
     },
     {
       "file": "icons/arrow-back.svg",
@@ -865,7 +1204,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/arrow-back.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/arrow-back.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/arrow-back.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/arrow-back.svg",
+      "usage_bbox_px_estimate": [
+        [
+          535,
+          172,
+          24,
+          19
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          36.95,
+          15.84,
+          1.66,
+          1.75
+        ]
+      ]
     },
     {
       "file": "icons/chevron-right.svg",
@@ -879,7 +1235,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/chevron-right.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/chevron-right.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/chevron-right.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/chevron-right.svg",
+      "usage_bbox_px_estimate": [
+        [
+          842,
+          908,
+          13,
+          16
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          58.15,
+          83.61,
+          0.9,
+          1.47
+        ]
+      ]
     },
     {
       "file": "icons/heart.svg",
@@ -893,7 +1266,72 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/heart.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/heart.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/heart.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/heart.svg",
+      "usage_bbox_px_estimate": [
+        [
+          246,
+          531,
+          23,
+          26
+        ],
+        [
+          414,
+          530,
+          25,
+          25
+        ],
+        [
+          405,
+          767,
+          22,
+          22
+        ],
+        [
+          304,
+          890,
+          20,
+          22
+        ],
+        [
+          1181,
+          893,
+          24,
+          22
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          16.99,
+          48.9,
+          1.59,
+          2.39
+        ],
+        [
+          28.59,
+          48.8,
+          1.73,
+          2.3
+        ],
+        [
+          27.97,
+          70.63,
+          1.52,
+          2.03
+        ],
+        [
+          20.99,
+          81.95,
+          1.38,
+          2.03
+        ],
+        [
+          81.56,
+          82.23,
+          1.66,
+          2.03
+        ]
+      ]
     },
     {
       "file": "icons/heart-filled.svg",
@@ -907,7 +1345,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/heart-filled.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/heart-filled.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/heart-filled.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/heart-filled.svg",
+      "usage_bbox_px_estimate": [
+        [
+          849,
+          170,
+          23,
+          22
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          58.63,
+          15.65,
+          1.59,
+          2.03
+        ]
+      ]
     },
     {
       "file": "icons/settings.svg",
@@ -921,7 +1376,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/settings.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/settings.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/settings.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/settings.svg",
+      "usage_bbox_px_estimate": [
+        [
+          1291,
+          148,
+          25,
+          26
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          89.16,
+          13.63,
+          1.73,
+          2.39
+        ]
+      ]
     },
     {
       "file": "icons/plus.svg",
@@ -935,7 +1407,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/plus.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/plus.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/plus.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/plus.svg",
+      "usage_bbox_px_estimate": [
+        [
+          986,
+          442,
+          18,
+          20
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          68.09,
+          40.7,
+          1.24,
+          1.84
+        ]
+      ]
     },
     {
       "file": "icons/grid-all.svg",
@@ -949,7 +1438,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/grid-all.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/grid-all.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/grid-all.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/grid-all.svg",
+      "usage_bbox_px_estimate": [
+        [
+          96,
+          431,
+          16,
+          16
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          6.63,
+          39.69,
+          1.1,
+          1.47
+        ]
+      ]
     },
     {
       "file": "icons/beach.svg",
@@ -963,7 +1469,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/beach.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/beach.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/beach.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/beach.svg",
+      "usage_bbox_px_estimate": [
+        [
+          167,
+          429,
+          17,
+          17
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          11.53,
+          39.5,
+          1.17,
+          1.57
+        ]
+      ]
     },
     {
       "file": "icons/city.svg",
@@ -977,7 +1500,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/city.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/city.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/city.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/city.svg",
+      "usage_bbox_px_estimate": [
+        [
+          258,
+          428,
+          19,
+          20
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          17.82,
+          39.41,
+          1.31,
+          1.84
+        ]
+      ]
     },
     {
       "file": "icons/nature.svg",
@@ -991,7 +1531,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/nature.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/nature.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/nature.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/nature.svg",
+      "usage_bbox_px_estimate": [
+        [
+          336,
+          429,
+          18,
+          16
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          23.2,
+          39.5,
+          1.24,
+          1.47
+        ]
+      ]
     },
     {
       "file": "icons/compass.svg",
@@ -1005,7 +1562,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/compass.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/compass.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/compass.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/compass.svg",
+      "usage_bbox_px_estimate": [
+        [
+          431,
+          428,
+          19,
+          20
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          29.77,
+          39.41,
+          1.31,
+          1.84
+        ]
+      ]
     },
     {
       "file": "icons/flame.svg",
@@ -1019,7 +1593,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/flame.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/flame.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/flame.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/flame.svg",
+      "usage_bbox_px_estimate": [
+        [
+          108,
+          212,
+          14,
+          16
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          7.46,
+          19.52,
+          0.97,
+          1.47
+        ]
+      ]
     },
     {
       "file": "icons/pin.svg",
@@ -1033,7 +1624,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/pin.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/pin.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/pin.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/pin.svg",
+      "usage_bbox_px_estimate": [
+        [
+          525,
+          590,
+          14,
+          15
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          36.26,
+          54.33,
+          0.97,
+          1.38
+        ]
+      ]
     },
     {
       "file": "icons/star.svg",
@@ -1047,7 +1655,48 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/star.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/star.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/star.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/star.svg",
+      "usage_bbox_px_estimate": [
+        [
+          224,
+          658,
+          17,
+          19
+        ],
+        [
+          393,
+          839,
+          17,
+          18
+        ],
+        [
+          643,
+          560,
+          18,
+          18
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          15.47,
+          60.59,
+          1.17,
+          1.75
+        ],
+        [
+          27.14,
+          77.26,
+          1.17,
+          1.66
+        ],
+        [
+          44.41,
+          51.57,
+          1.24,
+          1.66
+        ]
+      ]
     },
     {
       "file": "icons/star-filled.svg",
@@ -1061,7 +1710,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/star-filled.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/star-filled.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/star-filled.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/star-filled.svg",
+      "usage_bbox_px_estimate": [
+        [
+          224,
+          658,
+          17,
+          19
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          15.47,
+          60.59,
+          1.17,
+          1.75
+        ]
+      ]
     },
     {
       "file": "icons/home.svg",
@@ -1075,7 +1741,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/home.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/home.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/home.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/home.svg",
+      "usage_bbox_px_estimate": [
+        [
+          984,
+          889,
+          24,
+          24
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          67.96,
+          81.86,
+          1.66,
+          2.21
+        ]
+      ]
     },
     {
       "file": "icons/home-filled.svg",
@@ -1089,7 +1772,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/home-filled.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/home-filled.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/home-filled.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/home-filled.svg",
+      "usage_bbox_px_estimate": [
+        [
+          107,
+          889,
+          24,
+          24
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          7.39,
+          81.86,
+          1.66,
+          2.21
+        ]
+      ]
     },
     {
       "file": "icons/suitcase.svg",
@@ -1103,7 +1803,36 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/suitcase.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/suitcase.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/suitcase.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/suitcase.svg",
+      "usage_bbox_px_estimate": [
+        [
+          207,
+          891,
+          20,
+          23
+        ],
+        [
+          1082,
+          891,
+          23,
+          23
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          14.3,
+          82.04,
+          1.38,
+          2.12
+        ],
+        [
+          74.72,
+          82.04,
+          1.59,
+          2.12
+        ]
+      ]
     },
     {
       "file": "icons/user.svg",
@@ -1117,7 +1846,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/user.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/user.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/user.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/user.svg",
+      "usage_bbox_px_estimate": [
+        [
+          403,
+          890,
+          20,
+          22
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          27.83,
+          81.95,
+          1.38,
+          2.03
+        ]
+      ]
     },
     {
       "file": "icons/user-filled.svg",
@@ -1131,7 +1877,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/user-filled.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/user-filled.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/user-filled.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/user-filled.svg",
+      "usage_bbox_px_estimate": [
+        [
+          1278,
+          889,
+          25,
+          27
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          88.26,
+          81.86,
+          1.73,
+          2.49
+        ]
+      ]
     },
     {
       "file": "icons/clock.svg",
@@ -1145,7 +1908,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/clock.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/clock.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/clock.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/clock.svg",
+      "usage_bbox_px_estimate": [
+        [
+          570,
+          644,
+          21,
+          21
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          39.36,
+          59.3,
+          1.45,
+          1.93
+        ]
+      ]
     },
     {
       "file": "icons/sun.svg",
@@ -1159,7 +1939,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/sun.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/sun.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/sun.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/sun.svg",
+      "usage_bbox_px_estimate": [
+        [
+          695,
+          642,
+          24,
+          27
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          48.0,
+          59.12,
+          1.66,
+          2.49
+        ]
+      ]
     },
     {
       "file": "icons/navigation.svg",
@@ -1173,7 +1970,24 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/navigation.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/navigation.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/navigation.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/navigation.svg",
+      "usage_bbox_px_estimate": [
+        [
+          816,
+          644,
+          23,
+          24
+        ]
+      ],
+      "usage_bbox_pct_estimate": [
+        [
+          56.35,
+          59.3,
+          1.59,
+          2.21
+        ]
+      ]
     },
     {
       "file": "icons/camera.svg",
@@ -1187,7 +2001,10 @@
       "cssColor": "currentColor",
       "comment": "No button background, icon itself only",
       "repo_path": "images/reconstructed-apps/aegean-atlas-travel-app/icons/camera.svg",
-      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/camera.svg"
+      "raw_url_main": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/reconstructed-apps/aegean-atlas-travel-app/icons/camera.svg",
+      "raw_url_pinned": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d962b27921a349ff144e533870725b54e02f9477/images/reconstructed-apps/aegean-atlas-travel-app/icons/camera.svg",
+      "usage_bbox_px_estimate": [],
+      "usage_bbox_pct_estimate": []
     }
   ],
   "shared_graphics": {
@@ -1275,5 +2092,12 @@
       "cellular status",
       "battery status"
     ]
-  }
+  },
+  "published_asset_commit": "d962b27921a349ff144e533870725b54e02f9477",
+  "quality_limitations": [
+    "Raster image regions are directly sourced from the 1448x1086 screenshot and upscaled with Lanczos, not reconstructed from originals or independently generated by the image model.",
+    "Inpainting and extrapolation is approximate in areas occluded by captions, badges, counts, and circular overlays; inspect major photos before production use.",
+    "Object subject extent is an estimated visual bbox, not ground-truth segmentation."
+  ],
+  "notes": "Not every icon shown can be unambiguously identified from raster; camera included as optional and is not a confirmed visible UI glyph."
 }
