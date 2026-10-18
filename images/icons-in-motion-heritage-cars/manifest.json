@@ -6,7 +6,7 @@
     1448,
     1086
   ],
-  "status": "locally prepared; remote media upload is separately verifiable",
+  "status": "media files published; immutable URL verification against GitHub required after final profile adjustment",
   "generated_at_utc": "2026-10-18",
   "repo": "kiouoi996-commits/Repixel-Previews",
   "intended_folder": "images/icons-in-motion-heritage-cars",
@@ -62,8 +62,8 @@
       "positioning": "width:392px; height:141px; object-fit:contain; position center",
       "display": "contain, transparent background, no extra CSS shadow",
       "notes": "1968 Porsche 911 steel blue, facing right, studio profile; alpha plus faint contact shadow",
-      "bytes": 288313,
-      "sha256": "8cd56bc2efacb007808f752a49c6421c9113c0acc722b0ae4a6186418c95ab82"
+      "bytes": 299506,
+      "sha256": "aa5becee744fbdb06780b0583d64235e2dc383b94b8089252d043c92fa4d099c"
     },
     {
       "file": "ferrari-250-gto-hero.webp",
@@ -316,5 +316,6 @@
     "mercedes-300sl-thumb.png": "Extract small red mid-century Mercedes-Benz 300 SL automobile with cream-white side oval panel, profile facing right, no text, transparent alpha, subtle natural ground shadow.",
     "jaguar-e-type-thumb-partial.png": "Extract only the green rear-quarter of the Jaguar E-Type visible on the original third card, right side deliberately cropped and never invent unseen vehicle, transparent alpha.",
     "porsche-crest.png": "Extract cropped original yellow Porsche heraldic shield from timeline footer; transparent outside crest; fidelity limited by tiny source."
-  }
+  },
+  "asset_url_template": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/{commit_sha}/images/icons-in-motion-heritage-cars/{file}"
 }
