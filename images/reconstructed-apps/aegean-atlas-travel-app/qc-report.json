@@ -1,0 +1,232 @@
+[
+  {
+    "file": "hero-santorini.webp",
+    "actual_size": [
+      1095,
+      636
+    ],
+    "alpha": false,
+    "bytes": 63344,
+    "valid": true
+  },
+  {
+    "file": "destination-amalfi.webp",
+    "actual_size": [
+      594,
+      372
+    ],
+    "alpha": false,
+    "bytes": 31636,
+    "valid": true
+  },
+  {
+    "file": "destination-bali.webp",
+    "actual_size": [
+      474,
+      372
+    ],
+    "alpha": false,
+    "bytes": 26406,
+    "valid": true
+  },
+  {
+    "file": "trending-kyoto.webp",
+    "actual_size": [
+      1086,
+      345
+    ],
+    "alpha": false,
+    "bytes": 50834,
+    "valid": true
+  },
+  {
+    "file": "details-positano.webp",
+    "actual_size": [
+      1098,
+      756
+    ],
+    "alpha": false,
+    "bytes": 131786,
+    "valid": true
+  },
+  {
+    "file": "gallery-positano-coast.webp",
+    "actual_size": [
+      255,
+      198
+    ],
+    "alpha": false,
+    "bytes": 7264,
+    "valid": true
+  },
+  {
+    "file": "gallery-positano-bay.webp",
+    "actual_size": [
+      261,
+      198
+    ],
+    "alpha": false,
+    "bytes": 8428,
+    "valid": true
+  },
+  {
+    "file": "gallery-flower-street.webp",
+    "actual_size": [
+      261,
+      195
+    ],
+    "alpha": false,
+    "bytes": 10810,
+    "valid": true
+  },
+  {
+    "file": "gallery-dome-church.webp",
+    "actual_size": [
+      249,
+      195
+    ],
+    "alpha": false,
+    "bytes": 7534,
+    "valid": true
+  },
+  {
+    "file": "highlight-seaview.webp",
+    "actual_size": [
+      354,
+      207
+    ],
+    "alpha": false,
+    "bytes": 10788,
+    "valid": true
+  },
+  {
+    "file": "highlight-local-food.webp",
+    "actual_size": [
+      366,
+      207
+    ],
+    "alpha": false,
+    "bytes": 12226,
+    "valid": true
+  },
+  {
+    "file": "highlight-charming-street.webp",
+    "actual_size": [
+      318,
+      207
+    ],
+    "alpha": false,
+    "bytes": 10964,
+    "valid": true
+  },
+  {
+    "file": "profile-avatar-emma.webp",
+    "actual_size": [
+      396,
+      402
+    ],
+    "alpha": false,
+    "bytes": 15970,
+    "valid": true
+  },
+  {
+    "file": "story-italy.webp",
+    "actual_size": [
+      189,
+      192
+    ],
+    "alpha": false,
+    "bytes": 3778,
+    "valid": true
+  },
+  {
+    "file": "story-japan.webp",
+    "actual_size": [
+      189,
+      189
+    ],
+    "alpha": false,
+    "bytes": 3494,
+    "valid": true
+  },
+  {
+    "file": "story-iceland.webp",
+    "actual_size": [
+      192,
+      192
+    ],
+    "alpha": false,
+    "bytes": 4666,
+    "valid": true
+  },
+  {
+    "file": "story-greece.webp",
+    "actual_size": [
+      192,
+      192
+    ],
+    "alpha": false,
+    "bytes": 4570,
+    "valid": true
+  },
+  {
+    "file": "profile-santorini.webp",
+    "actual_size": [
+      348,
+      369
+    ],
+    "alpha": false,
+    "bytes": 11710,
+    "valid": true
+  },
+  {
+    "file": "profile-japan-pagoda.webp",
+    "actual_size": [
+      351,
+      372
+    ],
+    "alpha": false,
+    "bytes": 19740,
+    "valid": true
+  },
+  {
+    "file": "profile-alpine-lake.webp",
+    "actual_size": [
+      351,
+      372
+    ],
+    "alpha": false,
+    "bytes": 22280,
+    "valid": true
+  },
+  {
+    "file": "profile-amalfi-marina.webp",
+    "actual_size": [
+      354,
+      381
+    ],
+    "alpha": false,
+    "bytes": 18978,
+    "valid": true
+  },
+  {
+    "file": "profile-greek-alley.webp",
+    "actual_size": [
+      354,
+      381
+    ],
+    "alpha": false,
+    "bytes": 21200,
+    "valid": true
+  },
+  {
+    "file": "profile-bali-boat.webp",
+    "actual_size": [
+      348,
+      381
+    ],
+    "alpha": false,
+    "bytes": 18942,
+    "valid": true
+  }
+]
