@@ -1,0 +1,768 @@
+{
+  "project": "Cala — Coastal Travel Planner",
+  "slug": "cala-coastal-travel-planner",
+  "sourceScreenshot": {
+    "width": 1448,
+    "height": 1086,
+    "note": "Source image is a composite of three mobile screen mockups, not original development design file; bounds visually estimated."
+  },
+  "assetCount": 29,
+  "assets": [
+    {
+      "filename": "hero-coast-cutout.webp",
+      "role": "home hero photography",
+      "description": "White limestone cliffs above cyan coastal water, distant boat and blue sky; clipped silhouette",
+      "source_box_px": [
+        90,
+        220,
+        376,
+        529
+      ],
+      "source_box_percent": [
+        6.22,
+        20.26,
+        25.97,
+        48.71
+      ],
+      "pixel_size": [
+        1128,
+        1587
+      ],
+      "aspect_ratio": "376:529",
+      "alpha": true,
+      "render": {
+        "objectFit": "contain",
+        "objectPosition": "center"
+      },
+      "reference_occupancy_estimate": {
+        "subject": "limestone cliffs, turquoise sea and a small boat",
+        "estimated_width_pct": 80,
+        "estimated_height_pct": 97,
+        "edges": "coastline touches right crop; vessel around x=280 y=662"
+      },
+      "retouch": "Alpha openings exclude circular arrow control and orange CSS circle; use actual CSS UI layers over this photo.",
+      "generation_prompt": "Photorealistic bright Mediterranean limestone cliff to right, blue Adriatic sea, tiny white motorboat lower middle, clear cool sky, overhead summer light, clean photograph, no lettering, no interface, tall coastal editorial framing; retain clipped silhouette for CSS mask.",
+      "provenance": "Extracted/restored from composite screenshot; not an original source photograph."
+    },
+    {
+      "filename": "location-limestone-cove.webp",
+      "role": "destination large photograph",
+      "description": "Ivory limestone cliff and turquoise shallow beach seen from elevated seaside vantage",
+      "source_box_px": [
+        619,
+        90,
+        284,
+        450
+      ],
+      "source_box_percent": [
+        42.75,
+        8.29,
+        19.61,
+        41.44
+      ],
+      "pixel_size": [
+        852,
+        1350
+      ],
+      "aspect_ratio": "284:450",
+      "alpha": true,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center"
+      },
+      "reference_occupancy_estimate": {
+        "limestone_cliff_pct": 65,
+        "sea_pct": 43,
+        "note": "upper middle and lower left covered by weather card; exact hidden content not recoverable"
+      },
+      "retouch": "Alpha openings precisely exclude the visible three-dot control and weather card; those regions are transparent, not photo-reconstructed.",
+      "generation_prompt": "Photorealistic steep pale white limestone seaside cliff, sandy cove, bright turquoise sea, elevated viewpoint, blue sky, dry sparse vegetation, daylight; tall 284:450 frame. No typography, no controls.",
+      "provenance": "Extracted/restored from composite screenshot; not an original source photograph."
+    },
+    {
+      "filename": "aerial-turquoise-boat.webp",
+      "role": "video cover",
+      "description": "Overhead aquamarine shallow cove and single narrow white boat",
+      "source_box_px": [
+        520,
+        541,
+        382,
+        171
+      ],
+      "source_box_percent": [
+        35.91,
+        49.82,
+        26.38,
+        15.75
+      ],
+      "pixel_size": [
+        1146,
+        513
+      ],
+      "aspect_ratio": "382:171",
+      "alpha": true,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center"
+      },
+      "reference_occupancy_estimate": {
+        "water_pct": 97,
+        "single_white_boat_pct": 3,
+        "boat_position_pct": [
+          36,
+          45
+        ]
+      },
+      "retouch": "Play circle covered a region; replaced with mirrored adjacent water texture. This zone is an approximate retouch, not recovered source.",
+      "generation_prompt": "Drone photo directly overhead of brilliant light turquoise transparent shallow sea, lone tiny white motorboat around left center, gentle textured shallows, no people, soft brilliant noon light, 2.24:1 horizontal panoramic crop, remove video play button.",
+      "provenance": "Extracted/restored from composite screenshot; not an original source photograph."
+    },
+    {
+      "filename": "mood-calm-wave.webp",
+      "role": "mood category photo",
+      "description": "Rolling translucent icy blue ocean wave, diagonal layers of foam",
+      "source_box_px": [
+        82,
+        774,
+        89,
+        141
+      ],
+      "source_box_percent": [
+        5.66,
+        71.27,
+        6.15,
+        12.98
+      ],
+      "pixel_size": [
+        267,
+        423
+      ],
+      "aspect_ratio": "89:141",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center 36%"
+      },
+      "retouch": "Uses clean inner unoccluded screenshot pixels only, scaled to 3× target proportions; hidden label zone not recoverable.",
+      "generation_prompt": "Photorealistic vertical category image: Rolling translucent icy blue ocean wave, diagonal layers of foam, tall narrow crop, fill image, natural editorial light, no text, no labels or pills.",
+      "provenance": "Reconstructed from unoccluded photographic strip in source screenshot."
+    },
+    {
+      "filename": "mood-energy-dunes.webp",
+      "role": "mood category photo",
+      "description": "Warm terracotta-orange windswept dune ridge, smooth lines",
+      "source_box_px": [
+        179,
+        774,
+        104,
+        141
+      ],
+      "source_box_percent": [
+        12.36,
+        71.27,
+        7.18,
+        12.98
+      ],
+      "pixel_size": [
+        312,
+        423
+      ],
+      "aspect_ratio": "104:141",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center 50%"
+      },
+      "retouch": "Uses clean inner unoccluded screenshot pixels only, scaled to 3× target proportions; hidden label zone not recoverable.",
+      "generation_prompt": "Photorealistic vertical category image: Warm terracotta-orange windswept dune ridge, smooth lines, tall narrow crop, fill image, natural editorial light, no text, no labels or pills.",
+      "provenance": "Reconstructed from unoccluded photographic strip in source screenshot."
+    },
+    {
+      "filename": "mood-nature-leaf.webp",
+      "role": "mood category photo",
+      "description": "Deep green elongated tropical palm leaf close-up diagonal ribs",
+      "source_box_px": [
+        290,
+        773,
+        110,
+        141
+      ],
+      "source_box_percent": [
+        20.03,
+        71.18,
+        7.6,
+        12.98
+      ],
+      "pixel_size": [
+        330,
+        423
+      ],
+      "aspect_ratio": "110:141",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center 50%"
+      },
+      "retouch": "Uses clean inner unoccluded screenshot pixels only, scaled to 3× target proportions; hidden label zone not recoverable.",
+      "generation_prompt": "Photorealistic vertical category image: Deep green elongated tropical palm leaf close-up diagonal ribs, tall narrow crop, fill image, natural editorial light, no text, no labels or pills.",
+      "provenance": "Reconstructed from unoccluded photographic strip in source screenshot."
+    },
+    {
+      "filename": "mood-culture-rock.webp",
+      "role": "mood category photo",
+      "description": "Weathered pale rock architecture close-up, sandy gray/beige",
+      "source_box_px": [
+        408,
+        772,
+        57,
+        142
+      ],
+      "source_box_percent": [
+        28.18,
+        71.09,
+        3.94,
+        13.08
+      ],
+      "pixel_size": [
+        171,
+        426
+      ],
+      "aspect_ratio": "57:142",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center 50%"
+      },
+      "retouch": "Uses clean inner unoccluded screenshot pixels only, scaled to 3× target proportions; hidden label zone not recoverable.",
+      "generation_prompt": "Photorealistic vertical category image: Weathered pale rock architecture close-up, sandy gray/beige, tall narrow crop, fill image, natural editorial light, no text, no labels or pills.",
+      "provenance": "Reconstructed from unoccluded photographic strip in source screenshot."
+    },
+    {
+      "filename": "event-sunrise-rocks.webp",
+      "role": "timeline event thumbnail",
+      "description": "Warm muted peach-pink sunrise over dark layered foreground rocks and quiet sea",
+      "source_box_px": [
+        1165,
+        425,
+        160,
+        130
+      ],
+      "source_box_percent": [
+        80.46,
+        39.13,
+        11.05,
+        11.97
+      ],
+      "pixel_size": [
+        480,
+        390
+      ],
+      "aspect_ratio": "160:130",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center"
+      },
+      "reference_occupancy_estimate": {
+        "sun_pct": 2,
+        "rocks_pct": 47,
+        "sky_sea_pct": 53
+      },
+      "retouch": "Cropped inner button-free source pixels and resized to the target ratio; original edges hidden by rounded masking.",
+      "generation_prompt": "High-end travel editorial photograph of peach-gold sun above sea horizon, dark layered volcanic rocks in foreground, soft golden peach sky, muted dawn atmosphere; horizontal 160:130 framing.",
+      "provenance": "Extracted/restored from composite screenshot; not an original source photograph."
+    },
+    {
+      "filename": "event-underwater-reef.webp",
+      "role": "timeline event thumbnail",
+      "description": "Teal underwater scene with fish silhouettes on textured rocky seabed",
+      "source_box_px": [
+        1060,
+        581,
+        266,
+        113
+      ],
+      "source_box_percent": [
+        73.2,
+        53.5,
+        18.37,
+        10.41
+      ],
+      "pixel_size": [
+        798,
+        339
+      ],
+      "aspect_ratio": "266:113",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center"
+      },
+      "reference_occupancy_estimate": {
+        "water_reef_pct": 100,
+        "fish_visible": "many small dark fish and one large dark fish low-left"
+      },
+      "retouch": "Button-covered right-side pixels not recoverable; only visible button-free central-left source photograph used and resized to original target aspect ratio. Exact camera scale in hidden region is approximated.",
+      "generation_prompt": "Wide underwater photograph, top-down perspective looking at turquoise water and textured ocean floor, scattered black tiny fish and one bigger dark fish silhouette near lower left, natural optical water caustics, cool cyan.",
+      "provenance": "Extracted/restored from composite screenshot; not an original source photograph."
+    },
+    {
+      "filename": "event-orange-canyon.webp",
+      "role": "timeline event thumbnail",
+      "description": "Orange-red sandstone slot canyon, flowing striated walls and warm luminous opening",
+      "source_box_px": [
+        1060,
+        719,
+        266,
+        118
+      ],
+      "source_box_percent": [
+        73.2,
+        66.21,
+        18.37,
+        10.87
+      ],
+      "pixel_size": [
+        798,
+        354
+      ],
+      "aspect_ratio": "266:118",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center"
+      },
+      "reference_occupancy_estimate": {
+        "sandstone_pct": 96,
+        "sky_pct": 4
+      },
+      "retouch": "Button-covered right-side pixels not recoverable; only visible button-free central-left source photograph used and resized to original target aspect ratio. Exact camera scale in hidden region is approximated.",
+      "generation_prompt": "Photorealistic slot canyon close-up, fine wavy orange terracotta sandstone ridges under golden hour side light, sculptural vertical lines, narrow glowing opening; horizontal 266:118 crop.",
+      "provenance": "Extracted/restored from composite screenshot; not an original source photograph."
+    },
+    {
+      "filename": "icons/menu.svg",
+      "role": "interface icon",
+      "description": "menu",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/search.svg",
+      "role": "interface icon",
+      "description": "search",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/arrow-up-right.svg",
+      "role": "interface icon",
+      "description": "arrow up right",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/arrow-left.svg",
+      "role": "interface icon",
+      "description": "arrow left",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/more-horizontal.svg",
+      "role": "interface icon",
+      "description": "more horizontal",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/sun.svg",
+      "role": "interface icon",
+      "description": "sun",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/wind.svg",
+      "role": "interface icon",
+      "description": "wind",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/waves.svg",
+      "role": "interface icon",
+      "description": "waves",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/play.svg",
+      "role": "interface icon",
+      "description": "play",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/pin.svg",
+      "role": "interface icon",
+      "description": "pin",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/plus.svg",
+      "role": "interface icon",
+      "description": "plus",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/chevron-down.svg",
+      "role": "interface icon",
+      "description": "chevron down",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/bookmark.svg",
+      "role": "interface icon",
+      "description": "bookmark",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/home-filled.svg",
+      "role": "interface icon",
+      "description": "home filled",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/heart.svg",
+      "role": "interface icon",
+      "description": "heart",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/user.svg",
+      "role": "interface icon",
+      "description": "user",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "icons/route-dot.svg",
+      "role": "interface icon",
+      "description": "route dot",
+      "source_box_px": null,
+      "pixel_size": null,
+      "viewBox": "0 0 24 24",
+      "aspect_ratio": "1:1",
+      "alpha": true,
+      "render": {
+        "width": 24,
+        "height": 24,
+        "fill": "currentColor"
+      },
+      "provenance": "Hand-authored approximate SVG tracing based on screenshot, no button backgrounds."
+    },
+    {
+      "filename": "map-topography.svg",
+      "role": "vector map background",
+      "description": "Light sand cartographic background with delicate contour lines only; route and controls excluded",
+      "source_box_px": [
+        520,
+        755,
+        364,
+        177
+      ],
+      "source_box_percent": [
+        35.91,
+        69.52,
+        25.14,
+        16.3
+      ],
+      "pixel_size": [
+        1080,
+        534
+      ],
+      "aspect_ratio": "360:178",
+      "alpha": false,
+      "render": {
+        "objectFit": "cover",
+        "objectPosition": "center"
+      },
+      "provenance": "Reconstructed vector approximation, not literal traced map geometry."
+    },
+    {
+      "filename": "map-route.svg",
+      "role": "map overlay",
+      "description": "Separate white-and-orange dashed walking route",
+      "source_box_px": [
+        520,
+        755,
+        364,
+        177
+      ],
+      "pixel_size": [
+        1080,
+        534
+      ],
+      "aspect_ratio": "360:178",
+      "alpha": true,
+      "render": {
+        "objectFit": "fill"
+      },
+      "provenance": "Vector reconstruction based on screenshot."
+    }
+  ],
+  "backgroundsAndUI": {
+    "canvas": {
+      "type": "linear-gradient",
+      "angle_deg": 135,
+      "stops": [
+        {
+          "offset": 0,
+          "hex": "#E1E6E9"
+        },
+        {
+          "offset": 58,
+          "hex": "#CED5D9"
+        },
+        {
+          "offset": 100,
+          "hex": "#DDE3E7"
+        }
+      ]
+    },
+    "screen": {
+      "type": "linear-gradient",
+      "angle_deg": 135,
+      "stops": [
+        {
+          "offset": 0,
+          "hex": "#FAF9F6"
+        },
+        {
+          "offset": 65,
+          "hex": "#F6F2EC"
+        },
+        {
+          "offset": 100,
+          "hex": "#F0EDE7"
+        }
+      ]
+    },
+    "orangeCircle": {
+      "type": "linear-gradient",
+      "angle_deg": 145,
+      "stops": [
+        {
+          "offset": 0,
+          "hex": "#FE7954"
+        },
+        {
+          "offset": 100,
+          "hex": "#FFAE83"
+        }
+      ]
+    },
+    "rightHeaderOrange": {
+      "type": "radial-gradient",
+      "position": "85% 15%",
+      "stops": [
+        {
+          "offset": 0,
+          "rgba": "rgba(255,113,83,0.95)"
+        },
+        {
+          "offset": 60,
+          "rgba": "rgba(255,143,102,0.58)"
+        },
+        {
+          "offset": 100,
+          "rgba": "rgba(255,238,214,0.0)"
+        }
+      ]
+    },
+    "icons": "#10181D",
+    "mutedText": "#979596",
+    "mapBg": "#E9E6DF",
+    "activeCalendar": "#051419",
+    "navPill": "#F1EFEA",
+    "screenBorderRadiusPx": 45,
+    "screenSizePx": [
+      404,
+      872
+    ],
+    "screenX": [
+      62,
+      516,
+      966
+    ],
+    "uiOnly": {
+      "headings": "Discover new places / May / Sunrise spot etc must be native text",
+      "weather_card": "Rounded translucent off-white card, CSS backdrop blur, not part of photograph",
+      "timeline_card": "Rounded white cards with soft ambient shadows, CSS",
+      "buttons": "White circular buttons with SVG icons, implemented in layout",
+      "pagination": "CSS dots with active dark fill",
+      "calendar": "Native UI day cells and selected dark pill",
+      "orange_circle": "CSS 130px gradient circle behind home photo",
+      "map_markers": "SVG icon overlay with CSS orange circular background"
+    }
+  },
+  "qualityAndLimitations": [
+    "Every raster file is a standalone extraction/reconstruction of photo pixels from the supplied composite screenshot; not a faithful original full-frame photographic source.",
+    "Upscaling to 3x increases file dimensions, not genuine optical detail.",
+    "Occluded source pixels cannot be recovered exactly. CV2 inpainting behind a circular control and vertical stretch beneath mood pills are explicitly approximate.",
+    "Transparent hero assets reproduce visible cutout silhouette only. For an independently scrollable hero photograph, replace with original photographer image when available.",
+    "No raster asset contains intended UI text, status bar, buttons or pricing labels.",
+    "Metadata coordinates are visual estimates; no original Figma/PSD measurements available."
+  ]
+}
