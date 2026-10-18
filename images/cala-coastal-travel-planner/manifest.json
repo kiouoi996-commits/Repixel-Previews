@@ -106,10 +106,15 @@
         513
       ],
       "aspect_ratio": "382:171",
-      "alpha": true,
+      "alpha": false,
       "render": {
         "objectFit": "cover",
-        "objectPosition": "center"
+        "objectPosition": "center",
+        "cssClipPath": "M 50 0 L 304 0 C 351 2 364 25 382 58 L 382 118 C 375 160 345 171 308 171 L 48 171 C 17 171 0 150 0 127 L 0 48 C 0 17 16 0 50 0 Z",
+        "clipReferenceSizePx": [
+          382,
+          171
+        ]
       },
       "reference_occupancy_estimate": {
         "water_pct": 97,
@@ -119,7 +124,7 @@
           45
         ]
       },
-      "retouch": "Play circle covered a region; replaced with mirrored adjacent water texture. This zone is an approximate retouch, not recovered source.",
+      "retouch": "Play circle covered a region; replaced with mirrored adjacent water texture. This zone is an approximate retouch, not recovered source. The delivered WebP is opaque; apply the listed curved CSS/SVG clipping mask at display time.",
       "generation_prompt": "Drone photo directly overhead of brilliant light turquoise transparent shallow sea, lone tiny white motorboat around left center, gentle textured shallows, no people, soft brilliant noon light, 2.24:1 horizontal panoramic crop, remove video play button.",
       "provenance": "Extracted/restored from composite screenshot; not an original source photograph.",
       "relativeRepoPath": "images/cala-coastal-travel-planner/aerial-turquoise-boat.webp",
