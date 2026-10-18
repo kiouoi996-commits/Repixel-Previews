@@ -1,0 +1,595 @@
+{
+  "project": "Roamly — Colorful City Guide",
+  "slug": "roamly-colorful-city-guide",
+  "sourceScreenshot": {
+    "width": 1448,
+    "height": 1086,
+    "note": "All bounding boxes estimated visually from one flattened raster image, not original design-file measurements"
+  },
+  "assets": [
+    {
+      "name": "onboarding-alley.webp",
+      "region": [
+        27,
+        44,
+        352,
+        663
+      ],
+      "screenshot": [
+        65,
+        81,
+        425,
+        950
+      ],
+      "src": "board1",
+      "output": [
+        1275,
+        2850
+      ],
+      "display": [
+        425,
+        950
+      ],
+      "objectPosition": "50% 50%",
+      "description": "Narrow coral/blue/yellow alley, cafe chair and steps, hanging GOOD PLACES BETTER DAYS sign. Background/photo text belongs to scene.",
+      "screenshotNormalizedPercent": [
+        4.49,
+        7.46,
+        29.35,
+        87.48
+      ],
+      "sourceRegionNormalizedPercent": [
+        1.76,
+        4.3
+      ],
+      "ratio": 0.4474,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    },
+    {
+      "name": "sunset-lane-card.webp",
+      "region": [
+        386,
+        49,
+        748,
+        369
+      ],
+      "screenshot": [
+        541,
+        325,
+        369,
+        323
+      ],
+      "src": "board1",
+      "output": [
+        1107,
+        969
+      ],
+      "display": [
+        369,
+        323
+      ],
+      "objectPosition": "50% 50%",
+      "description": "Coral-pink stucco frontage, turquoise door, pink bougainvillea, orange flowers and terracotta pots.",
+      "screenshotNormalizedPercent": [
+        37.36,
+        29.93,
+        25.48,
+        29.74
+      ],
+      "sourceRegionNormalizedPercent": [
+        25.13,
+        4.79
+      ],
+      "ratio": 1.1424,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    },
+    {
+      "name": "blue-courtyard-card.webp",
+      "region": [
+        1186,
+        30,
+        1512,
+        347
+      ],
+      "screenshot": [
+        541,
+        663,
+        369,
+        145
+      ],
+      "src": "board2",
+      "output": [
+        1107,
+        435
+      ],
+      "display": [
+        369,
+        145
+      ],
+      "objectPosition": "50% 44%",
+      "description": "Blue and white courtyard, blue arched windows, plants and wall lantern.",
+      "screenshotNormalizedPercent": [
+        37.36,
+        61.05,
+        25.48,
+        13.35
+      ],
+      "sourceRegionNormalizedPercent": [
+        77.21,
+        2.93
+      ],
+      "ratio": 2.5448,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "50% 44%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    },
+    {
+      "name": "sunset-lane-detail.webp",
+      "region": [
+        782,
+        20,
+        1155,
+        347
+      ],
+      "screenshot": [
+        966,
+        54,
+        419,
+        388
+      ],
+      "src": "board2",
+      "output": [
+        1257,
+        1164
+      ],
+      "display": [
+        419,
+        388
+      ],
+      "objectPosition": "50% 48%",
+      "description": "Coral pink cafe with arched teal entrance, chalkboard at right, table at left, potted plants and overhanging flowers.",
+      "screenshotNormalizedPercent": [
+        66.71,
+        4.97,
+        28.94,
+        35.73
+      ],
+      "sourceRegionNormalizedPercent": [
+        50.91,
+        1.95
+      ],
+      "ratio": 1.0799,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "50% 48%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    },
+    {
+      "name": "gallery-pink-wall.webp",
+      "region": [
+        844,
+        409,
+        982,
+        532
+      ],
+      "screenshot": [
+        987,
+        793,
+        92,
+        100
+      ],
+      "src": "board2",
+      "output": [
+        276,
+        300
+      ],
+      "display": [
+        92,
+        100
+      ],
+      "objectPosition": "52% 50%",
+      "description": "Pink stucco wall with pink flowers and potted greenery.",
+      "screenshotNormalizedPercent": [
+        68.16,
+        73.02,
+        6.35,
+        9.21
+      ],
+      "sourceRegionNormalizedPercent": [
+        54.95,
+        39.94
+      ],
+      "ratio": 0.92,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "52% 50%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    },
+    {
+      "name": "gallery-blue-street.webp",
+      "region": [
+        1015,
+        409,
+        1156,
+        532
+      ],
+      "screenshot": [
+        1084,
+        793,
+        92,
+        100
+      ],
+      "src": "board2",
+      "output": [
+        276,
+        300
+      ],
+      "display": [
+        92,
+        100
+      ],
+      "objectPosition": "50% 50%",
+      "description": "Narrow bright blue Mediterranean street with flower pots.",
+      "screenshotNormalizedPercent": [
+        74.86,
+        73.02,
+        6.35,
+        9.21
+      ],
+      "sourceRegionNormalizedPercent": [
+        66.08,
+        39.94
+      ],
+      "ratio": 0.92,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    },
+    {
+      "name": "gallery-yellow-street.webp",
+      "region": [
+        1188,
+        409,
+        1334,
+        532
+      ],
+      "screenshot": [
+        1182,
+        793,
+        98,
+        100
+      ],
+      "src": "board2",
+      "output": [
+        294,
+        300
+      ],
+      "display": [
+        98,
+        100
+      ],
+      "objectPosition": "50% 50%",
+      "description": "Yellow plaster wall with turquoise door and black lantern.",
+      "screenshotNormalizedPercent": [
+        81.63,
+        73.02,
+        6.77,
+        9.21
+      ],
+      "sourceRegionNormalizedPercent": [
+        77.34,
+        39.94
+      ],
+      "ratio": 0.98,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    },
+    {
+      "name": "gallery-arched-courtyard.webp",
+      "region": [
+        1365,
+        409,
+        1512,
+        532
+      ],
+      "screenshot": [
+        1287,
+        793,
+        89,
+        100
+      ],
+      "src": "board2",
+      "output": [
+        267,
+        300
+      ],
+      "display": [
+        89,
+        100
+      ],
+      "objectPosition": "50% 50%",
+      "description": "Flowered courtyard and dark wooden arched entrance.",
+      "screenshotNormalizedPercent": [
+        88.88,
+        73.02,
+        6.15,
+        9.21
+      ],
+      "sourceRegionNormalizedPercent": [
+        88.87,
+        39.94
+      ],
+      "ratio": 0.89,
+      "alpha": false,
+      "format": "image/webp",
+      "sizing": {
+        "objectFit": "cover",
+        "objectPosition": "50% 50%"
+      },
+      "fidelity": "generated visual reconstruction, NOT an original photographer asset; occluded imagery approximate"
+    }
+  ],
+  "ui": {
+    "screen": {
+      "px": [
+        1448,
+        1086
+      ]
+    },
+    "background": {
+      "artboard": "#E7EAEE",
+      "baseScreen": "#F8F7F4",
+      "text": "#111519",
+      "mutedText": "#606673",
+      "primary": "#121C22",
+      "coral": "#FF6960",
+      "blue": "#5599FD",
+      "gold": "#FFBF32",
+      "green": "#8CDAB1"
+    },
+    "gradient": {
+      "photoBottom": "linear-gradient(180deg, rgba(15,20,21,0) 45%, rgba(12,16,19,.82) 100%)",
+      "onboardingBottom": "linear-gradient(180deg,rgba(12,16,18,0) 30%,rgba(12,16,18,.62) 80%,rgba(12,16,18,.28) 100%)",
+      "bottomPanel": "linear-gradient(135deg,rgba(255,248,242,.97) 0%,rgba(241,236,232,.94) 100%)"
+    },
+    "cornerRadiiApproxPx": {
+      "phone": 42,
+      "photoCard": 23,
+      "bottomSheet": 42,
+      "thumbnail": 19,
+      "pill": 999
+    },
+    "typography": {
+      "appearance": "modern rounded geometric grotesk, approximate recommendation: Manrope / Plus Jakarta Sans, original font not verifiable from raster",
+      "headings": "600-700",
+      "body": "400-500"
+    },
+    "iconViewBox": "0 0 24 24",
+    "allOverlayTextsRemainDOM": true,
+    "statusBar": false,
+    "shadows": {
+      "cta": "0 8px 24px rgba(0,0,0,.1)",
+      "bottomSheet": "0 10px 40px rgba(14,24,28,.1)"
+    },
+    "images": {
+      "objectFit": "cover",
+      "display3x": true
+    }
+  },
+  "icons": {
+    "back": {
+      "file": "icons/back.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "arrow-right": {
+      "file": "icons/arrow-right.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "search": {
+      "file": "icons/search.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "heart": {
+      "file": "icons/heart.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "heart-filled": {
+      "file": "icons/heart-filled.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "share": {
+      "file": "icons/share.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "pin": {
+      "file": "icons/pin.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "pin-filled": {
+      "file": "icons/pin-filled.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "bookmark": {
+      "file": "icons/bookmark.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "bookmark-filled": {
+      "file": "icons/bookmark-filled.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "home-filled": {
+      "file": "icons/home-filled.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "home": {
+      "file": "icons/home.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "profile": {
+      "file": "icons/profile.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "star-filled": {
+      "file": "icons/star-filled.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "compass": {
+      "file": "icons/compass.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "coffee": {
+      "file": "icons/coffee.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "leaf": {
+      "file": "icons/leaf.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "walk": {
+      "file": "icons/walk.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "navigation": {
+      "file": "icons/navigation.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "map": {
+      "file": "icons/map.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "photo-spot": {
+      "file": "icons/photo-spot.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    },
+    "gallery": {
+      "file": "icons/gallery.svg",
+      "viewBox": "0 0 24 24",
+      "color": "currentColor",
+      "alpha": true,
+      "rendering": "inline svg or <img> on CSS button surfaces"
+    }
+  },
+  "map": {
+    "file": "map-streets-base.svg",
+    "coordinates": [
+      977,
+      643,
+      375,
+      139
+    ],
+    "ratio": 2.7050359712230216,
+    "note": "vector map backdrop reconstructed approximately, not actual geospatial data; path and street alignment stylized; place pin, direction control and walking badge belong to DOM overlay"
+  },
+  "galleryOrdering": [
+    "gallery-pink-wall.webp",
+    "gallery-blue-street.webp",
+    "gallery-yellow-street.webp",
+    "gallery-arched-courtyard.webp"
+  ],
+  "notIncludedInPhotos": [
+    "branding",
+    "titles",
+    "ratings",
+    "favorite buttons",
+    "badges",
+    "CTA",
+    "tab bar",
+    "social actions",
+    "panel shadows",
+    "text scrims"
+  ]
+}
