@@ -1118,7 +1118,8 @@
     "branch": "main",
     "assets_commit_sha": "5b275135da4681667adaaf7417191aed676d9624",
     "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/main/images/reconstructed-apps/sakura-voyage-japan-travel",
-    "all_asset_urls_verified": false
+    "all_asset_urls_verified": true,
+    "verified_at": "2026-10-19"
   },
   "limitations": [
     "Raster photography is cropped/retouched from provided screenshot, not separately regenerated high-resolution originals",
