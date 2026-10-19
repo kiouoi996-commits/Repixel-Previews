@@ -1111,6 +1111,35 @@
         "crop_notes": "screenshot partial view",
         "measurement_kind": "visual estimate from 941x1672 screenshot, not original source parameter"
       }
+    },
+    {
+      "file": "decor/hero-silhouette.svg",
+      "purpose": "Векторный резервный фон для hero: Фудзи, холмы, небосвод",
+      "source_bbox": null,
+      "display_px": [
+        941,
+        560
+      ],
+      "display_pct": [
+        100,
+        33.49
+      ],
+      "export_px": [
+        941,
+        560
+      ],
+      "aspect": 1.6804,
+      "alpha": false,
+      "display": "background-size:cover; background-position:center top",
+      "note": "Самостоятельная векторная иллюстрация-реконструкция; гора и фон не являются оригинальным чистым слоем",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/3cbd5c23103bc2580b787e215dfef8a05ba45f9e/images/reconstructed-apps/sakura-voyage-japan-travel/decor/hero-silhouette.svg",
+      "subject_estimate": {
+        "subject": "dark mountain silhouettes and purple gradient sky",
+        "width_percent": 100,
+        "height_percent": 100,
+        "crop_notes": "background fills viewport",
+        "measurement_kind": "approximate digital illustration"
+      }
     }
   ],
   "publication": {
