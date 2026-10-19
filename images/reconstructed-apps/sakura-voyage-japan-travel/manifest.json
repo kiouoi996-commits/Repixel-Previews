@@ -1,0 +1,763 @@
+{
+  "project": "Sakura Voyage — Japanese Travel Experience",
+  "slug": "sakura-voyage-japan-travel",
+  "status": "published_provisional_reconstruction",
+  "source_screenshot": {
+    "width": 941,
+    "height": 1672
+  },
+  "asset_origin": "visible screenshot crops and retouched approximations (not original source media); bespoke SVG icons and ornaments",
+  "assets": [
+    {
+      "file": "destination-kyoto-feature.webp",
+      "purpose": "Большое фото входа в японский храм Сэнсо-дзи, красные колонны и фонарь среди цветущей сакуры",
+      "source_bbox": [
+        52,
+        573,
+        324,
+        858
+      ],
+      "display_px": [
+        272,
+        285
+      ],
+      "display_pct": [
+        28.91,
+        17.05
+      ],
+      "export_px": [
+        816,
+        855
+      ],
+      "aspect": 0.9544,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:50% 50%",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/destination-kyoto-feature.webp",
+      "composition_estimate": {
+        "subject": "traditional gate and hanging black-red lantern",
+        "subject_width_percent_estimate": 92,
+        "subject_height_percent_estimate": 85,
+        "crop": "foreground blossoms cut at upper and side edges",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "destination-kyoto.webp",
+      "purpose": "Киото: пагода на фоне пурпурного заката",
+      "source_bbox": [
+        347,
+        683,
+        474,
+        815
+      ],
+      "display_px": [
+        127,
+        132
+      ],
+      "display_pct": [
+        13.5,
+        7.89
+      ],
+      "export_px": [
+        381,
+        396
+      ],
+      "aspect": 0.9621,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/destination-kyoto.webp",
+      "composition_estimate": {
+        "subject": "five-storey pagoda against pink sky",
+        "subject_width_percent_estimate": 54,
+        "subject_height_percent_estimate": 82,
+        "crop": "roof visible, lower building cropped",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "destination-tokyo.webp",
+      "purpose": "Токио: ночные неоновые городские улицы с прохожими",
+      "source_bbox": [
+        485,
+        683,
+        615,
+        815
+      ],
+      "display_px": [
+        130,
+        132
+      ],
+      "display_pct": [
+        13.82,
+        7.89
+      ],
+      "export_px": [
+        390,
+        396
+      ],
+      "aspect": 0.9848,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/destination-tokyo.webp",
+      "composition_estimate": {
+        "subject": "neon street with crowd",
+        "subject_width_percent_estimate": 100,
+        "subject_height_percent_estimate": 97,
+        "crop": "buildings cropped at left and right edges, heads in bottom",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "destination-fuji.webp",
+      "purpose": "Фудзи: заснеженная вершина, розовая сакура над озером",
+      "source_bbox": [
+        627,
+        683,
+        752,
+        815
+      ],
+      "display_px": [
+        125,
+        132
+      ],
+      "display_pct": [
+        13.28,
+        7.89
+      ],
+      "export_px": [
+        375,
+        396
+      ],
+      "aspect": 0.947,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/destination-fuji.webp",
+      "composition_estimate": {
+        "subject": "snow-capped Fuji above lake",
+        "subject_width_percent_estimate": 80,
+        "subject_height_percent_estimate": 60,
+        "crop": "mountain in upper center, lake spans lower 25 percent",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "destination-nara.webp",
+      "purpose": "Нара: два оленя под сакурой",
+      "source_bbox": [
+        763,
+        683,
+        890,
+        815
+      ],
+      "display_px": [
+        127,
+        132
+      ],
+      "display_pct": [
+        13.5,
+        7.89
+      ],
+      "export_px": [
+        381,
+        396
+      ],
+      "aspect": 0.9621,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/destination-nara.webp",
+      "composition_estimate": {
+        "subject": "two deer facing camera",
+        "subject_width_percent_estimate": 83,
+        "subject_height_percent_estimate": 73,
+        "crop": "deer visible mostly whole with lower legs cut",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "experience-cultural.webp",
+      "purpose": "Женщина в синем кимоно со спины, туннель красных ворот и теплых фонарей",
+      "source_bbox": [
+        253,
+        884,
+        485,
+        1070
+      ],
+      "display_px": [
+        232,
+        186
+      ],
+      "display_pct": [
+        24.65,
+        11.12
+      ],
+      "export_px": [
+        696,
+        558
+      ],
+      "aspect": 1.2473,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center center",
+      "note": "Ретуширована встроенная в скриншот светлая UI-подпись; область восстановлена приблизительно",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/experience-cultural.webp",
+      "composition_estimate": {
+        "subject": "one woman in blue kimono, red lantern corridor",
+        "subject_width_percent_estimate": 36,
+        "subject_height_percent_estimate": 72,
+        "crop": "woman centered lower, corridor vanishing point upper middle",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "experience-zen.webp",
+      "purpose": "Тихий японский каменный сад, пруд, чайный домик, цветущая сакура",
+      "source_bbox": [
+        488,
+        884,
+        675,
+        1070
+      ],
+      "display_px": [
+        187,
+        186
+      ],
+      "display_pct": [
+        19.87,
+        11.12
+      ],
+      "export_px": [
+        561,
+        558
+      ],
+      "aspect": 1.0054,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center center",
+      "note": "Ретуширована UI-подпись; область справа снизу реконструирована приблизительно",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/experience-zen.webp",
+      "composition_estimate": {
+        "subject": "stream and traditional garden house",
+        "subject_width_percent_estimate": 100,
+        "subject_height_percent_estimate": 96,
+        "crop": "garden fills frame, house cut at right",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "route-castle.webp",
+      "purpose": "Маршрут: замок среди сакуры",
+      "source_bbox": [
+        341,
+        1269,
+        441,
+        1369
+      ],
+      "display_px": [
+        100,
+        100
+      ],
+      "display_pct": [
+        10.63,
+        5.98
+      ],
+      "export_px": [
+        300,
+        300
+      ],
+      "aspect": 1.0,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/route-castle.webp",
+      "composition_estimate": {
+        "subject": "castle between cherry blossom trees",
+        "subject_width_percent_estimate": 58,
+        "subject_height_percent_estimate": 60,
+        "crop": "castle partially overlapped by blossoms",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "route-street.webp",
+      "purpose": "Маршрут: старинная японская улица",
+      "source_bbox": [
+        408,
+        1321,
+        524,
+        1408
+      ],
+      "display_px": [
+        116,
+        87
+      ],
+      "display_pct": [
+        12.33,
+        5.2
+      ],
+      "export_px": [
+        348,
+        261
+      ],
+      "aspect": 1.3333,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/route-street.webp",
+      "composition_estimate": {
+        "subject": "traditional Japanese street perspective",
+        "subject_width_percent_estimate": 100,
+        "subject_height_percent_estimate": 100,
+        "crop": "street continues beyond crop",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "route-ramen.webp",
+      "purpose": "Маршрут: миска рамена сверху",
+      "source_bbox": [
+        371,
+        1412,
+        474,
+        1496
+      ],
+      "display_px": [
+        103,
+        84
+      ],
+      "display_pct": [
+        10.95,
+        5.02
+      ],
+      "export_px": [
+        309,
+        252
+      ],
+      "aspect": 1.2262,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/route-ramen.webp",
+      "composition_estimate": {
+        "subject": "round ramen bowl viewed from overhead",
+        "subject_width_percent_estimate": 80,
+        "subject_height_percent_estimate": 82,
+        "crop": "bowl and side dishes partly cropped",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "route-torii.webp",
+      "purpose": "Маршрут: красные ворота тории в воде",
+      "source_bbox": [
+        418,
+        1481,
+        540,
+        1583
+      ],
+      "display_px": [
+        122,
+        102
+      ],
+      "display_pct": [
+        12.96,
+        6.1
+      ],
+      "export_px": [
+        366,
+        306
+      ],
+      "aspect": 1.1961,
+      "alpha": false,
+      "display": "object-fit:cover; object-position:center",
+      "note": "Извлечено из скриншота; увеличение ×3 не добавляет исходных деталей",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/route-torii.webp",
+      "composition_estimate": {
+        "subject": "red torii in sea",
+        "subject_width_percent_estimate": 85,
+        "subject_height_percent_estimate": 84,
+        "crop": "gate visible nearly whole",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "hero-atmosphere-reconstruction.webp",
+      "purpose": "Служебный атмосферный фон hero; неполная реконструкция участков, закрытых крупным текстом",
+      "source_bbox": [
+        0,
+        51,
+        941,
+        546
+      ],
+      "display_px": [
+        941,
+        495
+      ],
+      "display_pct": [
+        100,
+        29.61
+      ],
+      "export_px": [
+        2823,
+        1485
+      ],
+      "aspect": 1.901,
+      "alpha": false,
+      "display": "background-size:cover; background-position:center",
+      "note": "Реконструкция; детали скрытого исходного пейзажа восстановить достоверно невозможно; использовать как запасной размытый фон",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/hero-atmosphere-reconstruction.webp",
+      "composition_estimate": {
+        "subject": "purple sky and blurred architecture",
+        "subject_width_percent_estimate": 100,
+        "subject_height_percent_estimate": 100,
+        "crop": "background intentionally diffuse",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "hero-kimono-umbrella-cutout.webp",
+      "purpose": "Героиня в бордовом кимоно со спины, бордовый японский зонт с белым цветочным рисунком",
+      "source_bbox": [
+        270,
+        82,
+        500,
+        501
+      ],
+      "display_px": [
+        230,
+        419
+      ],
+      "display_pct": [
+        24.44,
+        25.06
+      ],
+      "export_px": [
+        690,
+        1257
+      ],
+      "aspect": 0.5489,
+      "alpha": true,
+      "display": "position:absolute; width:24.44%; object-fit:contain",
+      "note": "Полуавтоматическое вырезание по скриншоту. Под зонтом часть букв могла попасть в неидеальную альфа-маску; требует ручного matte QC",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/hero-kimono-umbrella-cutout.webp",
+      "composition_estimate": {
+        "subject": "woman from rear, red-purple parasol",
+        "subject_width_percent_estimate": 96,
+        "subject_height_percent_estimate": 100,
+        "crop": "umbrella reaches upper crop, kimono cropped at bottom",
+        "confidence": "approximate from screenshot"
+      }
+    },
+    {
+      "file": "decor/sakura-branch-left.svg",
+      "purpose": "Декоративная ветка сакуры с прозрачным фоном, графическая реконструкция",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        550,
+        230
+      ],
+      "aspect": 2.39,
+      "alpha": true,
+      "display": "position:absolute; background:none; pointer-events:none",
+      "note": "SVG реконструкция: бутоны и ветки нарисованы отдельно, положение повторяется CSS",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/decor/sakura-branch-left.svg"
+    },
+    {
+      "file": "decor/sakura-branch-right.svg",
+      "purpose": "Декоративная ветка сакуры с прозрачным фоном, графическая реконструкция",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        550,
+        230
+      ],
+      "aspect": 2.39,
+      "alpha": true,
+      "display": "position:absolute; background:none; pointer-events:none",
+      "note": "SVG реконструкция: бутоны и ветки нарисованы отдельно, положение повторяется CSS",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/decor/sakura-branch-right.svg"
+    },
+    {
+      "file": "decor/sakura-petal.svg",
+      "purpose": "Одиночный лепесток сакуры для многократного CSS размещения",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        120,
+        120
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "absolute; rotate(); filter:drop-shadow()",
+      "note": "Векторная реконструкция лепестка",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/decor/sakura-petal.svg"
+    },
+    {
+      "file": "icons/flower-logo.svg",
+      "purpose": "UI icon flower-logo",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/flower-logo.svg"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "purpose": "UI icon arrow-right",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/arrow-right.svg"
+    },
+    {
+      "file": "icons/arrow-circle.svg",
+      "purpose": "UI icon arrow-circle",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/arrow-circle.svg"
+    },
+    {
+      "file": "icons/users.svg",
+      "purpose": "UI icon users",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/users.svg"
+    },
+    {
+      "file": "icons/compass.svg",
+      "purpose": "UI icon compass",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/compass.svg"
+    },
+    {
+      "file": "icons/camera.svg",
+      "purpose": "UI icon camera",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/camera.svg"
+    },
+    {
+      "file": "icons/heart.svg",
+      "purpose": "UI icon heart",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/heart.svg"
+    },
+    {
+      "file": "icons/globe.svg",
+      "purpose": "UI icon globe",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/globe.svg"
+    },
+    {
+      "file": "icons/phone.svg",
+      "purpose": "UI icon phone",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/phone.svg"
+    },
+    {
+      "file": "icons/instagram.svg",
+      "purpose": "UI icon instagram",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/instagram.svg"
+    },
+    {
+      "file": "icons/facebook.svg",
+      "purpose": "UI icon facebook",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/facebook.svg"
+    },
+    {
+      "file": "icons/x.svg",
+      "purpose": "UI icon x",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/x.svg"
+    },
+    {
+      "file": "icons/pinterest.svg",
+      "purpose": "UI icon pinterest",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/pinterest.svg"
+    },
+    {
+      "file": "icons/youtube.svg",
+      "purpose": "UI icon youtube",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/youtube.svg"
+    },
+    {
+      "file": "icons/menu.svg",
+      "purpose": "UI icon menu",
+      "source_bbox": null,
+      "display_px": null,
+      "display_pct": null,
+      "export_px": [
+        24,
+        24
+      ],
+      "aspect": 1,
+      "alpha": true,
+      "display": "inline SVG, stroke/fill currentColor; фон и круглая подложка CSS",
+      "note": "Векторная реконструкция, не исходный дизайнерский SVG",
+      "raw_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel/icons/menu.svg"
+    }
+  ],
+  "publication": {
+    "repository": "kiouoi996-commits/Repixel-Previews",
+    "branch": "main",
+    "assets_commit_sha": "99baa26ff09dda9df8b64307ac1d59778920d2b9",
+    "folder_url": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/99baa26ff09dda9df8b64307ac1d59778920d2b9/images/reconstructed-apps/sakura-voyage-japan-travel",
+    "urls_verified": false
+  },
+  "limitations": [
+    "No independent raster image-to-image generation achieved for each asset",
+    "Hero character alpha mask may retain portions of typography",
+    "Card photography only has raster screenshot resolution; 3x upscaling is not new detail",
+    "Unseen landscape detail is not recoverable"
+  ],
+  "ui_layers": {
+    "text": "HTML/CSS: all wordmarks, headings, category labels and captions",
+    "badges": "CSS background and live text",
+    "outlines": "1px translucent pale lavender CSS border, approx radius 7px",
+    "season_slider": "CSS 1px line, 4 labels, circular markers",
+    "page_background": "radial-gradient(ellipse at 55% 19%, #54285d 0%, #30183f 38%, #25112f 100%)",
+    "decor": "separate transparent SVG with CSS absolute positioning"
+  }
+}
