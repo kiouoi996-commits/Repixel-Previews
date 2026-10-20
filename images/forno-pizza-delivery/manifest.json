@@ -1,0 +1,354 @@
+{
+  "project": "Forno Pizza Delivery",
+  "slug": "forno-pizza-delivery",
+  "source_image_px": [
+    1536,
+    1024
+  ],
+  "measurement_note": "Approximate image-plane estimates from screenshot, not original design specs.",
+  "image_assets": [
+    {
+      "file": "pizza-margherita.png",
+      "size_px": [
+        534,
+        528
+      ],
+      "display_rect_px": [
+        97,
+        636,
+        264,
+        795
+      ],
+      "display_rect_pct": [
+        6.32,
+        62.11,
+        17.19,
+        77.64
+      ],
+      "alpha": true,
+      "object_fit": "contain",
+      "publication_status": "pending binary upload; included in local ZIP"
+    },
+    {
+      "file": "pizza-pepperoni.png",
+      "size_px": [
+        567,
+        552
+      ],
+      "display_rect_px": [
+        305,
+        632,
+        477,
+        800
+      ],
+      "display_rect_pct": [
+        19.86,
+        61.72,
+        31.05,
+        78.13
+      ],
+      "alpha": true,
+      "object_fit": "contain",
+      "publication_status": "pending binary upload; included in local ZIP"
+    },
+    {
+      "file": "ingredient-tomato.png",
+      "size_px": [
+        330,
+        327
+      ],
+      "display_rect_px": [
+        588,
+        691,
+        683,
+        769
+      ],
+      "display_rect_pct": [
+        38.28,
+        67.48,
+        44.47,
+        75.1
+      ],
+      "alpha": true,
+      "object_fit": "contain",
+      "publication_status": "pending binary upload; included in local ZIP"
+    },
+    {
+      "file": "ingredient-mozzarella.png",
+      "size_px": [
+        357,
+        339
+      ],
+      "display_rect_px": [
+        719,
+        692,
+        823,
+        776
+      ],
+      "display_rect_pct": [
+        46.81,
+        67.58,
+        53.58,
+        75.78
+      ],
+      "alpha": true,
+      "object_fit": "contain",
+      "publication_status": "pending binary upload; included in local ZIP"
+    },
+    {
+      "file": "ingredient-basil.png",
+      "size_px": [
+        372,
+        357
+      ],
+      "display_rect_px": [
+        849,
+        686,
+        961,
+        768
+      ],
+      "display_rect_pct": [
+        55.27,
+        66.99,
+        62.57,
+        75
+      ],
+      "alpha": true,
+      "object_fit": "contain",
+      "publication_status": "pending binary upload; included in local ZIP"
+    },
+    {
+      "file": "drink-cola.png",
+      "size_px": [
+        267,
+        345
+      ],
+      "display_rect_px": [
+        1085,
+        520,
+        1153,
+        617
+      ],
+      "display_rect_pct": [
+        70.64,
+        50.78,
+        75.07,
+        60.25
+      ],
+      "alpha": true,
+      "object_fit": "contain",
+      "publication_status": "pending binary upload; included in local ZIP"
+    },
+    {
+      "file": "hero-margherita.webp",
+      "size_px": [
+        1236,
+        1335
+      ],
+      "display_rect_px": [
+        565,
+        90,
+        973,
+        533
+      ],
+      "display_rect_pct": [
+        36.78,
+        8.79,
+        63.35,
+        52.05
+      ],
+      "alpha": false,
+      "object_fit": "cover",
+      "publication_status": "pending binary upload; included in local ZIP"
+    },
+    {
+      "file": "promo-pizza-slice.webp",
+      "size_px": [
+        1230,
+        552
+      ],
+      "display_rect_px": [
+        80,
+        370,
+        490,
+        554
+      ],
+      "display_rect_pct": [
+        5.21,
+        36.13,
+        31.9,
+        54.1
+      ],
+      "alpha": false,
+      "object_fit": "cover",
+      "publication_status": "pending binary upload; included in local ZIP"
+    }
+  ],
+  "icons": [
+    {
+      "file": "icons/menu-grid.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/search.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/arrow-back.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/arrow-right.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/heart.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/home.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/bag.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/user.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/plus.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/minus.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/trash.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/tag.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/pizza.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/burger.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/pasta.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/salad.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    },
+    {
+      "file": "icons/drinks.svg",
+      "size_px": [
+        24,
+        24
+      ],
+      "alpha": true,
+      "publication_status": "published"
+    }
+  ],
+  "design_approximations": {
+    "screen": "#F7F3ED",
+    "surface": "#FFFCF9",
+    "selected": "#FFD5B3",
+    "brown": "#89482E",
+    "sage": "#71866B",
+    "text": "#171614",
+    "screen_gradient": "linear-gradient(160deg,#F6F0E9 0%,#FCF9F5 54%,#F6F1EA 100%)",
+    "banner_gradient": "linear-gradient(110deg,#A55239 0%,#AE603D 55%,#BC6A40 100%)",
+    "checkout_gradient": "linear-gradient(105deg,#72866A 0%,#71856B 100%)"
+  },
+  "instruction": "Text, rounded backplates, buttons and status icons are not image assets; raster photographs are screenshot reconstructions, 3x interpolated."
+}
