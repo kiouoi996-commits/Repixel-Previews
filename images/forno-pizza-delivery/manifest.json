@@ -1,354 +1,1679 @@
 {
   "project": "Forno Pizza Delivery",
   "slug": "forno-pizza-delivery",
-  "source_image_px": [
+  "source_screenshot_px": [
     1536,
     1024
   ],
-  "measurement_note": "Approximate image-plane estimates from screenshot, not original design specs.",
-  "image_assets": [
+  "repo_root": "images/forno-pizza-delivery/",
+  "reference_type": "screenshot reconstruction",
+  "assets": [
     {
       "file": "pizza-margherita.png",
-      "size_px": [
-        534,
-        528
+      "kind": "raster-cutout",
+      "source_bbox_xyxy_px": [
+        92,
+        627,
+        270,
+        803
       ],
-      "display_rect_px": [
+      "display_bbox_xyxy_px": [
         97,
         636,
         264,
         795
       ],
-      "display_rect_pct": [
-        6.32,
-        62.11,
-        17.19,
-        77.64
+      "source_pct": [
+        5.99,
+        61.23,
+        11.59,
+        17.19
       ],
-      "alpha": true,
+      "display_wh_px": [
+        167,
+        159
+      ],
       "object_fit": "contain",
-      "publication_status": "pending binary upload; included in local ZIP"
+      "object_position": "50% 50%",
+      "alpha": true,
+      "notes": "Margherita with five large basil leaves; slight crust shadow retained; right heart excluded",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        534,
+        528
+      ],
+      "ratio": "534:528",
+      "bytes": 391191,
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            95,
+            631,
+            267,
+            800
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 6.18,
+            "y_pct": 61.62,
+            "w_pct": 11.2,
+            "h_pct": 16.5
+          },
+          "role": "popular product thumbnail"
+        },
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1064,
+            210,
+            1177,
+            325
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 69.27,
+            "y_pct": 20.51,
+            "w_pct": 7.36,
+            "h_pct": 11.23
+          },
+          "role": "first cart row; repeat same cutout"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/pizza-margherita.png"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      },
+      "visible_subject_bbox_export_px": [
+        0,
+        12,
+        528,
+        528
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 98.9,
+        "height": 97.7,
+        "margin_left": 0.0,
+        "margin_top": 2.3,
+        "margin_right": 1.1,
+        "margin_bottom": 0.0
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
     },
     {
       "file": "pizza-pepperoni.png",
-      "size_px": [
-        567,
-        552
+      "kind": "raster-cutout",
+      "source_bbox_xyxy_px": [
+        296,
+        623,
+        485,
+        807
       ],
-      "display_rect_px": [
+      "display_bbox_xyxy_px": [
         305,
         632,
         477,
         800
       ],
-      "display_rect_pct": [
-        19.86,
-        61.72,
-        31.05,
-        78.13
+      "source_pct": [
+        19.27,
+        60.84,
+        12.3,
+        17.97
       ],
-      "alpha": true,
+      "display_wh_px": [
+        172,
+        168
+      ],
       "object_fit": "contain",
-      "publication_status": "pending binary upload; included in local ZIP"
+      "object_position": "50% 50%",
+      "alpha": true,
+      "notes": "Thin crisp round crust, dozens of pepperoni discs, slight baked shadow",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        567,
+        552
+      ],
+      "ratio": "567:552",
+      "bytes": 431500,
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            302,
+            628,
+            480,
+            802
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 19.66,
+            "y_pct": 61.33,
+            "w_pct": 11.59,
+            "h_pct": 16.99
+          },
+          "role": "popular product thumbnail"
+        },
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1065,
+            361,
+            1178,
+            478
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 69.34,
+            "y_pct": 35.25,
+            "w_pct": 7.36,
+            "h_pct": 11.43
+          },
+          "role": "second cart row; repeat same cutout"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/pizza-pepperoni.png"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      },
+      "visible_subject_bbox_export_px": [
+        18,
+        15,
+        555,
+        552
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 94.7,
+        "height": 97.3,
+        "margin_left": 3.2,
+        "margin_top": 2.7,
+        "margin_right": 2.1,
+        "margin_bottom": 0.0
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
     },
     {
       "file": "ingredient-tomato.png",
-      "size_px": [
-        330,
-        327
+      "kind": "ingredient",
+      "source_bbox_xyxy_px": [
+        582,
+        681,
+        692,
+        790
       ],
-      "display_rect_px": [
+      "display_bbox_xyxy_px": [
         588,
         691,
         683,
         769
       ],
-      "display_rect_pct": [
-        38.28,
-        67.48,
-        44.47,
-        75.1
+      "source_pct": [
+        37.89,
+        66.5,
+        7.16,
+        10.64
       ],
-      "alpha": true,
+      "display_wh_px": [
+        95,
+        78
+      ],
       "object_fit": "contain",
-      "publication_status": "pending binary upload; included in local ZIP"
+      "object_position": "50% 50%",
+      "alpha": true,
+      "notes": "Transparent foreground segmentation from screenshot; reconstructed hidden pixels are not invented",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        330,
+        327
+      ],
+      "ratio": "330:327",
+      "bytes": 79735,
+      "usages": [
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            588,
+            691,
+            683,
+            769
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 38.28,
+            "y_pct": 67.48,
+            "w_pct": 6.18,
+            "h_pct": 7.62
+          },
+          "role": "left ingredient card"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/ingredient-tomato.png"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      },
+      "visible_subject_bbox_export_px": [
+        25,
+        13,
+        302,
+        263
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 83.9,
+        "height": 76.5,
+        "margin_left": 7.6,
+        "margin_top": 4.0,
+        "margin_right": 8.5,
+        "margin_bottom": 19.6
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
     },
     {
       "file": "ingredient-mozzarella.png",
-      "size_px": [
-        357,
-        339
+      "kind": "ingredient",
+      "source_bbox_xyxy_px": [
+        710,
+        678,
+        829,
+        791
       ],
-      "display_rect_px": [
+      "display_bbox_xyxy_px": [
         719,
         692,
         823,
         776
       ],
-      "display_rect_pct": [
-        46.81,
-        67.58,
-        53.58,
-        75.78
+      "source_pct": [
+        46.22,
+        66.21,
+        7.75,
+        11.04
       ],
-      "alpha": true,
+      "display_wh_px": [
+        104,
+        84
+      ],
       "object_fit": "contain",
-      "publication_status": "pending binary upload; included in local ZIP"
+      "object_position": "50% 50%",
+      "alpha": true,
+      "notes": "Transparent foreground segmentation from screenshot; reconstructed hidden pixels are not invented",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        357,
+        339
+      ],
+      "ratio": "357:339",
+      "bytes": 82037,
+      "usages": [
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            718,
+            691,
+            824,
+            779
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 46.74,
+            "y_pct": 67.48,
+            "w_pct": 6.9,
+            "h_pct": 8.59
+          },
+          "role": "center ingredient card"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/ingredient-mozzarella.png"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      },
+      "visible_subject_bbox_export_px": [
+        30,
+        21,
+        339,
+        312
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 86.6,
+        "height": 85.8,
+        "margin_left": 8.4,
+        "margin_top": 6.2,
+        "margin_right": 5.0,
+        "margin_bottom": 8.0
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
     },
     {
       "file": "ingredient-basil.png",
-      "size_px": [
-        372,
-        357
+      "kind": "ingredient",
+      "source_bbox_xyxy_px": [
+        843,
+        672,
+        967,
+        791
       ],
-      "display_rect_px": [
+      "display_bbox_xyxy_px": [
         849,
         686,
         961,
         768
       ],
-      "display_rect_pct": [
-        55.27,
-        66.99,
-        62.57,
-        75
+      "source_pct": [
+        54.88,
+        65.62,
+        8.07,
+        11.62
       ],
-      "alpha": true,
+      "display_wh_px": [
+        112,
+        82
+      ],
       "object_fit": "contain",
-      "publication_status": "pending binary upload; included in local ZIP"
+      "object_position": "50% 50%",
+      "alpha": true,
+      "notes": "Transparent foreground segmentation from screenshot; reconstructed hidden pixels are not invented",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        372,
+        357
+      ],
+      "ratio": "372:357",
+      "bytes": 89882,
+      "usages": [
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            849,
+            683,
+            960,
+            772
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 55.27,
+            "y_pct": 66.7,
+            "w_pct": 7.23,
+            "h_pct": 8.69
+          },
+          "role": "right ingredient card"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/ingredient-basil.png"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      },
+      "visible_subject_bbox_export_px": [
+        19,
+        43,
+        359,
+        311
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 91.4,
+        "height": 75.1,
+        "margin_left": 5.1,
+        "margin_top": 12.0,
+        "margin_right": 3.5,
+        "margin_bottom": 12.9
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
     },
     {
       "file": "drink-cola.png",
-      "size_px": [
-        267,
-        345
+      "kind": "drink",
+      "source_bbox_xyxy_px": [
+        1076,
+        514,
+        1165,
+        629
       ],
-      "display_rect_px": [
+      "display_bbox_xyxy_px": [
         1085,
         520,
         1153,
         617
       ],
-      "display_rect_pct": [
-        70.64,
-        50.78,
-        75.07,
-        60.25
+      "source_pct": [
+        70.05,
+        50.2,
+        5.79,
+        11.23
       ],
-      "alpha": true,
+      "display_wh_px": [
+        68,
+        97
+      ],
       "object_fit": "contain",
-      "publication_status": "pending binary upload; included in local ZIP"
+      "object_position": "50% 50%",
+      "alpha": true,
+      "notes": "Transparent foreground segmentation from screenshot; reconstructed hidden pixels are not invented",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        267,
+        345
+      ],
+      "ratio": "267:345",
+      "bytes": 89238,
+      "usages": [
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1083,
+            521,
+            1156,
+            623
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 70.51,
+            "y_pct": 50.88,
+            "w_pct": 4.75,
+            "h_pct": 9.96
+          },
+          "role": "third cart row"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/drink-cola.png"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      },
+      "visible_subject_bbox_export_px": [
+        34,
+        13,
+        227,
+        320
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 72.3,
+        "height": 89.0,
+        "margin_left": 12.7,
+        "margin_top": 3.8,
+        "margin_right": 15.0,
+        "margin_bottom": 7.2
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
     },
     {
       "file": "hero-margherita.webp",
-      "size_px": [
-        1236,
-        1335
+      "kind": "hero-scene",
+      "source_bbox_xyxy_px": [
+        562,
+        88,
+        974,
+        533
       ],
-      "display_rect_px": [
+      "display_bbox_xyxy_px": [
         565,
         90,
         973,
         533
       ],
-      "display_rect_pct": [
-        36.78,
-        8.79,
-        63.35,
-        52.05
+      "source_pct": [
+        36.59,
+        8.59,
+        26.82,
+        43.46
       ],
-      "alpha": false,
+      "display_wh_px": [
+        408,
+        443
+      ],
       "object_fit": "cover",
-      "publication_status": "pending binary upload; included in local ZIP"
+      "object_position": "50% 48%",
+      "alpha": false,
+      "notes": "Top-down Margherita on circular wooden board; scattered basil, whole and sliced tomatoes and peppercorns; beige natural background; top UI circles removed by inpainting",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        1236,
+        1335
+      ],
+      "ratio": "1236:1335",
+      "bytes": 227554,
+      "usages": [
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            562,
+            88,
+            974,
+            533
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 36.59,
+            "y_pct": 8.59,
+            "w_pct": 26.82,
+            "h_pct": 43.46
+          },
+          "role": "background photo covers natural tabletop; isolated SVG back and heart buttons overlay"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/hero-margherita.webp"
+      },
+      "cropping": {
+        "is_clipped": true,
+        "clip_handling": "CSS overflow:hidden on viewport/banner wrapper"
+      },
+      "visible_subject_bbox_export_px": [
+        120,
+        190,
+        1150,
+        1295
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 83.3,
+        "height": 82.8,
+        "margin_left": 9.7,
+        "margin_top": 14.2,
+        "margin_right": 7.0,
+        "margin_bottom": 3.0
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
     },
     {
       "file": "promo-pizza-slice.webp",
-      "size_px": [
-        1230,
-        552
-      ],
-      "display_rect_px": [
+      "kind": "banner-photo",
+      "source_bbox_xyxy_px": [
         80,
         370,
         490,
         554
       ],
-      "display_rect_pct": [
+      "display_bbox_xyxy_px": [
+        80,
+        370,
+        490,
+        554
+      ],
+      "source_pct": [
         5.21,
         36.13,
-        31.9,
-        54.1
+        26.69,
+        17.97
       ],
-      "alpha": false,
+      "display_wh_px": [
+        410,
+        184
+      ],
       "object_fit": "cover",
-      "publication_status": "pending binary upload; included in local ZIP"
-    }
-  ],
-  "icons": [
+      "object_position": "center",
+      "alpha": false,
+      "notes": "Warm terracotta banner; molten mozzarella pizza slice and basil on right, no title, CTA, text or corners; left photo background reconstructed with sampled gradient",
+      "source": "reconstruction from single raster screenshot; not original source asset",
+      "size_px": [
+        1230,
+        552
+      ],
+      "ratio": "1230:552",
+      "bytes": 54662,
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            80,
+            370,
+            490,
+            554
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 5.21,
+            "y_pct": 36.13,
+            "w_pct": 26.69,
+            "h_pct": 17.97
+          },
+          "role": "banner CSS radius 25 px clips photograph; overlay real serif title, subtitle and CTA"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/promo-pizza-slice.webp"
+      },
+      "cropping": {
+        "is_clipped": true,
+        "clip_handling": "CSS overflow:hidden on viewport/banner wrapper"
+      },
+      "visible_subject_bbox_export_px": [
+        615,
+        0,
+        1230,
+        552
+      ],
+      "visible_subject_occupancy_pct": {
+        "width": 50.0,
+        "height": 100.0,
+        "margin_left": 50.0,
+        "margin_top": 0.0,
+        "margin_right": 0.0,
+        "margin_bottom": 0.0
+      },
+      "native_detail_warning": "3x upscale from screenshot fragment does not restore actual high-resolution photo detail"
+    },
     {
       "file": "icons/menu-grid.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 511,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            95,
+            123,
+            117,
+            147
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 6.18,
+            "y_pct": 12.01,
+            "w_pct": 1.43,
+            "h_pct": 2.34
+          },
+          "role": "upper-left category grid"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/menu-grid.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/search.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 266,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            449,
+            130,
+            470,
+            150
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 29.23,
+            "y_pct": 12.7,
+            "w_pct": 1.37,
+            "h_pct": 1.95
+          },
+          "role": "upper-right white circle"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/search.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/arrow-back.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 244,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            585,
+            150,
+            606,
+            170
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 38.09,
+            "y_pct": 14.65,
+            "w_pct": 1.37,
+            "h_pct": 1.95
+          },
+          "role": "top left"
+        },
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1070,
+            137,
+            1092,
+            158
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 69.66,
+            "y_pct": 13.38,
+            "w_pct": 1.43,
+            "h_pct": 2.05
+          },
+          "role": "top left"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/arrow-back.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/arrow-right.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 245,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            227,
+            503,
+            245,
+            521
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 14.78,
+            "y_pct": 49.12,
+            "w_pct": 1.17,
+            "h_pct": 1.76
+          },
+          "role": "banner CTA"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/arrow-right.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/heart.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 319,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            243,
+            636,
+            267,
+            662
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 15.82,
+            "y_pct": 62.11,
+            "w_pct": 1.56,
+            "h_pct": 2.54
+          },
+          "role": "popular pizza favorite"
+        },
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            453,
+            635,
+            477,
+            661
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 29.49,
+            "y_pct": 62.01,
+            "w_pct": 1.56,
+            "h_pct": 2.54
+          },
+          "role": "second favorite"
+        },
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            222,
+            919,
+            250,
+            946
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 14.45,
+            "y_pct": 89.75,
+            "w_pct": 1.82,
+            "h_pct": 2.64
+          },
+          "role": "bottom nav favorites"
+        },
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            928,
+            147,
+            955,
+            174
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 60.42,
+            "y_pct": 14.36,
+            "w_pct": 1.76,
+            "h_pct": 2.64
+          },
+          "role": "top right product favorite"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/heart.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/home.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #89482E, backdrop drawn separately by UI",
+      "bytes": 351,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            124,
+            920,
+            149,
+            944
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 8.07,
+            "y_pct": 89.84,
+            "w_pct": 1.63,
+            "h_pct": 2.34
+          },
+          "role": "filled/active nav"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/home.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/bag.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 308,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            320,
+            918,
+            347,
+            945
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 20.83,
+            "y_pct": 89.65,
+            "w_pct": 1.76,
+            "h_pct": 2.64
+          },
+          "role": "bottom nav shopping bag"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/bag.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/user.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 296,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            421,
+            918,
+            447,
+            947
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 27.41,
+            "y_pct": 89.65,
+            "w_pct": 1.69,
+            "h_pct": 2.83
+          },
+          "role": "bottom nav account"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/user.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/plus.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 235,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            228,
+            813,
+            252,
+            838
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 14.84,
+            "y_pct": 79.39,
+            "w_pct": 1.56,
+            "h_pct": 2.44
+          },
+          "role": "add food buttons"
+        },
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            666,
+            888,
+            692,
+            914
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 43.36,
+            "y_pct": 86.72,
+            "w_pct": 1.69,
+            "h_pct": 2.54
+          },
+          "role": "quantity pill"
+        },
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1412,
+            285,
+            1434,
+            308
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 91.93,
+            "y_pct": 27.83,
+            "w_pct": 1.43,
+            "h_pct": 2.25
+          },
+          "role": "per-row quantity pill"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/plus.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/minus.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 227,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "product_detail",
+          "bounds_xyxy_px": [
+            597,
+            891,
+            624,
+            913
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 38.87,
+            "y_pct": 87.01,
+            "w_pct": 1.76,
+            "h_pct": 2.15
+          },
+          "role": "quantity pill"
+        },
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1342,
+            291,
+            1365,
+            307
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 87.37,
+            "y_pct": 28.42,
+            "w_pct": 1.5,
+            "h_pct": 1.56
+          },
+          "role": "per-row quantity pill"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/minus.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/trash.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 298,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1414,
+            132,
+            1438,
+            161
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 92.06,
+            "y_pct": 12.89,
+            "w_pct": 1.56,
+            "h_pct": 2.83
+          },
+          "role": "delete button"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/trash.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/tag.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #24211F, backdrop drawn separately by UI",
+      "bytes": 346,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "cart",
+          "bounds_xyxy_px": [
+            1073,
+            668,
+            1097,
+            693
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 69.86,
+            "y_pct": 65.23,
+            "w_pct": 1.56,
+            "h_pct": 2.44
+          },
+          "role": "promo code field"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/tag.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/pizza.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #89482E, backdrop drawn separately by UI",
+      "bytes": 439,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            105,
+            269,
+            137,
+            303
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 6.84,
+            "y_pct": 26.27,
+            "w_pct": 2.08,
+            "h_pct": 3.32
+          },
+          "role": "category tile"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/pizza.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/burger.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #89482E, backdrop drawn separately by UI",
+      "bytes": 470,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            190,
+            272,
+            224,
+            309
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 12.37,
+            "y_pct": 26.56,
+            "w_pct": 2.21,
+            "h_pct": 3.61
+          },
+          "role": "category tile"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/burger.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/pasta.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #89482E, backdrop drawn separately by UI",
+      "bytes": 511,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            276,
+            273,
+            309,
+            306
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 17.97,
+            "y_pct": 26.66,
+            "w_pct": 2.15,
+            "h_pct": 3.22
+          },
+          "role": "category tile"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/pasta.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/salad.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #607443, backdrop drawn separately by UI",
+      "bytes": 405,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            360,
+            272,
+            393,
+            306
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 23.44,
+            "y_pct": 26.56,
+            "w_pct": 2.15,
+            "h_pct": 3.32
+          },
+          "role": "category tile"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/salad.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     },
     {
       "file": "icons/drinks.svg",
+      "kind": "svg-icon",
       "size_px": [
         24,
         24
       ],
+      "ratio": "1:1",
       "alpha": true,
-      "publication_status": "published"
+      "source_bbox_xyxy_px": null,
+      "display_bbox_xyxy_px": null,
+      "source_pct": null,
+      "display_wh_px": null,
+      "object_fit": "contain",
+      "object_position": "center",
+      "notes": "24x24 viewBox, stroke 1.55, #89482E, backdrop drawn separately by UI",
+      "bytes": 295,
+      "source": "vector reconstruction of screenshot icon",
+      "usages": [
+        {
+          "screen": "home",
+          "bounds_xyxy_px": [
+            447,
+            268,
+            473,
+            305
+          ],
+          "bounds_pct_of_screenshot": {
+            "x_pct": 29.1,
+            "y_pct": 26.17,
+            "w_pct": 1.69,
+            "h_pct": 3.61
+          },
+          "role": "category tile"
+        }
+      ],
+      "publication": {
+        "status": "published_on_branch",
+        "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/main/images/forno-pizza-delivery/icons/drinks.svg"
+      },
+      "cropping": {
+        "is_clipped": false,
+        "clip_handling": "full object preserved"
+      }
     }
   ],
-  "design_approximations": {
-    "screen": "#F7F3ED",
-    "surface": "#FFFCF9",
-    "selected": "#FFD5B3",
-    "brown": "#89482E",
-    "sage": "#71866B",
-    "text": "#171614",
-    "screen_gradient": "linear-gradient(160deg,#F6F0E9 0%,#FCF9F5 54%,#F6F1EA 100%)",
-    "banner_gradient": "linear-gradient(110deg,#A55239 0%,#AE603D 55%,#BC6A40 100%)",
-    "checkout_gradient": "linear-gradient(105deg,#72866A 0%,#71856B 100%)"
+  "ui": {
+    "pixel_measurement_note": "All screenshot positions estimated at 1536x1024 reference pixels, not recovered Figma/CSS source parameters.",
+    "colors_approximate": {
+      "screen_bg": "#F7F3ED",
+      "card_bg": "#FFFCF9",
+      "category_selected": "#FFD5B3",
+      "brown": "#89482E",
+      "banner_base": "#A9573B",
+      "sage": "#71866B",
+      "warm_shadow": "rgba(66,45,29,0.10)",
+      "muted_text": "#898783",
+      "black": "#171614"
+    },
+    "gradients_approximate": {
+      "screen": "linear-gradient(160deg,#F6F0E9 0%,#FCF9F5 54%,#F6F1EA 100%)",
+      "banner": "linear-gradient(110deg,#A55239 0%,#AE603D 55%,#BC6A40 100%)",
+      "checkout": "linear-gradient(105deg,#72866A 0%,#71856B 100%)"
+    },
+    "ui_rules": {
+      "category_card": "white semi-opaque or selected light peach; border-radius around 21px; draw via CSS",
+      "product_card": "#FFFCF9, border-radius about 22px; shadow UI only",
+      "bottom_nav": "white 0.95, pill 70px, subtle blur/shadow",
+      "button_primary": "brown or sage CSS fill; text and icons separate",
+      "status_bar": "Do not render in images/icons, rely on OS safe area/status bar",
+      "card_clip": "images clipped by their product cards as needed, not a property of food PNGs"
+    },
+    "typography_observed": "Headlines, prices and some labels set in classic high-contrast serif resembling Georgia; body text in clean neutral sans-serif.",
+    "reference_screens_xyxy": {
+      "home": [
+        65,
+        50,
+        509,
+        976
+      ],
+      "product": [
+        551,
+        58,
+        989,
+        976
+      ],
+      "cart": [
+        1032,
+        50,
+        1477,
+        976
+      ]
+    },
+    "estimated_layout_rectangles": {
+      "home_promo": [
+        80,
+        370,
+        490,
+        555
+      ],
+      "home_popular_1": [
+        80,
+        622,
+        280,
+        865
+      ],
+      "home_popular_2": [
+        291,
+        622,
+        491,
+        865
+      ],
+      "product_hero": [
+        562,
+        88,
+        974,
+        533
+      ],
+      "ingredient_tomato_card": [
+        578,
+        677,
+        692,
+        785
+      ],
+      "ingredient_mozzarella_card": [
+        713,
+        677,
+        830,
+        785
+      ],
+      "ingredient_basil_card": [
+        846,
+        677,
+        963,
+        785
+      ],
+      "cart_row_1": [
+        1054,
+        199,
+        1459,
+        336
+      ],
+      "cart_row_2": [
+        1054,
+        351,
+        1459,
+        488
+      ],
+      "cart_row_3": [
+        1054,
+        500,
+        1459,
+        635
+      ]
+    },
+    "reconstruction_quality": "Screenshot-only segmentation and inpainting; photographic content matches visible pixels, lost/covered areas and 3x output resolution are not original image details. Examine natural shadow edges in application."
   },
-  "instruction": "Text, rounded backplates, buttons and status icons are not image assets; raster photographs are screenshot reconstructions, 3x interpolated."
+  "individual_generation_prompts": {
+    "hero-margherita.webp": "Top-down close overhead photo of single round Neapolitan Margherita pizza with visible charring and melted creamy mozzarella, tomato sauce, basil leaves arranged across toppings, on round warm brown wooden board. Beige matte tabletop with scattered bright green basil leaves and small red tomatoes, shallow soft contact shadow; warm diffuse studio light from upper left. Crop 412:445, pizza board centered, food fills 85% width, no text, UI, badges, buttons, lens effects.",
+    "promo-pizza-slice.webp": "Warm russet orange rectangular promotional product backdrop, photo-real close side view of wedge-shaped Margherita pizza slice lifted toward upper right, stretched long strings of soft mozzarella, fresh basil leaves. Scene right half only, center/left reserved for HTML text and CTA overlay; soft gradients, no words, buttons or rounded image corners. Aspect 410:184.",
+    "pizza-margherita.png": "Transparent background cutout, front-facing overhead whole Neapolitan Margherita pizza, golden baked crust with irregular dark char marks, melted white mozzarella, tomato red sauce, exactly visible green basil leaves spaced across face. Single circular pizza centered, no plate, no text, real alpha and natural soft food contact shadow. Square.",
+    "pizza-pepperoni.png": "Transparent background, top-down one complete round thin-crust wood-fired pepperoni pizza; golden puffy irregular charred rim, abundant red pepperoni discs scattered across creamy cheese and red tomato sauce. No basil, plate, text or background. Square.",
+    "ingredient-tomato.png": "Top-down red ripe tomato cluster, three glossy round tomatoes and one tomato half cut face up, green sepals. Transparent cutout, no platter or background, gentle shadow.",
+    "ingredient-mozzarella.png": "Three fresh ivory white mozzarella balls, one cut showing porous interior, soft matte dairy surface, subtle shadow, transparent background.",
+    "ingredient-basil.png": "Fresh leafy bright green basil sprig, multiple broad vibrant glossy leaves radiating from stem, top-down, alpha transparency.",
+    "drink-cola.png": "Tall narrow straight-sided clear glass filled with dark brown sparkling cola and several angular clear ice cubes, three-quarter front, visible condensation and reflections, alpha transparency."
+  },
+  "github": {
+    "repo": "https://github.com/kiouoi996-commits/Repixel-Previews",
+    "folder": "https://github.com/kiouoi996-commits/Repixel-Previews/tree/f6b29a173d432588ebb9510819f361423d109c68/images/forno-pizza-delivery",
+    "vector_commit": "f6b29a173d432588ebb9510819f361423d109c68",
+    "manifest_url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/f6b29a173d432588ebb9510819f361423d109c68/images/forno-pizza-delivery/manifest.json",
+    "note": "All 25 asset files are uploaded. Use the published commit SHA in place of main for immutable URLs."
+  },
+  "screenshot_notes": {
+    "home": "Left screen: 444×926 px rounded device mockup. Category row, warm pizza promotion and separate square product cutouts. Partially visible lower cards are not new identifiable goods; reuse existing thumbnails.",
+    "detail": "Middle screen: 438×918 px, scene margherita fills upper photographic region, back/heart UI floats over background and must not be baked in, ingredient photos in three separate cards.",
+    "cart": "Right screen: 445×926 px, three cart items reuse pizza thumbnails and use standalone cola. White rows, coupon, order summary and checkout are UI only.",
+    "percent_basis": "Whole reference image 1536×1024, not individual mobile viewport."
+  }
 }
