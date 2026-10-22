@@ -1,0 +1,20 @@
+[
+  {
+    "kind": "clay",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/adobe-courtyard.webp",
+    "bytes": 222730,
+    "sha256": "51a83d33046bbd96ceaa1d879462223d3591362415045a4499f703533986c7bf"
+  },
+  {
+    "kind": "moss",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ec6afa3226223fb983c05f94c85eaee898af97b1/images/reference-studies-2026-10-22/moss-landscape.webp",
+    "bytes": 525910,
+    "sha256": "11f4e94d87fa962d45c03bdc853282eface5f50fef727a3fabfaca02317bc707"
+  },
+  {
+    "kind": "dusk",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/sunset-viewpoint.webp",
+    "bytes": 182082,
+    "sha256": "db0dd7c2178778f09af58a6e04e5fbcad1720cd01a9a0da5c376c46692052ddd"
+  }
+]
