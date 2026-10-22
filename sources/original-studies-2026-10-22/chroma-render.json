@@ -1,0 +1,14 @@
+{
+  "kind": "chroma",
+  "width": 1080,
+  "height": 810,
+  "fps": 30,
+  "frames": 300,
+  "durationSeconds": 10,
+  "audio": false,
+  "faststart": true,
+  "loopEndpointPixelsEqual": true,
+  "uniqueSourceFrames": 51,
+  "bytes": 243545,
+  "sha256": "a84a0949b1ea17b3825baf0a6257a85bfc1b9196b061fb0e07ad67193b4c5838"
+}

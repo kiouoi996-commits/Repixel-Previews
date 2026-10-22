@@ -1,0 +1,14 @@
+{
+  "kind": "fieldnotes",
+  "width": 1080,
+  "height": 810,
+  "fps": 30,
+  "frames": 300,
+  "durationSeconds": 10,
+  "audio": false,
+  "faststart": true,
+  "loopEndpointPixelsEqual": true,
+  "uniqueSourceFrames": 42,
+  "bytes": 1011463,
+  "sha256": "fb07be8ab95db22dad15c0c210b812bdf1484c5fdb6e493b568cd2808cdb7eeb"
+}

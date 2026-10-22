@@ -1,0 +1,209 @@
+{
+  "version": 1,
+  "width": 1080,
+  "height": 810,
+  "duration": 10,
+  "fps": 30,
+  "transition": 1.1,
+  "cues": [
+    1,
+    4,
+    7
+  ],
+  "colors": [
+    {
+      "name": "Cobalt",
+      "hex": "#5068F5",
+      "note": "A little electric. Entirely alive."
+    },
+    {
+      "name": "Persimmon",
+      "hex": "#E36A44",
+      "note": "Warmth with a point of view."
+    },
+    {
+      "name": "Lichen",
+      "hex": "#B5BE8A",
+      "note": "A quieter kind of statement."
+    }
+  ],
+  "projects": [
+    {
+      "title": "Desert House",
+      "place": "SEDONA, ARIZONA",
+      "file": "adobe-courtyard.webp",
+      "crop": [
+        0.5,
+        0.48
+      ],
+      "note": "Architecture / 01"
+    },
+    {
+      "title": "Golden Hour",
+      "place": "RED ROCK COUNTRY",
+      "file": "sunset-viewpoint.webp",
+      "crop": [
+        0.5,
+        0.45
+      ],
+      "note": "Observation / 02"
+    },
+    {
+      "title": "Canyon Walk",
+      "place": "OAK CREEK, ARIZONA",
+      "file": "canyon-creek.webp",
+      "crop": [
+        0.5,
+        0.52
+      ],
+      "note": "Landscape / 03"
+    }
+  ],
+  "desktop": {
+    "chroma": {
+      "w": 1080,
+      "h": 810,
+      "dial": [
+        752,
+        353,
+        220
+      ],
+      "selectors": [
+        [
+          64,
+          622,
+          124,
+          62
+        ],
+        [
+          202,
+          622,
+          142,
+          62
+        ],
+        [
+          358,
+          622,
+          110,
+          62
+        ]
+      ],
+      "copy": [
+        64,
+        539,
+        284,
+        54
+      ]
+    },
+    "fieldnotes": {
+      "w": 1080,
+      "h": 810,
+      "selectors": [
+        [
+          64,
+          424,
+          316,
+          66
+        ],
+        [
+          64,
+          498,
+          316,
+          66
+        ],
+        [
+          64,
+          572,
+          316,
+          66
+        ]
+      ],
+      "paper": [
+        490,
+        176,
+        456,
+        468
+      ],
+      "sleeve": [
+        450,
+        532,
+        540,
+        176
+      ]
+    }
+  },
+  "mobile": {
+    "breakpoint": 640,
+    "chroma": {
+      "w": 560,
+      "h": 1020,
+      "dial": [
+        280,
+        442,
+        196
+      ],
+      "selectors": [
+        [
+          32,
+          802,
+          154,
+          68
+        ],
+        [
+          203,
+          802,
+          154,
+          68
+        ],
+        [
+          374,
+          802,
+          154,
+          68
+        ]
+      ],
+      "copy": [
+        32,
+        904,
+        496,
+        64
+      ]
+    },
+    "fieldnotes": {
+      "w": 560,
+      "h": 1100,
+      "selectors": [
+        [
+          32,
+          834,
+          496,
+          72
+        ],
+        [
+          32,
+          916,
+          496,
+          72
+        ],
+        [
+          32,
+          998,
+          496,
+          72
+        ]
+      ],
+      "paper": [
+        64,
+        264,
+        432,
+        438
+      ],
+      "sleeve": [
+        32,
+        622,
+        496,
+        172
+      ]
+    }
+  }
+}
