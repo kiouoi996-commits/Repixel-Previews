@@ -1,0 +1,32 @@
+[
+  {
+    "path": "fonts/Manrope-350.woff",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7df5b80a0f43bbf7167126b7fd1d33adad793a7/fonts/text-effects/lamped-2026-10-01/Manrope-350.woff",
+    "bytes": 16520,
+    "sha256": "ca90a00dcb32aad243c3694a2c0c4b2dd7fdc84528adab4d7b04a26649512bc9"
+  },
+  {
+    "path": "fonts/Manrope-650.woff",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7df5b80a0f43bbf7167126b7fd1d33adad793a7/fonts/text-effects/lamped-2026-10-01/Manrope-650.woff",
+    "bytes": 16516,
+    "sha256": "1442d93eb89ebb2fa3398a0a73ba5b866e612cec1c0ca09c45afe1303233169d"
+  },
+  {
+    "path": "vendor/gsap.min.js",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/476723ca0164b91e4aa8ec2cb39d9d8d06b45a4b/sources/flagship-studies-2026-10-22/vendor/gsap.min.js",
+    "bytes": 72435,
+    "sha256": "96c01b81f44a3290e2b4532f55e2c9534b2adc43273a19f3756b2cb41f0fd0b6"
+  },
+  {
+    "path": "vendor/GSAP-README.md",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/476723ca0164b91e4aa8ec2cb39d9d8d06b45a4b/sources/flagship-studies-2026-10-22/vendor/GSAP-README.md",
+    "bytes": 6194,
+    "sha256": "7675b3310fbe9bbed4d904d9f9afc617ae923f0463b30e4a47ae37c6bf9abb93"
+  },
+  {
+    "path": "fonts/manrope-OFL.txt",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7df5b80a0f43bbf7167126b7fd1d33adad793a7/fonts/text-effects/lamped-2026-10-01/manrope-OFL.txt",
+    "bytes": 4387,
+    "sha256": "58172e0c0fac2cda8a37b348164bb55e44b0e69051e557e92b1d3f6910141f7b"
+  }
+]

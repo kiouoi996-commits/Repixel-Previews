@@ -1,0 +1,14 @@
+{
+  "reference": {
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/cb7ff5099c5baf2fe11fc02d0d47462b918ea4d1/images/menus/minimal-menu-reveals-2026-10-22/reference.png",
+    "bytes": 892356,
+    "sha256": "7008ba23e09594706d748d360d15e9058ec7215095196b8df871b301c04007ab",
+    "width": 941,
+    "height": 1672
+  },
+  "authorship": "User supplied a still image; all four reveal/close motions and demo-page content are newly authored. Manrope 350/650 is a visual match, not a confirmed original typeface.",
+  "runtime": "GSAP 3.13.0 embedded verbatim in each generated HTML to avoid external script MIME/network failures.",
+  "normalMode": "Manual input, right-edge panel, native modal focus, real in-page sample routes and a menu-link search. The English language marker is informational; no additional language is advertised.",
+  "previewMode": "Explicit demo=1, square 1080x1080 scene. The portrait panel preserves 568x1212 proportions at uniform 0.76 preview scale; production uses responsive coordinates, not a scaled screenshot.",
+  "videoLoop": "First and last source PNG frames are byte-identical. Encoded H.264 frames can contain normal quantization differences."
+}

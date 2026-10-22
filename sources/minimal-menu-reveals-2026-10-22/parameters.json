@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "width": 1080,
+  "height": 1080,
+  "fps": 30,
+  "frames": 300,
+  "duration": 10,
+  "reference": {
+    "width": 941,
+    "height": 1672,
+    "panel": [
+      187,
+      248,
+      568,
+      1212
+    ]
+  },
+  "panel": {
+    "width": 568,
+    "height": 1212,
+    "radius": 27,
+    "previewScale": 0.76
+  },
+  "colors": {
+    "canvas": "#F2F3F6",
+    "surface": "#FFFFFF",
+    "ink": "#0A0A0A",
+    "text": "#454545",
+    "muted": "#777777",
+    "line": "#A0A0A0"
+  },
+  "items": [
+    "Home",
+    "About",
+    "Works",
+    "Studio",
+    "Contact"
+  ],
+  "baselines": [
+    296,
+    392,
+    488,
+    584,
+    680
+  ],
+  "variants": {
+    "iris": {
+      "number": 182,
+      "slug": "corner-iris-menu-reveal",
+      "title": "Corner Iris Menu Reveal",
+      "open": 1200,
+      "close": 900
+    },
+    "seam": {
+      "number": 183,
+      "slug": "center-seam-menu-reveal",
+      "title": "Center Seam Menu Reveal",
+      "open": 1100,
+      "close": 850
+    },
+    "ribbons": {
+      "number": 184,
+      "slug": "ribbon-cascade-menu-reveal",
+      "title": "Ribbon Cascade Menu Reveal",
+      "open": 1350,
+      "close": 1000
+    },
+    "curtain": {
+      "number": 185,
+      "slug": "elastic-curtain-menu-reveal",
+      "title": "Elastic Curtain Menu Reveal",
+      "open": 1450,
+      "close": 1100
+    }
+  },
+  "cues": [
+    {
+      "time": 0.65,
+      "open": true
+    },
+    {
+      "time": 4.2,
+      "open": false
+    },
+    {
+      "time": 5.8,
+      "open": true
+    },
+    {
+      "time": 8.5,
+      "open": false
+    }
+  ]
+}
