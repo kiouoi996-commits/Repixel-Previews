@@ -1,0 +1,11 @@
+{
+  "name": "looma-next-header-references",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "sharp": "0.34.5"
+  },
+  "scripts": {
+    "check": "node check.mjs"
+  }
+}
