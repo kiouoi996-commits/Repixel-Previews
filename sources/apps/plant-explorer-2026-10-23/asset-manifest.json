@@ -1,0 +1,346 @@
+[
+  {
+    "name": "onboarding-art.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/onboarding-art.webp",
+    "bytes": 69822,
+    "sha256": "161d79c8a235ccec6063023f8e6fd5ef9808700fe49a9d34b8f8ebc16a82f61f",
+    "width": 269,
+    "height": 280,
+    "sourceCanvasBox": [
+      60,
+      96,
+      329,
+      376
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/onboarding-art.webp"
+  },
+  {
+    "name": "home-banner-art.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/home-banner-art.webp",
+    "bytes": 29020,
+    "sha256": "615354f0126d8fe5b44f2dd08f1345f5d928d89f01bf69f0c43eb86b9da3ca3a",
+    "width": 168,
+    "height": 154,
+    "sourceCanvasBox": [
+      546,
+      188,
+      714,
+      342
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/home-banner-art.webp"
+  },
+  {
+    "name": "monstera-card.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/monstera-card.webp",
+    "bytes": 15636,
+    "sha256": "a7d72e479ed1af2da2cd0777f12ce8537785dcc2197798bfe4653bf10cec8c64",
+    "width": 105,
+    "height": 112,
+    "sourceCanvasBox": [
+      392,
+      393,
+      497,
+      505
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/monstera-card.webp"
+  },
+  {
+    "name": "snake-card.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/snake-card.webp",
+    "bytes": 11956,
+    "sha256": "7e0e930542b82ed038c1d18fb5b0e3d663208bd6009bab969ec2e838d3ef1197",
+    "width": 103,
+    "height": 112,
+    "sourceCanvasBox": [
+      509,
+      393,
+      612,
+      505
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/snake-card.webp"
+  },
+  {
+    "name": "pothos-card.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/pothos-card.webp",
+    "bytes": 15120,
+    "sha256": "587fff7013795c0bf48247cba74bd09af6db13f7f0d6b6a592e9a73755d9cc2f",
+    "width": 102,
+    "height": 112,
+    "sourceCanvasBox": [
+      624,
+      393,
+      726,
+      505
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/pothos-card.webp"
+  },
+  {
+    "name": "succulents-category.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/succulents-category.webp",
+    "bytes": 2838,
+    "sha256": "cb2796ae851fbb96947fc5776a1ad30d771034c4cffd09029ed3a40914ae719f",
+    "width": 47,
+    "height": 43,
+    "sourceCanvasBox": [
+      403,
+      639,
+      450,
+      682
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/succulents-category.webp"
+  },
+  {
+    "name": "tropical-category.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/tropical-category.webp",
+    "bytes": 3046,
+    "sha256": "90994a370c8aee8f6008fa119bfe971eb9e62fb11b1485b09d72cc9ef422fa13",
+    "width": 45,
+    "height": 45,
+    "sourceCanvasBox": [
+      490,
+      638,
+      535,
+      683
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/tropical-category.webp"
+  },
+  {
+    "name": "cactus-category.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/cactus-category.webp",
+    "bytes": 1726,
+    "sha256": "fff14f959bea09a17e82821bf35df8e8a1e79467f95af8cc00ca859e61a94a31",
+    "width": 35,
+    "height": 43,
+    "sourceCanvasBox": [
+      562,
+      639,
+      597,
+      682
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/cactus-category.webp"
+  },
+  {
+    "name": "herbs-category.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/herbs-category.webp",
+    "bytes": 2746,
+    "sha256": "0f9c25fcdd16d63df8321800ac513565154e9623f52acec50d4d0883175b7f0e",
+    "width": 46,
+    "height": 46,
+    "sourceCanvasBox": [
+      640,
+      638,
+      686,
+      684
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/herbs-category.webp"
+  },
+  {
+    "name": "monstera-hero.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/monstera-hero.webp",
+    "bytes": 62920,
+    "sha256": "a253a0cd7a6ce624cdfd6c50467ffe1a8ccc2b54ead106023e235eb2fc1eb9b6",
+    "width": 272,
+    "height": 249,
+    "sourceCanvasBox": [
+      754,
+      86,
+      1026,
+      335
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/monstera-hero.webp"
+  },
+  {
+    "name": "collection-art.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/collection-art.webp",
+    "bytes": 25574,
+    "sha256": "2d565138289aced2caf0001aee0bfa01298fef61d1ad90c35fd88d54d91eaa9c",
+    "width": 166,
+    "height": 178,
+    "sourceCanvasBox": [
+      1243,
+      591,
+      1409,
+      769
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/collection-art.webp"
+  },
+  {
+    "name": "care-art.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/care-art.webp",
+    "bytes": 28880,
+    "sha256": "ff2746ce8c9d87e6205b9732e5ba53c9e6b91e94b48668693b8288d930ad6ebf",
+    "width": 146,
+    "height": 184,
+    "sourceCanvasBox": [
+      1260,
+      840,
+      1406,
+      1024
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/care-art.webp"
+  },
+  {
+    "name": "guide-art.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/guide-art.webp",
+    "bytes": 58458,
+    "sha256": "52a0628c80403677fa45fc54ad3101bb5e4cc6a4d5a8e9a75522d8dcb92a3ac5",
+    "width": 253,
+    "height": 210,
+    "sourceCanvasBox": [
+      231,
+      837,
+      484,
+      1047
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/guide-art.webp"
+  },
+  {
+    "name": "tutorial-poster.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/tutorial-poster.webp",
+    "bytes": 30292,
+    "sha256": "56c6529e2e576e00bb7b7f6d79ab8ce853bb962bc40b463fd777c151f4fee256",
+    "width": 199,
+    "height": 130,
+    "sourceCanvasBox": [
+      504,
+      847,
+      703,
+      977
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/tutorial-poster.webp"
+  },
+  {
+    "name": "water-icon.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/water-icon.webp",
+    "bytes": 962,
+    "sha256": "1252b7eb65a0c1d8feee83469e1df811fdb554b1d814bd5a2bb4fbfbe1126e16",
+    "width": 26,
+    "height": 28,
+    "sourceCanvasBox": [
+      794,
+      458,
+      820,
+      486
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/water-icon.webp"
+  },
+  {
+    "name": "sun-icon.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/sun-icon.webp",
+    "bytes": 1416,
+    "sha256": "4d4000bafbe8bf9d16a617a88bd8cb77114bfe21314852634cd9fd99696236f1",
+    "width": 30,
+    "height": 29,
+    "sourceCanvasBox": [
+      875,
+      456,
+      905,
+      485
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/sun-icon.webp"
+  },
+  {
+    "name": "temperature-icon.webp",
+    "path": "images/apps/plant-explorer-2026-10-23/temperature-icon.webp",
+    "bytes": 1198,
+    "sha256": "b7e71403f4d68eeaf546e5e559ad9c7655e1e134ceb0d1905264506a4b677d5d",
+    "width": 23,
+    "height": 30,
+    "sourceCanvasBox": [
+      962,
+      456,
+      985,
+      486
+    ],
+    "origin": "lossless pixel crop from supplied still",
+    "status": "valid",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/images/apps/plant-explorer-2026-10-23/temperature-icon.webp"
+  },
+  {
+    "name": "Inter-OFL.txt",
+    "path": "fonts/apps/plant-explorer-2026-10-23/Inter-OFL.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+    "kind": "license",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/fonts/apps/plant-explorer-2026-10-23/Inter-OFL.txt"
+  },
+  {
+    "name": "Inter-400.ttf",
+    "path": "fonts/apps/plant-explorer-2026-10-23/Inter-complete-400.ttf",
+    "bytes": 341396,
+    "sha256": "34018885f1a6b63ace43073df0fc5642afc2f835d389a609e0bb7da02dd4d7b4",
+    "kind": "font",
+    "weight": 400,
+    "family": "Inter",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-400.ttf"
+  },
+  {
+    "name": "Inter-500.ttf",
+    "path": "fonts/apps/plant-explorer-2026-10-23/Inter-complete-500.ttf",
+    "bytes": 342004,
+    "sha256": "8480041424d41999a1e5a057dec760c41f3aede338150603839cb822ae7eb279",
+    "kind": "font",
+    "weight": 500,
+    "family": "Inter Medium",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-500.ttf"
+  },
+  {
+    "name": "Inter-600.ttf",
+    "path": "fonts/apps/plant-explorer-2026-10-23/Inter-complete-600.ttf",
+    "bytes": 342688,
+    "sha256": "05b980c9d9b273e4024802f0c3c8866804c650935c6d440ef2820eead9a55f8d",
+    "kind": "font",
+    "weight": 600,
+    "family": "Inter SemiBold",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-600.ttf"
+  },
+  {
+    "name": "Inter-700.ttf",
+    "path": "fonts/apps/plant-explorer-2026-10-23/Inter-complete-700.ttf",
+    "bytes": 343072,
+    "sha256": "454fa8aefec8191453c92f8f42ebfcb4b3187d51d5eadc192fadfd57cebe05a1",
+    "kind": "font",
+    "weight": 700,
+    "family": "Inter",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-700.ttf"
+  },
+  {
+    "name": "NOTICE-v2.txt",
+    "path": "sources/apps/plant-explorer-2026-10-23/NOTICE-v2.txt",
+    "bytes": 833,
+    "sha256": "7897855db1be1dcd94a1f69808b8ca9d542c53c1103945929648961bdb935db5",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/sources/apps/plant-explorer-2026-10-23/NOTICE-v2.txt"
+  }
+]
