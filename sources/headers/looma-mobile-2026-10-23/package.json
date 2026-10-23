@@ -1,0 +1,11 @@
+{
+  "name": "looma-dedicated-mobile-headers",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "sharp": "0.35.5"
+  },
+  "scripts": {
+    "check": "node check.mjs"
+  }
+}

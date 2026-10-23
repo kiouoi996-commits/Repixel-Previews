@@ -1,0 +1,7 @@
+import fs from 'node:fs/promises';import {spawn} from 'node:child_process';import {once} from 'node:events';import {demo,svg,specs} from './core.mjs';
+const {default:sharp}=await import(process.env.SHARP_MODULE||'sharp');
+const mode=process.argv[2]||'classic-mobile',stills=process.argv.includes('--stills');if(!specs[mode])throw Error('Unknown mode');
+const draw=t=>sharp(Buffer.from(svg(demo(mode,t)))).resize(780,1280).png().toBuffer();
+await fs.mkdir(new URL('./qa/',import.meta.url),{recursive:true});
+if(stills){for(const t of [0,1.6,4.5,5.7,6.8,7.7,8.8,10.1])await fs.writeFile(new URL(`./qa/${mode}-${t}.png`,import.meta.url),await draw(t));await sharp(await draw(0)).webp({quality:94}).toFile(new URL(`./media/${mode}-poster.webp`,import.meta.url).pathname);console.log(mode,'stills complete');}
+else{const ff=spawn('ffmpeg',['-v','error','-f','image2pipe','-vcodec','png','-framerate','30','-i','-','-an','-c:v','libx264','-crf','20','-preset','medium','-pix_fmt','yuv420p','-movflags','+faststart','-y',new URL(`./media/${mode}.mp4`,import.meta.url).pathname],{stdio:['pipe','inherit','inherit']});const done=once(ff,'close');ff.stdin.on('error',()=>{});for(let i=0;i<360;i++){const png=await draw(i===359?12:i/30);if(!ff.stdin.write(png))await once(ff.stdin,'drain');}ff.stdin.end();const[code]=await done;if(code)throw Error('ffmpeg '+code);if(!(await draw(0)).equals(await draw(12)))throw Error('Source endpoints differ');console.log(mode,'360 frames, 12s, 780×1280; source endpoints identical');}
