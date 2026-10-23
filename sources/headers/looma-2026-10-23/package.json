@@ -1,0 +1,14 @@
+{
+  "name": "looma-header-references",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "node check.mjs",
+    "classic": "node render.mjs classic",
+    "search": "node render.mjs search",
+    "minimal": "node render.mjs minimal"
+  },
+  "dependencies": {
+    "sharp": "0.34.5"
+  }
+}
