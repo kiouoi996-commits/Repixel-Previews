@@ -1,0 +1,194 @@
+{
+  "projectId": "brewly-coffee-ordering",
+  "release": "2026-10-24-v1",
+  "productionPhotographsComplete": true,
+  "photographicOrigin": "ImageGen reconstructions from supplied two-screen reference; not recovered originals",
+  "fontOrigin": "Visually matched Inter; original family not identified",
+  "photographs": [
+    {
+      "name": "caramel-latte-detail-v2.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/983415eb32ff8aa2cd1fa48c2b542db98ff49b39/images/reconstructed-apps/brewly-coffee-ordering/photos-v2/caramel-latte-detail-v2.webp",
+      "bytes": 249272,
+      "sha256": "05f07fa2dc79fba870c27ade95d1ca78873e8fe515b2fb2c2f846c2d9d9c66c5"
+    },
+    {
+      "name": "cold-brew.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9be77244ad9d9bc8b066cc4a6e52cd408f592be3/images/reconstructed-apps/brewly-coffee-ordering/photos-v1/cold-brew.webp",
+      "bytes": 270440,
+      "sha256": "2c6f2c00bd7cb22b33846f445ee1703c0fc7e15b916d7c76440d688f0ed1825e"
+    },
+    {
+      "name": "roasted-coffee-beans.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9be77244ad9d9bc8b066cc4a6e52cd408f592be3/images/reconstructed-apps/brewly-coffee-ordering/photos-v1/roasted-coffee-beans.webp",
+      "bytes": 241396,
+      "sha256": "81b6d77020a4e445566751f7306bbb4d57519c912aa263de0ccde715152b3591"
+    },
+    {
+      "name": "caramel-latte-featured.webp",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9be77244ad9d9bc8b066cc4a6e52cd408f592be3/images/reconstructed-apps/brewly-coffee-ordering/photos-v1/caramel-latte-featured.webp",
+      "bytes": 191356,
+      "sha256": "20ef87513b83f3a6fc0504a77ffdc63390044e24919d69423872ba9d6e6ffe5a"
+    }
+  ],
+  "vectorsAndFonts": [
+    {
+      "name": "arrow-left.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/arrow-left.svg",
+      "bytes": 221,
+      "sha256": "3b0526111532519a5f1a24152563bd27a38f12a7ba3a1d6cdbbccece9c3e94dd"
+    },
+    {
+      "name": "arrow-right.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/arrow-right.svg",
+      "bytes": 222,
+      "sha256": "7b9940b0328f86e4eff1e485627c27dc18b0d4c716c75e77a72487f1b4d9ecba"
+    },
+    {
+      "name": "bean.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/bean.svg",
+      "bytes": 279,
+      "sha256": "6fdf97d48feb07a9426f7705dee5901baf23413a5fb84475bcbc0676cf26b030"
+    },
+    {
+      "name": "bell.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/bell.svg",
+      "bytes": 268,
+      "sha256": "4b7f8c245edc2ee4c3228da56039c19fc435473007f39f0211ffe53e893b928e"
+    },
+    {
+      "name": "cart.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/cart.svg",
+      "bytes": 284,
+      "sha256": "5081534ad55e7674a4c4c1eb87073f2be678c77e792647dff4724e4dc856dd5e"
+    },
+    {
+      "name": "check.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/check.svg",
+      "bytes": 215,
+      "sha256": "8dc3e771063393447183f087dad757649b2d07d0e60aecd52b3c8b4a743c1ed8"
+    },
+    {
+      "name": "chevron-right.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/chevron-right.svg",
+      "bytes": 213,
+      "sha256": "2ad9d65a1ce0335687575479f0800f2cbded550e4b083437f06ab198c164c135"
+    },
+    {
+      "name": "coffee.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/coffee.svg",
+      "bytes": 292,
+      "sha256": "1246d774adf65d59755396bd2e1a6d7b1ffc1db9ec2d227db8ede4b6285dede3"
+    },
+    {
+      "name": "heart.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/heart.svg",
+      "bytes": 317,
+      "sha256": "eff8280f57712556a823161222ac4d51ab7ef262c1a3d328882bf95dc758d9a5"
+    },
+    {
+      "name": "home.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/home.svg",
+      "bytes": 258,
+      "sha256": "26cff7e37fce925b98df2c8f910a6ce29c78806ffbca9ba001028245185d2f5d"
+    },
+    {
+      "name": "leaf.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/leaf.svg",
+      "bytes": 280,
+      "sha256": "3ab6153ec3717bac4ef65640e535949a834be919bb8f970e279cfbb4a8b00089"
+    },
+    {
+      "name": "milk.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/milk.svg",
+      "bytes": 253,
+      "sha256": "42926e495fcbafe1d75abece0a6e8a25873e26534306b90026938dee5f991239"
+    },
+    {
+      "name": "minus.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/minus.svg",
+      "bytes": 209,
+      "sha256": "27a9b0b679ec9c4136f4bae4dda11773367e5689d01ca19cd5d998dae48b8860"
+    },
+    {
+      "name": "more-horizontal.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/more-horizontal.svg",
+      "bytes": 383,
+      "sha256": "336481259b413a5465b31694f7daa2bbbf927e8a8edfb18c64d6a1f0cb892c15"
+    },
+    {
+      "name": "plus.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/plus.svg",
+      "bytes": 217,
+      "sha256": "658f04e03eb36516ebcadbd16eef983f2ad6ef0bdf0074060f342be52c5983b6"
+    },
+    {
+      "name": "search.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/search.svg",
+      "bytes": 252,
+      "sha256": "8bdf8134b4adbb3dea7d4c62160d090d250b59c41949ef188528f9d97a8b7836"
+    },
+    {
+      "name": "share.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/share.svg",
+      "bytes": 263,
+      "sha256": "e4d97c1269b7d7a835865561acf6df43e231b7d49f0d0ea0de94e3c6568bb259"
+    },
+    {
+      "name": "sliders-horizontal.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/sliders-horizontal.svg",
+      "bytes": 344,
+      "sha256": "eab96b181dcf408db138e44f7e8a526845cc20f554532897daea196461637f66"
+    },
+    {
+      "name": "user.svg",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/6c656968f9437bcd62fe2ef10a3dac651dcfd0fc/images/reconstructed-apps/brewly-coffee-ordering/icons/user.svg",
+      "bytes": 257,
+      "sha256": "0f2b9990c76b062fbf50d1a2def82786f7a76d35c80f31233a99e982ad4c5c69"
+    },
+    {
+      "name": "Inter-OFL.txt",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/fonts/apps/plant-explorer-2026-10-23/Inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57"
+    },
+    {
+      "name": "Inter-400.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-400.ttf",
+      "bytes": 341396,
+      "sha256": "34018885f1a6b63ace43073df0fc5642afc2f835d389a609e0bb7da02dd4d7b4"
+    },
+    {
+      "name": "Inter-500.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-500.ttf",
+      "bytes": 342004,
+      "sha256": "8480041424d41999a1e5a057dec760c41f3aede338150603839cb822ae7eb279"
+    },
+    {
+      "name": "Inter-600.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-600.ttf",
+      "bytes": 342688,
+      "sha256": "05b980c9d9b273e4024802f0c3c8866804c650935c6d440ef2820eead9a55f8d"
+    },
+    {
+      "name": "Inter-700.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/930dde610c79753d46f5a10bc150ee8392bfcae5/fonts/apps/plant-explorer-2026-10-23/Inter-complete-700.ttf",
+      "bytes": 343072,
+      "sha256": "454fa8aefec8191453c92f8f42ebfcb4b3187d51d5eadc192fadfd57cebe05a1"
+    }
+  ],
+  "viewport": {
+    "width": 430,
+    "height": 800,
+    "systemDecoration": false
+  },
+  "film": {
+    "width": 1440,
+    "height": 810,
+    "fps": 30,
+    "frames": 240,
+    "duration": 8,
+    "motionAuthorship": "authored",
+    "finalIdleHoldFrames": 18,
+    "sourceLoopEndpointsPixelEqual": true
+  }
+}
