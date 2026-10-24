@@ -1,0 +1,418 @@
+{
+  "projectId": "brewly-coffee-ordering",
+  "referenceCollagePx": {
+    "width": 1448,
+    "height": 1086
+  },
+  "referenceScreens": [
+    {
+      "id": "home",
+      "logicalPx": [
+        430,
+        870
+      ],
+      "deviceBoxPx": [
+        199,
+        35,
+        500,
+        1008
+      ]
+    },
+    {
+      "id": "product",
+      "logicalPx": [
+        430,
+        870
+      ],
+      "deviceBoxPx": [
+        754,
+        35,
+        500,
+        1008
+      ]
+    }
+  ],
+  "assets": [
+    {
+      "id": "icon-heart",
+      "file": "icons/heart.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-bell",
+      "file": "icons/bell.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-user",
+      "file": "icons/user.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-search",
+      "file": "icons/search.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-sliders-horizontal",
+      "file": "icons/sliders-horizontal.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-arrow-right",
+      "file": "icons/arrow-right.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-arrow-left",
+      "file": "icons/arrow-left.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-chevron-right",
+      "file": "icons/chevron-right.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-home",
+      "file": "icons/home.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-coffee",
+      "file": "icons/coffee.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-cart",
+      "file": "icons/cart.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-share",
+      "file": "icons/share.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-bean",
+      "file": "icons/bean.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-milk",
+      "file": "icons/milk.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-leaf",
+      "file": "icons/leaf.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-plus",
+      "file": "icons/plus.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-minus",
+      "file": "icons/minus.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-check",
+      "file": "icons/check.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    },
+    {
+      "id": "icon-more-horizontal",
+      "file": "icons/more-horizontal.svg",
+      "kind": "svg-icon",
+      "origin": "vector-reconstruction",
+      "url": null,
+      "productionReady": true
+    }
+  ],
+  "expectedPhotographicAssets": [
+    {
+      "id": "photo-hero",
+      "file": null,
+      "url": null,
+      "kind": "clean-photographic-scene",
+      "status": "generation-submitted-but-export-unavailable",
+      "alphaVerified": false
+    },
+    {
+      "id": "photo-detail",
+      "file": null,
+      "url": null,
+      "kind": "clean-photographic-scene",
+      "status": "generation-submitted-but-export-unavailable",
+      "alphaVerified": false
+    },
+    {
+      "id": "photo-cold",
+      "file": null,
+      "url": null,
+      "kind": "clean-photographic-scene",
+      "status": "generation-submitted-but-export-unavailable",
+      "alphaVerified": false
+    },
+    {
+      "id": "photo-beans",
+      "file": null,
+      "url": null,
+      "kind": "clean-photographic-scene",
+      "status": "generation-submitted-but-export-unavailable",
+      "alphaVerified": false
+    }
+  ],
+  "placements": [
+    {
+      "screenId": "home",
+      "assetId": "photo-hero",
+      "boxPx": [
+        20,
+        259,
+        390,
+        268
+      ],
+      "fit": "cover",
+      "position": "60% 50%",
+      "zIndex": 1
+    },
+    {
+      "screenId": "home",
+      "assetId": "photo-cold",
+      "boxPx": [
+        20,
+        558,
+        190,
+        179
+      ],
+      "fit": "cover",
+      "position": "69% 50%",
+      "zIndex": 1
+    },
+    {
+      "screenId": "home",
+      "assetId": "photo-beans",
+      "boxPx": [
+        220,
+        558,
+        190,
+        179
+      ],
+      "fit": "cover",
+      "position": "62% 50%",
+      "zIndex": 1
+    },
+    {
+      "screenId": "product",
+      "assetId": "photo-detail",
+      "boxPx": [
+        0,
+        0,
+        430,
+        565
+      ],
+      "fit": "cover",
+      "position": "50% 28%",
+      "zIndex": 1
+    }
+  ],
+  "uiElements": [
+    {
+      "screenId": "home",
+      "label": "Brewly· | Good coffee. Brighter days.",
+      "boxPx": [
+        27,
+        66,
+        268,
+        65
+      ]
+    },
+    {
+      "screenId": "home",
+      "label": "Search coffee, drinks, or beans...",
+      "boxPx": [
+        20,
+        142,
+        327,
+        49
+      ]
+    },
+    {
+      "screenId": "home",
+      "label": "All | Hot Coffee | Iced Drinks | Matcha | Beans",
+      "boxPx": [
+        20,
+        209,
+        390,
+        38
+      ]
+    },
+    {
+      "screenId": "home",
+      "label": "FEATURED | Caramel Latte | Rich espresso, velvety milk and a hint of caramel. | Order Now",
+      "boxPx": [
+        41,
+        295,
+        235,
+        195
+      ]
+    },
+    {
+      "screenId": "home",
+      "label": "Cold Brew | Smooth & bold",
+      "boxPx": [
+        42,
+        581,
+        148,
+        50
+      ]
+    },
+    {
+      "screenId": "home",
+      "label": "Our Beans | Roasted for you",
+      "boxPx": [
+        240,
+        581,
+        152,
+        50
+      ]
+    },
+    {
+      "screenId": "home",
+      "label": "Home | Orders | Cart | Favorites | Profile",
+      "boxPx": [
+        14,
+        754,
+        402,
+        86
+      ]
+    },
+    {
+      "screenId": "product",
+      "label": "SIGNATURE | Caramel Latte | Espresso with velvety steamed milk, homemade caramel and a hint of sea salt.",
+      "boxPx": [
+        27,
+        379,
+        376,
+        119
+      ]
+    },
+    {
+      "screenId": "product",
+      "label": "Bold Espresso | Fresh Milk | Caramel & Sea Salt",
+      "boxPx": [
+        27,
+        506,
+        376,
+        60
+      ]
+    },
+    {
+      "screenId": "product",
+      "label": "S 8 oz | M 12 oz | L 16 oz",
+      "boxPx": [
+        27,
+        622,
+        376,
+        46
+      ]
+    },
+    {
+      "screenId": "product",
+      "label": "Whole | Oat | Almond | Soy",
+      "boxPx": [
+        27,
+        704,
+        377,
+        38
+      ]
+    },
+    {
+      "screenId": "product",
+      "label": "− | 1 | + | Add to Cart $5.90",
+      "boxPx": [
+        18,
+        758,
+        388,
+        58
+      ]
+    }
+  ],
+  "designTokens": {
+    "bg": "#030405",
+    "surface": "#191C1F",
+    "lightText": "#F7F7F8",
+    "muted": "#A7A9AD",
+    "accent": "#FFD326",
+    "cardRadiusPx": 24,
+    "fontFamily": "Inter/SF-like (estimated)"
+  },
+  "delivery": {
+    "repository": "kiouoi996-commits/Repixel-Previews",
+    "photographsStatus": "not-exported",
+    "sourceZip": "delivered via ChatGPT chat, not uploaded to GitHub"
+  },
+  "limitations": [
+    "Device geometry is approximate based on screenshot",
+    "Cannot verify hidden photo content or exact font",
+    "Photorealistic image generation jobs did not return downloadable media bytes"
+  ]
+}

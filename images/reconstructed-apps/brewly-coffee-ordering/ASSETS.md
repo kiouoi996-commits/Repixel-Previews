@@ -1,0 +1,3 @@
+# BREWLY ASSETS
+
+Editable vectors: 19 independently authored SVG icons in icons/, each viewBox 0 0 24 24 and currentColor, no bitmap inside. Four photoreal scene files have not been exported; paths/URLs are null. See prompts/PHOTOREAL_ASSET_PROMPTS.json. Clean photos should show hero caramel latte (3:2), tall detail latte (3:4), square cold brew and square beans. Text, CTA, nav, outlines, button circles, status bar, photo readability gradients and cards are CODE. The original screenshot must not become a production image. Manifest placements are inferred logical CSS px in a 430×870 viewport, not pixels of the full 1448×1086 marketing collage. Full archive in conversation has original nonphotoreal vector studies. GitHub folder is not yet photo-complete.
