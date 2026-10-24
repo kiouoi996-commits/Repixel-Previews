@@ -7,28 +7,20 @@
   "referenceScreens": [
     {
       "id": "home",
-      "logicalPx": [
-        430,
-        870
-      ],
       "deviceBoxPx": [
-        199,
-        35,
-        500,
-        1008
+        193,
+        34,
+        486,
+        980
       ]
     },
     {
       "id": "product",
-      "logicalPx": [
-        430,
-        870
-      ],
       "deviceBoxPx": [
-        754,
-        35,
-        500,
-        1008
+        730,
+        34,
+        486,
+        980
       ]
     }
   ],
@@ -38,7 +30,7 @@
       "file": "icons/heart.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/heart.svg",
       "productionReady": true
     },
     {
@@ -46,7 +38,7 @@
       "file": "icons/bell.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/bell.svg",
       "productionReady": true
     },
     {
@@ -54,7 +46,7 @@
       "file": "icons/user.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/user.svg",
       "productionReady": true
     },
     {
@@ -62,7 +54,7 @@
       "file": "icons/search.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/search.svg",
       "productionReady": true
     },
     {
@@ -70,7 +62,7 @@
       "file": "icons/sliders-horizontal.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/sliders-horizontal.svg",
       "productionReady": true
     },
     {
@@ -78,7 +70,7 @@
       "file": "icons/arrow-right.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/arrow-right.svg",
       "productionReady": true
     },
     {
@@ -86,7 +78,7 @@
       "file": "icons/arrow-left.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/arrow-left.svg",
       "productionReady": true
     },
     {
@@ -94,7 +86,7 @@
       "file": "icons/chevron-right.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/chevron-right.svg",
       "productionReady": true
     },
     {
@@ -102,7 +94,7 @@
       "file": "icons/home.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/home.svg",
       "productionReady": true
     },
     {
@@ -110,7 +102,7 @@
       "file": "icons/coffee.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/coffee.svg",
       "productionReady": true
     },
     {
@@ -118,7 +110,7 @@
       "file": "icons/cart.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/cart.svg",
       "productionReady": true
     },
     {
@@ -126,7 +118,7 @@
       "file": "icons/share.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/share.svg",
       "productionReady": true
     },
     {
@@ -134,7 +126,7 @@
       "file": "icons/bean.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/bean.svg",
       "productionReady": true
     },
     {
@@ -142,7 +134,7 @@
       "file": "icons/milk.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/milk.svg",
       "productionReady": true
     },
     {
@@ -150,7 +142,7 @@
       "file": "icons/leaf.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/leaf.svg",
       "productionReady": true
     },
     {
@@ -158,7 +150,7 @@
       "file": "icons/plus.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/plus.svg",
       "productionReady": true
     },
     {
@@ -166,7 +158,7 @@
       "file": "icons/minus.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/minus.svg",
       "productionReady": true
     },
     {
@@ -174,7 +166,7 @@
       "file": "icons/check.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/check.svg",
       "productionReady": true
     },
     {
@@ -182,7 +174,7 @@
       "file": "icons/more-horizontal.svg",
       "kind": "svg-icon",
       "origin": "vector-reconstruction",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/icons/more-horizontal.svg",
       "productionReady": true
     }
   ],
@@ -409,7 +401,15 @@
     "repository": "kiouoi996-commits/Repixel-Previews",
     "photographsStatus": "not-exported",
     "sourceZip": "delivered via ChatGPT chat, not uploaded to GitHub",
-    "vectorDraftsStatus": "published"
+    "vectorDraftsStatus": "published",
+    "productionComplete": false,
+    "assetUrls": "Icon URLs pinned to known commit; raw CDN responses not separately reachable for public HTTP verification in this environment",
+    "requiredMissingAssets": [
+      "caramel-latte-featured.webp",
+      "caramel-latte-detail.webp",
+      "cold-brew.webp",
+      "roasted-coffee-beans.webp"
+    ]
   },
   "limitations": [
     "Device geometry is approximate based on screenshot",
@@ -420,7 +420,7 @@
     {
       "id": "draft-hero",
       "file": "drafts/hero-vector-study.svg",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/drafts/hero-vector-study.svg",
       "kind": "new-original-vector-study",
       "productionReady": false,
       "widthPx": 1024,
@@ -432,7 +432,7 @@
     {
       "id": "draft-detail",
       "file": "drafts/detail-vector-study.svg",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/drafts/detail-vector-study.svg",
       "kind": "new-original-vector-study",
       "productionReady": false,
       "widthPx": 850,
@@ -444,7 +444,7 @@
     {
       "id": "draft-cold-brew",
       "file": "drafts/cold-brew-vector-study.svg",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/drafts/cold-brew-vector-study.svg",
       "kind": "new-original-vector-study",
       "productionReady": false,
       "widthPx": 700,
@@ -456,7 +456,7 @@
     {
       "id": "draft-beans",
       "file": "drafts/beans-vector-study.svg",
-      "url": null,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ac1f05e59fb3758f1afae2e186281fde86386939/images/reconstructed-apps/brewly-coffee-ordering/drafts/beans-vector-study.svg",
       "kind": "new-original-vector-study",
       "productionReady": false,
       "widthPx": 700,
@@ -465,5 +465,164 @@
       "origin": "separately-authored-svg",
       "limitations": "Stylized vector art, not a photoreal reconstruction; not production image."
     }
-  ]
+  ],
+  "sceneReconstruction": [
+    {
+      "id": "photo-hero",
+      "expectedFilename": "caramel-latte-featured.webp",
+      "visibleRectScreenshotPx": {
+        "x": 215,
+        "y": 326,
+        "width": 443,
+        "height": 301
+      },
+      "visibleRectScreenshotPercent": {
+        "x": 14.8,
+        "y": 30,
+        "width": 30.6,
+        "height": 27.7
+      },
+      "subjectRectScreenshotPx": {
+        "x": 437,
+        "y": 365,
+        "width": 160,
+        "height": 248
+      },
+      "subjectWithinFramePercent": {
+        "left": 50.1,
+        "top": 13,
+        "width": 36.1,
+        "height": 82.4
+      },
+      "requiredExportPixels": [
+        1329,
+        903
+      ],
+      "alpha": false,
+      "objectFit": "cover",
+      "objectPosition": "54% 50%",
+      "visualSpec": "Glass on right, amber café background; whipped cream, caramel, beans; empty darker left for text.",
+      "productionStatus": "NOT GENERATED INDEPENDENTLY",
+      "productionFile": null,
+      "url": null
+    },
+    {
+      "id": "photo-detail",
+      "expectedFilename": "caramel-latte-detail.webp",
+      "visibleRectScreenshotPx": {
+        "x": 731,
+        "y": 35,
+        "width": 485,
+        "height": 515
+      },
+      "visibleRectScreenshotPercent": {
+        "x": 50.5,
+        "y": 3.2,
+        "width": 33.5,
+        "height": 47.4
+      },
+      "subjectRectScreenshotPx": {
+        "x": 867,
+        "y": 130,
+        "width": 243,
+        "height": 349
+      },
+      "subjectWithinFramePercent": {
+        "left": 28,
+        "top": 18.4,
+        "width": 50.1,
+        "height": 67.8
+      },
+      "requiredExportPixels": [
+        1455,
+        1545
+      ],
+      "alpha": false,
+      "objectFit": "cover",
+      "objectPosition": "50% 27%",
+      "visualSpec": "Large central faceted latte glass, caramel topping; dramatic warm backlight, roasted beans; fade to near-black at bottom.",
+      "productionStatus": "NOT GENERATED INDEPENDENTLY",
+      "productionFile": null,
+      "url": null
+    },
+    {
+      "id": "photo-cold",
+      "expectedFilename": "cold-brew.webp",
+      "visibleRectScreenshotPx": {
+        "x": 215,
+        "y": 662,
+        "width": 215,
+        "height": 200
+      },
+      "visibleRectScreenshotPercent": {
+        "x": 14.8,
+        "y": 61,
+        "width": 14.8,
+        "height": 18.4
+      },
+      "subjectRectScreenshotPx": {
+        "x": 311,
+        "y": 750,
+        "width": 121,
+        "height": 119
+      },
+      "subjectWithinFramePercent": {
+        "left": 44.7,
+        "top": 44,
+        "width": 56.3,
+        "height": 59.5
+      },
+      "requiredExportPixels": [
+        645,
+        600
+      ],
+      "alpha": false,
+      "objectFit": "cover",
+      "objectPosition": "72% 56%",
+      "visualSpec": "Iced black cold brew glass low-right, clipped bottom; dark teal background; decorative teal arcs via CSS, not in photo.",
+      "productionStatus": "NOT GENERATED INDEPENDENTLY",
+      "productionFile": null,
+      "url": null
+    },
+    {
+      "id": "photo-beans",
+      "expectedFilename": "roasted-coffee-beans.webp",
+      "visibleRectScreenshotPx": {
+        "x": 443,
+        "y": 662,
+        "width": 216,
+        "height": 200
+      },
+      "visibleRectScreenshotPercent": {
+        "x": 30.6,
+        "y": 61,
+        "width": 14.9,
+        "height": 18.4
+      },
+      "subjectRectScreenshotPx": {
+        "x": 500,
+        "y": 729,
+        "width": 161,
+        "height": 125
+      },
+      "subjectWithinFramePercent": {
+        "left": 26.4,
+        "top": 33.5,
+        "width": 74.5,
+        "height": 62.5
+      },
+      "requiredExportPixels": [
+        648,
+        600
+      ],
+      "alpha": false,
+      "objectFit": "cover",
+      "objectPosition": "67% 57%",
+      "visualSpec": "Diagonal wooden scoop of glossy roasted beans with warm gold bokeh; clipped right.",
+      "productionStatus": "NOT GENERATED INDEPENDENTLY",
+      "productionFile": null,
+      "url": null
+    }
+  ],
+  "productionComplete": false
 }
