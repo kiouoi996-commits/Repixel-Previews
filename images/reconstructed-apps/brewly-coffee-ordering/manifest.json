@@ -408,11 +408,62 @@
   "delivery": {
     "repository": "kiouoi996-commits/Repixel-Previews",
     "photographsStatus": "not-exported",
-    "sourceZip": "delivered via ChatGPT chat, not uploaded to GitHub"
+    "sourceZip": "delivered via ChatGPT chat, not uploaded to GitHub",
+    "vectorDraftsStatus": "published"
   },
   "limitations": [
     "Device geometry is approximate based on screenshot",
     "Cannot verify hidden photo content or exact font",
     "Photorealistic image generation jobs did not return downloadable media bytes"
+  ],
+  "draftAssets": [
+    {
+      "id": "draft-hero",
+      "file": "drafts/hero-vector-study.svg",
+      "url": null,
+      "kind": "new-original-vector-study",
+      "productionReady": false,
+      "widthPx": 1024,
+      "heightPx": 680,
+      "alphaRequired": false,
+      "origin": "separately-authored-svg",
+      "limitations": "Stylized vector art, not a photoreal reconstruction; not production image."
+    },
+    {
+      "id": "draft-detail",
+      "file": "drafts/detail-vector-study.svg",
+      "url": null,
+      "kind": "new-original-vector-study",
+      "productionReady": false,
+      "widthPx": 850,
+      "heightPx": 1200,
+      "alphaRequired": false,
+      "origin": "separately-authored-svg",
+      "limitations": "Stylized vector art, not a photoreal reconstruction; not production image."
+    },
+    {
+      "id": "draft-cold-brew",
+      "file": "drafts/cold-brew-vector-study.svg",
+      "url": null,
+      "kind": "new-original-vector-study",
+      "productionReady": false,
+      "widthPx": 700,
+      "heightPx": 700,
+      "alphaRequired": false,
+      "origin": "separately-authored-svg",
+      "limitations": "Stylized vector art, not a photoreal reconstruction; not production image."
+    },
+    {
+      "id": "draft-beans",
+      "file": "drafts/beans-vector-study.svg",
+      "url": null,
+      "kind": "new-original-vector-study",
+      "productionReady": false,
+      "widthPx": 700,
+      "heightPx": 700,
+      "alphaRequired": false,
+      "origin": "separately-authored-svg",
+      "limitations": "Stylized vector art, not a photoreal reconstruction; not production image."
+    }
   ]
 }
