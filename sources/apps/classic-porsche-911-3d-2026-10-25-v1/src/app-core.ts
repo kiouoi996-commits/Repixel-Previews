@@ -42,6 +42,7 @@ export class ClassicApp {
     this.stage.querySelectorAll<HTMLElement>('[data-part]').forEach(node => this.el.set(node.dataset.part!, node));
     this.observer = new ResizeObserver(() => this.fit());
     this.observer.observe(host); this.fit();
+    if (!options.film) {const resize = () => this.fit(); window.addEventListener('resize', resize); this.cleanup.push(() => window.removeEventListener('resize', resize));}
     if (!options.film) {
       try {this.pose.favorite = localStorage.getItem(storageKey) === 'true';} catch { /* Storage can be disabled. */ }
       this.bind();
@@ -92,7 +93,11 @@ export class ClassicApp {
   }
   private fit() {
     const scale = this.host.clientWidth / W;
-    this.host.style.height = `${H * scale}px`;
+    const height = this.options.film ? H * scale : Math.max(H * scale, window.innerHeight);
+    const extra = height / scale - H;
+    this.host.style.height = `${height}px`;
+    this.stage.style.height = `${H + extra}px`;
+    this.stage.style.setProperty('--extra-h', `${extra}px`);
     this.stage.style.transform = `scale(${scale})`;
   }
   private async load() {
