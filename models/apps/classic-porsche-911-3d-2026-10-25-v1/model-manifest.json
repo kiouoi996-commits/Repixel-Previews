@@ -1,0 +1,80 @@
+{
+  "modelTask": "365ee65a-3783-480c-8919-2e366ed841a6",
+  "modelVersion": "v3.1-20260211",
+  "multiviewTask": "880a8691-3c58-44b6-90aa-e5d4940fcfc1",
+  "creditsConsumed": {
+    "multiview": 10,
+    "model": 60
+  },
+  "triangles": 56125,
+  "vertices": 37754,
+  "originalBytes": 10721908,
+  "originalSha256": "920ae64bd17938091fafb7c82dc501c93eac2c5029f4376cd5df3c9fc75d65f9",
+  "webBytes": 3032684,
+  "webSha256": "e6d0278688e0f300ebc610305c3d972c4a7742e6438ee15e68aafd40f76a9d6b",
+  "geometryBufferViews": [
+    {
+      "bufferView": 0,
+      "bytes": 673500,
+      "sha256": "80a9c605d56114c3f60c9c2725e00229f49349ed06cfeebc08324c2bbb0543d6"
+    },
+    {
+      "bufferView": 1,
+      "bytes": 453048,
+      "sha256": "ffaba8b588167a539f3b45303faedbcba2e4292952bec8dd9ee9adb9ac228cc4"
+    },
+    {
+      "bufferView": 2,
+      "bytes": 302032,
+      "sha256": "1ab8ce39ba5a98f2c5e6fa3650398cb64f2903e4f632e9f9544d67449c4b87eb"
+    },
+    {
+      "bufferView": 3,
+      "bytes": 453048,
+      "sha256": "4301aa4b8ad8997b9840fe01e9858177ce71b13b807ee9c60fa21f5e74099e78"
+    }
+  ],
+  "textures": [
+    {
+      "name": "Color_365ee65a-3783-480c-8919-2e366ed841a6",
+      "originalSize": [
+        4096,
+        4096
+      ],
+      "webSize": [
+        2048,
+        2048
+      ],
+      "quality": 92,
+      "bytes": 498206
+    },
+    {
+      "name": "ORM_365ee65a-3783-480c-8919-2e366ed841a6",
+      "originalSize": [
+        4096,
+        4096
+      ],
+      "webSize": [
+        2048,
+        2048
+      ],
+      "quality": 92,
+      "bytes": 471336
+    },
+    {
+      "name": "NormalGL_365ee65a-3783-480c-8919-2e366ed841a6",
+      "originalSize": [
+        4096,
+        4096
+      ],
+      "webSize": [
+        2048,
+        2048
+      ],
+      "quality": 92,
+      "bytes": 179042
+    }
+  ],
+  "orientation": "Root rotation -90 degrees around Y has been applied once. Forward is +Z, up is +Y. Runtime fits uniformly; no additional orientation rotation.",
+  "limitations": "A reconstructed 1967 Porsche 911 from image references, not manufacturer CAD. One combined mesh/material, including the wheels and interior. Windows and fine lettering are reconstructed."
+}
