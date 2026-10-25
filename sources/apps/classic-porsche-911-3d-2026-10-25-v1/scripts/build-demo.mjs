@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import path from 'node:path';
+import {build} from 'esbuild';
+const root = path.resolve(import.meta.dirname, '..');
+const assets = JSON.parse(fs.readFileSync(path.join(root, 'published-assets.json'), 'utf8'));
+const result = await build({entryPoints:[path.join(root, 'src/live.ts')], bundle:true, write:false, outdir:'bundled', format:'esm', target:'es2022', minify:true, legalComments:'inline', define:{__CLASSIC_ASSET_URLS__:JSON.stringify(assets)}, logLevel:'warning'});
+const js = result.outputFiles.find(file => file.path.endsWith('.js')).text;
+const css = result.outputFiles.find(file => file.path.endsWith('.css')).text;
+const html = `<!doctype html>\n<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#f6f5f2"><title>Classic — Porsche 911 3D</title><style>${css}</style></head><body><main id="app" aria-label="Classic car collection"></main><script type="module">${js.replaceAll('</script', '<\\/script')}</script></body></html>\n`;
+fs.mkdirSync(path.join(root,'out'),{recursive:true});
+fs.writeFileSync(path.join(root,'out/classic-porsche-demo.html'),html);
+console.log(`Standalone live app: ${Buffer.byteLength(html)} bytes`);

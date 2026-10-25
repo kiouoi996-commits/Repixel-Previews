@@ -1,0 +1,30 @@
+{
+  "name": "classic-porsche-3d",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0 --port 3130",
+    "studio": "remotion studio src/index.ts --port 3131 --no-open",
+    "render": "remotion render src/index.ts ClassicPorsche out/classic-porsche-3d-2026-10-25-v1.mp4 --codec=h264 --crf=20 --gl=swangle --concurrency=4",
+    "build:demo": "node scripts/build-demo.mjs",
+    "fetch:assets": "node scripts/fetch-assets.mjs"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.534",
+    "@remotion/three": "4.0.534",
+    "remotion": "4.0.534",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "@react-three/fiber": "^9.0.0",
+    "three": "^0.180.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.180.0",
+    "typescript": "~5.8.2",
+    "vite": "6.2.3",
+    "esbuild": "0.25.0"
+  }
+}

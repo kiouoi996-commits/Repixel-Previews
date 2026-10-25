@@ -1,0 +1,22 @@
+{
+  "video": {
+    "bytes": 1115737,
+    "sha256": "260efbadeb6429e2c9145808dbede7c4d74ab305e29a90dea0b9df0ffca50d42",
+    "width": 1448,
+    "height": 1086,
+    "fps": 30,
+    "frames": 420,
+    "duration": 14,
+    "codec": "h264",
+    "silent": true,
+    "faststart": true,
+    "motionAuthorship": "authored",
+    "loopEndpointsPixelEqual": true
+  },
+  "poster": {
+    "bytes": 47584,
+    "sha256": "a224edd4184b8d96c513a9e6fc959e6bd61b0903b240cf46c542e9eb5093f109",
+    "width": 1448,
+    "height": 1086
+  }
+}
