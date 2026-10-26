@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "cardId": "air-max-shoe-store",
-  "title": "Air Max \u2014 Sneaker Collection",
+  "title": "Air Max — Sneaker Collection",
   "appViewport": {
     "width": 420,
     "height": 860
@@ -271,9 +271,9 @@
     {
       "name": "shoe-app.html",
       "path": "sources/apps/air-max-shoe-store-2026-10-26/shoe-app.html",
-      "bytes": 120615,
-      "sha256": "3e5245fe34176f6421ede8a7859355ecf3a65f19ef18d1e73359fa6dc081623a",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/sources/apps/air-max-shoe-store-2026-10-26/shoe-app.html"
+      "bytes": 120746,
+      "sha256": "626051e2062a2bdffc4040e35d988b9381756f48bd8080e59ec357dafe820db0",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/f577af1fc5205c274a0f41d25e67e472aae8b02b/sources/apps/air-max-shoe-store-2026-10-26/shoe-app.html"
     },
     {
       "name": "README.md",
@@ -322,11 +322,11 @@
     "status": "valid"
   },
   "previewVideo": {
-    "name": "air-max-shoe-store-2026-10-26.mp4",
-    "path": "videos/apps/air-max-shoe-store-2026-10-26.mp4",
-    "bytes": 1732470,
-    "sha256": "941eca38978b8a35b43b9f40906d9329022e8b6385d69cfc00727312fd0d8f4e",
-    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/videos/apps/air-max-shoe-store-2026-10-26.mp4",
+    "name": "air-max-shoe-store-2026-10-26-v2.mp4",
+    "path": "videos/apps/air-max-shoe-store-2026-10-26-v2.mp4",
+    "bytes": 1718705,
+    "sha256": "66303fed4f7f8812ee72def45c08dd7a2e286e08bad0352a58b64c5ae068a4f6",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/f577af1fc5205c274a0f41d25e67e472aae8b02b/videos/apps/air-max-shoe-store-2026-10-26-v2.mp4",
     "width": 1536,
     "height": 1024,
     "fps": 30,
@@ -344,6 +344,7 @@
     "passed": true,
     "checks": [
       "shared card expansion and inverse return",
+      "shared CTA inset stays circular after route and gesture updates",
       "native horizontal catalog/collection strips",
       "real drag: cancellation, commit, reversal",
       "three-model Air Max keyboard loop and exact prices",
