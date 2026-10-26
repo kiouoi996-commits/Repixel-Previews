@@ -1,0 +1,363 @@
+{
+  "schemaVersion": 1,
+  "cardId": "air-max-shoe-store",
+  "title": "Air Max \u2014 Sneaker Collection",
+  "appViewport": {
+    "width": 420,
+    "height": 860
+  },
+  "evidence": "Authored2.5D reconstruction of the supplied1536x1024 three-view sneaker design. Original source code, font identity and hidden photographic pixels are unconfirmed. Images are new ImageGen reconstructions.",
+  "assets": [
+    {
+      "name": "air-max-pulse.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/air-max-pulse.webp",
+      "bytes": 259620,
+      "sha256": "5ab46ed5ad230dd491fab84fe9ed4a7d9779dbd54ed6250ff47fe5fa7dc716b5",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/air-max-pulse.webp"
+    },
+    {
+      "name": "react-infinity.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/react-infinity.webp",
+      "bytes": 228602,
+      "sha256": "5c05eef6a46120017384e66c1df5356e13b2581c3b6c5f5b7c61a60518f8b255",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/react-infinity.webp"
+    },
+    {
+      "name": "kd16.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/kd16.webp",
+      "bytes": 220654,
+      "sha256": "7e413c9b061df4749f7746ecdc050488211e950fdf47844668d14aa8bf80b8a8",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/kd16.webp"
+    },
+    {
+      "name": "pegasus-40.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/pegasus-40.webp",
+      "bytes": 219848,
+      "sha256": "93dd885b2cb6f6292e52475cca6901c34fe080d550d6321f326543e38a8d7d51",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/pegasus-40.webp"
+    },
+    {
+      "name": "air-max-270.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/air-max-270.webp",
+      "bytes": 266136,
+      "sha256": "dd889681598088278d2b5fbc38491fd7cecdbbfcb3eaf0d6b08d18e5b4a72f9b",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/air-max-270.webp"
+    },
+    {
+      "name": "air-max-97.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/air-max-97.webp",
+      "bytes": 294742,
+      "sha256": "1dcc52d837f683c2083fbe99bede2ca3df4db78f838aa38979067d7a34fb09c5",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/air-max-97.webp"
+    },
+    {
+      "name": "pulse-heel.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/pulse-heel.webp",
+      "bytes": 325824,
+      "sha256": "0a31635cb0b64d5d6f5b81f5564ae8dada53241ea5b0f64cd2cd6523db945c49",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/pulse-heel.webp"
+    },
+    {
+      "name": "concrete-podium.webp",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/concrete-podium.webp",
+      "bytes": 333654,
+      "sha256": "b1689c7f45682fedd607ef5e505823b1d97d46b82d3743be227ff284939d8f76",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen visual reconstruction; generated alpha preserved exactly",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/concrete-podium.webp"
+    }
+  ],
+  "vectors": [
+    {
+      "name": "menu.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/menu.svg",
+      "bytes": 218,
+      "sha256": "5a242024b65010e1bd72b3ef04183bac7cd0911872842fba4ea9adea2db5474b",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/menu.svg"
+    },
+    {
+      "name": "search.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/search.svg",
+      "bytes": 242,
+      "sha256": "a9483cb2ef937036c6daa99cfa4ac3c964bd711c136a314d008293d3010cd5f7",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/search.svg"
+    },
+    {
+      "name": "arrow-left.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/arrow-left.svg",
+      "bytes": 215,
+      "sha256": "2377a6560169d27357048f074f7668b9fb90eac593e9bf9720236e785fd32207",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/arrow-left.svg"
+    },
+    {
+      "name": "arrow-right.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/arrow-right.svg",
+      "bytes": 216,
+      "sha256": "4759d78c40644b804f99b266b8c35792b7b07fe07388cd4cc226707d4d636ba7",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/arrow-right.svg"
+    },
+    {
+      "name": "plus.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/plus.svg",
+      "bytes": 211,
+      "sha256": "773e1c666a7c3a439b6abe9932c8865a50e8a21608883d9c3d0fcb33a15c65d6",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/plus.svg"
+    },
+    {
+      "name": "minus.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/minus.svg",
+      "bytes": 203,
+      "sha256": "f8676cbb0d57f2205574508b134c50c17a19ad37370dc24d5b4c065fb82d1f87",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/minus.svg"
+    },
+    {
+      "name": "bag.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/bag.svg",
+      "bytes": 248,
+      "sha256": "5035ba775e9af98011025ee8d6b006a86c6bc5ef7f9c189c5ef38d9511a18454",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/bag.svg"
+    },
+    {
+      "name": "heart.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/heart.svg",
+      "bytes": 297,
+      "sha256": "9048611f00c6c1e78086d3d8305ba401f75c3398baf72867bbefe7e938f3d7ef",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/heart.svg"
+    },
+    {
+      "name": "heart-filled.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/heart-filled.svg",
+      "bytes": 312,
+      "sha256": "3f74cc242f4fa19735bc523a21441f016048f80e0361227b483b8a2b3ff500b3",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/heart-filled.svg"
+    },
+    {
+      "name": "close.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/close.svg",
+      "bytes": 215,
+      "sha256": "3bee338ef308f21f843e1c43a608019429fa1ab473088fd8467589710677a412",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/close.svg"
+    },
+    {
+      "name": "check.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/check.svg",
+      "bytes": 209,
+      "sha256": "bcd6eeec65b1eb4fe2e779f5a32f7c5280c5c9f8ea953d490d53919e1fa70389",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/check.svg"
+    },
+    {
+      "name": "trash.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/trash.svg",
+      "bytes": 239,
+      "sha256": "8a6e0924c4314763b51e48a540b2ddfc26589be1b6c5f3cdd7e11637bd567b3b",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the visible outline glyph language",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/trash.svg"
+    },
+    {
+      "name": "chevron-left.svg",
+      "path": "images/apps/air-max-shoe-store-2026-10-26/icons/chevron-left.svg",
+      "bytes": 208,
+      "sha256": "5e75fdf42c21845c3fcacc5fb113bc61f69bfc875db72ebf1b8f1674d2280559",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored SVG matching the collection back chevron",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/b7e1dfccf905e73ffc58ac106d93e48bf1849d36/images/apps/air-max-shoe-store-2026-10-26/icons/chevron-left.svg"
+    }
+  ],
+  "fontResources": [
+    {
+      "name": "Inter-variable.woff",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/c86e83ba2bad359906207241951e9a0b2d7e4977/fonts/websites/bloom-floral-chronicle-2026-10-10/Inter-variable.woff",
+      "bytes": 457780,
+      "sha256": "0ac13fa3921bc63a89b57a49c9100963ea958d6d4c9894c2c65dd17e543feac5",
+      "kind": "font"
+    },
+    {
+      "name": "Inter-OFL.txt",
+      "path": "fonts/apps/plant-explorer-2026-10-23/Inter-OFL.txt",
+      "bytes": 4377,
+      "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+      "kind": "license",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/0623bc896008ddfc64da5312ca86f55c0d948aaf/fonts/apps/plant-explorer-2026-10-23/Inter-OFL.txt"
+    }
+  ],
+  "implementation": [
+    {
+      "name": "shoe-app.html",
+      "path": "sources/apps/air-max-shoe-store-2026-10-26/shoe-app.html",
+      "bytes": 120615,
+      "sha256": "3e5245fe34176f6421ede8a7859355ecf3a65f19ef18d1e73359fa6dc081623a",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/sources/apps/air-max-shoe-store-2026-10-26/shoe-app.html"
+    },
+    {
+      "name": "README.md",
+      "path": "sources/apps/air-max-shoe-store-2026-10-26/README.md",
+      "bytes": 4723,
+      "sha256": "2a992cd99a09e539b3738087e1c86b870f7f1541908ae857468746e260ee9c91",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/sources/apps/air-max-shoe-store-2026-10-26/README.md"
+    },
+    {
+      "name": "asset-generation.json",
+      "path": "sources/apps/air-max-shoe-store-2026-10-26/asset-generation.json",
+      "bytes": 8941,
+      "sha256": "2de0f9cadd9c1f61051c6d1559525138fd46ef13979bf40d535935ee7a47a0e0",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/sources/apps/air-max-shoe-store-2026-10-26/asset-generation.json"
+    },
+    {
+      "name": "render.cjs",
+      "path": "sources/apps/air-max-shoe-store-2026-10-26/render.cjs",
+      "bytes": 1641,
+      "sha256": "3e33a1c8f6c5f71ea11e086fba0275e45cdb83842bfa3cb3323e897fbd3b6225",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/sources/apps/air-max-shoe-store-2026-10-26/render.cjs"
+    },
+    {
+      "name": "serve.cjs",
+      "path": "sources/apps/air-max-shoe-store-2026-10-26/serve.cjs",
+      "bytes": 712,
+      "sha256": "2cafd89e37be8e54de3f865f924e744117ced35ee5a0c6bec44bceedd249a0ec",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/sources/apps/air-max-shoe-store-2026-10-26/serve.cjs"
+    },
+    {
+      "name": "vendor/gsap.min.js",
+      "path": "sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d85a7e3d5bdaf326d22ea3e9cbe59fa12e449d97/sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js",
+      "bytes": 72927,
+      "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+    }
+  ],
+  "poster": {
+    "name": "preview.webp",
+    "path": "images/apps/air-max-shoe-store-2026-10-26/preview.webp",
+    "bytes": 46224,
+    "sha256": "dedadee07409b08b34ba269623965f87760216032a20184b04bc203f7c54b6f0",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/images/apps/air-max-shoe-store-2026-10-26/preview.webp",
+    "width": 1536,
+    "height": 1024,
+    "status": "valid"
+  },
+  "previewVideo": {
+    "name": "air-max-shoe-store-2026-10-26.mp4",
+    "path": "videos/apps/air-max-shoe-store-2026-10-26.mp4",
+    "bytes": 1732470,
+    "sha256": "941eca38978b8a35b43b9f40906d9329022e8b6385d69cfc00727312fd0d8f4e",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/9a36e1ca296475d7b65f9b08582bf1f7e7f25eb7/videos/apps/air-max-shoe-store-2026-10-26.mp4",
+    "width": 1536,
+    "height": 1024,
+    "fps": 30,
+    "frames": 420,
+    "duration": 14,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "silent": true,
+    "faststart": true,
+    "motionAuthorship": "authored",
+    "loopEndpointsPixelEqual": true,
+    "endpointMethod": "Actual final idle source frame400 is pixel-identical to frame0. Final twelve source PNG files reuse frame0. Equality after lossy H.264 decoding is not claimed."
+  },
+  "verification": {
+    "passed": true,
+    "checks": [
+      "shared card expansion and inverse return",
+      "native horizontal catalog/collection strips",
+      "real drag: cancellation, commit, reversal",
+      "three-model Air Max keyboard loop and exact prices",
+      "saved state per shoe",
+      "detail Add then collection quick-add reaches badge2",
+      "integer-cent totals, removal and checkout payload",
+      "macro heel/banner expansion and inverse return",
+      "reopen four different products without stale title/price/image layers",
+      "search and focus restoration",
+      "category empty state and saved filter",
+      "three routes at390x844 and360x780",
+      "reduced motion",
+      "zero console/page errors"
+    ]
+  },
+  "animationDelivery": "Byte-verified GSAP code is embedded in the standalone HTML with its license intact; the pinned original JS is a reproducibility resource."
+}
