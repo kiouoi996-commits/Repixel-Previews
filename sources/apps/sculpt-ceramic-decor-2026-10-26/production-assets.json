@@ -3,8 +3,7 @@
   "assets": [
     {
       "name": "preview.webp",
-      "path": "/workspace/scratch/2fe3dbc914ad/sculpt-decor/preview.webp",
-      "repoPath": "images/apps/sculpt-ceramic-decor-2026-10-26/preview.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/preview.webp",
       "bytes": 83456,
       "sha256": "2d05e198f685df0088e848646349040d3eae2606d1f876bfedf1dcb336e0a167",
       "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d85a7e3d5bdaf326d22ea3e9cbe59fa12e449d97/images/apps/sculpt-ceramic-decor-2026-10-26/preview.webp",
@@ -14,7 +13,7 @@
     },
     {
       "name": "coral-vase.webp",
-      "path": "assets/coral-vase.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/coral-vase.webp",
       "bytes": 193202,
       "sha256": "4d6429627383f625a332d33bbe51830c76eed823a94fb043c333bb2a5a98a715",
       "status": "valid",
@@ -26,7 +25,7 @@
     },
     {
       "name": "interior-hero.webp",
-      "path": "assets/interior-hero.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/interior-hero.webp",
       "bytes": 180656,
       "sha256": "8b721fa0fd23b4ef9a8a41911785ac767caf0a87270ea027b884445da461f473",
       "status": "valid",
@@ -38,7 +37,7 @@
     },
     {
       "name": "profile-avatar.webp",
-      "path": "assets/profile-avatar.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/profile-avatar.webp",
       "bytes": 55116,
       "sha256": "804f82ec0a4bb455c9993061d8c62d9de4bc1d6e45edefbaf335ddcc227f0b68",
       "status": "valid",
@@ -50,7 +49,7 @@
     },
     {
       "name": "ridge-vase.webp",
-      "path": "assets/ridge-vase.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/ridge-vase.webp",
       "bytes": 66920,
       "sha256": "289c3f4b923e6b00c40cf71d8d9f52c26c5b71fff8a4dafb942b9c7a2c6f18df",
       "status": "valid",
@@ -62,7 +61,7 @@
     },
     {
       "name": "terra-catalog.webp",
-      "path": "assets/terra-catalog.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/terra-catalog.webp",
       "bytes": 221146,
       "sha256": "f348e96d0d4f675063ad5994fdb0664dfbeffa83d7df70802e235d94bf64c6af",
       "status": "valid",
@@ -74,7 +73,7 @@
     },
     {
       "name": "terra-coral.webp",
-      "path": "assets/terra-coral.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/terra-coral.webp",
       "bytes": 164974,
       "sha256": "43734713288be0d453d51085ed96c2f16cb53cf07b37d1e6d261dfe2703514e0",
       "status": "valid",
@@ -86,7 +85,7 @@
     },
     {
       "name": "terra-detail.webp",
-      "path": "assets/terra-detail.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/terra-detail.webp",
       "bytes": 193036,
       "sha256": "82c91d59e3541b1170dddca3cd3728f7b1ee5fa142ac50865168aa93cdc1f4c2",
       "status": "valid",
@@ -98,7 +97,7 @@
     },
     {
       "name": "terra-sand.webp",
-      "path": "assets/terra-sand.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/terra-sand.webp",
       "bytes": 165990,
       "sha256": "560b7dd5d084b689a6a2f15169e35d2ffb3623c16bb30860ebe0da20e9b753c9",
       "status": "valid",
@@ -110,7 +109,7 @@
     },
     {
       "name": "terra-yellow.webp",
-      "path": "assets/terra-yellow.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/terra-yellow.webp",
       "bytes": 159832,
       "sha256": "9d6ecb26bec344a9b41c1bfed868e3266f9df32a517a94fe51c82db040e82bd1",
       "status": "valid",
@@ -122,7 +121,7 @@
     },
     {
       "name": "yellow-vase.webp",
-      "path": "assets/yellow-vase.webp",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/yellow-vase.webp",
       "bytes": 118338,
       "sha256": "be305ff1dd4455132baaf95b1986d9203504bdece3874a0ea91668f98df68a22",
       "status": "valid",
@@ -136,7 +135,7 @@
   "vectors": [
     {
       "name": "arrow-right.svg",
-      "path": "assets/icons/arrow-right.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/arrow-right.svg",
       "bytes": 224,
       "sha256": "1a5803be9581b87e9563897227cd2bd805a86cb1cce14179aadccbd9e380ec06",
       "status": "valid",
@@ -147,7 +146,7 @@
     },
     {
       "name": "bag.svg",
-      "path": "assets/icons/bag.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/bag.svg",
       "bytes": 300,
       "sha256": "f13ef6056e61e0537bb7c03bd6421025c8ee7141683961c903dc4a48f0528c6e",
       "status": "valid",
@@ -158,7 +157,7 @@
     },
     {
       "name": "cart.svg",
-      "path": "assets/icons/cart.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/cart.svg",
       "bytes": 285,
       "sha256": "62a828bcdcb0ca16a20cd2a5b3f8abbb9ceb3cb02ced33fe16046187d6cae519",
       "status": "valid",
@@ -169,7 +168,7 @@
     },
     {
       "name": "check.svg",
-      "path": "assets/icons/check.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/check.svg",
       "bytes": 217,
       "sha256": "ea4e944b2f0b58fe54f097c6e879abc2650fcc3f5a80d5f413ed30c9f9c38318",
       "status": "valid",
@@ -180,7 +179,7 @@
     },
     {
       "name": "chevron-left.svg",
-      "path": "assets/icons/chevron-left.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/chevron-left.svg",
       "bytes": 216,
       "sha256": "abf88fe655553ce7bb303188528d21e2957cebcc6cd98c91c5be647d4ae2ab83",
       "status": "valid",
@@ -191,7 +190,7 @@
     },
     {
       "name": "chevron-right.svg",
-      "path": "assets/icons/chevron-right.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/chevron-right.svg",
       "bytes": 215,
       "sha256": "5ef181142f4a2107363fea03b4b6277919de6194a700d05ad31cfd4ee2279e6f",
       "status": "valid",
@@ -202,7 +201,7 @@
     },
     {
       "name": "close.svg",
-      "path": "assets/icons/close.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/close.svg",
       "bytes": 223,
       "sha256": "6e170954eea2e2e85582ef0fe0d71aef22959b0f355b6764f050a228740af471",
       "status": "valid",
@@ -213,7 +212,7 @@
     },
     {
       "name": "filter.svg",
-      "path": "assets/icons/filter.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/filter.svg",
       "bytes": 333,
       "sha256": "0a388b5c42b14c59bb682a93ef6e29e75ecab5b7d8c310bf36e010defc5524a8",
       "status": "valid",
@@ -224,7 +223,7 @@
     },
     {
       "name": "heart.svg",
-      "path": "assets/icons/heart.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/heart.svg",
       "bytes": 303,
       "sha256": "65d8d465df26b6b54780eaab53c3410f0de4ede230d8f08bbcb0c0b1718c3887",
       "status": "valid",
@@ -235,7 +234,7 @@
     },
     {
       "name": "home.svg",
-      "path": "assets/icons/home.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/home.svg",
       "bytes": 268,
       "sha256": "849c350d1fb9bc83c1d30c789d265c2458a161f80eba73796e31e6a183b0d8b3",
       "status": "valid",
@@ -246,7 +245,7 @@
     },
     {
       "name": "minus.svg",
-      "path": "assets/icons/minus.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/minus.svg",
       "bytes": 211,
       "sha256": "d782a9fc54118de55e77861cc862542fbdc611b7079bd97ea6cf5802b154e725",
       "status": "valid",
@@ -257,7 +256,7 @@
     },
     {
       "name": "plus.svg",
-      "path": "assets/icons/plus.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/plus.svg",
       "bytes": 219,
       "sha256": "ccfe8ede52066a3edbf3eede7522ea1c4ff74c444dabdb6885077f765f5b4b66",
       "status": "valid",
@@ -268,7 +267,7 @@
     },
     {
       "name": "search.svg",
-      "path": "assets/icons/search.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/search.svg",
       "bytes": 248,
       "sha256": "0ce1e30a5e29a30206579e41cb854673093e4741ab6560af643400a125068d13",
       "status": "valid",
@@ -279,7 +278,7 @@
     },
     {
       "name": "user.svg",
-      "path": "assets/icons/user.svg",
+      "path": "images/apps/sculpt-ceramic-decor-2026-10-26/icons/user.svg",
       "bytes": 264,
       "sha256": "a2be92ffbbf4e28b2aa0b1619724e888ce5d21138b3a496757e1b90a47dcf84d",
       "status": "valid",
@@ -352,8 +351,7 @@
   },
   "gsap": {
     "name": "vendor/gsap.min.js",
-    "path": "/workspace/scratch/2fe3dbc914ad/sculpt-decor/vendor/gsap.min.js",
-    "repoPath": "sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js",
+    "path": "sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js",
     "bytes": 72927,
     "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
     "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d85a7e3d5bdaf326d22ea3e9cbe59fa12e449d97/sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js"
