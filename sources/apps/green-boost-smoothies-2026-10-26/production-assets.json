@@ -1,0 +1,537 @@
+{
+  "schemaVersion": 1,
+  "cardId": "green-boost-smoothies",
+  "title": "Green Boost \u2014 Fresh Drinks",
+  "appViewport": {
+    "width": 414,
+    "height": 932
+  },
+  "evidence": "Authored visual reconstruction from visible pixels; original source and typeface identity unconfirmed. Four cups and eight ingredient cutouts are independent layers; all motion and extended product detail states are authored.",
+  "assets": [
+    {
+      "name": "green-cup.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/green-cup.webp",
+      "bytes": 293260,
+      "sha256": "3ac25bd1e6c893dbd7b6fb09c18b561d133fb33c9dcc925063241df00573bd22",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/green-cup.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "strawberry-cup.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/strawberry-cup.webp",
+      "bytes": 328764,
+      "sha256": "88e5c0b9a0fc4ac7a73a604425f813cbb79e577ea33cf87e826316f462683e4a",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/strawberry-cup.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "mango-cup.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/mango-cup.webp",
+      "bytes": 300156,
+      "sha256": "5aca95b5ecf4a6246a9252fca4c098bbcc44a8cd4d77415c9df0846bc76df596",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/mango-cup.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "berry-cup.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/berry-cup.webp",
+      "bytes": 361522,
+      "sha256": "3ef6a57001aca63787dd0a149bdcd02a6a56fca940763bbbc9167d830fa3d4dd",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/berry-cup.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "kiwi.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/kiwi.webp",
+      "bytes": 592068,
+      "sha256": "376ba530e1580b11101818ba27224bf10809e1c6fcfbc11819ec3de2091df978",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/kiwi.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "banana.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/banana.webp",
+      "bytes": 303546,
+      "sha256": "28e6f3b0dc1e2065d77ba0ddff06507095cbfcad0ac8b395a8d8df3fdfd07f3c",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/banana.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "spinach.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/spinach.webp",
+      "bytes": 250070,
+      "sha256": "b936708ec95d1608655ebf5f315c814b63178bfc6cccd593fa3889cde7ac5046",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/spinach.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "walnut.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/walnut.webp",
+      "bytes": 338116,
+      "sha256": "39cb36cab920e542073e1ed271c8e153014affc516a8e6760ce2cb28836a44df",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/walnut.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "avocado.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/avocado.webp",
+      "bytes": 380382,
+      "sha256": "bedce56cd6d844e527e30ee4bbe5a5612f4c87ee06817ad95743e65121ff2ad2",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/avocado.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "strawberry.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/strawberry.webp",
+      "bytes": 464896,
+      "sha256": "f2270caa7a0575fd1e0b7533f2c092cbfe6eac3cab3efe5262389acbe4199c5f",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/strawberry.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "mango.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/mango.webp",
+      "bytes": 317850,
+      "sha256": "585d2c3040616496108591f28035e2c5539f5ad77fd627b58c2ae61c3544eb67",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/mango.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "blueberries.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/blueberries.webp",
+      "bytes": 414068,
+      "sha256": "c858716d826a3a7bda64471b73367fea6e2e135cebfdcace0f21c4cf889be18c",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/blueberries.webp",
+      "status": "valid",
+      "origin": "ImageGen reconstruction, preserved generated alpha"
+    },
+    {
+      "name": "mint-background.webp",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/mint-background.webp",
+      "bytes": 13724,
+      "sha256": "baeb274f93c08f98d0dba57dbb229e993921aeeb0b373e4f779ebd4b75cca673",
+      "width": 1024,
+      "height": 1536,
+      "alpha": false,
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/mint-background.webp",
+      "status": "valid",
+      "origin": "ImageGen empty opaque atmospheric backdrop"
+    }
+  ],
+  "vectors": [
+    {
+      "name": "arrow-left.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/arrow-left.svg",
+      "bytes": 210,
+      "sha256": "0d1b9ad3b2542b58fdd4b26f50f69d43eef04a25e80ecb16d93d00290955d8f3",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/arrow-left.svg"
+    },
+    {
+      "name": "arrow-right.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/arrow-right.svg",
+      "bytes": 218,
+      "sha256": "f482ee0571df3d3154e7a1af0b85afce29451e2f3dbb7c98892b687f1575c1a3",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/arrow-right.svg"
+    },
+    {
+      "name": "bag.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/bag.svg",
+      "bytes": 250,
+      "sha256": "8bd5e35bc8319e7a0fc732e03dbe007dfbf998a9090127e98af10882052d193b",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/bag.svg"
+    },
+    {
+      "name": "bowl.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/bowl.svg",
+      "bytes": 293,
+      "sha256": "e504757b0e71f1e4d0b073c1bf1093098c47e2bc2880ea47a7154e29d621277f",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/bowl.svg"
+    },
+    {
+      "name": "check.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/check.svg",
+      "bytes": 211,
+      "sha256": "ab064caa5fcb763d5b90e9447090e3c39a2e27339945a46da49265e6374ba4bb",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/check.svg"
+    },
+    {
+      "name": "close.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/close.svg",
+      "bytes": 217,
+      "sha256": "43d50100d45c4eb822d09b072b431483fb3bb7a3e8d748e8912aa68ed2cf0f3a",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/close.svg"
+    },
+    {
+      "name": "cup.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/cup.svg",
+      "bytes": 235,
+      "sha256": "6025133f2c540ecc7076169c02b4b23f5d6357439281e94ceec86ecda9b1e416",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/cup.svg"
+    },
+    {
+      "name": "drink.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/drink.svg",
+      "bytes": 280,
+      "sha256": "9f7626887c96777e8c20aaf8e9392c2b1a29be6cbd7ead33fdab279a08571edc",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/drink.svg"
+    },
+    {
+      "name": "heart-filled.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/heart-filled.svg",
+      "bytes": 314,
+      "sha256": "38843eda790b24192301619ecc5c2279530da9815a47583bd54330870e7f01d7",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/heart-filled.svg"
+    },
+    {
+      "name": "heart.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/heart.svg",
+      "bytes": 299,
+      "sha256": "2c96519ed169fa1aac15c02a4a7c163e35975917e19c2a3d8de890da43977d8e",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/heart.svg"
+    },
+    {
+      "name": "home.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/home.svg",
+      "bytes": 260,
+      "sha256": "2456231666119c59d42893a9cc5e7043b0b473ccd5fb8d020e6887c036341a9d",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/home.svg"
+    },
+    {
+      "name": "leaf.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/leaf.svg",
+      "bytes": 267,
+      "sha256": "dcd3b713e87b94991b06ab8f7c8f3373ec475f572ee2f1493a58788c89758aed",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/leaf.svg"
+    },
+    {
+      "name": "menu.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/menu.svg",
+      "bytes": 220,
+      "sha256": "066092993ab08a89cd37e6209ef1bfcdc396ed13d5fb017c5fb63529d55c7050",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/menu.svg"
+    },
+    {
+      "name": "minus.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/minus.svg",
+      "bytes": 205,
+      "sha256": "aaea1e748bf12086d63f980fb2f6eba1ad1c56dd49b5e01897d33b51824ff68d",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/minus.svg"
+    },
+    {
+      "name": "plus.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/plus.svg",
+      "bytes": 213,
+      "sha256": "e5f5fbf20262df049f3ba3c8adfaf7a420cc4758f59e387a63a9e82054a4f6f6",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/plus.svg"
+    },
+    {
+      "name": "snack.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/snack.svg",
+      "bytes": 316,
+      "sha256": "6f3af8e3902db46fb3e3570f46d567df60d5e39f02553132ff699841590020dc",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/snack.svg"
+    },
+    {
+      "name": "user.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/user.svg",
+      "bytes": 254,
+      "sha256": "d531d900951c0615248e14a59267b259f2c0f176194c225d1adb0f5364fc3c62",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/user.svg"
+    },
+    {
+      "name": "wave-bottom.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/wave-bottom.svg",
+      "bytes": 231,
+      "sha256": "6d6b1e83a5587ea3e51ba0074b9365f83802430b7119234d3623204f1fca92e0",
+      "width": 414,
+      "height": 932,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/wave-bottom.svg"
+    },
+    {
+      "name": "wave-light.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/wave-light.svg",
+      "bytes": 245,
+      "sha256": "b07fb8534f0cf3cc5e5e022719ff34e3036453a590cb2f7874cb3a9bf7f6e2bf",
+      "width": 414,
+      "height": 932,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/wave-light.svg"
+    },
+    {
+      "name": "wave-mid.svg",
+      "path": "images/apps/green-boost-smoothies-2026-10-26/icons/wave-mid.svg",
+      "bytes": 158,
+      "sha256": "fa088136a6139c697e4612c85f4682f61d0c0c718c0c4ca174c32f6aca45f3b1",
+      "width": 414,
+      "height": 932,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a6425cd3190164a6764d965775d0a29b25f43224/images/apps/green-boost-smoothies-2026-10-26/icons/wave-mid.svg"
+    }
+  ],
+  "fontResources": [
+    {
+      "name": "Poppins-Bold.ttf",
+      "path": "fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-Bold.ttf",
+      "bytes": 155996,
+      "sha256": "983676516167748b74de6f4771fb384c664fd913acb8b471122ecacf5da5ea6c",
+      "fontFamily": "Poppins",
+      "status": "valid",
+      "origin": "Google Fonts upstream, visually matched; original source identity unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ce68f013b87acd8b44e32293c015e061d6b9b63c/fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-Bold.ttf",
+      "kind": "font"
+    },
+    {
+      "name": "Poppins-Medium.ttf",
+      "path": "fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-Medium.ttf",
+      "bytes": 158576,
+      "sha256": "90373e7d838d32468438fc3e152dca0bdb12edcab99ea639f158790b1ba1fd05",
+      "fontFamily": "Poppins",
+      "status": "valid",
+      "origin": "Google Fonts upstream, visually matched; original source identity unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ce68f013b87acd8b44e32293c015e061d6b9b63c/fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-Medium.ttf",
+      "kind": "font"
+    },
+    {
+      "name": "Poppins-OFL.txt",
+      "path": "fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-OFL.txt",
+      "bytes": 4385,
+      "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+      "fontFamily": null,
+      "status": "valid",
+      "origin": "Google Fonts upstream, visually matched; original source identity unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ce68f013b87acd8b44e32293c015e061d6b9b63c/fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-OFL.txt",
+      "kind": "license"
+    },
+    {
+      "name": "Poppins-Regular.ttf",
+      "path": "fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-Regular.ttf",
+      "bytes": 160316,
+      "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba",
+      "fontFamily": "Poppins",
+      "status": "valid",
+      "origin": "Google Fonts upstream, visually matched; original source identity unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ce68f013b87acd8b44e32293c015e061d6b9b63c/fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-Regular.ttf",
+      "kind": "font"
+    },
+    {
+      "name": "Poppins-SemiBold.ttf",
+      "path": "fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-SemiBold.ttf",
+      "bytes": 157312,
+      "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286",
+      "fontFamily": "Poppins",
+      "status": "valid",
+      "origin": "Google Fonts upstream, visually matched; original source identity unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ce68f013b87acd8b44e32293c015e061d6b9b63c/fonts/apps/green-boost-smoothies-2026-10-26/fonts/Poppins-SemiBold.ttf",
+      "kind": "font"
+    }
+  ],
+  "implementation": [
+    {
+      "name": "green-boost-app.html",
+      "path": "sources/apps/green-boost-smoothies-2026-10-26/green-boost-app.html",
+      "bytes": 40352,
+      "sha256": "842a72429463aa72e02587b4f31d9fb5def80a71ac79e2951b2bbdebf0f69533",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b6a08fa960d0e5095f92e65aedef446776f2479/sources/apps/green-boost-smoothies-2026-10-26/green-boost-app.html"
+    },
+    {
+      "name": "README.md",
+      "path": "sources/apps/green-boost-smoothies-2026-10-26/README.md",
+      "bytes": 3776,
+      "sha256": "c891446cdacc571d66436f3e891faab71a45b04549cd1a26cae513fc00bb20a0",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b6a08fa960d0e5095f92e65aedef446776f2479/sources/apps/green-boost-smoothies-2026-10-26/README.md"
+    },
+    {
+      "name": "asset-generation.md",
+      "path": "sources/apps/green-boost-smoothies-2026-10-26/asset-generation.md",
+      "bytes": 4927,
+      "sha256": "31c62d13a5fab603796600da59a07bd024aac02722fce32390ecda8b30c51cf5",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b6a08fa960d0e5095f92e65aedef446776f2479/sources/apps/green-boost-smoothies-2026-10-26/asset-generation.md"
+    },
+    {
+      "name": "render.cjs",
+      "path": "sources/apps/green-boost-smoothies-2026-10-26/render.cjs",
+      "bytes": 1608,
+      "sha256": "ecaf069a296a083311a16fd984b81d9a8398cbc9728a64808c8b72765155dcc2",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b6a08fa960d0e5095f92e65aedef446776f2479/sources/apps/green-boost-smoothies-2026-10-26/render.cjs"
+    },
+    {
+      "name": "serve.cjs",
+      "path": "sources/apps/green-boost-smoothies-2026-10-26/serve.cjs",
+      "bytes": 674,
+      "sha256": "0f9656ba514138d1ca1d6070b49c01da57bc2c94255d0e6f73d9f51bc3d51d74",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b6a08fa960d0e5095f92e65aedef446776f2479/sources/apps/green-boost-smoothies-2026-10-26/serve.cjs"
+    },
+    {
+      "name": "vendor/gsap.min.js",
+      "path": "sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d85a7e3d5bdaf326d22ea3e9cbe59fa12e449d97/sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js",
+      "bytes": 72927,
+      "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb"
+    }
+  ],
+  "poster": {
+    "name": "preview.webp",
+    "path": "images/apps/green-boost-smoothies-2026-10-26/preview.webp",
+    "bytes": 76778,
+    "sha256": "2b13b39af8caeb6b667851ff1e028c7ee1b486479f967191dacbc48e0a2c2114",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b6a08fa960d0e5095f92e65aedef446776f2479/images/apps/green-boost-smoothies-2026-10-26/preview.webp",
+    "width": 1448,
+    "height": 1086,
+    "status": "valid"
+  },
+  "previewVideo": {
+    "name": "green-boost-smoothies-2026-10-26.mp4",
+    "path": "videos/apps/green-boost-smoothies-2026-10-26.mp4",
+    "bytes": 2230059,
+    "sha256": "96710b97b8b969a10bc250859b393010fe17cef36d3429047a0346714d800e98",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2b6a08fa960d0e5095f92e65aedef446776f2479/videos/apps/green-boost-smoothies-2026-10-26.mp4",
+    "width": 1448,
+    "height": 1086,
+    "fps": 30,
+    "frames": 360,
+    "duration": 12,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "silent": true,
+    "faststart": true,
+    "motionAuthorship": "authored",
+    "loopEndpointsPixelEqual": true,
+    "endpointMethod": "Final six source PNG frames reuse first idle PNG. Pre-hold mean absolute RGB difference is 0.000082/255. Equality after lossy H.264 decoding is not claimed."
+  },
+  "verification": {
+    "passed": true,
+    "checks": [
+      "Welcome/catalog/detail shared cup transition",
+      "four real prepared drink variants",
+      "drag follows pointer, short swipe cancels",
+      "committed horizontal swipe",
+      "direction reversal without stale title",
+      "keyboard four-drink loop",
+      "per-drink save and reset quantity",
+      "cart quantities in cents, removal and checkout event",
+      "saved filter and truthful empty category",
+      "all three routes at 390x844 and 360x780",
+      "reduced motion navigation and swipe",
+      "zero browser errors"
+    ]
+  }
+}
