@@ -4,7 +4,7 @@ An authored, single-screen-at-a-time comparison app for the supplied smoothie de
 
 ## Run the app
 
-Open `green-boost-app.html` through any local static HTTP server. It loads immutable public image, SVG, Poppins and GSAP URLs. Add `?app` for the borderless mobile viewport. The same document is served at https://repixel.pro/demos/green-boost-smoothies/ . The mint canvas and rounded outer frame are presentation only.
+Open `green-boost-app.html` through any local static HTTP server. It loads immutable public image, SVG and Poppins URLs. The verified GSAP distribution is embedded as executable text, with its license header intact: raw GitHub JavaScript cannot be relied on as a browser script because of its response MIME type. Add `?app` for the borderless mobile viewport. The same document is served at https://repixel.pro/demos/green-boost-smoothies/ . The mint canvas and rounded outer frame are presentation only.
 
 Get Started opens the four-drink catalog. Tap a tile to expand its cup into Detail. Drag the hero left/right, use ArrowLeft/ArrowRight in the focused hero, or focus the Previous/Next controls to switch drinks. A short drag cancels; reversing direction uses the other adjacent drink. The four names and $5.00 unit prices come from the visible catalog. Other variants' detail states are authored extensions.
 
@@ -14,7 +14,7 @@ Save state is per drink. Quantity is 1–99 and resets on a product change. Add 
 
 The built-in ImageGen tool produced four independent cup PNGs, eight independent ingredient PNGs and one opaque mint background. Green/strawberry extraction passes kept the cup and removed only surrounding backdrop material. Final WebP conversion preserves each of the twelve alpha channels byte-for-byte. The transparent RGB preview can show a colored fringe where alpha is zero; compositing on white verified that these pixels are invisible.
 
-`asset-generation.md` records the prompt set and stable filenames. All final asset URLs, dimensions, byte lengths and SHA-256 values are in `production-assets.json`. Twenty vectors comprise seventeen matching UI glyphs and three independently animated wave layers. Poppins Regular/Medium/SemiBold/Bold and OFL are supplied. Fonts and GSAP have immutable public URLs; the GSAP file is reused from the previous Sculpt publication.
+`asset-generation.md` records the prompt set and stable filenames. All final asset URLs, dimensions, byte lengths and SHA-256 values are in `production-assets.json`. Twenty vectors comprise seventeen matching UI glyphs and three independently animated wave layers. Poppins Regular/Medium/SemiBold/Bold and OFL are supplied. Fonts and the original GSAP distribution retain immutable public URLs; the verified GSAP bytes from the previous Sculpt publication are embedded in the HTML so the live demo does not execute a raw-GitHub script URL.
 
 ## Reproduce the preview
 
