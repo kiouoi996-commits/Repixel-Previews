@@ -8,11 +8,18 @@ await Promise.all(photos.map(a=>new Promise(resolve=>{const image=new Image();im
 let s=createState(number),input={x:540,y:420,active:false,pressed:false},raf=0,last=0,paused=false,motionOptIn=false;
 const enabled=()=>(!motion.matches||motionOptIn)&&fine.matches&&!paused&&!document.hidden;
 function paint(){host.innerHTML=scene(number,s,{fonts,photos:photos.map(a=>a.url),pointer:input.active?input:null});}
-function tick(now){raf=0;const dt=Math.min((now-last)/1000||1/60,.05);last=now;update(s,input,dt);paint();
-  if(enabled()&&(input.active||s.a>.002||s.trails.length))raf=requestAnimationFrame(tick);
+function tick(now){raf=0;const dt=Math.min((now-last)/1000||1/60,.05);last=now;
+  const before={x:s.x,y:s.y,w:s.w,h:s.h,stretch:s.stretch,points:s.points.map(p=>({x:p.x,y:p.y}))};
+  update(s,input,dt);paint();
+  const visibilityMoving=Math.abs(s.a-(input.active?1:0))>.002;
+  const positionMoving=Math.hypot(s.x-before.x,s.y-before.y)>.01||Math.abs(s.w-before.w)>.01||Math.abs(s.h-before.h)>.01;
+  const chainMoving=s.points.some((p,i)=>Math.hypot(p.x-before.points[i].x,p.y-before.points[i].y)>.02);
+  const effectMoving=number===186?positionMoving||Math.abs(s.stretch-before.stretch)>.0001:number===187?chainMoving:number===188?s.trails.length>0:positionMoving;
+  if(enabled()&&(visibilityMoving||effectMoving))raf=requestAnimationFrame(tick);
+  host.dataset.animating=raf?'true':'false';
 }
-function wake(){if(enabled()&&!raf){last=performance.now();raf=requestAnimationFrame(tick);}}
-function reset(){cancelAnimationFrame(raf);raf=0;s=createState(number);input.active=false;input.pressed=false;paint();host.parentElement.classList.remove('custom-active');}
+function wake(){if(enabled()&&!raf){last=performance.now();raf=requestAnimationFrame(tick);host.dataset.animating='true';}}
+function reset(){cancelAnimationFrame(raf);raf=0;s=createState(number);input.active=false;input.pressed=false;paint();host.dataset.animating='false';host.parentElement.classList.remove('custom-active');}
 function sync(){if(!enabled())reset();pause.disabled=!fine.matches;pause.textContent=motion.matches&&!motionOptIn?'Enable preview motion':paused?'Resume effect':'Pause effect';pause.setAttribute('aria-pressed',String(paused));
   status.textContent=!fine.matches?'Static example on touch screens.':motion.matches&&!motionOptIn?'Reduced motion: static example. Enable preview motion to try it.':paused?'Effect paused.':motionOptIn?'Preview motion enabled. Move your mouse inside the example.':'Move your mouse inside the example.';
 }
