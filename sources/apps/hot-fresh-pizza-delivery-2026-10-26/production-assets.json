@@ -1,0 +1,466 @@
+{
+  "title": "Hot & Fresh \u2014 Pizza Delivery",
+  "assets": [
+    {
+      "name": "preview.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/preview.webp",
+      "bytes": 87736,
+      "sha256": "bb3f196f61ce4105068646453e79b5fe6d420aef4343099b76d3cddea32256b4",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/5ec770da5c60f571da0da5c2ec8c593cc786630c/images/apps/hot-fresh-pizza-delivery-2026-10-26/preview.webp",
+      "width": 1536,
+      "height": 1024,
+      "status": "valid"
+    },
+    {
+      "name": "pizza-hero.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-hero.webp",
+      "bytes": 351050,
+      "sha256": "424765866ac7467022e1c7981fe6b463aea91e589f9490e8a4369ffd60005470",
+      "width": 1254,
+      "height": 1254,
+      "alpha": false,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-hero.webp"
+    },
+    {
+      "name": "pizza-banner.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-banner.webp",
+      "bytes": 206810,
+      "sha256": "ebdec005970015f36115cded3bfa9d755ae8851f7e190ecfde0be33de8844f3b",
+      "width": 1874,
+      "height": 839,
+      "alpha": false,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-banner.webp"
+    },
+    {
+      "name": "margherita.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/margherita.webp",
+      "bytes": 508440,
+      "sha256": "72201b1a3689339c4dcb7ae1a9f25b9fce442449a708748f4bb7df4b3221096a",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/margherita.webp"
+    },
+    {
+      "name": "pepperoni.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/pepperoni.webp",
+      "bytes": 630500,
+      "sha256": "00795e7ccb86341fa6f6c8d80229ae9679119e048665cd339e51fb078d74d3fc",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/pepperoni.webp"
+    },
+    {
+      "name": "cola.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/cola.webp",
+      "bytes": 482806,
+      "sha256": "7bbf3812238133a1e7d44f5d1ac4721088cf43b8a7207694f6fd9b3c3ba19b4f",
+      "width": 1024,
+      "height": 1536,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/cola.webp"
+    },
+    {
+      "name": "tomato.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/tomato.webp",
+      "bytes": 342620,
+      "sha256": "4b99dfb3782fa7aa32880d9e5b4572afa618607a992dc94bb82f3f2e140e24ed",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/tomato.webp"
+    },
+    {
+      "name": "mozzarella.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/mozzarella.webp",
+      "bytes": 152742,
+      "sha256": "008c4815d360232aa3a99f70c534fe4dd16582c9dae985c6a13271f5b55de0a8",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/mozzarella.webp"
+    },
+    {
+      "name": "basil.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/basil.webp",
+      "bytes": 262666,
+      "sha256": "b75cb1c0fccd303daf9f1741d4a55bfc72aec15f8fffa59dd03d2fc8ed756960",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/basil.webp"
+    },
+    {
+      "name": "pizza-slice.webp",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-slice.webp",
+      "bytes": 420578,
+      "sha256": "dda7701e9ecc4dc75a2f9a769e2b9ba642ca98557b5de79713bacae58378a7cd",
+      "width": 1254,
+      "height": 1254,
+      "alpha": true,
+      "status": "valid",
+      "origin": "ImageGen reconstruction from supplied reference; original source photography unconfirmed",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-slice.webp"
+    }
+  ],
+  "vectors": [
+    {
+      "name": "arrow-left.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/arrow-left.svg",
+      "bytes": 222,
+      "sha256": "a76c2df7f1c05eecb89924cfe81e23f4941cb16718d1ba41a707cea60b846c8a",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/arrow-left.svg"
+    },
+    {
+      "name": "arrow-right.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/arrow-right.svg",
+      "bytes": 224,
+      "sha256": "1a5803be9581b87e9563897227cd2bd805a86cb1cce14179aadccbd9e380ec06",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/arrow-right.svg"
+    },
+    {
+      "name": "bag.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/bag.svg",
+      "bytes": 300,
+      "sha256": "f13ef6056e61e0537bb7c03bd6421025c8ee7141683961c903dc4a48f0528c6e",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/bag.svg"
+    },
+    {
+      "name": "burger.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/burger.svg",
+      "bytes": 401,
+      "sha256": "86068011705efb6c0902eb4283ec5dee373b27ece787c14f2f1e493d4e10146d",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/burger.svg"
+    },
+    {
+      "name": "check.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/check.svg",
+      "bytes": 217,
+      "sha256": "ea4e944b2f0b58fe54f097c6e879abc2650fcc3f5a80d5f413ed30c9f9c38318",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/check.svg"
+    },
+    {
+      "name": "close.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/close.svg",
+      "bytes": 223,
+      "sha256": "6e170954eea2e2e85582ef0fe0d71aef22959b0f355b6764f050a228740af471",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/close.svg"
+    },
+    {
+      "name": "drinks.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/drinks.svg",
+      "bytes": 258,
+      "sha256": "3755f6ab3ae4d23e57db287a30d9b254655894928a729b037668e6fd7c751c85",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/drinks.svg"
+    },
+    {
+      "name": "grid.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/grid.svg",
+      "bytes": 526,
+      "sha256": "c1d93cc0519a8059c80eda676507d69088981d2a0adddef50c32545525ed2521",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/grid.svg"
+    },
+    {
+      "name": "heart.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/heart.svg",
+      "bytes": 303,
+      "sha256": "65d8d465df26b6b54780eaab53c3410f0de4ede230d8f08bbcb0c0b1718c3887",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/heart.svg"
+    },
+    {
+      "name": "home.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/home.svg",
+      "bytes": 283,
+      "sha256": "56be70cd77fc9a6b04afa3902ed8d5f914d46393a1c6503659675d876fd228e3",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/home.svg"
+    },
+    {
+      "name": "minus.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/minus.svg",
+      "bytes": 211,
+      "sha256": "d782a9fc54118de55e77861cc862542fbdc611b7079bd97ea6cf5802b154e725",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/minus.svg"
+    },
+    {
+      "name": "pasta.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/pasta.svg",
+      "bytes": 367,
+      "sha256": "51f20212a2342932428bf02ee608389556b16000e966ccc739ef334db6113b4b",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/pasta.svg"
+    },
+    {
+      "name": "pizza.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/pizza.svg",
+      "bytes": 447,
+      "sha256": "c3339c95d511b9016ecfbef4b2194004556f0934a2c2ad7cef05965e500a45a5",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/pizza.svg"
+    },
+    {
+      "name": "plus.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/plus.svg",
+      "bytes": 219,
+      "sha256": "ccfe8ede52066a3edbf3eede7522ea1c4ff74c444dabdb6885077f765f5b4b66",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/plus.svg"
+    },
+    {
+      "name": "salad.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/salad.svg",
+      "bytes": 383,
+      "sha256": "17c9f876907787eabbfb50219380182dbaa12b4efa3d5df2b2b36e60a021efc7",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/salad.svg"
+    },
+    {
+      "name": "search.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/search.svg",
+      "bytes": 248,
+      "sha256": "0ce1e30a5e29a30206579e41cb854673093e4741ab6560af643400a125068d13",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/search.svg"
+    },
+    {
+      "name": "tag.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/tag.svg",
+      "bytes": 258,
+      "sha256": "6c761c5f58574b1c1672ec2d558c357c95ff45f60b643c9a5a785960ab22f189",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/tag.svg"
+    },
+    {
+      "name": "trash.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/trash.svg",
+      "bytes": 250,
+      "sha256": "94ccde5cdf794d49699050bb3e958d4ee10ea93b1edf4e53a6557c8f3dfb4a5e",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/trash.svg"
+    },
+    {
+      "name": "user.svg",
+      "path": "images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/user.svg",
+      "bytes": 264,
+      "sha256": "a2be92ffbbf4e28b2aa0b1619724e888ce5d21138b3a496757e1b90a47dcf84d",
+      "width": 24,
+      "height": 24,
+      "status": "valid",
+      "origin": "Authored vector matching the reference",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/87585cd5abd6d766e97f8565ec1071d5b7ee148d/images/apps/hot-fresh-pizza-delivery-2026-10-26/icons/user.svg"
+    }
+  ],
+  "fontResources": [
+    {
+      "name": "NimbusRoman-Regular.otf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d4256c6ca9d175defe67e3c4965a2d1bfa0f1114/fonts/app-assets/velto-audio/NimbusRoman-Regular.otf",
+      "bytes": 98200,
+      "sha256": "fd41669443616a7ae890c42e53a58f47fa24a940fd1e367acaff665cf5b6e9d8",
+      "kind": "font"
+    },
+    {
+      "name": "NimbusRoman-LICENSE.txt",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d75dcbf843fb4a34359c394531e83762f7c3de31/fonts/e-commerce/heritage-911-classic-cars-2026-10-16/NimbusRoman-LICENSE.txt",
+      "bytes": 440,
+      "sha256": "772b1b47eead8722156abaed483154e1dd1137e7035290550cea6444192a2e3f",
+      "gitBlobSha": "be2a63ec4dead6b480b6de5fac58c74f88629695",
+      "kind": "license"
+    },
+    {
+      "name": "NimbusRoman-COPYING.txt",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d75dcbf843fb4a34359c394531e83762f7c3de31/fonts/e-commerce/heritage-911-classic-cars-2026-10-16/NimbusRoman-COPYING.txt",
+      "bytes": 34520,
+      "sha256": "57c8ff33c9c0cfc3ef00e650a1cc910d7ee479a8bc509f6c9209a7c2a11399d6",
+      "gitBlobSha": "dba13ed2ddf783ee8118c6a581dbf75305f816a3",
+      "kind": "license"
+    },
+    {
+      "name": "NimbusRoman-Bold.otf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/495d15c8f6de679065618429f651add48a4db6cf/fonts/app-assets/velto-audio/NimbusRoman-Bold.otf",
+      "bytes": 100984,
+      "sha256": "e0ad81923bc6d85d5426f796217c87963ca1ae3c65e22c87a25b6c6353de299e",
+      "gitBlobSha": "cbb68f6dda9d9390d6487f996f0667adad9b731e",
+      "kind": "font"
+    },
+    {
+      "name": "Roboto-400.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/fef161a4472d7ea8257363ddcfbc3e3288622548/fonts/apps/rocky-mountain-explorer-2026-10-25/Roboto-400.ttf",
+      "bytes": 123720,
+      "sha256": "dece7c71bbe61710787f0839c722c65e87355dd2eb4a823e6b5488121ff81e4b",
+      "status": "valid",
+      "kind": "font"
+    },
+    {
+      "name": "Roboto-500.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/fef161a4472d7ea8257363ddcfbc3e3288622548/fonts/apps/rocky-mountain-explorer-2026-10-25/Roboto-500.ttf",
+      "bytes": 123904,
+      "sha256": "4d984240cefb093a74300bcae4b5dbd49f700e0af501eaaa079c56aa64142d2f",
+      "status": "valid",
+      "kind": "font"
+    },
+    {
+      "name": "Roboto-600.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/fef161a4472d7ea8257363ddcfbc3e3288622548/fonts/apps/rocky-mountain-explorer-2026-10-25/Roboto-600.ttf",
+      "bytes": 124288,
+      "sha256": "f478ba88b0292e685e487901dfbb1401457d32d6ebee4030cdfd5698235bffa8",
+      "status": "valid",
+      "kind": "font"
+    },
+    {
+      "name": "Roboto-700.ttf",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/fef161a4472d7ea8257363ddcfbc3e3288622548/fonts/apps/rocky-mountain-explorer-2026-10-25/Roboto-700.ttf",
+      "bytes": 124292,
+      "sha256": "35757eaa996b3359022f47f164a67ee9eac04971af24c5b8fbd4b89e844ff190",
+      "status": "valid",
+      "kind": "font"
+    },
+    {
+      "name": "Roboto-OFL.txt",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/fef161a4472d7ea8257363ddcfbc3e3288622548/fonts/apps/rocky-mountain-explorer-2026-10-25/Roboto-OFL.txt",
+      "bytes": 4394,
+      "sha256": "061402327a96aadb0bfb694a960ed289ecd38d383e396243831ab81feb109c41",
+      "status": "valid",
+      "kind": "license"
+    }
+  ],
+  "previewVideo": {
+    "name": "hot-fresh-pizza-delivery-2026-10-26.mp4",
+    "path": "videos/apps/hot-fresh-pizza-delivery-2026-10-26.mp4",
+    "bytes": 787536,
+    "sha256": "2d6bd32032d5d99a6c4ccda9498453f81bd27e6bd91693174bc779ecb3753aef",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/5ec770da5c60f571da0da5c2ec8c593cc786630c/videos/apps/hot-fresh-pizza-delivery-2026-10-26.mp4",
+    "width": 1536,
+    "height": 1024,
+    "fps": 30,
+    "frames": 270,
+    "duration": 9,
+    "codec": "h264",
+    "pixelFormat": "yuv420p",
+    "silent": true,
+    "faststart": true,
+    "motionAuthorship": "authored",
+    "loopEndpointsPixelEqual": true,
+    "endpointMethod": "Last eighteen source PNG frames equal first idle PNG. Equality after lossy H.264 decoding is not claimed."
+  },
+  "implementation": [
+    {
+      "name": "pizza-app.html",
+      "path": "sources/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-app.html",
+      "bytes": 32836,
+      "sha256": "ef8ed0be4fddb9995ee971ff02a8e3d722b11174a0b72b6df432cc8f4f2c6db2",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/5ec770da5c60f571da0da5c2ec8c593cc786630c/sources/apps/hot-fresh-pizza-delivery-2026-10-26/pizza-app.html"
+    },
+    {
+      "name": "README.md",
+      "path": "sources/apps/hot-fresh-pizza-delivery-2026-10-26/README.md",
+      "bytes": 1509,
+      "sha256": "7a773a3bb5129803880d6f52d783cf72acbe5e3932930cb27d9eaf4f0bf825d0",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/5ec770da5c60f571da0da5c2ec8c593cc786630c/sources/apps/hot-fresh-pizza-delivery-2026-10-26/README.md"
+    }
+  ],
+  "gsap": {
+    "name": "vendor/gsap.min.js",
+    "path": "sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js",
+    "bytes": 72927,
+    "sha256": "92bb9a96476f983d212a2bc4f54c889039c1696dd4461d40a736860938570fbb",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d85a7e3d5bdaf326d22ea3e9cbe59fa12e449d97/sources/apps/sculpt-ceramic-decor-2026-10-26/vendor/gsap.min.js"
+  },
+  "checks": {
+    "passed": true,
+    "checks": [
+      "search and focus restoration",
+      "favorites across views",
+      "detail quantity arithmetic",
+      "one unit of each reference product",
+      "20.90 subtotal + 3.00 delivery = 23.90 total",
+      "quantity recomputation and removal",
+      "promo validation without fabricated discounts",
+      "checkout event in cents",
+      "empty cart and disabled checkout",
+      "all three routes at 390x844 and 360x780",
+      "reduced motion",
+      "zero browser errors"
+    ]
+  }
+}
