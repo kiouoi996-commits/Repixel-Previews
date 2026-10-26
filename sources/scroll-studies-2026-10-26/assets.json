@@ -1,0 +1,54 @@
+{
+  "photos": [
+    {
+      "role": "adobe-courtyard",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/adobe-courtyard.webp",
+      "bytes": 222730,
+      "sha256": "51a83d33046bbd96ceaa1d879462223d3591362415045a4499f703533986c7bf",
+      "authorship": "generated-replacement",
+      "file": "adobe-courtyard.webp"
+    },
+    {
+      "role": "sunset-viewpoint",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/sunset-viewpoint.webp",
+      "bytes": 182082,
+      "sha256": "db0dd7c2178778f09af58a6e04e5fbcad1720cd01a9a0da5c376c46692052ddd",
+      "authorship": "generated-replacement",
+      "file": "sunset-viewpoint.webp"
+    },
+    {
+      "role": "canyon-creek",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/82a4e30dc9e4b0d73a5e7a73e8dc4ac779725550/images/editorial/photos/sedona-perspective-carousel-2026-10-08/canyon-creek.webp",
+      "bytes": 238976,
+      "sha256": "9138c1199228e32f00602c24483f8dd01c66c695838154c9abce33ddb051b720",
+      "authorship": "generated-replacement",
+      "file": "canyon-creek.webp"
+    },
+    {
+      "role": "lens-sunlit-chair",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ffa016d1d4bef8adf4c9b938888424e1a577e57a/images/cursor-effects/lens-sunlit-chair-2026-10-26-v2.webp",
+      "bytes": 170222,
+      "sha256": "359d03ea3555af62266dad388241f45303893f7a73f562a45146222fee06bce0",
+      "authorship": "generated-replacement",
+      "file": "lens-sunlit-chair.webp"
+    }
+  ],
+  "fonts": [
+    {
+      "family": "Inter",
+      "file": "Inter.woff",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/476723ca0164b91e4aa8ec2cb39d9d8d06b45a4b/sources/flagship-studies-2026-10-22/assets/Inter.woff",
+      "bytes": 65484,
+      "sha256": "4554a7b83628b1e6629b0726dad143539b117033cd0c059abef351051da499b8",
+      "license": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/476723ca0164b91e4aa8ec2cb39d9d8d06b45a4b/sources/flagship-studies-2026-10-22/Inter-OFL.txt"
+    },
+    {
+      "family": "Instrument Serif",
+      "file": "InstrumentSerif.woff",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/476723ca0164b91e4aa8ec2cb39d9d8d06b45a4b/sources/flagship-studies-2026-10-22/assets/InstrumentSerif.woff",
+      "bytes": 35244,
+      "sha256": "7a0967b13901ee5c89659afe6068bc63246f978a4cbfac648a1c1a854ee9dad6",
+      "license": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/476723ca0164b91e4aa8ec2cb39d9d8d06b45a4b/sources/flagship-studies-2026-10-22/InstrumentSerif-OFL.txt"
+    }
+  ]
+}

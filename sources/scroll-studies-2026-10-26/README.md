@@ -1,0 +1,15 @@
+# Repixel scroll studies — 26 October 2026
+
+Two original authored transitions: **190 Split Portal Scroll** and **191 Mosaic Focus Scroll**. These extend Animations → Scroll Transitions with mechanisms distinct from the earlier iris, curtain, dolly, horizontal rail, blinds, snap and deck examples.
+
+`scene.mjs` supplies the exact 1440 × 810 composition, geometry, type and deterministic progress function used by both the live Canvas reference and the video renderer. `interactive.mjs` maps native document position to normalized progress; the canvas is a presentation reference. When integrating into a real product, use semantic DOM text, real images and retained host actions instead of flattening an interactive page into Canvas.
+
+In normal mode there is no automatic movement. Scroll down and back up, press Page Down / Page Up, or use the labelled native progress slider. Replay is a deliberately requested ten-second demonstration with several scroll strokes, reading pauses and reverse strokes. `?demo=1` permits replay only when reduced motion is not requested. The Simplified motion control follows `prefers-reduced-motion` by default; it replaces perspective, translation and expansion with opacity changes. Manual wheel, touch or navigation keys interrupt replay. Hidden documents pause replay. Drawing is event-driven when idle.
+
+Portal panels rotate around the two outside hinges in a perspective of 1800 px. The photo remains one unbroken plane underneath. Mosaic keeps one courtyard image instance and interpolates its rectangle from a grid cell to the viewport, while the other cells retreat. Text fades only after the image is nearly expanded. Neither effect steals the wheel, disables touch, snaps the document, invents a route or changes application state.
+
+The four photographic assets are existing generated Repixel resources. Their immutable URLs, byte counts and SHA-256 values are recorded in `assets.json`. The horizon tile crops the upper 40% of the viewpoint photograph and excludes the person in its lower part. No new photo or third-party motion reference is claimed. Typefaces are Inter and Instrument Serif from the existing licensed font resources, with the OFL links in the same manifest.
+
+To render outside the site checkout, keep `scene.mjs`, `assets.json` and `render.mjs` together. Install `@napi-rs/canvas` and `sharp` from npm and provide FFmpeg on PATH. Run `node render.mjs ./output`. The renderer downloads missing pinned images/fonts, verifies every size/hash, encodes every one of the 300 frames at 30 fps, and creates H.264/yuv420p/faststart MP4s, WebP posters and five checkpoints per study. It records exact source-frame loop equality and the number of distinct frames in `render-results.json`. The first and last source frames both have zero progress. Pause at 0%, 25%, 50%, 75% and 100% for visual review.
+
+Production implementation specifications are standalone English Apply Effect and Recreate Demo prompts. Video replay controls and demonstration labels belong to the standalone examples; the effect-only prompt preserves the host site's content, palette, typography, actions and surrounding layout.

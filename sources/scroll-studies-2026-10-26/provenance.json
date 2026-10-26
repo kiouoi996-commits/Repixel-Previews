@@ -1,0 +1,100 @@
+{
+  "title": "Repixel original scroll studies",
+  "date": "2026-10-26",
+  "authorship": "Original authored motion and editorial composition; reused generated photographs and OFL fonts are pinned in assets.json",
+  "mechanisms": {
+    "190": "outer-hinged-perspective-panels",
+    "191": "shared-image-grid-to-viewport"
+  },
+  "render": [
+    {
+      "number": 190,
+      "video": "190-split-portal-scroll-2026-10-26-a1.mp4",
+      "poster": "190-split-portal-scroll-2026-10-26-a1.webp",
+      "width": 1440,
+      "height": 810,
+      "fps": 30,
+      "frames": 300,
+      "durationSeconds": 10,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 205,
+      "previewScrollGestures": true,
+      "posterProgress": 0.39
+    },
+    {
+      "number": 191,
+      "video": "191-mosaic-focus-scroll-2026-10-26-a1.mp4",
+      "poster": "191-mosaic-focus-scroll-2026-10-26-a1.webp",
+      "width": 1440,
+      "height": 810,
+      "fps": 30,
+      "frames": 300,
+      "durationSeconds": 10,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 205,
+      "previewScrollGestures": true,
+      "posterProgress": 0.2
+    }
+  ],
+  "files": [
+    {
+      "path": "sources/scroll-studies-2026-10-26/190-split-portal-scroll.html",
+      "bytes": 3224,
+      "sha256": "5def8228c0385d4e48d315bec1c8eea86686423a63f5b968938f4641465d1f00"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-26/191-mosaic-focus-scroll.html",
+      "bytes": 3240,
+      "sha256": "1bd8e687cb7a9ba0bcc75a84bb7687806a27b10a137ca1b3e417fb1427f41949"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-26/README.md",
+      "bytes": 3159,
+      "sha256": "779f990d7be3e4be25858b4377d0c982ea762370121833fbf94605249e77614d"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-26/assets.json",
+      "bytes": 2894,
+      "sha256": "20226f12c4b540b50e2dcb98c5e99eef0096c06216a48bd818aef0499509f64c"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-26/interactive.mjs",
+      "bytes": 4887,
+      "sha256": "2fef536a9cf95be0d305166b49aa18a336182d058db17df7309c93f0def26a94"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-26/scene.mjs",
+      "bytes": 9275,
+      "sha256": "11c45f783ddcc2d16c7682e91f153eae2f7a5cb8e62e05d5f19316a2fea2bde3"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-26/render.mjs",
+      "bytes": 4012,
+      "sha256": "d13dfde46199793ffcd6d78ba7778588033fc7f78d45a39568025035cb5baa7a"
+    },
+    {
+      "path": "videos/scroll-transitions/190-split-portal-scroll-2026-10-26-a1.mp4",
+      "bytes": 1003369,
+      "sha256": "94e2f23872b92aa2f8136b864d7aac551cbfdb5d3403a8c26c50b94d1cd70a7e"
+    },
+    {
+      "path": "images/scroll-transitions/posters/190-split-portal-scroll-2026-10-26-a1.webp",
+      "bytes": 36364,
+      "sha256": "c4e95632c645b69044e57dadcc9e3fd210d6c7a9ae7b3b46b9485afa5810b533"
+    },
+    {
+      "path": "videos/scroll-transitions/191-mosaic-focus-scroll-2026-10-26-a1.mp4",
+      "bytes": 3044561,
+      "sha256": "e09e27eda8d4b6d7440a1a8624c1bd5cb037d5a4bdb0e33ec645b87749fbe624"
+    },
+    {
+      "path": "images/scroll-transitions/posters/191-mosaic-focus-scroll-2026-10-26-a1.webp",
+      "bytes": 213972,
+      "sha256": "c7a4ce508c4e131ef8fad0724faf6dbeaf21cc2aa9ece06f304d012c6ac1f0d7"
+    }
+  ]
+}
