@@ -27,18 +27,25 @@ export function update(s,input,dt){
   s.x+=(tx-s.x)*f;s.y+=(ty-s.y)*f;
   s.w+=((r?r.w+16:input.pressed?32:46)-s.w)*shape;
   s.h+=((r?r.h+16:input.pressed?32:46)-s.h)*shape;
+  if(Math.abs(s.x-tx)<.001)s.x=tx;
+  if(Math.abs(s.y-ty)<.001)s.y=ty;
+  const desiredW=r?r.w+16:input.pressed?32:46,desiredH=r?r.h+16:input.pressed?32:46;
+  if(Math.abs(s.w-desiredW)<.001)s.w=desiredW;
+  if(Math.abs(s.h-desiredH)<.001)s.h=desiredH;
+  if(s.stretch<.0001)s.stretch=0;
+  if(distanceToFollower<.01)s.angle=0;
   s.a+=((input.active?1:0)-s.a)*smooth(dt,.12);
   // Emit by travelled distance. Neither trail emits on an idle pointer.
   if(input.active&&(s.number===187||s.number===188)){
     if(!s.last)s.last={x:input.x,y:input.y};
     const dx=input.x-s.last.x,dy=input.y-s.last.y,distance=Math.hypot(dx,dy),spacing=s.number===187?14:78;
-    const count=Math.min(Math.floor(distance/spacing),s.number===187?24:6);
-    for(let i=1;i<=count;i++){
+    const steps=Math.floor(distance/spacing),count=Math.min(steps,s.number===187?24:6);
+    for(let i=steps-count+1;i<=steps;i++){
       const u=i*spacing/distance,x=s.last.x+dx*u,y=s.last.y+dy*u;
       if(s.number===187)s.echoes.push({x,y,born:s.time});
       else {s.trails.push({x,y,born:s.time,index:s.serial%3,angle:[-11,7,-5,10,-7,4][s.serial%6]});s.serial++;}
     }
-    if(count){const u=count*spacing/distance;s.last={x:s.last.x+dx*u,y:s.last.y+dy*u};}
+    if(steps){const u=steps*spacing/distance;s.last={x:s.last.x+dx*u,y:s.last.y+dy*u};}
   }else s.last=null;
   s.echoes=s.echoes.filter(p=>s.time-p.born<.55).slice(-22);
   s.trails=s.trails.filter(p=>s.time-p.born<1.25).slice(-6);
@@ -84,7 +91,8 @@ export function scene(number,s,{fonts,photos=[],pointer=null,pauseLabel='Pause e
     out+=t(pauseLabel,1173,136,16,{font:'regular',fill:spec.ink,spacing:-.55});
     out+=t('ELASTIC / STUDIO',261,236,13,{font:'regular',fill:'#959ba8',spacing:2.7});
     out+=t('01 — POINTER STUDY',1179,237,12,{font:'regular',fill:'#959ba8',anchor:'end',spacing:.6});
-    out+=t('A LITTLE',260,382,132,{font:'black',fill:'#080909',spacing:-5,width:560});
+    out+=t('A',260,382,132,{font:'black',fill:'#080909',width:95});
+    out+=t('LITTLE',402,382,132,{font:'black',fill:'#080909',spacing:-2,width:416});
     out+=t('PULL',260,511,148,{font:'black',fill:'#10111b',spacing:-6,width:360});
     out+=`<circle cx="640" cy="500" r="13" fill="#ffec59"/><circle cx="1062" cy="443" r="106" fill="#fff079" opacity=".28"/><circle cx="1062" cy="443" r="62" fill="#fff" fill-opacity=".65" stroke="#ffea68" stroke-width="1.1"/><path d="M1030 443h64m-32-32v64" stroke="#171a2a" stroke-width="1.5"/>`;
     targets.forEach((r,i)=>{
@@ -121,7 +129,7 @@ export function scene(number,s,{fonts,photos=[],pointer=null,pauseLabel='Pause e
       for(let i=0;i<14;i++)out+=`<path d="M${112+i*72} 134C${-161+i*72} 308 ${620+i*72} 462 ${439+i*72} 690" fill="none" stroke="#b19b6a" stroke-opacity=".19" stroke-width=".9"/>`;
       const headline=color=>t('LOOK',74,342,190,{font:'regular',fill:color,spacing:-11,width:508})+t('CLOSER.',74,504,177,{font:'regular',fill:color,spacing:-9,width:655});
       out+=headline('#f3eade');
-      out+=`<g clip-path="url(#lens)" opacity="${a}">${photo(photos[0],0,-180,2000,1500,'lens-photo')}<rect width="1080" height="810" fill="#d5842e" opacity=".17"/>${headline('#fff6e7')}</g><circle cx="${s.x}" cy="${s.y}" r="${radius}" fill="none" stroke="#ffe66b" stroke-width="1.6" opacity="${a}"/>`;
+      out+=`<g clip-path="url(#lens)" opacity="${a}">${photo(photos[3]||photos[0],0,0,1080,810,'lens-photo')}${headline('#fff6e7')}</g><circle cx="${s.x}" cy="${s.y}" r="${radius}" fill="none" stroke="#ffe66b" stroke-width="1.6" opacity="${a}"/>`;
       out+=`<circle cx="${pointer?.x??758}" cy="${pointer?.y??469}" r="${pointer?4:12}" fill="#ffe66b" opacity="${a}"/>`;
       out+=t('MOVE TO DISCOVER / PRESS TO EXPAND',85,658,11,{font:'regular',fill:spec.ink,spacing:2.4});
     }
