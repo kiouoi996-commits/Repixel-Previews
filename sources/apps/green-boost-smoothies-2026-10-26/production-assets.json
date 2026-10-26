@@ -448,37 +448,37 @@
     {
       "name": "green-boost-app.html",
       "path": "sources/apps/green-boost-smoothies-2026-10-26/green-boost-app.html",
-      "bytes": 113381,
-      "sha256": "8f5690392dfeb67fbf476a53d4275d32a5025cd9fdb284c0b67acbdb203ed4e0",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a31df09847f7bdb1c6f7198d02510f3182760aca/sources/apps/green-boost-smoothies-2026-10-26/green-boost-app.html"
+      "bytes": 113484,
+      "sha256": "b3793f2dfc74f3da7f4ea3c1994bc14482552246513b90c80b1cc6ceff80bff7",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ee9d53850e90be5cb1b4920bdec07594e04b7ad4/sources/apps/green-boost-smoothies-2026-10-26/green-boost-app.html"
     },
     {
       "name": "README.md",
       "path": "sources/apps/green-boost-smoothies-2026-10-26/README.md",
       "bytes": 4073,
       "sha256": "5664d42ca41fa72a0dc02f6685b398666705d15019d54aa7fe5463a58389ac67",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a31df09847f7bdb1c6f7198d02510f3182760aca/sources/apps/green-boost-smoothies-2026-10-26/README.md"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ee9d53850e90be5cb1b4920bdec07594e04b7ad4/sources/apps/green-boost-smoothies-2026-10-26/README.md"
     },
     {
       "name": "asset-generation.md",
       "path": "sources/apps/green-boost-smoothies-2026-10-26/asset-generation.md",
       "bytes": 4927,
       "sha256": "31c62d13a5fab603796600da59a07bd024aac02722fce32390ecda8b30c51cf5",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a31df09847f7bdb1c6f7198d02510f3182760aca/sources/apps/green-boost-smoothies-2026-10-26/asset-generation.md"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ee9d53850e90be5cb1b4920bdec07594e04b7ad4/sources/apps/green-boost-smoothies-2026-10-26/asset-generation.md"
     },
     {
       "name": "render.cjs",
       "path": "sources/apps/green-boost-smoothies-2026-10-26/render.cjs",
       "bytes": 1608,
       "sha256": "ecaf069a296a083311a16fd984b81d9a8398cbc9728a64808c8b72765155dcc2",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a31df09847f7bdb1c6f7198d02510f3182760aca/sources/apps/green-boost-smoothies-2026-10-26/render.cjs"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ee9d53850e90be5cb1b4920bdec07594e04b7ad4/sources/apps/green-boost-smoothies-2026-10-26/render.cjs"
     },
     {
       "name": "serve.cjs",
       "path": "sources/apps/green-boost-smoothies-2026-10-26/serve.cjs",
       "bytes": 674,
       "sha256": "0f9656ba514138d1ca1d6070b49c01da57bc2c94255d0e6f73d9f51bc3d51d74",
-      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/a31df09847f7bdb1c6f7198d02510f3182760aca/sources/apps/green-boost-smoothies-2026-10-26/serve.cjs"
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ee9d53850e90be5cb1b4920bdec07594e04b7ad4/sources/apps/green-boost-smoothies-2026-10-26/serve.cjs"
     },
     {
       "name": "vendor/gsap.min.js",
@@ -526,6 +526,7 @@
       "committed horizontal swipe",
       "direction reversal without stale title",
       "keyboard four-drink loop",
+      "different product after catalog round trip has one title and ingredient row",
       "per-drink save and reset quantity",
       "cart quantities in cents, removal and checkout event",
       "saved filter and truthful empty category",
