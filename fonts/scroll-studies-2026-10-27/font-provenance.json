@@ -1,0 +1,11 @@
+{
+  "Inter-ExtraBold.ttf": {
+    "source": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d4256c6ca9d175defe67e3c4965a2d1bfa0f1114/fonts/app-assets/pulse-go-next-place-2026-09-30/Inter-Latin.woff",
+    "sourceSha256": "4554a7b83628b1e6629b0726dad143539b117033cd0c059abef351051da499b8",
+    "weight": 800
+  },
+  "BodoniModa-Regular.ttf": {
+    "source": "Repixel/public/effects/repixel-64-68/fonts/bodoni-moda-400.ttf",
+    "weight": 400
+  }
+}
