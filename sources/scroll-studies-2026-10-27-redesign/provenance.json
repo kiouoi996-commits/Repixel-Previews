@@ -1,0 +1,118 @@
+{
+  "title": "Repixel scroll studies \u2014 supplied design revision",
+  "date": "2026-10-27",
+  "baseSiteCommit": "86da8cf81d170a6b6cc9693035ee3258b50bd9cf",
+  "preservedMediaCommit": "b47e5cff7c01905b9a9cb99d633c9df519bc3d31",
+  "references": [
+    {
+      "study": 190,
+      "kind": "owner-supplied-design",
+      "bytes": 2039856,
+      "sha256": "ac409399ff50c8e432310a0ab8a920cbd2bb7b245ae0e87b8336f1563606c4d1",
+      "width": 1672,
+      "height": 941
+    },
+    {
+      "study": 191,
+      "kind": "owner-supplied-design",
+      "bytes": 2886422,
+      "sha256": "d8fc3ee2139c25dcdc9006e7cfd4aad6fe09750237f5bcd69aa289a1eced1043",
+      "width": 1683,
+      "height": 935
+    }
+  ],
+  "render": [
+    {
+      "number": 190,
+      "video": "190-split-portal-scroll-2026-10-27-v2.mp4",
+      "poster": "190-split-portal-scroll-2026-10-27-v2.webp",
+      "width": 1440,
+      "height": 810,
+      "fps": 30,
+      "frames": 300,
+      "durationSeconds": 10,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 205,
+      "previewScrollGestures": true,
+      "posterProgress": 0,
+      "designRevision": "supplied-designs-2026-10-27"
+    },
+    {
+      "number": 191,
+      "video": "191-mosaic-focus-scroll-2026-10-27-v2.mp4",
+      "poster": "191-mosaic-focus-scroll-2026-10-27-v2.webp",
+      "width": 1440,
+      "height": 810,
+      "fps": 30,
+      "frames": 300,
+      "durationSeconds": 10,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 205,
+      "previewScrollGestures": true,
+      "posterProgress": 0,
+      "designRevision": "supplied-designs-2026-10-27"
+    }
+  ],
+  "files": [
+    {
+      "path": "sources/scroll-studies-2026-10-27-redesign/190-split-portal-scroll.html",
+      "bytes": 3224,
+      "sha256": "1c76b760adfbc8de825d0d2e1cd5bc825c3e1b5294ded7afb02becb8c3a6adac"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-27-redesign/191-mosaic-focus-scroll.html",
+      "bytes": 3240,
+      "sha256": "5f3b27c8e1ed03b6187b5670d4ed03a4fc02cca2410497e24184a23beb6bfdd5"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-27-redesign/README.md",
+      "bytes": 4520,
+      "sha256": "4b1572146f6d0fb34c72794021c1da25877aad29259994aabb51439275b6b9e8"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-27-redesign/assets.json",
+      "bytes": 3457,
+      "sha256": "911df19c9ddc63751b98fd3d18328f7b43b15fa86aa867e677f6809ee40fd1f2"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-27-redesign/interactive.mjs",
+      "bytes": 4924,
+      "sha256": "facc2f86e5c9cd4ea0c9d5835ebb94c2b07d5b2e0acc8062d6ecf1b18bc65e5d"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-27-redesign/scene.mjs",
+      "bytes": 11950,
+      "sha256": "f30fc7f3e2dced00db44a6d210d7cae6ba097384cf701e68e89a306da79ceeb3"
+    },
+    {
+      "path": "sources/scroll-studies-2026-10-27-redesign/render.mjs",
+      "bytes": 3999,
+      "sha256": "381296d3e983807fabd523875ca7f4061e3fbd875c7f3eadbc9ffc96f0ed4349"
+    },
+    {
+      "path": "videos/scroll-transitions/190-split-portal-scroll-2026-10-27-v2.mp4",
+      "bytes": 889271,
+      "sha256": "a5df0c2b21cab649511a12ec52c5af6aa15efa019feaa6bdc5fcb353538212b5"
+    },
+    {
+      "path": "images/scroll-transitions/posters/190-split-portal-scroll-2026-10-27-v2.webp",
+      "bytes": 32994,
+      "sha256": "1a9a76f46edd6de6288081e717a41a309412002438879800606e6c78521a50ad"
+    },
+    {
+      "path": "videos/scroll-transitions/191-mosaic-focus-scroll-2026-10-27-v2.mp4",
+      "bytes": 2523390,
+      "sha256": "3e28b0f17ebe0d11f24ef5dfebeacb5514c4c11826b2031824ed247668c7c3cc"
+    },
+    {
+      "path": "images/scroll-transitions/posters/191-mosaic-focus-scroll-2026-10-27-v2.webp",
+      "bytes": 221704,
+      "sha256": "0e488276adb3d99db5f83c1a2802af53175952926d18f071c0351ccb4bec0cf4"
+    }
+  ],
+  "mechanismsPreserved": true
+}
