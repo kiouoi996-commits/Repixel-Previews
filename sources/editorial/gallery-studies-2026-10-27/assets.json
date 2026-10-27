@@ -1,0 +1,165 @@
+[
+  {
+    "filename": "195-approved-reference.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/195-approved-reference.webp",
+    "bytes": 330496,
+    "sha256": "b614fd50feae230a5c89c9545a78c475cf9cd49c8d2f6c76e270179c0ba1cd33",
+    "width": 1672,
+    "height": 941,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/195-approved-reference.webp"
+  },
+  {
+    "filename": "196-approved-reference.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/196-approved-reference.webp",
+    "bytes": 186780,
+    "sha256": "f724f63096f444ad0a11491f6d6f41b88847afce37f9038b6544a02c36f58571",
+    "width": 1672,
+    "height": 941,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/196-approved-reference.webp"
+  },
+  {
+    "filename": "Caveat-OFL.txt",
+    "path": "fonts/editorial/gallery-studies-2026-10-27/Caveat-OFL.txt",
+    "bytes": 4385,
+    "sha256": "1f9d81d094273d82f3898a1ee8b598a717d050ecbf5ff7bede105b704880157b",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/fonts/editorial/gallery-studies-2026-10-27/Caveat-OFL.txt"
+  },
+  {
+    "filename": "Caveat.ttf",
+    "path": "fonts/editorial/gallery-studies-2026-10-27/Caveat.ttf",
+    "bytes": 403648,
+    "sha256": "0bdb6b660482d31531b3945849fba5916b3ef8695da7024a9e6b9ee3c4157988",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/fonts/editorial/gallery-studies-2026-10-27/Caveat.ttf"
+  },
+  {
+    "filename": "DMSerifDisplay-OFL.txt",
+    "path": "fonts/editorial/gallery-studies-2026-10-27/DMSerifDisplay-OFL.txt",
+    "bytes": 4605,
+    "sha256": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/fonts/editorial/gallery-studies-2026-10-27/DMSerifDisplay-OFL.txt"
+  },
+  {
+    "filename": "DMSerifDisplay-Regular.ttf",
+    "path": "fonts/editorial/gallery-studies-2026-10-27/DMSerifDisplay-Regular.ttf",
+    "bytes": 76580,
+    "sha256": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/fonts/editorial/gallery-studies-2026-10-27/DMSerifDisplay-Regular.ttf"
+  },
+  {
+    "filename": "Inter-Latin.woff",
+    "path": "fonts/editorial/gallery-studies-2026-10-27/Inter-Latin.woff",
+    "bytes": 65484,
+    "sha256": "4554a7b83628b1e6629b0726dad143539b117033cd0c059abef351051da499b8",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/fonts/editorial/gallery-studies-2026-10-27/Inter-Latin.woff"
+  },
+  {
+    "filename": "Inter-OFL.txt",
+    "path": "fonts/editorial/gallery-studies-2026-10-27/Inter-OFL.txt",
+    "bytes": 4377,
+    "sha256": "5b9321a4298cfeb6b34354164a1c3afc3db114569984c502b9b35d988fd58c57",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/fonts/editorial/gallery-studies-2026-10-27/Inter-OFL.txt"
+  },
+  {
+    "filename": "object-01-resonant.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/object-01-resonant.webp",
+    "bytes": 55848,
+    "sha256": "63003e96c15c1eb34ff19760a478f91aac063c2f9c530b6cf3ca7c4c6211879b",
+    "width": 724,
+    "height": 543,
+    "color": "#e3fc62",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/object-01-resonant.webp"
+  },
+  {
+    "filename": "object-02-orbit.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/object-02-orbit.webp",
+    "bytes": 49414,
+    "sha256": "96cdae6c931e9843a71522ad301d03bd396ff3d0357bf9e338baa43aa52a8de3",
+    "width": 724,
+    "height": 543,
+    "color": "#717ffc",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/object-02-orbit.webp"
+  },
+  {
+    "filename": "object-03-echo.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/object-03-echo.webp",
+    "bytes": 31524,
+    "sha256": "ee408401bdeb64736abf85851e4a5dfb7889210ef63e71608e61bd8f7699985e",
+    "width": 724,
+    "height": 543,
+    "color": "#fd68b3",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/object-03-echo.webp"
+  },
+  {
+    "filename": "object-04-pebble.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/object-04-pebble.webp",
+    "bytes": 48320,
+    "sha256": "61243a0b7c8cc4e6f221ea3d34571d406d31892c337d961304db3cb951ebc45d",
+    "width": 724,
+    "height": 543,
+    "color": "#f9f9f9",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/object-04-pebble.webp"
+  },
+  {
+    "filename": "paper-01-orange-stem.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/paper-01-orange-stem.webp",
+    "bytes": 180826,
+    "sha256": "7c00806c994b086f544405054b0cb6bf50d604251c7c1ede317d8694d65ac054",
+    "width": 853,
+    "height": 515,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/paper-01-orange-stem.webp"
+  },
+  {
+    "filename": "paper-02-quiet-leaves.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/paper-02-quiet-leaves.webp",
+    "bytes": 66554,
+    "sha256": "27371096f17169763e8b5e77cbce9e21791c94e4f279eedb32853556150e3550",
+    "width": 405,
+    "height": 516,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/paper-02-quiet-leaves.webp"
+  },
+  {
+    "filename": "paper-03-orange-leaves.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/paper-03-orange-leaves.webp",
+    "bytes": 169610,
+    "sha256": "c8399814c4c9975a117846c8885e6b0a572b8aeebfc4b6f20b01f6eabec53f42",
+    "width": 724,
+    "height": 543,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/paper-03-orange-leaves.webp"
+  },
+  {
+    "filename": "paper-04-seed-branch.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/paper-04-seed-branch.webp",
+    "bytes": 140248,
+    "sha256": "28da6f4ad600f0aceb24675edbdea26b02db1f3cb7c3eb6a8cc8311fe048176e",
+    "width": 724,
+    "height": 543,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/paper-04-seed-branch.webp"
+  },
+  {
+    "filename": "paper-05-white-bloom.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/paper-05-white-bloom.webp",
+    "bytes": 172322,
+    "sha256": "0028a84874c042531a1fdec287e32017f7408cd166f1305d80cf6d34a9510e56",
+    "width": 724,
+    "height": 543,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/paper-05-white-bloom.webp"
+  },
+  {
+    "filename": "paper-06-split-leaf.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/paper-06-split-leaf.webp",
+    "bytes": 157036,
+    "sha256": "54d6e3098184e758cb8858564b6915638270e0a3b312e150644040f2714f3cfe",
+    "width": 724,
+    "height": 543,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/paper-06-split-leaf.webp"
+  },
+  {
+    "filename": "paper-grain.webp",
+    "path": "images/editorial/gallery-studies-2026-10-27/paper-grain.webp",
+    "bytes": 510,
+    "sha256": "11895af4c74d013c4d2401f58e9013766233a25b79e49a9b88b46695c7b083e9",
+    "width": 600,
+    "height": 192,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d6fd373efe89a8601902e54b16c5328d11a0b821/images/editorial/gallery-studies-2026-10-27/paper-grain.webp"
+  }
+]
