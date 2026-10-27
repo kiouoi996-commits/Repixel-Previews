@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" stroke-linejoin="round">
+ <symbol id="menu" viewBox="0 0 24 24"><path d="M3 6h15M3 12h11M3 18h20"/></symbol>
+ <symbol id="search" viewBox="0 0 24 24"><circle cx="10.6" cy="10.6" r="6.4"/><path d="m15.4 15.4 4.5 4.5"/></symbol>
+ <symbol id="pin" viewBox="0 0 24 24"><path d="M19 10c0 5.2-7 11-7 11S5 15.2 5 10a7 7 0 1 1 14 0Z"/><circle cx="12" cy="10" r="2.2"/></symbol>
+ <symbol id="mountain" viewBox="0 0 24 24"><path d="m2.4 19 7-11 3.2 5 2.5-4 6.5 10Z"/></symbol>
+ <symbol id="tent" viewBox="0 0 24 24"><path d="M3 19 12 4l9 15H3ZM12 4v15m0 0-3.1-4.5"/></symbol>
+ <symbol id="backpack" viewBox="0 0 24 24"><path d="M7 9V7a5 5 0 0 1 10 0v2M5.5 11.5A3.5 3.5 0 0 1 9 8h6a3.5 3.5 0 0 1 3.5 3.5V21h-13zM8.5 15h7v4h-7zM10 5V3h4v2M8 11.5h.01M16 11.5h.01"/></symbol>
+ <symbol id="map" viewBox="0 0 24 24"><path d="m3 5 6-2 6 2 6-2v16l-6 2-6-2-6 2V5ZM9 3v16m6-14v16"/></symbol>
+ <symbol id="heart" viewBox="0 0 24 24"><path d="M20.5 5.8a5.2 5.2 0 0 0-7.3 0L12 7l-1.2-1.2a5.2 5.2 0 0 0-7.3 7.3L12 21l8.5-7.9a5.2 5.2 0 0 0 0-7.3Z"/></symbol>
+ <symbol id="user" viewBox="0 0 24 24"><circle cx="12" cy="7" r="4"/><path d="M3 20v-1a7 7 0 0 1 7-7h4a7 7 0 0 1 7 7v1z"/></symbol>
+ <symbol id="home" viewBox="0 0 24 24"><path d="m3 10 9-7 9 7v10h-6v-6H9v6H3Z" fill="currentColor" stroke="none"/></symbol>
+ <symbol id="chevron" viewBox="0 0 24 24"><path d="m9 5 7 7-7 7"/></symbol>
+ <symbol id="back" viewBox="0 0 24 24"><path d="m13 5-7 7 7 7M6 12h14"/></symbol>
+ <symbol id="more" viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.6" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.6" fill="currentColor" stroke="none"/><circle cx="19" cy="12" r="1.6" fill="currentColor" stroke="none"/></symbol>
+ <symbol id="more-vertical" viewBox="0 0 24 24"><circle cx="12" cy="5" r="1.6" fill="currentColor" stroke="none"/><circle cx="12" cy="12" r="1.6" fill="currentColor" stroke="none"/><circle cx="12" cy="19" r="1.6" fill="currentColor" stroke="none"/></symbol>
+ <symbol id="bag" viewBox="0 0 24 24"><path d="M5.8 8h12.4l1 12H4.8zM9 9V6a3 3 0 1 1 6 0v3"/></symbol>
+ <symbol id="play" viewBox="0 0 24 24"><path d="M6 3.7 20 12 6 20.3Z" fill="currentColor" stroke="none"/></symbol>
+ <symbol id="bars" viewBox="0 0 24 24"><path d="M4 18v-6M10 18V4M16 18V8M22 18v-4" stroke-width="3.4"/></symbol>
+ <symbol id="feather" viewBox="0 0 24 24"><path d="M21 3c-8 0-16 5-16 13l-3 4m4-4c4 1 9-2 12-7 1.5-2 2.5-4 3-6ZM8 15l7-6"/></symbol>
+ <symbol id="cube" viewBox="0 0 24 24"><path d="m12 2 8 4.5v10.8L12 22l-8-4.7V6.5L12 2Zm0 9 8-4.5M12 11 4 6.5M12 11v11"/></symbol>
+ <symbol id="layers" viewBox="0 0 24 24"><path d="m12 3 9 5-9 5-9-5 9-5Zm-9 9 9 5 9-5M3 16l9 5 9-5"/></symbol>
+ <symbol id="drop" viewBox="0 0 24 24"><path d="M12 2S5 11 5 15.2a7 7 0 1 0 14 0C19 11 12 2 12 2Z"/></symbol>
+ <symbol id="arrow-up" viewBox="0 0 24 24"><path d="M12 21V3m0 0-7 7m7-7 7 7" stroke-width="2.3"/></symbol>
+ <symbol id="route" viewBox="0 0 24 24"><circle cx="6" cy="4" r="2"/><circle cx="18" cy="20" r="2"/><path d="M6 6v6a3 3 0 0 0 6 0V9a3 3 0 0 1 6 0v9"/></symbol>
+ <symbol id="directions" viewBox="0 0 24 24"><path d="M5 20v-5a4 4 0 0 1 4-4h2a4 4 0 0 0 4-4V4m0 0-3 3m3-3 3 3M5 15l3 3"/></symbol>
+ <symbol id="clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 6v6l4 2"/></symbol>
+ <symbol id="navigation" viewBox="0 0 24 24"><path d="M21 3 12 21l-2-7-7-2 18-9Z"/></symbol>
+ <symbol id="target" viewBox="0 0 24 24"><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="2.4"/><path d="M12 2v3m0 14v3M2 12h3m14 0h3"/></symbol>
+ <symbol id="pause" viewBox="0 0 24 24"><path d="M8 5v14m8-14v14" stroke-width="3"/></symbol>
+</svg>
