@@ -1,0 +1,13 @@
+# Object Search and Lighting Objects
+
+The user approved two generated desktop concepts before implementation. Object Search uses the approved second monochrome design, not the earlier lavender proposal. Lighting Objects follows the approved cool-grey catalogue. The original private Drive inspiration images are not redistributed. Seven independent alpha product assets were generated from the approved concepts; they are clean generated replacements, not crops of the UI screenshots.
+
+Serve the two HTML files, scene.mjs, live.mjs and assets.json together over HTTP. Images and fixed DM Sans Medium/Bold fonts load from immutable URLs in assets.json, with length/SHA-256 verification. Native controls provide all essential actions: search combobox, named result options and tabs, checkboxes, removable tag buttons, sort select, object-detail dialog and reduced-motion toggle. Normal usage is idle; replay is explicit.
+
+Search matches title, type and keywords case-insensitively. All objects/Lighting return the four object records; Collections searches two real two-object groups. Arrow keys select records, Enter opens their details, Escape closes the result panel. The catalogue has six real lighting records, OR within Material/Light and AND between groups, plus category intersection. Audio and Tools intentionally demonstrate the honest empty state because this fixture contains lighting. Reset clears the two property groups and retains the selected category. Featured/A–Z/Z–A sorting uses stable IDs.
+
+State, geometry, damped springs and painting are shared with the native recorder. k220/d30 handles keyed row/card rectangles and opacity; k240/d31 handles result highlight; k190/d28 handles preview crossfade; k210/d29 expands search. Integrate at most1/120s per substep. Retarget existing values and velocities, never restart or queue obsolete transitions. Reduced motion settles instantly. Resize preserves queries, selected IDs, sort and filters. Rendering pauses while the document is hidden and stops after settlement.
+
+Each silent film is1280×720,30fps,300frames,10seconds, H.264/yuv420p/faststart, with exact first/last source pixels and an eased curved demonstration pointer. The video illustrates the authored animation; it is not evidence that motion was recoverable from a still. Its state changes are authored fixture actions, not synthetic network requests or browser event telemetry.
+
+To reproduce, preserve repository-relative paths, install @napi-rs/canvas and sharp, provide ffmpeg and run node tools/search-filter-studies/render.mjs. The optional CODEX_PRIMARY_RUNTIME_NODE_MODULES setting selects the dependency directory.
