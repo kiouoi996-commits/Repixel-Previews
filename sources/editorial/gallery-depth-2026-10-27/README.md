@@ -1,0 +1,9 @@
+# Postcard Atlas and Gelato Studio — approved gallery release
+
+The user approved two generated screenshots before implementation. Private Drive inspiration images are not redistributed. Three destination-photo windows and the main raspberry photograph were extracted mechanically from the approved screenshots. Additional destination and flavor photos were generated as clean independent resource atlases. No full UI screenshot is used as the interactive component.
+
+Each standalone HTML loads live.mjs, scene.mjs and assets.json from the same folder. Serve these five files over HTTP. Normal galleries start idle; append ?demo=1 or use Replay preview to play the explicitly authored recording sequence. Keyboard arrows, Home/End, named arrows, image clicks, three contextual flavor thumbnails and horizontal pointer drag act on the same selected record. Reduced motion removes animated travel while keeping selection.
+
+The renderer uses exactly the same scene and spring simulation as the live examples. Install @napi-rs/canvas and sharp, make ffmpeg available, retain the original repository relative layout, then run node tools/gallery-depth/render.mjs OUTPUT. Missing photo/font resources are downloaded from immutable URLs and SHA-256 checked. CODEX_PRIMARY_RUNTIME_NODE_MODULES is an optional runtime module root. Static font instances ensure identical weight selection in native Canvas and the browser; they were instantiated with fontTools from the official Google Fonts variable files: Nunito at500/800 and DM Sans at500/700, optical size32. OFL licenses accompany the fonts.
+
+Both films:1280×720,30fps,300frames,10seconds, H.264/yuv420p, silent, faststart. At1.2s go next,3.2s next,5.2s previous,7.2s previous. The eased moving cursor is a recording aid. Raw opening and final pixels match exactly. All reference/photo/font/media URLs are commit-pinned and all new public bytes were anonymously downloaded and checked before publishing catalog metadata.
