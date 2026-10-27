@@ -1,0 +1,63 @@
+[
+  {
+    "filename": "spaces-1-architecture.webp",
+    "path": "images/editorial/accordion-studies-2026-10-27/spaces-1-architecture.webp",
+    "bytes": 96208,
+    "sha256": "f461feb42c787e814da043486ecb6ea7122134e2066f863804e6f46eb8eebece",
+    "width": 724,
+    "height": 543,
+    "authorship": "generated-clean-photo-based-on-approved-screen",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2a2762c66222c0dee6ca162098a14b373522ce76/images/editorial/accordion-studies-2026-10-27/spaces-1-architecture.webp"
+  },
+  {
+    "filename": "spaces-2-interiors.webp",
+    "path": "images/editorial/accordion-studies-2026-10-27/spaces-2-interiors.webp",
+    "bytes": 100440,
+    "sha256": "a1ff8757bf78b9dcf95f2242f9810821558d648f259d4a3ac6cfca7d41b93a49",
+    "width": 724,
+    "height": 543,
+    "authorship": "generated-clean-photo-based-on-approved-screen",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2a2762c66222c0dee6ca162098a14b373522ce76/images/editorial/accordion-studies-2026-10-27/spaces-2-interiors.webp"
+  },
+  {
+    "filename": "spaces-3-lighting.webp",
+    "path": "images/editorial/accordion-studies-2026-10-27/spaces-3-lighting.webp",
+    "bytes": 56356,
+    "sha256": "335064136e0c681e19fc8c6ac20f9ecbac1b88c9b811ec90b5f4a5253498ba4c",
+    "width": 724,
+    "height": 543,
+    "authorship": "generated-clean-photo-based-on-approved-screen",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2a2762c66222c0dee6ca162098a14b373522ce76/images/editorial/accordion-studies-2026-10-27/spaces-3-lighting.webp"
+  },
+  {
+    "filename": "spaces-4-landscape.webp",
+    "path": "images/editorial/accordion-studies-2026-10-27/spaces-4-landscape.webp",
+    "bytes": 181900,
+    "sha256": "5500399cc61582461258b22a62d9f80cbca6a11dab70959d0ca258e3b55ec7b5",
+    "width": 724,
+    "height": 543,
+    "authorship": "generated-clean-photo-based-on-approved-screen",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/2a2762c66222c0dee6ca162098a14b373522ce76/images/editorial/accordion-studies-2026-10-27/spaces-4-landscape.webp"
+  },
+  {
+    "filename": "DMSans-OFL.txt",
+    "path": "fonts/editorial/gallery-depth-2026-10-27/DMSans-OFL.txt",
+    "bytes": 4482,
+    "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d01674118c6e318c4c8342b58edb23fde2f91e13/fonts/editorial/gallery-depth-2026-10-27/DMSans-OFL.txt"
+  },
+  {
+    "filename": "DMSans-Medium.ttf",
+    "path": "fonts/editorial/gallery-depth-2026-10-27/DMSans-Medium.ttf",
+    "bytes": 56816,
+    "sha256": "5d1c54f2d17b970fd84607bea6091f4c6be38f3bb8b9629df6f0c0233930c468",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bf75f8c18100f44475b68828eb64c751bdd9b775/fonts/editorial/gallery-depth-2026-10-27/DMSans-Medium.ttf"
+  },
+  {
+    "filename": "DMSans-Bold.ttf",
+    "path": "fonts/editorial/gallery-depth-2026-10-27/DMSans-Bold.ttf",
+    "bytes": 56796,
+    "sha256": "dfced6f15fef950ee2f04fe8520484b17f2f8f31df202681db7d14856547e789",
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bf75f8c18100f44475b68828eb64c751bdd9b775/fonts/editorial/gallery-depth-2026-10-27/DMSans-Bold.ttf"
+  }
+]
