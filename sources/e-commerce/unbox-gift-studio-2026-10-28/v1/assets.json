@@ -1,0 +1,154 @@
+[
+  {
+    "role": "candle",
+    "filename": "candle.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/candle.webp",
+    "kind": "product-image",
+    "bytes": 571658,
+    "sha256": "3c2748bb13f00fcf8630b4fbf7ad8551669db09c017e56f0a27cdcf74a3efad6",
+    "width": 711,
+    "height": 906,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/55bccf030ace3e2e84a1d5a9593cf5fc0f117e3d/assets/e-commerce/unbox-gift-studio-2026-10-28/candle.webp"
+  },
+  {
+    "role": "mug",
+    "filename": "mug.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/mug.webp",
+    "kind": "product-image",
+    "bytes": 622834,
+    "sha256": "12d2507ce11586540423ba4f6868f3d1d99411307c737ffd31012a6bf8dfacd1",
+    "width": 975,
+    "height": 801,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/55bccf030ace3e2e84a1d5a9593cf5fc0f117e3d/assets/e-commerce/unbox-gift-studio-2026-10-28/mug.webp"
+  },
+  {
+    "role": "coffee",
+    "filename": "coffee.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/coffee.webp",
+    "kind": "product-image",
+    "bytes": 606660,
+    "sha256": "d8b337112a9be42647786c09b7257bd0321418384efb047c157ed30be1cb1c32",
+    "width": 730,
+    "height": 984,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/55bccf030ace3e2e84a1d5a9593cf5fc0f117e3d/assets/e-commerce/unbox-gift-studio-2026-10-28/coffee.webp"
+  },
+  {
+    "role": "chocolate",
+    "filename": "chocolate.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/chocolate.webp",
+    "kind": "product-image",
+    "bytes": 666074,
+    "sha256": "7205e1fe62590bc9298749be06892a78e4734dc441b4d6aa2bac61ff4f9b420e",
+    "width": 629,
+    "height": 1100,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/55bccf030ace3e2e84a1d5a9593cf5fc0f117e3d/assets/e-commerce/unbox-gift-studio-2026-10-28/chocolate.webp"
+  },
+  {
+    "role": "balm",
+    "filename": "balm.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/balm.webp",
+    "kind": "product-image",
+    "bytes": 343320,
+    "sha256": "c34a4bfff3437538d3a93ee82042f1639c7b8b3021368f5f5d988666c1e2dd6f",
+    "width": 576,
+    "height": 1100,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/55bccf030ace3e2e84a1d5a9593cf5fc0f117e3d/assets/e-commerce/unbox-gift-studio-2026-10-28/balm.webp"
+  },
+  {
+    "role": "tea",
+    "filename": "tea.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/tea.webp",
+    "kind": "product-image",
+    "bytes": 401142,
+    "sha256": "50d79f24b65526a7b39a7052b91c4fcc5ceb4c4390d449282f25c1e54ec60481",
+    "width": 628,
+    "height": 716,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/55bccf030ace3e2e84a1d5a9593cf5fc0f117e3d/assets/e-commerce/unbox-gift-studio-2026-10-28/tea.webp"
+  },
+  {
+    "role": "box",
+    "filename": "box.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/box.webp",
+    "kind": "product-image",
+    "bytes": 597526,
+    "sha256": "b1bf847703f8a501e15771ce412fccba33fcedb53e39e41cf99c3e4edb292027",
+    "width": 1100,
+    "height": 725,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/55bccf030ace3e2e84a1d5a9593cf5fc0f117e3d/assets/e-commerce/unbox-gift-studio-2026-10-28/box.webp"
+  },
+  {
+    "filename": "Trip-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-Regular.ttf",
+    "kind": "font",
+    "bytes": 160316,
+    "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba",
+    "path": "assets/controls/approved-controls-2026-10-28/Trip-Regular.ttf",
+    "family": "Unbox Sans",
+    "kinds": [
+      "dates"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Trip-Regular.ttf",
+    "anonymousVerified": true,
+    "reused": true
+  },
+  {
+    "filename": "Trip-Semibold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-SemiBold.ttf",
+    "kind": "font",
+    "bytes": 157312,
+    "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286",
+    "path": "assets/controls/approved-controls-2026-10-28/Trip-Semibold.ttf",
+    "family": "Unbox Sans Semibold",
+    "kinds": [
+      "dates"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Trip-Semibold.ttf",
+    "anonymousVerified": true,
+    "reused": true
+  },
+  {
+    "filename": "Poppins-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/OFL.txt",
+    "kind": "font-license",
+    "bytes": 4385,
+    "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+    "path": "assets/controls/approved-controls-2026-10-28/Poppins-OFL.txt",
+    "kinds": [
+      "dates"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Poppins-OFL.txt",
+    "anonymousVerified": true,
+    "reused": true
+  },
+  {
+    "role": "lid",
+    "filename": "lid.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/lid.webp",
+    "kind": "material-layer",
+    "bytes": 451326,
+    "sha256": "d59cc5c41b546283e490d6976be35ed344a6cc4ca56d932a4353b97c702e3b8d",
+    "width": 1100,
+    "height": 629,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ba7fb2a3bedac439e5314ffb27babde2186a10a6/assets/e-commerce/unbox-gift-studio-2026-10-28/lid.webp"
+  },
+  {
+    "role": "bow",
+    "filename": "bow.webp",
+    "path": "assets/e-commerce/unbox-gift-studio-2026-10-28/bow.webp",
+    "kind": "material-layer",
+    "bytes": 763498,
+    "sha256": "1c4a892940fa694bc7c204090bd20d1db540855a323cada562326ccc94461d50",
+    "width": 1100,
+    "height": 865,
+    "alpha": true,
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/ba7fb2a3bedac439e5314ffb27babde2186a10a6/assets/e-commerce/unbox-gift-studio-2026-10-28/bow.webp"
+  }
+]
