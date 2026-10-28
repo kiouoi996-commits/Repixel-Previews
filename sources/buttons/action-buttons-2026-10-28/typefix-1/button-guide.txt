@@ -1,0 +1,27 @@
+ACTION BUTTON INTEGRATION GUIDE
+
+These buttons are native semantic controls with a shared visual renderer.
+
+BAG DROP
+Connect onAction to your real cart operation. Return the confirmed nonnegative integer count. The cube and bag settlement are visual feedback for a real response; no local timer decides that a purchase or cart mutation succeeded. Preserve the host product ID, quantity, currency and checkout. The example page uses a local session-only count and does not submit an order.
+
+DOWNLOAD RAIL
+Connect to a real public or authorized file endpoint. Receive the response stream, count actual decoded bytes and use a trustworthy expected byte size where available. Compressed Content-Length is not a decoded-byte total. Verify the final byte count and optional SHA-256 before creating the Blob URL and handing it to the browser. An unknown total uses an indeterminate indicator; it never invents a percentage. The checkmark confirms receipt, verification and browser handoff, not that the user saved the file to disk.
+
+STATES
+Idle: native button label and reference icon. Pending: duplicate activation blocked and aria-busy set. Success: confirmed operation result and completed icon. Error: no false count increase or success signal, clear live-region feedback and an explicit retry. Reset invalidates old UI callbacks and aborts supported fetches. Aborting a client request does not prove that a server mutation was rolled back. Real cart APIs should use their existing idempotency and reconciliation rules.
+
+ACCESSIBILITY
+Keep the actual native button with the visible graphic marked decorative. Provide an accessible name, visible focus outline, Enter/Space activation and a polite status region. Use at least44 CSS-pixel hit targets. Preserve focus while an operation is in flight. Respect reduced-motion preferences: keep actual pending/success/error states, omit travel and settling, and disable decorative replay.
+
+EMBEDDING
+Place action-button.mjs, core.mjs, paint.mjs, lettering.json and assets.json in one same-origin folder. Serve module files with a JavaScript MIME type. Load the component module, mount one motion-action element with kind bag or download, and configure its onAction callback. The host controls placement, width, the surrounding surface and its actual product/file data. Do not replace a real website with the sample fullscreen backdrop.
+
+DESIGN
+The resting labels are vector contours measured from the two user-approved generated screens, preserving their actual letter shapes. Companion text for newly authored pending/success/error states uses the included licensed Urbanist600 and Outfit350 instances. These are matching implementation fonts; they are not asserted to be the unidentified fonts originally generated in the images. Preserve their OFL notices. Reference backgrounds belong to the isolated demo; they are not mandatory host-page backgrounds.
+
+ANIMATION
+Bag Drop moves a small outlined cube toward the bag, waits while the operation is unresolved, drops it only after success and settles the bag before revealing its confirmed count. Download Rail removes the idle label into a small clip, follows real progress in a thin rail and circular indicator, and draws its check after verified completion. Short operations may retain a minimum one-second visual transition before settling; they do not generate fake bytes.
+
+PREVIEW
+Replay is isolated decorative playback. It calls no business callback, downloads no file, changes no real cart count and emits no business success event. It stops on real pointer/keyboard input or document hiding. The source movie uses the same geometry and painter with explicitly authored progress. Its loop endpoints match at source-pixel level; H.264 is lossy.
