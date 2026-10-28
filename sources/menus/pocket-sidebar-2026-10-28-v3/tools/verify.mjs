@@ -1,0 +1,11 @@
+import assert from 'node:assert/strict';
+import {products,initial,hydrate,serialise,reduce,countBag,totalBag,previewFrames} from '../../public/effects/pocket-sidebar-2026-10-28/model.mjs';
+let s=initial();assert.deepEqual(s.saved,products.map(p=>p.id));
+s=reduce(s,{type:'remove',id:'arc-chair'});assert.deepEqual(s.saved,['loop-lamp','stone-vase']);s=reduce(s,{type:'save',id:'arc-chair'});assert.equal(s.saved.at(-1),'arc-chair');const unchanged=reduce(s,{type:'save',id:'arc-chair'});assert.equal(unchanged,s);assert.equal(reduce(s,{type:'save',id:'__proto__'}),s);
+s=reduce(s,{type:'mode',mode:'Compare'});assert.equal(s.mode,'Compare');s=reduce(s,{type:'close'});assert.equal(s.open,false);s=reduce(s,{type:'open'});assert.equal(s.mode,'Compare');assert.equal(s.open,true);
+for(const id of ['arc-chair','loop-lamp','loop-lamp','stone-vase'])s=reduce(s,{type:'bag-add',id});assert.equal(countBag(s),4);assert.equal(totalBag(s),648);assert.equal(s.saved.length,3);
+s=reduce(s,{type:'bag-qty',id:'loop-lamp',quantity:0});assert.equal(countBag(s),2);assert.equal(totalBag(s),328);assert.equal(reduce(s,{type:'bag-qty',id:'arc-chair',quantity:Infinity}),s);
+const restored=hydrate(JSON.parse(serialise(s)));assert.deepEqual(restored.saved,s.saved);assert.deepEqual(restored.bag,s.bag);
+assert.deepEqual(hydrate({version:1,saved:['unknown','arc-chair','arc-chair'],bag:{'arc-chair':2,'loop-lamp':-1,'stone-vase':1.5}}).saved,['arc-chair']);assert.deepEqual(hydrate({version:1,saved:[],bag:{unknown:3,'arc-chair':2,'loop-lamp':100}}).bag,{'arc-chair':2});assert.deepEqual(hydrate({version:2,saved:[]}),initial());
+const frames=previewFrames();assert.equal(frames.length,300);assert.deepEqual(frames[0].state,frames.at(-1).state);assert.deepEqual(frames[0].pointer,frames.at(-1).pointer);assert.equal(frames[0].open,frames.at(-1).open);assert(frames.some(f=>f.compare>.99));assert(frames.some(f=>f.open<.01));assert(frames.some(f=>f.drag));assert.equal(frames[89].state.saved.length,3);
+console.log('Verified saved identity/order/deduplication, independent cart arithmetic, state hydration, view preservation and complete replay loop.');

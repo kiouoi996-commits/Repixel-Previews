@@ -1,0 +1,12 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light"><title>FORMA — Pocket Sidebar</title><link rel="stylesheet" href="./shop.css"></head>
+<body>
+<pocket-sidebar></pocket-sidebar>
+<main id="shop"><header><a href="#discover" class="wordmark" aria-label="FORMA home"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 0l2 8 8-5-5 8 7 2-8 2 5 8-8-5-2 7-2-8-8 5 5-8-7-2 8-2-5-8 8 5Z"/></svg>FORMA</a><nav aria-label="Shop sections"><a href="#objects">Objects</a><button id="collections">Collections</button><button id="about">About</button></nav><button id="search-toggle" aria-label="Search objects"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="7.5"/><path d="m16 16 6 6"/></svg></button></header>
+<section id="discover"><div class="intro"><h1>Objects for<br>everyday living.</h1><p>Thoughtfully made. Quietly distinctive.</p></div><div class="hero"><div class="floor"></div><img class="hero-chair" alt="Arc chair in cream boucle" draggable="false"><div class="hero-copy"><p>THE EVERYDAY COLLECTION</p><h2>A little more<br>room to unwind.</h2><a class="pill" href="#objects">Explore objects <span aria-hidden="true">→</span></a></div></div></section>
+<section id="objects" aria-label="Objects"><form id="search" hidden><label for="query">Find an object</label><input id="query" type="search" placeholder="Search by name or material" autocomplete="off"><button type="button" id="clear-search">Clear</button></form><div class="products"></div><p id="empty" hidden>No objects match your search.</p></section>
+<footer><button id="replay">Replay interaction</button><span>FORMA · Objects for everyday living</span><button id="reset">Reset collection</button></footer></main>
+<dialog id="product-dialog" aria-labelledby="dialog-title"><button class="dialog-close" aria-label="Close product details">×</button><div id="product-content"></div></dialog>
+<dialog id="info-dialog" aria-labelledby="info-title"><button class="dialog-close" aria-label="Close information">×</button><div id="info-content"></div></dialog>
+<p id="shop-status" role="status" aria-live="polite"></p>
+<script type="module" src="./shop.mjs"></script></body></html>
