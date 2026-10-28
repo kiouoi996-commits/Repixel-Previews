@@ -1,0 +1,70 @@
+{
+  "version": 1,
+  "name": "UNBOX — Gift Commerce Studio",
+  "date": "2026-10-28",
+  "motion": "Authored reconstruction, not a browser recording",
+  "imagery": "Nine independent original generated alpha layers; private inspiration boards are not redistributed.",
+  "products": "Fictional merchant fixture catalog; no live store or payment connection.",
+  "files": [
+    {
+      "filename": "model.mjs",
+      "bytes": 8894,
+      "sha256": "31b66e0a2706e739afd90dc35e1159ceead8c3d30a6131e65f85e38f804c5bdc"
+    },
+    {
+      "filename": "scene.mjs",
+      "bytes": 12403,
+      "sha256": "cca71ab070a7baac6b1da0bf9cc0bd3664db2f5f5f315325a24f39c8e3c347af"
+    },
+    {
+      "filename": "component.mjs",
+      "bytes": 25008,
+      "sha256": "4db3639a39258251813a0633af0645d43ce292bf3cda55f71570640f3291f45d"
+    },
+    {
+      "filename": "component.css",
+      "bytes": 12121,
+      "sha256": "bdecd220fef1ddcc47eae8709d77eb75d307f8cc493e2c133f5224f91b587d77"
+    },
+    {
+      "filename": "cart-contract.mjs",
+      "bytes": 1486,
+      "sha256": "fb1031eb88224bc0b32637e192858ebe5c08e52bbca2677cafe225a52f406dbd"
+    },
+    {
+      "filename": "assets.json",
+      "bytes": 6422,
+      "sha256": "f1cdca06299dbcc5b9a7debc0d1f5d4c1fdf15a968401b725d07e9ee762f324c"
+    },
+    {
+      "filename": "README.md",
+      "bytes": 9257,
+      "sha256": "c85b2af0ea6782ba09c73b1f65127702c558f0e30d34bb5d1b6bd01848bb3044"
+    },
+    {
+      "filename": "index.html",
+      "bytes": 2380,
+      "sha256": "67417074c3486b2051702c8dc4044c1e98e4fd7762b27ee695176f1826b13e99"
+    },
+    {
+      "filename": "demo.mjs",
+      "bytes": 3342,
+      "sha256": "af51cd68719a76579e39b4804a4b56e92bd627fe28fd9784af5035cfde278258"
+    },
+    {
+      "filename": "responsive-preview.html",
+      "bytes": 1028,
+      "sha256": "3186ed513601c863a6562b7c12583488d0b7d6fb6125b58b3471c28f8205e93b"
+    },
+    {
+      "filename": "render.mjs",
+      "bytes": 4263,
+      "sha256": "27bfa7b5890abb9065af37f7166f12514c188288773732d3b08743c93913ff15"
+    },
+    {
+      "filename": "verify.mjs",
+      "bytes": 5321,
+      "sha256": "d70e283856b044b63fa8dc530dbe038688dbede1a37e39dbfcf6a559881b0157"
+    }
+  ]
+}
