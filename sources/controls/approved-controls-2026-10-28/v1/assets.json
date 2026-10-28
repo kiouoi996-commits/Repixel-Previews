@@ -1,0 +1,220 @@
+[
+  {
+    "filename": "Solar-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/BodoniModa%5Bopsz%2Cwght%5D.ttf",
+    "kind": "font",
+    "bytes": 58724,
+    "sha256": "cf8a2884b931f4296d2abbb7997ff305e70adb3058e4f3ae53f077a5e74abb42",
+    "path": "assets/controls/approved-controls-2026-10-28/Solar-Regular.ttf",
+    "family": "Solar Regular",
+    "kinds": [
+      "solar"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Solar-Regular.ttf",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Solar-Italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/BodoniModa-Italic%5Bopsz%2Cwght%5D.ttf",
+    "kind": "font",
+    "bytes": 61980,
+    "sha256": "a13b573bf9add6765db95d4ffd6bb249dbee3ad7167da548f21b542e716440ae",
+    "path": "assets/controls/approved-controls-2026-10-28/Solar-Italic.ttf",
+    "family": "Solar Italic",
+    "kinds": [
+      "solar"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Solar-Italic.ttf",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Paper-Serif.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmserifdisplay/DMSerifDisplay-Regular.ttf",
+    "kind": "font",
+    "bytes": 76580,
+    "sha256": "8cc3643535edf039aa5d95440a8542735e9197e4f4b8d9303e980fefbf5ab616",
+    "path": "assets/controls/approved-controls-2026-10-28/Paper-Serif.ttf",
+    "family": "Paper Serif",
+    "kinds": [
+      "bookmarks"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Paper-Serif.ttf",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Paper-Hand.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/Caveat%5Bwght%5D.ttf",
+    "kind": "font",
+    "bytes": 266920,
+    "sha256": "2c66dc4f7ba21d9a0d594128d8ceafe9fef01c52a80f1a47ef95da424f619c9a",
+    "path": "assets/controls/approved-controls-2026-10-28/Paper-Hand.ttf",
+    "family": "Paper Hand",
+    "kinds": [
+      "bookmarks"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Paper-Hand.ttf",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Trip-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-Regular.ttf",
+    "kind": "font",
+    "bytes": 160316,
+    "sha256": "7e65201e9b79159e2300267cc885e16c8dcef2424cdfa09a29bfb0980a94a7ba",
+    "path": "assets/controls/approved-controls-2026-10-28/Trip-Regular.ttf",
+    "family": "Trip Regular",
+    "kinds": [
+      "dates"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Trip-Regular.ttf",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Trip-Semibold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/Poppins-SemiBold.ttf",
+    "kind": "font",
+    "bytes": 157312,
+    "sha256": "d3bf1bdaf0550e83da9ac0b1d1d9fe6db086835a83aa28578e609a394b9a0286",
+    "path": "assets/controls/approved-controls-2026-10-28/Trip-Semibold.ttf",
+    "family": "Trip Semibold",
+    "kinds": [
+      "dates"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Trip-Semibold.ttf",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "BodoniModa-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/bodonimoda/OFL.txt",
+    "kind": "font-license",
+    "bytes": 4400,
+    "sha256": "931dfe2e0cd3c9443295f5c1d754b8a8403bf060df50c1d5900267ade83d0046",
+    "path": "assets/controls/approved-controls-2026-10-28/BodoniModa-OFL.txt",
+    "kinds": [
+      "solar"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/BodoniModa-OFL.txt",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "DMSerifDisplay-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/dmserifdisplay/OFL.txt",
+    "kind": "font-license",
+    "bytes": 4605,
+    "sha256": "a3e5cdd67d4571dd0a24fcc968de0efde7ae97ef752daf0906e4767619dd7231",
+    "path": "assets/controls/approved-controls-2026-10-28/DMSerifDisplay-OFL.txt",
+    "kinds": [
+      "bookmarks"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/DMSerifDisplay-OFL.txt",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Caveat-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/caveat/OFL.txt",
+    "kind": "font-license",
+    "bytes": 4385,
+    "sha256": "1f9d81d094273d82f3898a1ee8b598a717d050ecbf5ff7bede105b704880157b",
+    "path": "assets/controls/approved-controls-2026-10-28/Caveat-OFL.txt",
+    "kinds": [
+      "bookmarks"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Caveat-OFL.txt",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Poppins-OFL.txt",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/poppins/OFL.txt",
+    "kind": "font-license",
+    "bytes": 4385,
+    "sha256": "6be04893d770899a015649c7aa3b582f871b272f8747a92b78b17c3e5c8b2573",
+    "path": "assets/controls/approved-controls-2026-10-28/Poppins-OFL.txt",
+    "kinds": [
+      "dates"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Poppins-OFL.txt",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Pocket-Regular.ttf",
+    "kind": "font",
+    "source": "pinned action-buttons font release",
+    "bytes": 55176,
+    "sha256": "dc6c1715fd8ccb9bcb40bba89b816b8d2bc51a587b9fb2631254721cf8cf8e79",
+    "path": "assets/controls/approved-controls-2026-10-28/Pocket-Regular.ttf",
+    "family": "Pocket Regular",
+    "kinds": [
+      "solar",
+      "bookmarks",
+      "pocket"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Pocket-Regular.ttf",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "Outfit-OFL.txt",
+    "kind": "font-license",
+    "source": "pinned action-buttons font release",
+    "bytes": 4389,
+    "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+    "path": "assets/controls/approved-controls-2026-10-28/Outfit-OFL.txt",
+    "kinds": [
+      "solar",
+      "bookmarks",
+      "pocket"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/Outfit-OFL.txt",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "paper-book.webp",
+    "kind": "alpha-image",
+    "width": 1312,
+    "height": 1199,
+    "source": "generated asset from approved component",
+    "alpha": true,
+    "bytes": 989428,
+    "sha256": "8b7c3ef69b7c3d651c55180e522bc839eede60bb52492cb0ec965cfb08b3c605",
+    "path": "assets/controls/approved-controls-2026-10-28/paper-book.webp",
+    "role": "book",
+    "kinds": [
+      "bookmarks"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/paper-book.webp",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "glass-pocket.webp",
+    "kind": "alpha-image",
+    "width": 1536,
+    "height": 1024,
+    "source": "generated asset from approved component",
+    "alpha": true,
+    "bytes": 450382,
+    "sha256": "2d246a5f5c51a75911b2e8f4a359813fd127c52dab5a85035946c9dced4e174d",
+    "path": "assets/controls/approved-controls-2026-10-28/glass-pocket.webp",
+    "role": "pocket",
+    "kinds": [
+      "pocket"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/glass-pocket.webp",
+    "anonymousVerified": true
+  },
+  {
+    "filename": "coastal-terraces.webp",
+    "kind": "photo",
+    "width": 1774,
+    "height": 887,
+    "source": "generated asset from approved component",
+    "alpha": false,
+    "bytes": 370910,
+    "sha256": "5b68ac552b315c5e885e94d4f786c8e90f0d4711b089128b0240fb511f88b532",
+    "path": "assets/controls/approved-controls-2026-10-28/coastal-terraces.webp",
+    "role": "coast",
+    "kinds": [
+      "dates"
+    ],
+    "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/8785247133e99e743fd886485eef03783b990613/assets/controls/approved-controls-2026-10-28/coastal-terraces.webp",
+    "anonymousVerified": true
+  }
+]
