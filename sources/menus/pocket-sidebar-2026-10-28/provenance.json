@@ -1,0 +1,90 @@
+{
+  "batch": "pocket-sidebar-2026-10-28",
+  "number": 203,
+  "designReference": {
+    "origin": "user-approved generated conversation concept",
+    "filename": "exec-56e70e49-6308-4885-8ece-13bbeadf24c1.png",
+    "width": 1586,
+    "height": 992,
+    "sha256": "a565cf6cb60efe824b86593f161ea56a25e333a8e74eb8ea4d905cdd34040a53"
+  },
+  "privateStyleReference": "Affitto image from the user Drive folder; used for design direction, not redistributed.",
+  "workflow": "private-reference-to-approved-generated-screen-to-independent-alpha-assets-to-native-implementation",
+  "motionAuthorship": "authored",
+  "preview": {
+    "width": 1280,
+    "height": 800,
+    "fps": 30,
+    "frames": 300,
+    "durationSeconds": 10,
+    "audio": false,
+    "faststart": true,
+    "loopEndpointPixelsEqual": true,
+    "uniqueSourceFrames": 246,
+    "humanGesture": true,
+    "renderKind": "authored-native-ui-reconstruction",
+    "posterTimeSeconds": 0
+  },
+  "assets": [
+    {
+      "filename": "arc-chair.webp",
+      "path": "images/menus/pocket-sidebar-2026-10-28/arc-chair.webp",
+      "bytes": 247042,
+      "sha256": "a38ef59b66dc3f9fa70ed5222c8014fbfee27f16e562dd4ce8daa12c4d45f4cd",
+      "width": 900,
+      "height": 900,
+      "alpha": true,
+      "sourceFilename": "exec-42b9b784-5f2a-4c1f-b4b6-b6cac62abf7f.png",
+      "kind": "product-image",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/95fd27e07d9a99c9cebf879d7b97b74ade109df9/images/menus/pocket-sidebar-2026-10-28/arc-chair.webp"
+    },
+    {
+      "filename": "loop-lamp.webp",
+      "path": "images/menus/pocket-sidebar-2026-10-28/loop-lamp.webp",
+      "bytes": 55384,
+      "sha256": "d78e84e7658f156317f57bbf6417365aee6f9c24e0b0c23693af8740aa4bff0b",
+      "width": 900,
+      "height": 900,
+      "alpha": true,
+      "sourceFilename": "exec-e4c19121-c047-4f3c-b9ed-d40f2bfa6c91.png",
+      "kind": "product-image",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/95fd27e07d9a99c9cebf879d7b97b74ade109df9/images/menus/pocket-sidebar-2026-10-28/loop-lamp.webp"
+    },
+    {
+      "filename": "stone-vase.webp",
+      "path": "images/menus/pocket-sidebar-2026-10-28/stone-vase.webp",
+      "bytes": 199312,
+      "sha256": "1654ea2b5b864baf0a07d30a01ad442b6c150b524c44bf1af93cb12c58d51884",
+      "width": 900,
+      "height": 900,
+      "alpha": true,
+      "sourceFilename": "exec-9f25446a-5883-41d3-b124-b14dcea3364a.png",
+      "kind": "product-image",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/95fd27e07d9a99c9cebf879d7b97b74ade109df9/images/menus/pocket-sidebar-2026-10-28/stone-vase.webp"
+    },
+    {
+      "filename": "DMSans-OFL.txt",
+      "path": "fonts/editorial/gallery-depth-2026-10-27/DMSans-OFL.txt",
+      "bytes": 4482,
+      "sha256": "9af36190332437f5ecd09974de43c1f7c77a310a996cdd8ceb25628b458840e1",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/d01674118c6e318c4c8342b58edb23fde2f91e13/fonts/editorial/gallery-depth-2026-10-27/DMSans-OFL.txt",
+      "kind": "font-license"
+    },
+    {
+      "filename": "DMSans-Medium.ttf",
+      "path": "fonts/editorial/gallery-depth-2026-10-27/DMSans-Medium.ttf",
+      "bytes": 56816,
+      "sha256": "5d1c54f2d17b970fd84607bea6091f4c6be38f3bb8b9629df6f0c0233930c468",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bf75f8c18100f44475b68828eb64c751bdd9b775/fonts/editorial/gallery-depth-2026-10-27/DMSans-Medium.ttf",
+      "kind": "font"
+    },
+    {
+      "filename": "DMSans-Bold.ttf",
+      "path": "fonts/editorial/gallery-depth-2026-10-27/DMSans-Bold.ttf",
+      "bytes": 56796,
+      "sha256": "dfced6f15fef950ee2f04fe8520484b17f2f8f31df202681db7d14856547e789",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/bf75f8c18100f44475b68828eb64c751bdd9b775/fonts/editorial/gallery-depth-2026-10-27/DMSans-Bold.ttf",
+      "kind": "font"
+    }
+  ]
+}
