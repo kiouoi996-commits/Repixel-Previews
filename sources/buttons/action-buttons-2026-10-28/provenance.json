@@ -1,0 +1,205 @@
+{
+  "batch": "action-buttons-2026-10-28",
+  "motionAuthorship": "authored",
+  "workflow": "Drive visual reference → user-approved generated resting designs → measured vector lettering and geometry → native implementation",
+  "designs": [
+    {
+      "kind": "bag",
+      "filename": "exec-32749d53-d23e-4f72-bb36-f19777e2546b.png",
+      "sha256": "6dbfcb9c98ef8f269ac967e2e1e5f39e890d107af8e7a4a45689db73c2969193",
+      "width": 1586,
+      "height": 992,
+      "box": [
+        346,
+        378,
+        894,
+        236
+      ],
+      "textBox": [
+        542,
+        471,
+        397,
+        70
+      ],
+      "fontFit": [
+        0.665,
+        "Urbanist.ttf",
+        600,
+        69,
+        343,
+        71
+      ],
+      "backgroundSamples": [
+        [
+          111,
+          167,
+          187
+        ],
+        [
+          107,
+          171,
+          193
+        ],
+        [
+          110,
+          168,
+          186
+        ],
+        [
+          114,
+          163,
+          186
+        ],
+        [
+          108,
+          170,
+          192
+        ],
+        [
+          112,
+          166,
+          188
+        ]
+      ]
+    },
+    {
+      "kind": "download",
+      "filename": "exec-70e69592-ffa4-4931-91c1-ec59cfbc805c.png",
+      "sha256": "d74c449557340b2a4ec6ad6fe8de4973aadd74f82d1245613ea661419c9a9491",
+      "width": 1586,
+      "height": 992,
+      "box": [
+        307,
+        364,
+        972,
+        264
+      ],
+      "textBox": [
+        481,
+        458,
+        488,
+        76
+      ],
+      "fontFit": [
+        0.54,
+        "Outfit[wght].ttf",
+        350,
+        106,
+        465,
+        76
+      ],
+      "backgroundSamples": [
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          0,
+          0,
+          0
+        ],
+        [
+          1,
+          2,
+          1
+        ],
+        [
+          0,
+          1,
+          0
+        ],
+        [
+          0,
+          1,
+          0
+        ]
+      ]
+    }
+  ],
+  "render": [
+    {
+      "number": 204,
+      "width": 1280,
+      "height": 800,
+      "fps": 30,
+      "frames": 270,
+      "durationSeconds": 9,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 209,
+      "humanGesture": true,
+      "posterTimeSeconds": 0
+    },
+    {
+      "number": 205,
+      "width": 1280,
+      "height": 800,
+      "fps": 30,
+      "frames": 270,
+      "durationSeconds": 9,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 208,
+      "humanGesture": true,
+      "posterTimeSeconds": 0
+    }
+  ],
+  "lettering": "Vector contours measured from approved generated labels with subpixel quadratic smoothing; no invented original font identity.",
+  "stateFonts": [
+    {
+      "file": "Button-Bag.ttf",
+      "family": "Urbanist",
+      "weight": 600,
+      "origin": "google/fonts/ofl/urbanist"
+    },
+    {
+      "file": "Button-Download.ttf",
+      "family": "Outfit",
+      "weight": 350,
+      "origin": "google/fonts/ofl/outfit"
+    }
+  ],
+  "fonts": [
+    {
+      "filename": "Button-Bag.ttf",
+      "path": "fonts/buttons/action-buttons-2026-10-28/Button-Bag.ttf",
+      "bytes": 43328,
+      "sha256": "4421aa0781047c0ddb60b2485077c4fb0e5cbf7c6d9968380aa5be038e9c9512",
+      "kind": "font",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/3c1f2c16c038b7c0afd241e7c0ac4128cb99db33/fonts/buttons/action-buttons-2026-10-28/Button-Bag.ttf"
+    },
+    {
+      "filename": "Button-Download.ttf",
+      "path": "fonts/buttons/action-buttons-2026-10-28/Button-Download.ttf",
+      "bytes": 55176,
+      "sha256": "dc6c1715fd8ccb9bcb40bba89b816b8d2bc51a587b9fb2631254721cf8cf8e79",
+      "kind": "font",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/3c1f2c16c038b7c0afd241e7c0ac4128cb99db33/fonts/buttons/action-buttons-2026-10-28/Button-Download.ttf"
+    },
+    {
+      "filename": "Urbanist-OFL.txt",
+      "path": "fonts/buttons/action-buttons-2026-10-28/Urbanist-OFL.txt",
+      "bytes": 4385,
+      "sha256": "ee1221b1c2d08920e5f9ca764eb228dafa5c8090df9cf665373c2287b9cb8f49",
+      "kind": "font-license",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/3c1f2c16c038b7c0afd241e7c0ac4128cb99db33/fonts/buttons/action-buttons-2026-10-28/Urbanist-OFL.txt"
+    },
+    {
+      "filename": "OFL.txt",
+      "path": "fonts/buttons/action-buttons-2026-10-28/OFL.txt",
+      "bytes": 4389,
+      "sha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+      "kind": "font-license",
+      "url": "https://raw.githubusercontent.com/kiouoi996-commits/Repixel-Previews/3c1f2c16c038b7c0afd241e7c0ac4128cb99db33/fonts/buttons/action-buttons-2026-10-28/OFL.txt"
+    }
+  ],
+  "privateReferences": "Original Drive screenshots and generated source PNGs are not redistributed as runtime backgrounds."
+}
