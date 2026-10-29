@@ -1,0 +1,150 @@
+{
+  "batch": "background-studies-2026-10-29",
+  "date": "2026-10-29",
+  "authorship": "Generated approval stills with original procedural runtime and authored demonstration gestures",
+  "visibleContent": "Background artwork only; no text or site elements",
+  "runtimeAssets": "Procedural geometry and deterministic grain; no external runtime fonts or images",
+  "approvedReferences": [
+    {
+      "path": "images/background-effects/references/211-copper-current-2026-10-29-approved.webp",
+      "bytes": 213178,
+      "sha256": "5fc0a29a656a1cd0a82c2671b47c7655bd2233db26993846b7522408f03faaf7",
+      "kind": "reference",
+      "number": 211,
+      "width": 1672,
+      "height": 941,
+      "approvalPngSha256": "f711ae25fd9213eb7a91c1bd34a0e63391eafeaa9fff7f29a68ae70becb4c2dc"
+    },
+    {
+      "path": "images/background-effects/references/212-mera-paper-relief-2026-10-29-approved.webp",
+      "bytes": 132406,
+      "sha256": "32017011d3bb1bac88ec2360ab76254b85679744d1dc33aa2a8331f1dcbe5275",
+      "kind": "reference",
+      "number": 212,
+      "width": 1672,
+      "height": 941,
+      "approvalPngSha256": "d752e9ab0e1216d2c6f38294f65a9f40f03dd5db745bd1f6d78ac9fc48abcc5e"
+    }
+  ],
+  "renderVerification": [
+    {
+      "kind": "copper",
+      "frames": 240,
+      "uniqueSourceFrames": 239,
+      "loopEndpointsEqual": true,
+      "inputAffectedPercent": 19.1,
+      "averageChannelDelta": 6.51,
+      "videoBytes": 2389410,
+      "mobile": "390x844 rendered",
+      "faststart": true,
+      "audio": false
+    },
+    {
+      "kind": "paper",
+      "frames": 300,
+      "uniqueSourceFrames": 299,
+      "loopEndpointsEqual": true,
+      "inputAffectedPercent": 13.5,
+      "averageChannelDelta": 1.94,
+      "videoBytes": 628667,
+      "mobile": "390x844 rendered",
+      "faststart": true,
+      "audio": false
+    }
+  ],
+  "renderParameters": [
+    {
+      "number": 211,
+      "kind": "copper",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "frames": 240,
+      "durationSeconds": 8,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 239,
+      "humanGesture": true
+    },
+    {
+      "number": 212,
+      "kind": "paper",
+      "width": 1280,
+      "height": 720,
+      "fps": 30,
+      "frames": 300,
+      "durationSeconds": 10,
+      "audio": false,
+      "faststart": true,
+      "loopEndpointPixelsEqual": true,
+      "uniqueSourceFrames": 299,
+      "humanGesture": true
+    }
+  ],
+  "sourceIntegrity": [
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/scene.mjs",
+      "bytes": 10599,
+      "sha256": "be4d6a56ef964eb2b8b0b5598d8c976ee954e36e92ef3a09368cad623b70bcf8",
+      "kind": "implementation",
+      "local": "public/effects/background-studies-2026-10-29/scene.mjs"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/background.mjs",
+      "bytes": 5746,
+      "sha256": "c6fd8e9203f94daa26c856a33a65a71f4d8cc9730733bd3a55229ce484e02648",
+      "kind": "implementation",
+      "local": "public/effects/background-studies-2026-10-29/background.mjs"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/demo.mjs",
+      "bytes": 328,
+      "sha256": "f0303098cb89b42b78888beef62d8b874476e60b86e34184b00c2751df8080f1",
+      "kind": "implementation",
+      "local": "public/effects/background-studies-2026-10-29/demo.mjs"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/demo.css",
+      "bytes": 239,
+      "sha256": "ba0e1f84caa2a9573adf8777df972acb6072496721b3aae946be8124a0e7ceb0",
+      "kind": "stylesheet",
+      "local": "public/effects/background-studies-2026-10-29/demo.css"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/211-copper-current.html",
+      "bytes": 408,
+      "sha256": "6ebe60208671c17a2c187a2985038bf2af9b729ef7ea80d1d870fa896379c984",
+      "kind": "live-example",
+      "local": "public/effects/background-studies-2026-10-29/211-copper-current.html"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/212-mera-paper-relief.html",
+      "bytes": 419,
+      "sha256": "5bd3e33d42669b849c3dd16560c26cc2fdb56ab24cf477f9a0b3055465f1d8bf",
+      "kind": "live-example",
+      "local": "public/effects/background-studies-2026-10-29/212-mera-paper-relief.html"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/README.md",
+      "bytes": 4297,
+      "sha256": "2acd4bcdf8c73af79f3cb06014424dd6e0d9e49cd4c5920448f39b61f82d0df4",
+      "kind": "integration-guide",
+      "local": "public/effects/background-studies-2026-10-29/README.md"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/tools/render.mjs",
+      "bytes": 3217,
+      "sha256": "573f68ad22392dfcf3e69cdc8503cec6beb5250476e4ccdd28910d8ea6e528f6",
+      "kind": "renderer",
+      "local": "tools/background-studies/render.mjs"
+    },
+    {
+      "path": "sources/background-effects/background-studies-2026-10-29/v1/tools/verify.mjs",
+      "bytes": 3458,
+      "sha256": "3a03d9121ceab25271f438e7bf131ecefd8a43d0230c35206f36c2f9a70159e4",
+      "kind": "verification",
+      "local": "tools/background-studies/verify.mjs"
+    }
+  ]
+}
