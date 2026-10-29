@@ -1,0 +1,71 @@
+{
+  "version": 3,
+  "name": "UNBOX — Gift Commerce Studio",
+  "date": "2026-10-29",
+  "motion": "Authored reconstruction, not a browser recording",
+  "imagery": "Nine independent original generated alpha layers; private inspiration boards are not redistributed.",
+  "products": "Fictional merchant fixture catalog; no live store or payment connection.",
+  "changes": "Device drafts retain supported curation budgets. Legacy drafts default to 7000 cents. Malformed item containers restore safely. Share links omit budgets and personal text.",
+  "files": [
+    {
+      "filename": "model.mjs",
+      "bytes": 9187,
+      "sha256": "415c7638d6f51033baaf1917c8a766055518926e136d90859f28c684373c15c0"
+    },
+    {
+      "filename": "scene.mjs",
+      "bytes": 12403,
+      "sha256": "cca71ab070a7baac6b1da0bf9cc0bd3664db2f5f5f315325a24f39c8e3c347af"
+    },
+    {
+      "filename": "component.mjs",
+      "bytes": 25296,
+      "sha256": "bb2b924661524a53d8346a23b079543f6a2d30cb9b959c96891179586c04ce92"
+    },
+    {
+      "filename": "component.css",
+      "bytes": 12121,
+      "sha256": "bdecd220fef1ddcc47eae8709d77eb75d307f8cc493e2c133f5224f91b587d77"
+    },
+    {
+      "filename": "cart-contract.mjs",
+      "bytes": 1486,
+      "sha256": "fb1031eb88224bc0b32637e192858ebe5c08e52bbca2677cafe225a52f406dbd"
+    },
+    {
+      "filename": "assets.json",
+      "bytes": 6422,
+      "sha256": "f1cdca06299dbcc5b9a7debc0d1f5d4c1fdf15a968401b725d07e9ee762f324c"
+    },
+    {
+      "filename": "README.md",
+      "bytes": 9701,
+      "sha256": "f591a37e9903054fbe15ef0f69844e0a3e309be45e4c99464391a0b55d02d5ed"
+    },
+    {
+      "filename": "index.html",
+      "bytes": 2380,
+      "sha256": "67417074c3486b2051702c8dc4044c1e98e4fd7762b27ee695176f1826b13e99"
+    },
+    {
+      "filename": "demo.mjs",
+      "bytes": 3342,
+      "sha256": "af51cd68719a76579e39b4804a4b56e92bd627fe28fd9784af5035cfde278258"
+    },
+    {
+      "filename": "responsive-preview.html",
+      "bytes": 1028,
+      "sha256": "3186ed513601c863a6562b7c12583488d0b7d6fb6125b58b3471c28f8205e93b"
+    },
+    {
+      "filename": "render.mjs",
+      "bytes": 4263,
+      "sha256": "27bfa7b5890abb9065af37f7166f12514c188288773732d3b08743c93913ff15"
+    },
+    {
+      "filename": "verify.mjs",
+      "bytes": 7057,
+      "sha256": "990439c5983f15ee5a4bc3b0677e9654c221f6f3e9d7a1911d02f78980ef47a8"
+    }
+  ]
+}
