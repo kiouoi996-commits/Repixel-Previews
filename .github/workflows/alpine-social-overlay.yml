@@ -12,22 +12,30 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Render caption on latest Alpine Ride preview
+      - name: Render header above original frame without overlap or crop
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
           INPUT="videos/apps/alpine-ride-3d-2026-10-25-v2.mp4"
-          OUTPUT="videos/apps/alpine-ride-social-2026-10-30.mp4"
+          OUTPUT="videos/apps/alpine-ride-social-2026-10-30-v2.mp4"
           test -f "$INPUT"
-          WIDTH=$(ffprobe -v error -select_streams v:0 -show_entries stream=width -of default=noprint_wrappers=1:nokey=1 "$INPUT")
-          SIZE=$((WIDTH / 32))
-          if [ "$SIZE" -lt 16 ]; then SIZE=16; fi
-          if [ "$SIZE" -gt 48 ]; then SIZE=48; fi
-          ffmpeg -y -i "$INPUT" -vf "drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='One promt+GPT 6.1 Sol+Trippo3d':fontcolor=white:fontsize=$SIZE:x=(w-text_w)/2:y=h*0.055:box=1:boxcolor=black@0.65:boxborderw=18" -c:v libx264 -preset medium -crf 19 -pix_fmt yuv420p -movflags +faststart -c:a aac -b:a 128k "$OUTPUT"
-      - name: Publish rendered preview into media repository
+          W=$(ffprobe -v error -select_streams v:0 -show_entries stream=width -of default=noprint_wrappers=1:nokey=1 "$INPUT")
+          H=$(ffprobe -v error -select_streams v:0 -show_entries stream=height -of default=noprint_wrappers=1:nokey=1 "$INPUT")
+          TOP=$((H * 12 / 100))
+          if [ "$TOP" -lt 75 ]; then TOP=75; fi
+          FONT=$((W / 35))
+          if [ "$FONT" -lt 15 ]; then FONT=15; fi
+          if [ "$FONT" -gt 44 ]; then FONT=44; fi
+          if [ "$FONT" -gt $((TOP * 35 / 100)) ]; then FONT=$((TOP * 35 / 100)); fi
+          echo "Source: ${W}x${H}; header: ${TOP}px; font: ${FONT}px"
+          ffmpeg -y -i "$INPUT" -vf "pad=iw:ih+${TOP}:0:${TOP}:color=0x111318,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='One promt+GPT 6.1 Sol+Trippo3d':fontcolor=white:fontsize=${FONT}:x=(w-text_w)/2:y=(${TOP}-text_h)/2" -c:v libx264 -preset medium -crf 19 -pix_fmt yuv420p -movflags +faststart -c:a aac -b:a 128k "$OUTPUT"
+          mkdir -p images
+          ffmpeg -y -ss 1 -i "$OUTPUT" -frames:v 1 -q:v 3 "images/alpine-ride-social-2026-10-30-v2.jpg"
+          ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of default=noprint_wrappers=1 "$OUTPUT"
+      - name: Publish corrected video without overwriting original
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add videos/apps/alpine-ride-social-2026-10-30.mp4
-          git commit -m "media: add Alpine Ride social video with headline" || exit 0
+          git add videos/apps/alpine-ride-social-2026-10-30-v2.mp4 images/alpine-ride-social-2026-10-30-v2.jpg
+          git commit -m "media: place Alpine Ride social headline above screenshot" || exit 0
           git push
