@@ -1,0 +1,32 @@
+name: Build Alpine Ride vertical Shorts video
+on:
+  push:
+    branches: [main]
+    paths:
+      - .github/workflows/alpine-shorts-vertical.yml
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Create a 9 by 16 Shorts version without cropping the app UI
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          INPUT="videos/apps/alpine-ride-3d-2026-10-25-v2.mp4"
+          OUTPUT="videos/apps/alpine-ride-shorts-9x16-2026-11-01.mp4"
+          test -f "$INPUT"
+          ffmpeg -y -i "$INPUT" -filter_complex "[0:v]split=2[blur][app];[blur]scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,boxblur=48:3,eq=brightness=-0.40:saturation=0.7[back];[app]scale=1010:1480:force_original_aspect_ratio=decrease:flags=lanczos,format=yuv420p,pad=iw+12:ih+12:6:6:color=0x1a2029[frame];[back][frame]overlay=x=(W-w)/2:y=330+(1590-h)/2:shortest=1,drawbox=x=0:y=0:w=1080:h=330:color=0x101319@0.84:t=fill,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='One promt+GPT 6.1 Sol+Trippo3d':fontcolor=white:fontsize=37:x=(w-text_w)/2:y=220:shadowx=2:shadowy=2:shadowcolor=black[out]" -map "[out]" -map 0:a? -c:v libx264 -preset medium -crf 19 -pix_fmt yuv420p -movflags +faststart -c:a aac -b:a 128k "$OUTPUT"
+          ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of default=noprint_wrappers=1 "$OUTPUT"
+          mkdir -p images
+          ffmpeg -y -ss 1 -i "$OUTPUT" -frames:v 1 -q:v 2 "images/alpine-ride-shorts-9x16-2026-11-01.jpg"
+      - name: Commit separate Shorts media file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add videos/apps/alpine-ride-shorts-9x16-2026-11-01.mp4 images/alpine-ride-shorts-9x16-2026-11-01.jpg
+          git commit -m "media: render Alpine Ride vertical YouTube Shorts version" || exit 0
+          git push
