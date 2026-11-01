@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Render full-bleed 9x16 crop with three-line typography
+      - name: Render true 9x16 crop with unobstructed two-line headline
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
@@ -21,27 +21,13 @@ jobs:
           POSTER="images/alpine-ride-shorts-cropped-9x16-2026-11-01.jpg"
           test -f "$INPUT"
           mkdir -p images
-          python3 - <<'PY'
-          import struct,zlib
-          w,h=1080,440
-          lines=[]
-          for y in range(h):
-              strength=max(0,1-y/h)
-              alpha=int(188*strength**1.3)
-              lines.append(b'\x00'+bytes((5,9,17,alpha))*w)
-          def chunk(tag,data):
-              return struct.pack('!I',len(data))+tag+data+struct.pack('!I',zlib.crc32(tag+data)&0xffffffff)
-          png=(b'\x89PNG\r\n\x1a\n'+chunk(b'IHDR',struct.pack('!2I5B',w,h,8,6,0,0,0))
-               +chunk(b'IDAT',zlib.compress(b''.join(lines),9))+chunk(b'IEND',b''))
-          open('/tmp/alpine-shorts-title-gradient.png','wb').write(png)
-          PY
-          ffmpeg -y -i "$INPUT" -loop 1 -framerate 30 -i /tmp/alpine-shorts-title-gradient.png -filter_complex "[0:v]scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,crop=1080:1920,setsar=1,format=rgba[main];[main][1:v]overlay=0:0:shortest=1,format=yuv420p,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='One prompt':fontcolor=white:fontsize=58:x=(w-text_w)/2:y=72:shadowx=2:shadowy=3:shadowcolor=black@0.65,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='GPT 6.1 Sol':fontcolor=white:fontsize=82:x=(w-text_w)/2:y=148:shadowx=2:shadowy=3:shadowcolor=black@0.65,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='+ Tripo3D':fontcolor=white:fontsize=72:x=(w-text_w)/2:y=252:shadowx=2:shadowy=3:shadowcolor=black@0.65[out]" -map "[out]" -map 0:a? -c:v libx264 -preset fast -crf 19 -pix_fmt yuv420p -r 30 -movflags +faststart -c:a aac -b:a 128k "$OUTPUT"
+          ffmpeg -y -i "$INPUT" -vf "scale=1080:1920:force_original_aspect_ratio=increase:flags=lanczos,crop=1080:1920,setsar=1,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='One prompt':fontcolor=0x0d2435:fontsize=50:x=(w-text_w)/2:y=22,drawtext=fontfile=/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf:text='GPT 6.1 Sol + Tripo3D':fontcolor=0x0d2435:fontsize=49:x=(w-text_w)/2:y=86" -map 0:v:0 -map 0:a? -c:v libx264 -preset fast -crf 19 -pix_fmt yuv420p -r 30 -movflags +faststart -c:a aac -b:a 128k "$OUTPUT"
           ffprobe -v error -select_streams v:0 -show_entries stream=width,height -of default=noprint_wrappers=1 "$OUTPUT"
           ffmpeg -y -ss 5 -i "$OUTPUT" -frames:v 1 -q:v 2 "$POSTER"
-      - name: Save new vertically cropped Shorts media
+      - name: Save edited Shorts video and poster
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add videos/apps/alpine-ride-shorts-cropped-9x16-2026-11-01.mp4 images/alpine-ride-shorts-cropped-9x16-2026-11-01.jpg
-          git commit -m "media: crop vertical Shorts and adapt three-line typography" || exit 0
+          git commit -m "media: place Shorts headline above app UI" || exit 0
           git push
