@@ -1,0 +1,16 @@
+{
+  "original": {
+    "name": "mars planet 3d model.glb",
+    "libraryFileId": "libfile_f6767e73ddac8191a9c204e26089632c",
+    "bytes": 28437328,
+    "sha256": "e9d237d62389f99a61af85cbbbc55d7ec7a724a436ad9a6bae6a916ac2926f9d",
+    "triangles": 688394
+  },
+  "web": {
+    "name": "mars.glb",
+    "bytes": 4759540,
+    "sha256": "42363291be332b88d4e45fc6ce429a092bc5c52df4afdad54992582ed62b3f38",
+    "triangles": 123910
+  },
+  "processing": "The supplied mesh and its actual texture maps are retained. Mesh simplification preserves the silhouette; image maps are encoded to 2048px WebP for loading performance. No generated substitute sphere."
+}
